@@ -1,0 +1,2448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Вам заборонено користуватися цим сайтом."
+
+msgid "View all my images"
+msgstr "Переглянути всі мої зображення"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Не соромтеся, щоб переглянути всі мої завантажені зображення та альбоми."
+
+msgid "Recent"
+msgstr "Недавні"
+
+msgid "Trending"
+msgstr "Популярні"
+
+msgid "Popular"
+msgstr "Популярні"
+
+msgid "Plugin"
+msgstr "Плаґін"
+
+msgid "Request denied"
+msgstr "У запиті відмовлено"
+
+msgid "That page doesn't exist"
+msgstr "Такої сторінки не існує"
+
+msgid "Forgot password?"
+msgstr "Забули пароль?"
+
+msgid "Reset password"
+msgstr "Скинути пароль"
+
+msgid "Resend account activation"
+msgstr "Повторити відправку посилання для активації"
+
+msgid "Add your email address"
+msgstr "Додати адресу електронної пошти"
+
+msgid "Awaiting confirmation"
+msgstr "В черзі"
+
+msgid "Email changed"
+msgstr "Адреса електронної пошти змінена"
+
+msgid "Invalid Username/Email"
+msgstr "Неправильне ім'я користувача або email"
+
+msgid "User doesn't have an email."
+msgstr "Для цього користувача не задано адресу електронної пошти."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Для використання цієї функції, акаунт повинен бути активований"
+
+msgid "Account already activated"
+msgstr "Акаунт вже активований"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Зачекайте повідомлення хоча б 15 хвилин. Після цього спробуйте ще раз."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Скинути пароль на %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Підтвердження реєстрації на %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Ласкаво просимо на %s"
+
+msgid "Invalid password"
+msgstr "Неправильний пароль"
+
+msgid "Passwords don't match"
+msgstr "Паролі не збігаються"
+
+msgid "Invalid email"
+msgstr "Неправильна адреса електронної пошти"
+
+msgid "Email already being used"
+msgstr "Адреса вже використовується"
+
+msgid "Check the errors in the form to continue."
+msgstr "Перед продовженням перевірте форму на наявність помилок"
+
+msgid "Password required"
+msgstr "Пароль обов'язковий"
+
+msgid "Embed codes"
+msgstr "Коди для вбудовування"
+
+msgid "%a album hosted in %w"
+msgstr "%a альбом розміщений в %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "зображення"
+msgstr[1] "зображень"
+msgstr[2] "зображень"
+
+msgid "Stats"
+msgstr "Статистика"
+
+msgid "Images"
+msgstr "Зображення"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Альбом"
+msgstr[1] "Альбоми"
+msgstr[2] "Альбомів"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Користувача"
+msgstr[1] "Користувачів"
+msgstr[2] "Користувачів"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Content"
+msgstr "Зміст"
+
+msgid "Listings"
+msgstr "Списки"
+
+msgid "Image upload"
+msgstr "Завантаження зображення"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Languages"
+msgstr "Мови"
+
+msgid "Email"
+msgstr "Електронна пошта"
+
+msgid "Tools"
+msgstr "Інструменти"
+
+msgid "External storage"
+msgstr "Зовнішнє сховище"
+
+msgid "Homepage"
+msgstr "Головна сторінка"
+
+msgid "Pages"
+msgstr "Сторінки"
+
+msgid "Routing"
+msgstr "Маршрутизація"
+
+msgid "External services"
+msgstr "Сторонні сервіси"
+
+msgid "Upload plugin"
+msgstr "Завантажити плагін"
+
+msgid "Consent screen"
+msgstr "Екран угоди"
+
+msgid "Flood protection"
+msgstr "Захист від флуду"
+
+msgid "Banners"
+msgstr "Банери"
+
+msgid "IP bans"
+msgstr "IP блокування"
+
+msgid "Watermarks"
+msgstr "Водяні знаки"
+
+msgid "Documentation"
+msgstr "Документація"
+
+msgid "Support"
+msgstr "Підтримка"
+
+msgid "Community"
+msgstr "Спільнота"
+
+msgid "install update"
+msgstr "Інсталювати оновлення"
+
+msgid "Max. upload file size"
+msgstr "Макс. розмір файлу що завантажується"
+
+msgid "Not your IP?"
+msgstr "Не ваш IP?"
+
+msgid "PHP version"
+msgstr "Версія PHP"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "MySQL version"
+msgstr "Версія MySQL"
+
+msgid "MySQL server info"
+msgstr "Інформація про сервер MySQL"
+
+msgid "File uploads"
+msgstr "Завантаження файлів"
+
+msgid "Enabled"
+msgstr "Увімк."
+
+msgid "Disabled"
+msgstr "Вимк."
+
+msgid "Max. execution time"
+msgstr "Макс. час виконання"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d секунд"
+msgstr[1] "%d секунди"
+msgstr[2] "%d секунди"
+
+msgid "Memory limit"
+msgstr "Обмеження пам'яті"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Не вдалося видалити всі зображення обкладинки домашньої сторінки"
+
+msgid "Homepage cover image deleted"
+msgstr "Зображення обкладинки домашньої сторінки видалено"
+
+msgid "Local"
+msgstr "Локальне"
+
+msgid "External"
+msgstr "Зовнішнє"
+
+msgid "All"
+msgstr "Всі"
+
+msgid "search content"
+msgstr "пошук вмісту"
+
+msgid "Add page"
+msgstr "Додати сторінку"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Відредагувати сторінку ID %s"
+
+msgid "The page has been added successfully."
+msgstr "Ця сторінка була успішно додана"
+
+msgid "The page has been deleted."
+msgstr "Ця сторінка видалена"
+
+msgid "homepage"
+msgstr "домашня сторінка"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "Перед основним заголовком (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "Після заклику до дії (%s)"
+
+msgid "Before pagination"
+msgstr "Перед роздільником сторінок"
+
+msgid "After pagination"
+msgstr "Після роздільник сторінок"
+
+msgid "Content (image and album)"
+msgstr "Вміст (зображення та альбоми)"
+
+msgid "Tab about column"
+msgstr "Вкладка про зображення"
+
+msgid "Before comments"
+msgstr "Перед коментарями"
+
+msgid "Image page"
+msgstr "Сторінка зображення"
+
+msgid "Inside viewer top (image page)"
+msgstr "У заголовку переглядача (сторінка зображення)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "Внизу переглядача (сторінка зображення)"
+
+msgid "After image viewer (image page)"
+msgstr "Після зображення (сторінка зображення)"
+
+msgid "Before header (image page)"
+msgstr "Перед заголовком (сторінка зображення)"
+
+msgid "After header (image page)"
+msgstr "Після заголовка (сторінка зображення)"
+
+msgid "Footer (image page)"
+msgstr "Нижній колонтитул (сторінка зображення)"
+
+msgid "User profile page"
+msgstr "Профіль користувача"
+
+msgid "After top (user profile)"
+msgstr "Після заголовка (профіль користувача)"
+
+msgid "Before listing (user profile)"
+msgstr "Перед списком зображень (профіль користувача)"
+
+msgid "Explore"
+msgstr "Огляд"
+
+msgid "Invalid website name"
+msgstr "Некоректна назва сайту"
+
+msgid "Invalid language"
+msgstr "Неправильна мова"
+
+msgid "Invalid timezone"
+msgstr "Неправильний часовий пояс"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "Некоректне значення: %s"
+
+msgid "Invalid upload storage mode"
+msgstr "Неправильний спосіб зберігання файлів."
+
+msgid "Invalid upload filenaming"
+msgstr "Неправильний метод зберігання імен файлів"
+
+msgid "Invalid thumb width"
+msgstr "Неправильна ширина мініатюри"
+
+msgid "Invalid thumb height"
+msgstr "Неправильна висота мініатюри"
+
+msgid "Invalid medium size"
+msgstr "Неправильний середній розмір"
+
+msgid "Invalid watermark percentage"
+msgstr "Неправильний відсоток водяного знаку"
+
+msgid "Invalid watermark opacity"
+msgstr "Неправильна прозорість водяного знаку"
+
+msgid "Invalid theme"
+msgstr "Неправильний стиль"
+
+msgid "Invalid value"
+msgstr "Некоректне значення"
+
+msgid "Invalid theme image listing size"
+msgstr "Неправильний розмір зображення для списків"
+
+msgid "Invalid user id"
+msgstr "Неправильний ідентифікатор користувача"
+
+msgid "Invalid email mode"
+msgstr "Неправильний режим електронної пошти"
+
+msgid "Invalid SMTP port"
+msgstr "Неправильний SMTP порт"
+
+msgid "Invalid SMTP security"
+msgstr "Неправильні налаштування безпеки SMTP сервера"
+
+msgid "Invalid website mode"
+msgstr "Неправильний режим веб-сайту"
+
+msgid "Invalid personal mode user ID"
+msgstr "Неправильний персональний режим користувача з ідентифікатором"
+
+msgid "Invalid or reserved route"
+msgstr "Неправильний або зарезервований шлях"
+
+msgid "Invalid website privacy mode"
+msgstr "Неправильний режим конфіденційності сайту"
+
+msgid "Invalid website content privacy mode"
+msgstr "Неправильний режим видимості вмісту"
+
+msgid "Invalid homepage style"
+msgstr "Неправильний стиль домашньої сторінки"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Неправильний колір кнопки виклику домашньої сторінки"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Неправильний виклик дії"
+
+msgid "Invalid title"
+msgstr "Неправильна назва"
+
+msgid "Invalid status"
+msgstr "Неправильний статус"
+
+msgid "Invalid type"
+msgstr "Неправильний тип"
+
+msgid "Invalid visibility"
+msgstr "Неправильна видимість"
+
+msgid "Invalid target attribute"
+msgstr "Неправильний атрибут target"
+
+msgid "Invalid rel attribute"
+msgstr "Неправильний атрибут rel"
+
+msgid "Invalid icon"
+msgstr "Неправильнf іконка"
+
+msgid "Invalid URL key"
+msgstr "Неправильний ключ посилання"
+
+msgid "Invalid file path"
+msgstr "Неправильний шлях до файлу"
+
+msgid "Invalid link URL"
+msgstr "Неправильне посилання URL"
+
+msgid "Invalid user minimum age"
+msgstr "Неправильний мінімальний вік користувача"
+
+msgid "Invalid URL"
+msgstr "Неправильне посилання"
+
+msgid "Invalid key"
+msgstr "Неправильний ключ"
+
+msgid "Invalid upload image path"
+msgstr "Неправильна папка завантаження зображень"
+
+msgid "Invalid call to action URL"
+msgstr "Неправильна дія для посилання"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Макс. дозволено %s"
+
+msgid "Invalid SMTP server"
+msgstr "Неправильний SMTP сервер"
+
+msgid "Invalid SMTP username"
+msgstr "Неправильне SMTP ім'я"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "Це посилання вже використовується іншою сторінкою (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Цей шлях вже використовується іншою сторінкою (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Не можливо зберегти вміст сторінки: %s."
+
+msgid "Dashboard"
+msgstr "Панель керування"
+
+msgid "Following"
+msgstr "Слідувати"
+
+msgid "About"
+msgstr "Інформація"
+
+msgid "Image ID"
+msgstr "ID зображення"
+
+msgid "Upload date"
+msgstr "Дата завантаження"
+
+msgid "Image %i in %a album"
+msgstr "Картинка %i в %a альбомі"
+
+msgid "Image %i in %c category"
+msgstr "Картинка %i в %c категорії"
+
+msgid "Image %i hosted in %w"
+msgstr "Картинка %i розміщена в %w"
+
+msgid "Direct links"
+msgstr "Прямі посилання"
+
+msgid "Image link"
+msgstr "Посилання "
+
+msgid "Image URL"
+msgstr "Пряме посилання"
+
+msgid "Thumbnail URL"
+msgstr "Мініатюра"
+
+msgid "Medium URL"
+msgstr "Середній розмір"
+
+msgid "Full image"
+msgstr "Повне зображення"
+
+msgid "Full image (linked)"
+msgstr "Повне зображення (посилання)"
+
+msgid "Medium image (linked)"
+msgstr "Середнє зображення (посилання)"
+
+msgid "Thumbnail image (linked)"
+msgstr "Мініатюрне зображення (посилання)"
+
+msgid "Start uploading"
+msgstr "Почати завантаження"
+
+msgid "Login needed"
+msgstr "Необхідний вхід"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Зображення"
+msgstr[1] "Зображень"
+msgstr[2] "Зображень"
+
+msgid "Category"
+msgstr "Категорія"
+
+msgid "IP address already banned"
+msgstr "IP адреса вже заблокована"
+
+msgid "Missing values"
+msgstr "Відсутні значення"
+
+msgid "Invalid username"
+msgstr "Неправильне ім'я користувача"
+
+msgid "Invalid role"
+msgstr "Неправильна роль"
+
+msgid "Username already being used"
+msgstr "Користувач з таким ім'ям вже існує."
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "Додайте пароль або інакше соц. підключення перед видаленням %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "Додати електронну пошту або інше соц. підключення перед видаленням %s"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s вимкнено."
+
+msgid "Test email from %s @ %t"
+msgstr "Тестовий лист від %s @ %t"
+
+msgid "This is just a test"
+msgstr "Це всього лише тестове повідомлення"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Тестове повідомлення надіслано %s."
+
+msgid "Content liked"
+msgstr "Вміст сподобався"
+
+msgid "Content disliked"
+msgstr "Вміст не сподобався"
+
+msgid "%u liked your %t %c"
+msgstr "%u сподобалася ваша %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u тепер стежить за вами"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Неправильне ім'я користувача або пароль"
+
+msgid "Sign in"
+msgstr "Вхід"
+
+msgid "Upload images"
+msgstr "Завантажити зображення"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Account"
+msgstr "Акаунт"
+
+msgid "Profile"
+msgstr "Профіль"
+
+msgid "Password"
+msgstr "Пароль"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "На %s було надіслано повідомлення з інструкціями щодо активації"
+
+msgid "Invalid name"
+msgstr "Неправильне ім'я"
+
+msgid "Invalid website"
+msgstr "Неправильний веб-сайт"
+
+msgid "Spam detected"
+msgstr "Виявлено спам"
+
+msgid "Wrong password"
+msgstr "Неправильний пароль"
+
+msgid "Use a new password"
+msgstr "Використайте новий пароль"
+
+msgid "Changes have been saved."
+msgstr "Зміни збережені."
+
+msgid "Password has been changed"
+msgstr "Пароль успішно змінений"
+
+msgid "Password has been created."
+msgstr "Пароль успішно створений."
+
+msgid "Wrong Username/Email values"
+msgstr "Неправильне ім'я користувача або email"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Налаштування %s"
+
+msgid "Username"
+msgstr "Ім'я користувача"
+
+msgid "Delete user"
+msgstr "Видалити користувача"
+
+msgid "User ID"
+msgstr "ID користувача"
+
+msgid "Register date"
+msgstr "Дата реєстрації"
+
+msgid "Create account"
+msgstr "Створити обліковий запис"
+
+msgid "Upload"
+msgstr "Завантаження"
+
+msgid "Albums"
+msgstr "Альбоми"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "Сподобалось %s"
+
+msgid "Liked"
+msgstr "Сподобалось"
+
+msgid "Followers"
+msgstr "Стежать"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) альбомів в %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) в %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "альбом"
+msgstr[1] "альбомів"
+msgstr[2] "альбомів"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Примітка. Цей вміст є приватним, але кожен, хто має посилання, зможе це бачити."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Примітка. Цей вміст захищений паролем. Не забувайте передавати пароль для доступу до вмісту."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Примітка. Цей вміст є приватним. Змініть конфіденційність на «публічний», щоб поділитися."
+
+msgid "Private"
+msgstr "Приватний"
+
+msgid "Public"
+msgstr "Публічне"
+
+msgid "Me"
+msgstr "Я"
+
+msgid "Link"
+msgstr "Посилання"
+
+msgid "After %n %t"
+msgstr "Після  %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "хвилина"
+msgstr[1] "хвилин"
+msgstr[2] "хвилин"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "година"
+msgstr[1] "годин"
+msgstr[2] "годин"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "день"
+msgstr[1] "днів"
+msgstr[2] "днів"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "тиждень"
+msgstr[1] "тижнів"
+msgstr[2] "тижнів"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "місяць"
+msgstr[1] "місяців"
+msgstr[2] "місяців"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "рік"
+msgstr[1] "років"
+msgstr[2] "років"
+
+msgid "Don't autodelete"
+msgstr "Не видаляти автоматично"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "Неможливо відкрити %s для запису"
+
+msgid "Duplicated upload"
+msgstr "Подвійне завантаження"
+
+msgid "Private upload"
+msgstr "Приватне завантаження"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "перегляд"
+msgstr[1] "перегляда"
+msgstr[2] "переглядів"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "Подобається"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "Most recent"
+msgstr "Нові"
+
+msgid "Oldest"
+msgstr "Старі"
+
+msgid "Most viewed"
+msgstr "Найпопулярніші"
+
+msgid "Most liked"
+msgstr "Найбільш сподобались"
+
+msgid "People"
+msgstr "Люди"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Неможливо створити %s папку у призначеному місці"
+
+msgid "Internal"
+msgstr "Внутрішній"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Ємність не може бути нижчою, ніж його поточне використання (%s)."
+
+msgid "Unlimited"
+msgstr "Необмежений"
+
+msgid "used"
+msgstr "використано"
+
+msgid "Private profile"
+msgstr "Прихований профіль"
+
+msgid "Share"
+msgstr "Поділитися"
+
+#, php-format
+msgid "view on %s"
+msgstr "перегляд на %s"
+
+msgid "I understand"
+msgstr "Я розумію"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "секунда"
+msgstr[1] "секунд"
+msgstr[2] "секунд"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s тому"
+
+msgid "moments ago"
+msgstr "хвилин тому"
+
+msgid "Random"
+msgstr "Випадкове"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Advanced search"
+msgstr "Розширений пошук"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Повідомлення (%s)"
+
+msgid "Notifications"
+msgstr "Повідомлення"
+
+msgid "loading"
+msgstr "Завантаження"
+
+msgid "You don't have notifications"
+msgstr "У Вас немає повідомлень"
+
+msgid "My Profile"
+msgstr "Мій профіль"
+
+msgid "Administrator"
+msgstr "Адміністратор"
+
+msgid "Sign out"
+msgstr "Вийти"
+
+msgid "You must enter the album name."
+msgstr "Ви повинні ввести назву альбому."
+
+msgid "Confirm"
+msgstr "Підтвердити"
+
+msgid "Select existing album"
+msgstr "Виберіть існуючий альбом"
+
+msgid "An error occurred. Please try again later."
+msgstr "У процесі виконання сталася помилка. Будь ласка спробуйте пізніше."
+
+msgid "Please select a valid image file type."
+msgstr "Будь ласка виберіть правильний формат зображення."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Будь ласка, виберіть зображення не більше %s розміром."
+
+msgid "Profile image updated."
+msgstr "Зображення профілю оновлено."
+
+msgid "Profile background image updated."
+msgstr "Фон профілю оновлений."
+
+msgid "Profile background image deleted."
+msgstr "Фон профілю видалений."
+
+msgid "Error deleting profile background image."
+msgstr "При видаленні фону профілю виникла помилка."
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "Поновлення доступне v%s"
+
+msgid "Like"
+msgstr "Сподобалось"
+
+msgid "Create album"
+msgstr "створити альбом"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Previous"
+msgstr "Попередня"
+
+msgid "Next"
+msgstr "Наступна"
+
+msgid "File too big."
+msgstr "Файл занадто великий."
+
+msgid "Invalid or unsupported file format."
+msgstr "Невірний або підтримуваний формат файлу."
+
+msgid "Some files couldn't be added"
+msgstr "Деякі файли не були додані."
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%s Альбомів"
+
+msgid "Image edited successfully."
+msgstr "Зображення успішно змінене."
+
+msgid "private"
+msgstr "приховане"
+
+msgid "The content has been edited."
+msgstr "Вміст змінено."
+
+msgid "Invalid URL key."
+msgstr "Невірний URL ключ."
+
+msgid "Category URL key already being used."
+msgstr "Такий URL ключ вже використовується."
+
+msgid "Category successfully deleted."
+msgstr "Категорія вилучена."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "Категорія %s додана."
+
+msgid "Invalid expiration date."
+msgstr "Неправильна дата закінчення терміну дії."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP адреса %s вже заблокована"
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP %s вже заблокована."
+
+msgid "IP ban successfully deleted."
+msgstr "Блокування IP адреси успішно видалено."
+
+msgid "Please fill all the required fields."
+msgstr "Будь ласка заповніть всі необхідні поля."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Невірне значення доступного дискового простору. Переконайтеся, що ви використовуєте допустимий формат."
+
+msgid "Invalid URL."
+msgstr "Неправильна адреса."
+
+msgid "Storage successfully edited."
+msgstr "Сховище змінено."
+
+msgid "The content has been deleted."
+msgstr "Вміст видалено."
+
+msgid "The content has been moved."
+msgstr "Вміст переміщено."
+
+msgid "Select"
+msgstr "Виділити"
+
+msgid "Unselect"
+msgstr "Зняти виділення"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Якщо ви продовжите, всі зроблені вами зміни будуть втрачені."
+
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+msgid "Submit"
+msgstr "Надіслати"
+
+msgid "Changes saved successfully."
+msgstr "Зміни успішно збережені."
+
+msgid "Go back to form"
+msgstr "Повернуться до форми"
+
+msgid "or"
+msgstr "або"
+
+msgid "continue anyway"
+msgstr "все одно продовжити"
+
+msgid "cancel"
+msgstr "скасувати"
+
+msgid "Saving"
+msgstr "збереження"
+
+msgid "Sending"
+msgstr "Відправка"
+
+msgid "Confirm action"
+msgstr "Підтвердіть дію"
+
+msgid "information"
+msgstr "інформація"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Ми отримали запит на зміну адреси електронної пошти для вашого облікового запису <a href=\"%u\">%n</a> на %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Щоб завершити процес, ви повинні <a href=\"%s\">активувати</a> свою електронну пошту ."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Також ви можете скопіювати цю адресу і вставити її у вікно браузера: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Якщо ви не робили цього, просто ігноруйте це повідомлення."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "IP-адресу, з якої було зроблено запит:%s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Ми отримали запит на реєстрацію акаунта %n на %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Щоб завершити цю дію ви повинні <a href=\"%s\">активувати свій акаунт</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Ми отримали запит на скидання пароля вашого акаунта <a href=\"%u\">%n</a>."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Щоб скинути пароль, <a href=\"%s\">перейдіть за цим посиланням</a>"
+
+msgid "Hi %n, welcome to %w"
+msgstr "Привіт, %n. Ласкаво просимо на %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Тепер, коли реєстрація завершена, ви можете насолоджуватися завантаженням зображень, створенням альбомів, зміною налаштувань видимості вмісту, а також багатьма іншими перевагами."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "До речі, ваша особиста сторінка розташована за адресою: <a href=\"%u\">%n</a>. Ви можете налаштувати її за своїм смаком. Вона ваша!"
+
+msgid "Thank you for joining"
+msgstr "Спасибі за те, що ви з нами"
+
+msgid "This email was sent from %w %u"
+msgstr "Це повідомлення було надіслане з %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "Перетягніть або вставте зображення тут для відвантаження"
+
+msgid "Select the images to upload"
+msgstr "Виберіть зображення для відвантаження"
+
+msgid "complete"
+msgstr "завершено"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "Завантажується черга зображень. Це може зайняти деякий час."
+
+msgid "Upload complete"
+msgstr "Завантаження завершено"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Помітити це зображення як невідповідне для сімейного перегляду"
+
+msgid "Not family safe upload"
+msgstr "Небезпечний вміст"
+
+msgid "Uploading"
+msgstr "Завантажується"
+
+msgid "cancel remaining"
+msgstr "скасувати решту"
+
+msgid "learn more"
+msgstr "детальніше"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Перевірте <a data-modal=\"simple\" data-target=\"failed-upload-result\">звіт про помилки</a> для отримання більш докладної інформації."
+
+msgid "reset"
+msgstr "скинути"
+
+msgid "copy"
+msgstr "копіювати"
+
+msgid "insert"
+msgstr "вставити"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "optional"
+msgstr "Не обов'язково"
+
+msgid "Resize image"
+msgstr "Змінити розмір зображення"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Висота"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "Примітка: Анімовані GIF зображення не можуть міняти розмір"
+
+msgid "Mark this if the image is not family safe"
+msgstr "Помітити це зображення як небезпечне"
+
+msgid "Flag as unsafe"
+msgstr "Помітити як небезпечне"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Add image URLs"
+msgstr "Додайте посилання на зображення"
+
+msgid "Add the image URLs here"
+msgstr "Додайте сюди посилання на зображення"
+
+msgid "Error report"
+msgstr "Звіт про помилки"
+
+msgid "Links"
+msgstr "Посилання"
+
+msgid "Direct"
+msgstr "Прямий"
+
+msgid "HTML Codes"
+msgstr "HTML коди"
+
+msgid "HTML image"
+msgstr "HTML зображення"
+
+msgid "HTML full linked"
+msgstr "HTML код оригіналу з посиланням"
+
+msgid "HTML medium linked"
+msgstr "HTML середнього розміру з посиланням"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML код мініатюри з посиланням"
+
+msgid "BBCodes"
+msgstr "BB-коди"
+
+msgid "BBCode full"
+msgstr "BB-код оригіналу з посиланням"
+
+msgid "BBCode full linked"
+msgstr "BB-код оригіналу з посиланням"
+
+msgid "BBCode medium linked"
+msgstr "BB-код середнього розміру з посиланням"
+
+msgid "BBCode thumbnail linked"
+msgstr "BB-код мініатюри з посиланням"
+
+msgid "Markdown full"
+msgstr "Розмітка повна"
+
+msgid "Markdown full linked"
+msgstr "Розмітка повна посилання"
+
+msgid "Markdown medium linked"
+msgstr "Розмітка середня посилання"
+
+msgid "Markdown thumbnail linked"
+msgstr "Розмітка мініатюрами посилання"
+
+msgid "Viewer links"
+msgstr "Посилання на перегляд"
+
+msgid "All these words"
+msgstr "Зі словами"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Введіть ключові слова: слава україні героям слава"
+
+msgid "This exact word or phrase"
+msgstr "Зі словосполученням"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Укладіть словосполучення в лапки: \"слава україні\""
+
+msgid "None of these words"
+msgstr "Без слів"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Поставте знак мінуса перед словами: -колір - \"український той\""
+
+msgid "Storage"
+msgstr "Сховище"
+
+msgid "IP address"
+msgstr "IP адреса"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "Who can view this content"
+msgstr "Хто може переглядати цей контент"
+
+msgid "Private (just me)"
+msgstr "Приховане (тільки я)"
+
+msgid "Private (anyone with the link)"
+msgstr "Приховане (тільки за посиланням)"
+
+msgid "Private (password protected)"
+msgstr "Приватний (виявлено пароль)"
+
+msgid "URL key"
+msgstr "Ключ для посилання"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Тільки букви, цифри та дефіси"
+
+msgid "Path"
+msgstr "Шлях"
+
+msgid "Expiration date"
+msgstr "Дата закінчення"
+
+msgid "Example"
+msgstr "Приклад"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "До якого часу ця IP-адреса буде заблокована? Залиште його порожнім для безтермінового блокування."
+
+msgid "Message"
+msgstr "Повідомлення"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Текстове повідомлення, HTML або перенаправлення URL"
+
+msgid "Storage name"
+msgstr "Назва сховища"
+
+msgid "Region"
+msgstr "Регіон"
+
+msgid "Storage region"
+msgstr "Регіон сховища"
+
+msgid "Storage bucket"
+msgstr "Корзина сховища"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Storage key"
+msgstr "Ключ сховища"
+
+msgid "Secret"
+msgstr "Секретний ключ"
+
+msgid "Storage secret"
+msgstr "Секретний ключ сховища"
+
+msgid "Private key"
+msgstr "Приватний ключ"
+
+msgid "Google Cloud JSON key"
+msgstr "Google Cloud JSON ключ"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Вам потрібно <a %s>обліковий запис служби</a> для цього"
+
+msgid "Identity URL"
+msgstr "Ідентичне посилання"
+
+msgid "Identity API endpoint"
+msgstr "Ідентична кінцева точка API"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "Кінцева точка API для ідентифікації в OpenStack"
+
+msgid "Container"
+msgstr "Контейнер"
+
+msgid "Storage container"
+msgstr "Сховище контейнера"
+
+msgid "Tenant id"
+msgstr "Орендар ID"
+
+msgid "Tenant id (account id)"
+msgstr "Орендар ID (акаунт ID)"
+
+msgid "Tenant name"
+msgstr "Ім'я орендара"
+
+msgid "Tenant name (account name)"
+msgstr "Орендар ім'я (ім'я облікового запису)"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Адреса або IP сервера"
+
+msgid "Server path"
+msgstr "Шлях"
+
+msgid "Server password"
+msgstr "Пароль"
+
+msgid "Storage capacity"
+msgstr "Доступний простір"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Наприклад 20 GB, 1 TB і т. д."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "Сховище буде відключився при досягненні цього ліміту. Залиште поле порожнім або вкажіть нуль для відключення ліміту."
+
+msgid "Storage URL"
+msgstr "Адреса сховища"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "Система буде використовувати дану адресу при формуванні посилань на зображення з цього сховища."
+
+msgid "view more"
+msgstr "показати ще"
+
+msgid "Load more"
+msgstr "Завантажити ще"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Get embed codes"
+msgstr "Отримати коди для вбудовування"
+
+msgid "Flag as safe"
+msgstr "Помітити як безпечне"
+
+msgid "Select all"
+msgstr "виділити все"
+
+msgid "Clear selection"
+msgstr "Зняти виділення"
+
+msgid "Sign in with another account"
+msgstr "Увійти через"
+
+msgid "There's nothing to show here."
+msgstr "Немає елементів для відображення."
+
+msgid "There is no categories."
+msgstr "Категорії не задані."
+
+msgid "Confirm flag content as safe"
+msgstr "Підтвердити позначку вмісту як безпечний"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Ви дійсно хочете помітити це вміст як безпечний?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Підтвердити позначку вмісту як небезпечний"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Ви дійсно хочете помітити це вміст як небезпечний?"
+
+msgid "Confirm deletion"
+msgstr "Підтвердіть видалення"
+
+msgid "Guest"
+msgstr "Гість"
+
+msgid "Private album"
+msgstr "Приватний альбом"
+
+msgid "Toggle unsafe flag"
+msgstr "Переключити в небезпечне"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "У вас немає прав на доступ до даної сторінки або посилання застаріло."
+
+msgid "Go to homepage"
+msgstr "Головна"
+
+msgid "The requested page was not found."
+msgstr "Сторінку не знайдено"
+
+msgid "The user has been deleted"
+msgstr "Користувач видалений"
+
+msgid "Your account is almost ready"
+msgstr "Ваш обліковий запис майже готовий"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Інструкції з активації вашого аккаунта були відправлені на %s. Посилання для активації дійсне протягом 48 годин. Якщо ви не отримали повідомлення перевірте папку Спам."
+
+msgid "Resend activation"
+msgstr "Повторити відправку посилання для активації"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Ви успішно поміняли адресу електронної пошти на %s"
+
+msgid "Go to my profile"
+msgstr "Перейти на мою сторінку"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "На вашу адресу буде надіслане посилання для активації облікового запису."
+
+msgid "Your email address"
+msgstr "Ваша адреса електронної пошти"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Інструкції по скиданню паролю були надіслані на вашу адресу. Якщо ви їх не отримали, перевірте папку Спам."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "Вам вже було надіслано повідомлення з інструкціями щодо скидання пароля. Якщо ви не отримали повідомлення, перевірте папку Спам."
+
+msgid "Resend instructions"
+msgstr "Повторити відправку інструкцій"
+
+msgid "Username or Email address"
+msgstr "Ім'я користувача або Email"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Пароль успішно змінений. Ви можете увійти використовуючи ваш новий пароль."
+
+msgid "Login now"
+msgstr "Увійти зараз"
+
+msgid "Enter your new password"
+msgstr "Введіть ваш новий пароль"
+
+#, php-format
+msgid "%d characters min"
+msgstr "мін. %d символів"
+
+msgid "Re-enter your new password"
+msgstr "Підтвердіть новий пароль"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Інструкції по активації облікового запису були відправлені на %s . Якщо ви не отримали повідомлення, перевірте папку Спам."
+
+msgid "You like this"
+msgstr "Вам подобається це"
+
+msgid "This content is private"
+msgstr "Цей контент приватний"
+
+msgid "I Agree"
+msgstr "Я погоджуюся"
+
+msgid "Check the errors to proceed."
+msgstr "Перед тим як продовжити, перевірте правильність заповнення."
+
+msgid "Working"
+msgstr "Працює"
+
+msgid "Paused"
+msgstr "Призупинено"
+
+msgid "Canceled"
+msgstr "Скасовано"
+
+msgid "Completed"
+msgstr "Завершено"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Errors"
+msgstr "Помилки"
+
+msgid "Reset"
+msgstr "Скинути"
+
+msgid "Resume"
+msgstr "Відновити"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Show not safe content in listings"
+msgstr "Показувати небезпечний зміст"
+
+msgid "Blur NSFW content in listings"
+msgstr "Робити не чітким NSFW контент в списку"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "Включіть це, якщо хочете використовувати розмите зображення для NSFW контенту в списку"
+
+msgid "Show not safe content in random mode"
+msgstr "Показувати небезпечне зміст в режимі випадкового зображення"
+
+msgid "Show banners in not safe content"
+msgstr "Показувати банери на сторінках з небезпечним змістом."
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "Увімкніть, якщо ви хочете показувати банери на сторінках з небезпечним змістом."
+
+msgid "Cookie law compliance"
+msgstr "Дотримання правил куків"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Цей параметр використовується для відображення повідомлення, що відповідає вимогам законодавства ЄС про куки. Примітка: Вам потрібно тільки це, якщо ваш сайт розміщений в ЄС, і якщо ви додали відстеження куків."
+
+msgid "From name"
+msgstr "Відправник"
+
+msgid "Sender name for emails sent to users."
+msgstr "Ім'я відправника для розсилки повідомлень користувачам."
+
+msgid "From email address"
+msgstr "Адреса відправника"
+
+msgid "Sender email for emails sent to users."
+msgstr "Адреса відправника для розсилки повідомлень користувачам."
+
+msgid "Incoming email address"
+msgstr "Адреса для вхідних повідомлень"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Адреса для форми зворотного зв'язку і системних повідомлень."
+
+msgid "Email mode"
+msgstr "Режим електронної пошти"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Як відправляти повідомлення? Рекомендується використовувати SMTP."
+
+msgid "SMTP server and port"
+msgstr "SMTP сервер та порт"
+
+msgid "SMTP server"
+msgstr "SMTP сервер"
+
+msgid "SMTP username"
+msgstr "Ім'я користувача SMTP"
+
+msgid "SMTP password"
+msgstr "Пароль SMTP"
+
+msgid "SMTP security"
+msgstr "Безпека SMTP"
+
+msgid "Unsecured"
+msgstr "Небезпечний"
+
+msgid "Comment code"
+msgstr "Код для системи коментарів"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook або будь-яка система на ваш вибір. Вона буде використана при перегляді зображення."
+
+msgid "Analytics code"
+msgstr "Код для збору статистики"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics або система збору статистики на ваш вибір. Цей код буде додано до \"підвал\" теми."
+
+msgid "Twitter account"
+msgstr "Акаунт в Twitter"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Змініть цю настройку щоб включити або відключити HTTPS"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "Змініть цю настройку щоб включити або відключити це сховище"
+
+msgid "Quota"
+msgstr "Квота"
+
+msgid "Active"
+msgstr "Активне"
+
+msgid "Storage method"
+msgstr "Тип сховища"
+
+msgid "Disk used"
+msgstr "Використано місця на диску"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Локальне сховище використовується за замовчуванням або за відсутності активних зовнішніх сховищ."
+
+msgid "Notify to email"
+msgstr "Повідомити електронною поштою"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "При включенні цієї опції, система буде повідомляти про флуд-атаках поштою."
+
+msgid "Minute limit"
+msgstr "Завантаження за хвилину"
+
+msgid "Hourly limit"
+msgstr "Завантаження за годину"
+
+msgid "Daily limit"
+msgstr "Завантаження за день"
+
+msgid "Weekly limit"
+msgstr "Завантаження за тиждень"
+
+msgid "Monthly limit"
+msgstr "Завантаження за місяць"
+
+msgid "Style"
+msgstr "Стиль"
+
+msgid "Landing page"
+msgstr "Стартова сторінка"
+
+msgid "Split landing + images"
+msgstr "Стартова сторінка + зображення"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "Виберіть стиль головної сторінки. Щоб налаштувати його відредагуйте app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "Зображення обкладинки"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "Це буде додано в середину домашньої сторінки %s як тег. Залиште поле пустим, якщо ви хочете використати дані по-замовчуванню"
+
+msgid "Paragraph"
+msgstr "Пункт"
+
+msgid "Call to action button color"
+msgstr "Колір кнопки дії"
+
+msgid "Blue"
+msgstr "Синій"
+
+msgid "Green"
+msgstr "Зелений"
+
+msgid "Orange"
+msgstr "Помаранчевий"
+
+msgid "Red"
+msgstr "Червоний"
+
+msgid "Grey"
+msgstr "Сірий"
+
+msgid "Black"
+msgstr "Чорний"
+
+msgid "White"
+msgstr "Білий"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Color of the homepage call to action button."
+msgstr "Колір кнопки переходу на домашню сторінку"
+
+msgid "Call to action outline style button"
+msgstr "Контур кнопки для дії"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "Включіть це, щоб використовувати стиль обведення кнопки загрузки на стартовій сторінці."
+
+msgid "Call to action functionality"
+msgstr "Заклик до дії"
+
+msgid "Trigger uploader"
+msgstr "Трігери завантаження"
+
+msgid "Open URL"
+msgstr "Відкрити посилання"
+
+msgid "Call to action URL"
+msgstr "Дія для посилання"
+
+msgid "Enter an absolute or relative URL"
+msgstr "Введіть абсолютне або відносне посилання"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "Відносне посилання як %r буде відображено в %l"
+
+msgid "Call to action HTML"
+msgstr "Дія для HTML"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "Це буде додано в дію для тега <a>. Залиште це поле порожнім, щоб використовувати вміст за замовчуванням."
+
+msgid "User IDs"
+msgstr "ID користувача"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Ваш id користувача: %s"
+
+msgid "Enable uploads"
+msgstr "Включити завантаження"
+
+msgid "Guest uploads"
+msgstr "Гостьові завантаження"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Увімкніть цю опцію, якщо хочете дозволити завантажувати зображення незареєстрованим користувачам."
+
+msgid "Enable embed codes (uploader)"
+msgstr "Коди для вбудовування (у завантажувачі)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Ввімкніть цю опцію, якщо ви хочете показувати коди для вбудовування після завершення завантаження."
+
+msgid "Enable expirable uploads"
+msgstr "Включити автовидалення для завантажень"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Включіть це якщо ви хочете щоб були завантаження з автоматичним видалення зображень"
+
+msgid "Image Exif data"
+msgstr "Exif дані зображення"
+
+msgid "Keep"
+msgstr "Тримати"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Виберіть налаштування для зображення <a %s>Exif дані</a> при загрузці"
+
+msgid "Image Exif data (user setting)"
+msgstr "Exif дані зображення (налаштування)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Включити, якщо ви хочете, щоб кожен користувач для налаштування зображення даних Exif були оброблені."
+
+msgid "guests"
+msgstr "гості"
+
+msgid "Image path"
+msgstr "Шлях до зображень"
+
+msgid "Relative to Chevereto root"
+msgstr "Відносно шляху до Chevereto"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Де зберігати зображення? Щодо шляху до Chevereto."
+
+msgid "Storage mode"
+msgstr "Режим зберігання"
+
+msgid "Datefolders"
+msgstr "Папки по датах"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "\"Папки по датах\" створює структуру виду %s"
+
+msgid "File naming method"
+msgstr "Назви файлів"
+
+msgid "Original"
+msgstr "Оригінал"
+
+msgid "Mix original + random"
+msgstr "Змішане оригінал + випадкове"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "\"Оригінал\" намагатиметься зберегти ім'я джерела зображення, а \"Випадкова\" буде генерувати випадкове ім'я. \"ID\" назве зображення так само, як зображення ID."
+
+msgid "Thumb size"
+msgstr "Розмір мініатюри"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Мініатюра буде обмежена цим розміром."
+
+msgid "Medium image fixed dimension"
+msgstr "Середній розмір зображення фіксований"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "Середні зображення будуть фіксовані до цього розміру. Для прикладу, якщо ви вибираєте \"ширина\", то розмір буде фіксованим і висота зображення будуть автоматично розраховані."
+
+msgid "Medium image fixed size"
+msgstr "Середнє зображення фіксованого розміру"
+
+msgid "Width or height will be automatically calculated."
+msgstr "Ширина або висота будуть автоматично розраховані"
+
+msgid "Expires"
+msgstr "Закінчення"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "Заблокованій IP-адресі буде заборонено використовувати весь веб-сайт."
+
+msgid "Default language"
+msgstr "Мова за замовчуванням"
+
+msgid "Default base language to use."
+msgstr "Використовується за замовчуванням мова."
+
+msgid "Auto language"
+msgstr "Автоматичний вибір мови"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "Включити це, якщо ви хочете, щоб автоматично виявлялась і встановлювалась правильна мова для кожного користувача."
+
+msgid "Language chooser"
+msgstr "Вибір мови"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "Ввімкніть це, якщо хочете дозволити вибір мови"
+
+msgid "Enabled languages"
+msgstr "Дозволені мови"
+
+msgid "List items per page"
+msgstr "Елементів на сторінку"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Скільки зображень відображати на сторінку."
+
+msgid "List pagination mode"
+msgstr "Режим розбиття на сторінки"
+
+msgid "Endless scrolling"
+msgstr "Нескінченна прокрутка"
+
+msgid "Classic pagination"
+msgstr "Нумеровані сторінки"
+
+msgid "What pagination method should be used."
+msgstr "Який спосіб розбиття на сторінки використовувати."
+
+msgid "Image listing size"
+msgstr "Розмір мініатюр в списку"
+
+msgid "Fluid"
+msgstr "Адаптивний"
+
+msgid "Fixed"
+msgstr "Фіксований"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "Обидва методи використовують фіксовану ширину, але в адаптивному методі, висота обчислюється із збереженням пропорцій зображення."
+
+msgid "Listing columns number"
+msgstr "Кількість колонок"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Тут ви можете встановити, скільки стовпців використовуються на основі кожного цільового пристрою."
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Phablet"
+msgstr "Фаблет"
+
+msgid "Tablet"
+msgstr "Планшет"
+
+msgid "Laptop"
+msgstr "Ноутбук"
+
+msgid "Desktop"
+msgstr "ПК"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "Векторний логотип вашого сайту у форматі SVG."
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "Растровий логотип вашого сайту. Рекомендується використовувати формат PNG."
+
+msgid "Logo height"
+msgstr "Висота логотипу"
+
+msgid "No value"
+msgstr "Немає значення"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Використовуйте це поле, якщо необхідно вказати висоту логотипу."
+
+msgid "Favicon image"
+msgstr "Іконка сайту"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Іконка вашого сайту. Ширина і висота даного зображення повинні бути однакові."
+
+msgid "Page title"
+msgstr "Заголовок сторінки"
+
+msgid "Page status"
+msgstr "Статус сторінки"
+
+msgid "Active page"
+msgstr "Активна сторінка"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Не активна сторінка (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "Тільки активні сторінки будуть доступні"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Page visibility"
+msgstr "Видимість сторінки"
+
+msgid "Visible page"
+msgstr "Видима сторінка"
+
+msgid "Hidden page"
+msgstr "Схована сторінка"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "Схована сторінка не буде відображатись у головному меню, але кожен зможе зайти на неї по посиланню"
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Тільки латинські букви і цифри, дефіс і коса риска"
+
+msgid "File path"
+msgstr "Шлях до файлу"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "%f файл по відношенню до %s"
+
+msgid "Meta keywords"
+msgstr "Мета ключові слова"
+
+msgid "Meta description"
+msgstr "Мета опис"
+
+msgid "Source code"
+msgstr "Код сторінки"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Немає прав на запис в %s шляху, вам потрібно додати цей файл іншим редактором"
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Немає прав на запис в %s, вам потрібно відредагувати файл в зовнішньому редакторі"
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Взято з: %s"
+
+msgid "Link URL"
+msgstr "Посилання URL"
+
+msgid "Link target attribute"
+msgstr "Посилання атрибут"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Виберіть %s щоб відкривати сторінку у новому вікні"
+
+msgid "Link rel attribute"
+msgstr "Атрибут rel посилання"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Тільки латинські букви і цифри, дефіси та пропуски"
+
+msgid "Link icon"
+msgstr "Посилання на іконку"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Перевірте <a %s>настройки іконки</a>"
+
+msgid "Sort order display"
+msgstr "Порядок сортування"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "Порядок сортування сторінок для меню. Використовуйте \"1\" для вищого пріоритету"
+
+msgid "Maintenance"
+msgstr "Обслуговування"
+
+msgid "Crypt salt"
+msgstr "Криптографічна сіль"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "Ця сіль використовується для перетворення цифрових ID в літерні. Вона була створена при установці."
+
+msgid "Debug level"
+msgstr "Рівень налагодження"
+
+msgid "None"
+msgstr "Ні"
+
+msgid "Error log"
+msgstr "Журнал помилок"
+
+msgid "Print errors without error log"
+msgstr "Друк помилок без журналу помилок"
+
+msgid "Print and log errors"
+msgstr "Друк і журнал помилок"
+
+msgid "Enable download button"
+msgstr "Включити кнопку завантаження"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Увімкніть, щоб показувати кнопку завантаження зображення."
+
+msgid "Enable right click on image"
+msgstr "Включити меню правої клавіши миші на зображенні"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Включіть це, якщо Ви хочете дозволити меню правої клавіши миші"
+
+msgid "Enable show Exif data"
+msgstr "Включити показ Exif даних"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Включіть це, якщо ви хочете показувати Exif дані."
+
+msgid "Enable social share"
+msgstr "Увімкнути опцію \"поділитися\""
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Ввімкніть цю опцію, щоб показувати кнопки соціальних мереж."
+
+msgid "Enable embed codes (content)"
+msgstr "Коди для вбудовування (в перегляді)"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Ввімкніть цю опцію, якщо ви хочете показувати коди для вбудовування в перегляді зображень."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "Показувати у завантажувачі настройку для небезпечного змісту"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Увімкніть, щоб дати користувачам можливість вказувати безпеку зображення при завантаженні."
+
+msgid "Custom CSS code"
+msgstr "Власний CSS"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Вставте сюди ваш власний CSS код. Він буде вставлений за допомогою тега <style> перед закриваючим тегом </head>"
+
+msgid "Custom JS code"
+msgstr "Власний JS"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Вставте сюди ваш власний JS код. Він буде вставлений за допомогою тега <script> перед закриваючим тегом </head>"
+
+msgid "Send test email"
+msgstr "Надіслати тестове повідомлення"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Використовуйте це тестове повідомлення для перевірки доставки пошти, Ми рекомендуємо використовувати %s."
+
+msgid "Additional settings"
+msgstr "Додаткові налаштування"
+
+msgid "Enable signups"
+msgstr "Включити реєстрацію"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Увімкніть, щоб дозволити реєстрацію користувачів."
+
+msgid "Require email confirmation"
+msgstr "Вимагати підтвердження електронної пошти"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Ввімкніть цю опцію, щоб вимагати підтвердження адреси електронної пошти при реєстрації."
+
+msgid "Require email for social signup"
+msgstr "Вимагати Email-адресу при реєстрації через соціальну мережу"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Ввімкніть цю опцію, якщо ви хочете, щоб користувачам, які реєструються через соціальні мережі, необхідно було вказувати адресу електронної пошти."
+
+msgid "User avatar max. filesize"
+msgstr "Аватар користувача макс. розмір файлу"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "Максимально дозволений розмір файлу для аватару користувача. (Макс. дозволено на сервері %s)"
+
+msgid "User background max. filesize"
+msgstr "Фонове зображення сторінки користувача макс. розмір файлу"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "Максимально дозволений розмір файлу для фонового зображення сторінки користувача. (Макс. дозволено на сервері %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Увімкніть, щоб помістити логотип або будь-яке інше зображення на всі завантаження."
+
+msgid "Watermark user toggles"
+msgstr "Перемикач водяного знаку користувача"
+
+msgid "Enable watermark on guest uploads"
+msgstr "Включити водяний знак для гостьових загрузок"
+
+msgid "Enable watermark on user uploads"
+msgstr "Включити водяний знак для загрузок користувачів"
+
+msgid "Enable watermark on admin uploads"
+msgstr "Включити водяний знак для загрузок адміністратора"
+
+msgid "Watermark file toggles"
+msgstr "Перемикач водяних знаків"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Включити водяний знак на GIF зображенні при загрузці"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "Мінімальний розмір файлу потрібний для встановлення водяного знаку"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Зображення меньше за ... не буде ставитись водяний знак. Використовуйте 0 для того щоб не встановлювати мінімальний розмір зображення"
+
+msgid "Watermark image"
+msgstr "Зображення захисного знаку"
+
+msgid "Watermark position"
+msgstr "Положення захисного знаку"
+
+msgid "left top"
+msgstr "зліва зверху"
+
+msgid "left center"
+msgstr "зліва по центру"
+
+msgid "left bottom"
+msgstr "зліва знизу"
+
+msgid "center top"
+msgstr "по центру зверху"
+
+msgid "center center"
+msgstr "по центру"
+
+msgid "center bottom"
+msgstr "по центру знизу"
+
+msgid "right top"
+msgstr "праворуч зверху"
+
+msgid "right center"
+msgstr "праворуч по центру"
+
+msgid "right bottom"
+msgstr "праворуч знизу"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Відносне положення захисного знаку. Першим вказано положення по горизонталі, другий по вертикалі."
+
+msgid "Watermark percentage"
+msgstr "Відсоток водяного знаку"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "Відношення розміру водяного знаку по відношенню до розміру картинки. Від 1 до 100."
+
+msgid "Watermark margin"
+msgstr "Поля захисного знаку"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Поля від кордону зображення до захисного знаку."
+
+msgid "Watermark opacity"
+msgstr "Прозорість захисного знаку"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "Прозорість захисного знаку при накладенні на зображення. Повинно бути в діапазоні від 0 до 100."
+
+msgid "Website name"
+msgstr "Назва сайту"
+
+msgid "Website doctitle"
+msgstr "Заголовок сайту"
+
+msgid "Website description"
+msgstr "Опис сайту"
+
+msgid "Default time zone"
+msgstr "Часовий пояс  за замовчуванням"
+
+msgid "Select region"
+msgstr "Оберіть регіон"
+
+msgid "Likes"
+msgstr "Вподобання"
+
+msgid "Website mode"
+msgstr "Режим роботи сайту"
+
+msgid "You can switch the website mode anytime."
+msgstr "Ви можете перемкнути режим веб-сайту в будь-який час."
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "Звичайне перенаправлення з /ім'я-користувача в /кудась. Використовуйте \"/\" для направлення на домашню сторінку."
+
+msgid "Website privacy mode"
+msgstr "Режим конфіденційності сайту"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "Приватний сайт буде доступний тільки для зареєстрованих користувачів."
+
+msgid "Content privacy mode"
+msgstr "Режим видимості вмісту"
+
+msgid "Force private (self)"
+msgstr "Приховані (тільки власник)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Приховані (тільки за посиланням)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "При включенні примусових режимів видимості, зазначені користувачами значення будуть проігноровані."
+
+msgid "Role"
+msgstr "Роль"
+
+msgid "Email address"
+msgstr "Адреса електронної пошти"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Додано до %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Завантажені в %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Завантажено %s"
+
+msgid "Less Exif data"
+msgstr "Менше даних Exif"
+
+msgid "More Exif data"
+msgstr "Більше даних Exif"
+
+msgid "Add IP ban"
+msgstr "Додати блокування по IP"
+
+msgid "Upload and share your images."
+msgstr "Завантажуйте і діліться зображеннями."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Перетягніть зображення яке Ви хочете загрузити в будь-яке місце і почніть завантажувати свої картинки. %s обмеження на один файл. Прямі посилання зображення, BBCode і HTML мініатюри."
+
+msgid "Sign up to unlock all the features"
+msgstr "Зареєструватися, щоб отримати більше можливостей."
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Керуйте аккаунтом, створюйте альбоми, змінюйте свій профіль і багато іншого."
+
+msgid "Logged out"
+msgstr "Вийти"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Успішний вихід з системи. До нових зустрічей на %s."
+
+msgid "Website under maintenance"
+msgstr "Сайт на обслуговуванні"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Ми виконуємо планові роботи з технічного обслуговування на веб-сайті. Будь ласка, поверніться до нас трошки пізніше"
+
+msgid "Valid"
+msgstr "Підтверджений"
+
+msgid "Banned"
+msgstr "Забанений"
+
+msgid "Awaiting email"
+msgstr "Чекає повідомлення"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "від %i до %f знаків<br>Букви, цифри і \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Автоматичне видалення завантажень"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "Ця установка буде діяти у всіх ваших завантаження зображень за замовчуванням. Ви можете перевизначити цей параметр на кожне завантаження."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "Залишити налаштування для зображення <a %s>Exif дані</a> при загрузці"
+
+msgid "Newsletter"
+msgstr "Інформаційна розсилка"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Посилати мені листи з новинами про %s"
+
+msgid "Content settings"
+msgstr "Налаштування контенту"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Показувати небезпечний зміст (від інших)"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Timezone"
+msgstr "Часовий пояс"
+
+msgid "User has no connections."
+msgstr "У користувача немає зв'язків з іншими акаунтами."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Ви дійсно хочете відв'язати %s від цього аккаунта?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Цей акаунт пов'язаний з %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Ви дійсно хочете відв'язати ваш аккаунт %s?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Буде виконаний вихід із системи і ви більше не зможете входити через акаунт %s."
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Current password"
+msgstr "Поточний пароль"
+
+msgid "Enter your current password"
+msgstr "Введіть ваш поточний пароль"
+
+msgid "New password"
+msgstr "Новий пароль"
+
+msgid "Confirm new password"
+msgstr "Повторіть новий пароль"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Додайте пароль, щоб мати можливість входити з використанням імені користувача або адреси електронної"
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "У цього користувача не встановлений пароль. Додайте його через дану форму."
+
+msgid "Enter your password"
+msgstr "Введите ваш пароль"
+
+msgid "Confirm password"
+msgstr "Підтвердіть пароль"
+
+msgid "Re-enter your password"
+msgstr "Повторіть пароль"
+
+msgid "This is your real name, not your username."
+msgstr "Це ваше справжнє ім'я, а не ім'я користувача."
+
+msgid "Bio"
+msgstr "Біографія"
+
+msgid "Tell us a little bit about you"
+msgstr "Розкажіть нам трошки про себе"
+
+msgid "resend account activation"
+msgstr "Повторити відправку посилання для активації"
+
+msgid "Upload profile background"
+msgstr "Завантажити фон профілю"
+
+msgid "Change background"
+msgstr "Змінити фон"
+
+msgid "Upload new image"
+msgstr "Завантажити зображення"
+
+msgid "Delete background"
+msgstr "Видалити фон"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Послідовник"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "Follow"
+msgstr "Слідкувати"
+
+msgid "General questions/comments"
+msgstr "Загальні питання / коментарі"
+
+msgid "DMCA complaint"
+msgstr "DMCA скарга"
+
+msgid "Invalid message"
+msgstr "Неправильне повідомлення"
+
+msgid "Invalid subject"
+msgstr "Неправильна тема"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Повідомлення надіслано. Ми зв'яжемося найближчим часом."
+

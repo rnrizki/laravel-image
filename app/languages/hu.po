@@ -1,0 +1,2287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Önnek nem engedélyezett a weboldal használata."
+
+msgid "View all my images"
+msgstr "Az összes képem megtekintése"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Fedezze fel a feltöltött képeimet és böngésszen az albumaim között."
+
+msgid "Recent"
+msgstr "Legfrissebb"
+
+msgid "Trending"
+msgstr "Felkapott"
+
+msgid "Popular"
+msgstr "Népszerű"
+
+msgid "Animated"
+msgstr "Mozgókép"
+
+msgid "Request denied"
+msgstr "Kérés megtagadva"
+
+msgid "That page doesn't exist"
+msgstr "Az oldal nem létezik"
+
+msgid "Forgot password?"
+msgstr "Elfelejtette a jelszót?"
+
+msgid "Reset password"
+msgstr "Jelszó visszaállítása"
+
+msgid "Resend account activation"
+msgstr "Aktiváló e-mail újraküldése"
+
+msgid "Add your email address"
+msgstr "Adja meg az e-mail címét"
+
+msgid "Awaiting confirmation"
+msgstr "Megerősítésre vár"
+
+msgid "Email changed"
+msgstr "E-mail megváltoztatva"
+
+msgid "Invalid Username/Email"
+msgstr "Érvénytelen Felhasználónév/E-mail"
+
+msgid "User doesn't have an email."
+msgstr "A felhasználónak nincs megadott e-mail címe."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "A fióknak aktiválva kell lennie a szolgáltatás használatához"
+
+msgid "Account already activated"
+msgstr "A fiók már aktiválva lett"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Várjon legalább 15 percet az e-mail megérkezésére. Később újrapróbálhatja."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Jelszó visszaállítása a következőhöz: %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Megerősítés szükséges a következőhöz: %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Üdvözöljük %s oldalán"
+
+msgid "Invalid password"
+msgstr "Érvénytelen jelszó"
+
+msgid "Passwords don't match"
+msgstr "A jelszavak nem egyeznek meg"
+
+msgid "Invalid email"
+msgstr "Érvénytelen e-mail"
+
+msgid "Email already being used"
+msgstr "Ez az e-mail cím már regsztrálva van"
+
+msgid "Check the errors in the form to continue."
+msgstr "Javítsa az űrlapon megjelenő hibákat a folytatáshoz."
+
+msgid "Embed codes"
+msgstr "Beillesztő kódok"
+
+msgid "%a album hosted in %w"
+msgstr "%a album a következőben: %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "kép"
+msgstr[1] "kép"
+
+msgid "Stats"
+msgstr "Statisztikák"
+
+msgid "Images"
+msgstr "Képek"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Albumok"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Felhasználó"
+msgstr[1] "Felhasználó"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Website"
+msgstr "Weboldal"
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Listings"
+msgstr "Feltöltések"
+
+msgid "Image upload"
+msgstr "Képfeltöltés"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Theme"
+msgstr "Sablon"
+
+msgid "System"
+msgstr "Rendszer"
+
+msgid "Languages"
+msgstr "Nyelvek"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Tools"
+msgstr "Eszközök"
+
+msgid "External storage"
+msgstr "Külső tároló"
+
+msgid "Homepage"
+msgstr "Kezdőlap"
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "External services"
+msgstr "Külső szolgáltatások"
+
+msgid "Flood protection"
+msgstr "Flood védelem"
+
+msgid "Banners"
+msgstr "Bannerek (reklámok)"
+
+msgid "IP bans"
+msgstr "IP banok"
+
+msgid "Watermarks"
+msgstr "Vízjelek"
+
+msgid "Community"
+msgstr "Közösségi"
+
+msgid "install update"
+msgstr "Frissítés telepítése"
+
+msgid "PHP version"
+msgstr "PHP verzió"
+
+msgid "Server"
+msgstr "Szerver"
+
+msgid "MySQL version"
+msgstr "MySQL verzió"
+
+msgid "MySQL server info"
+msgstr "MySQL szerver infó"
+
+msgid "File uploads"
+msgstr "Fájlfeltöltések"
+
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+msgid "Max. execution time"
+msgstr "Max. végrehajtási idő"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d másodperc"
+msgstr[1] "%d másodperc"
+
+msgid "Memory limit"
+msgstr "Memória limit"
+
+msgid "Local"
+msgstr "Helyi"
+
+msgid "External"
+msgstr "Külső"
+
+msgid "All"
+msgstr "Összes kép"
+
+msgid "search content"
+msgstr "feltöltéseinek mutatása"
+
+msgid "Add page"
+msgstr "Oldal hozzáadása"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Oldal azonosító (ID) szerkesztése: %s"
+
+msgid "The page has been added successfully."
+msgstr "Az oldal sikeresen hozzáadva."
+
+msgid "The page has been deleted."
+msgstr "Az oldal törlésre került."
+
+msgid "Before pagination"
+msgstr "Navigáció előtt"
+
+msgid "After pagination"
+msgstr "Navigáció után"
+
+msgid "Content (image and album)"
+msgstr "Tartalom (kép és album)"
+
+msgid "Tab about column"
+msgstr "A részletek oszlopa"
+
+msgid "Before comments"
+msgstr "A kommentek előtt"
+
+msgid "Image page"
+msgstr "A kép oldala"
+
+msgid "Inside viewer top (image page)"
+msgstr "A képnéző teteje (kép oldal)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "A képnéző alja (kép oldal)"
+
+msgid "After image viewer (image page)"
+msgstr "A képnéző után (kép oldal)"
+
+msgid "Before header (image page)"
+msgstr "A fejléc előtt (kép oldal)"
+
+msgid "After header (image page)"
+msgstr "A fejléc után (kép oldal)"
+
+msgid "Footer (image page)"
+msgstr "Lábléc (kép oldal)"
+
+msgid "User profile page"
+msgstr "Felhasználói profiloldal"
+
+msgid "After top (user profile)"
+msgstr "A felső rész után (profil)"
+
+msgid "Before listing (user profile)"
+msgstr "A listák után (profil)"
+
+msgid "Explore"
+msgstr "Feltöltések"
+
+msgid "NSFW"
+msgstr "Korhatáros"
+
+msgid "Invalid website name"
+msgstr "Érvénytelen weboldal név"
+
+msgid "Invalid language"
+msgstr "Érvénytelen nyelv"
+
+msgid "Invalid timezone"
+msgstr "Érvénytelen időzóna"
+
+msgid "Invalid upload storage mode"
+msgstr "Érvénytelen feltöltési tároló mód"
+
+msgid "Invalid upload filenaming"
+msgstr "Érvénytelen feltöltési fájlnevezés"
+
+msgid "Invalid thumb width"
+msgstr "Érvénytelen miniatűr szélesség"
+
+msgid "Invalid thumb height"
+msgstr "Érvénytelen miniatűr méret"
+
+msgid "Invalid watermark percentage"
+msgstr "Érvénytelen vízjel százalék"
+
+msgid "Invalid watermark opacity"
+msgstr "Érvénytelen vízjel átlátszóság"
+
+msgid "Invalid theme"
+msgstr "Érvénytelen sablon"
+
+msgid "Invalid value"
+msgstr "Érvénytelen érték"
+
+msgid "Invalid theme image listing size"
+msgstr "Érvénytelen képlistázás méret"
+
+msgid "Invalid user id"
+msgstr "Érvénytelen felhasználó azonosító"
+
+msgid "Invalid email mode"
+msgstr "Érvénytelen e-mail mód"
+
+msgid "Invalid SMTP port"
+msgstr "Érvénytelen SMTP port"
+
+msgid "Invalid SMTP security"
+msgstr "Érvénytelen SMTP biztonság"
+
+msgid "Invalid website mode"
+msgstr "Érvénytelen weboldal mód"
+
+msgid "Invalid personal mode user ID"
+msgstr "Érvénytelen felhasználó azonosító a személyes módhoz"
+
+msgid "Invalid or reserved route"
+msgstr "Érvénytelen vagy foglalt útvonal (route)"
+
+msgid "Invalid website privacy mode"
+msgstr "Érvénytelen tartalomkorlátozási mód"
+
+msgid "Invalid website content privacy mode"
+msgstr "Érvénytelen weboldal tartalomkorlátozási mód"
+
+msgid "Invalid homepage style"
+msgstr "Érvénytelen kezdőlap stílus"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Érvénytelen kezdőlapi akciógomb szín"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Érvénytelen kezdőlapi akciógomb funkció"
+
+msgid "Invalid title"
+msgstr "Érvénytelen cím."
+
+msgid "Invalid status"
+msgstr "Érévnytelen állapot."
+
+msgid "Invalid type"
+msgstr "Érvénytelen típus."
+
+msgid "Invalid visibility"
+msgstr "Érvénytelen láthatóság."
+
+msgid "Invalid target attribute"
+msgstr "Érvénytelen cél attribútum."
+
+msgid "Invalid rel attribute"
+msgstr "Érvénytelen rel attribútum."
+
+msgid "Invalid icon"
+msgstr "Érvénytelen ikon."
+
+msgid "Invalid URL key"
+msgstr "Érvénytelen URL kulcs"
+
+msgid "Invalid file path"
+msgstr "Érvénytelen fájl útvonal"
+
+msgid "Invalid link URL"
+msgstr "Érvénytelen link URL"
+
+msgid "Invalid URL"
+msgstr "Érvénytelen URL"
+
+msgid "Invalid upload image path"
+msgstr "Érvénytelen képfeltöltési útvonal"
+
+msgid "Invalid call to action URL"
+msgstr "Érvénytelen akciógomb URL"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Maximum megengedett %s"
+
+msgid "Invalid SMTP server"
+msgstr "Érvénytelen SMTP szerver"
+
+msgid "Invalid SMTP username"
+msgstr "Érvénytelen SMTP felhasználónév"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "Ezt az URL kulcsot már használja egy másik oldal (azonosítója: %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Ezt a fájl útvonalat más használja egy másik oldal (azonosítója: %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Az oldal tartalmának mentése nem sikerült: %s."
+
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+msgid "Following"
+msgstr "Követések"
+
+msgid "About"
+msgstr "Információk"
+
+msgid "Image ID"
+msgstr "Kép azonosító"
+
+msgid "Upload date"
+msgstr "Feltöltés dátuma"
+
+msgid "Image %i in %a album"
+msgstr "%i kép a(z) %a albumban"
+
+msgid "Image %i in %c category"
+msgstr "%i kép a(z) %c kategóriában"
+
+msgid "Image %i hosted in %w"
+msgstr "%i kép a következőben: %w"
+
+msgid "Direct links"
+msgstr "Direkt linkek"
+
+msgid "Image link"
+msgstr "Kép link"
+
+msgid "Image URL"
+msgstr "Kép URL"
+
+msgid "Thumbnail URL"
+msgstr "Miniatűr URL"
+
+msgid "Medium URL"
+msgstr "Középméret URL"
+
+msgid "Start uploading"
+msgstr "Feltöltés megkezdése"
+
+msgid "Login needed"
+msgstr "Bejelentkezés szükséges"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Kép"
+msgstr[1] "Kép"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "IP address already banned"
+msgstr "Az IP cím már bannolva van"
+
+msgid "Missing values"
+msgstr "Hiányzó értékek"
+
+msgid "Invalid username"
+msgstr "Érvénytelen felhasználónév"
+
+msgid "Invalid role"
+msgstr "Érvénytelen szabály"
+
+msgid "Username already being used"
+msgstr "A felhasználónév már használatban van"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s felhasználó kilépett."
+
+msgid "Test email from %s @ %t"
+msgstr "Teszt üzenet %s feladótól @ %t"
+
+msgid "This is just a test"
+msgstr "Ez csak egy teszt"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Teszt üzenet elküldve a(z) %s címre."
+
+msgid "Content liked"
+msgstr "Kedvelt tartalmak"
+
+msgid "Content disliked"
+msgstr "Nem kedvelt tartalmak"
+
+msgid "%u liked your %t %c"
+msgstr "%u kedveli a(z) %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u mostantól követ téged"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Hibás felhasználónév/ e-mail jelszó kombináció"
+
+msgid "Sign in"
+msgstr "Belépés"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Account"
+msgstr "Fiók"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Jelszó"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Az aktiválás befejezéséhez szükséges üzenet kiküldésre került a következő e-mail címre: %s"
+
+msgid "Invalid name"
+msgstr "Érvénytelen név"
+
+msgid "Invalid website"
+msgstr "Érvénytelen weboldal"
+
+msgid "Spam detected"
+msgstr "SPAM észlelve"
+
+msgid "Wrong password"
+msgstr "Rossz jelszó"
+
+msgid "Use a new password"
+msgstr "Használjon egy új jelszót"
+
+msgid "Changes have been saved."
+msgstr "A változások mentésre kerültek."
+
+msgid "Password has been changed"
+msgstr "A jelszó megváltoztatásra került"
+
+msgid "Password has been created."
+msgstr "Jelszó létrehozva."
+
+msgid "Wrong Username/Email values"
+msgstr "Hibás Felhasználónév/E-mail"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "%s beállításai"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "Delete user"
+msgstr "Felhasználó törlése"
+
+msgid "User ID"
+msgstr "Azonosító"
+
+msgid "Register date"
+msgstr "Regisztráció dátuma"
+
+msgid "Create account"
+msgstr "Fiók létrehozása"
+
+msgid "Upload"
+msgstr "Feltöltés"
+
+msgid "Albums"
+msgstr "Albumok"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "%s kedvelte"
+
+msgid "Liked"
+msgstr "Kedvelve"
+
+msgid "Followers"
+msgstr "Követők"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) album itt: %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) itt: %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album"
+msgstr[1] "album"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Figyelem: ez privát tartalom, de a link birtokában bárki hozzáférhet."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Figyelem: ez a tartalom jelszóval védett. Ne felejtse el a jelszót is mellékelni, ha szeretné megosztani valakivel."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Megjegyzés: Ez egy privát tartalom. Ha szeretné megosztani állítsa publikusra a láthatóságát."
+
+msgid "Private"
+msgstr "Privát"
+
+msgid "Public"
+msgstr "Publikus"
+
+msgid "Me"
+msgstr "Én"
+
+msgid "After %n %t"
+msgstr "%n %t után"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "perccel"
+msgstr[1] "perccel"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "órával"
+msgstr[1] "órával"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "nappal"
+msgstr[1] "nappal"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "héttel"
+msgstr[1] "héttel"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "hónappal"
+msgstr[1] "hónappal"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "évvel"
+msgstr[1] "évvel"
+
+msgid "Don't autodelete"
+msgstr "Ne töröljön automatikusan"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "%s megnyitása szerkesztésre sikertelen"
+
+msgid "Duplicated upload"
+msgstr "Duplikált feltöltés"
+
+msgid "Private upload"
+msgstr "Privát feltöltés"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "megtekintés"
+msgstr[1] "megtekintés"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "Kedvelés"
+msgstr[1] "Kedvelések"
+
+msgid "Most recent"
+msgstr "Legfrissebb"
+
+msgid "Oldest"
+msgstr "Legrégebbi"
+
+msgid "Most viewed"
+msgstr "Legnépszerűbb"
+
+msgid "Most liked"
+msgstr "Legtöbbször kedvelt"
+
+msgid "People"
+msgstr "Emberek"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Nem sikerült létrehozni a következő célkönyvtárat: %s"
+
+msgid "Internal"
+msgstr "Belső"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "A tároló kapacitása nem lehet kisebb a jelenlegi kihasználtságnál (%s)."
+
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+msgid "used"
+msgstr "használt"
+
+msgid "Private profile"
+msgstr "Privát profil"
+
+msgid "Share"
+msgstr "Megosztás"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "másodperccel"
+msgstr[1] "másodperccel"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s ezelőtt"
+
+msgid "moments ago"
+msgstr "pillanatokkal ezelőtt"
+
+msgid "Random"
+msgstr "Véletlen"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "Advanced search"
+msgstr "Bővített keresés"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Értesítések (%s)"
+
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgid "loading"
+msgstr "töltés"
+
+msgid "You don't have notifications"
+msgstr "Nincsenek értesítéseid"
+
+msgid "My Profile"
+msgstr "Profilom"
+
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+msgid "Sign out"
+msgstr "Kilépés"
+
+msgid "You must enter the album name."
+msgstr "Meg kell adnia az album nevét."
+
+msgid "Confirm"
+msgstr "Megerősít"
+
+msgid "Select existing album"
+msgstr "Válasszon ki egy meglévő albumot"
+
+msgid "An error occurred. Please try again later."
+msgstr "Hiba történt. Kérjük próbálja újra később."
+
+msgid "Please select a valid image file type."
+msgstr "Kérjük válasszon ki egy érvényes kép típust."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Kérjük válasszon ki egy képet maximum %s méretben."
+
+msgid "Profile image updated."
+msgstr "Profil kép frissítve."
+
+msgid "Profile background image updated."
+msgstr "Profil háttérkép frissítve."
+
+msgid "Profile background image deleted."
+msgstr "Profil háttérkép törölve."
+
+msgid "Error deleting profile background image."
+msgstr "Hiba történt a profil háttérkép törlése közben."
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "Frissítés elérhető: v%s"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "Ez a weboldal a legfrissebb %s verziót használja."
+
+msgid "Toggle select"
+msgstr "Kijelölés / Kijelölés törlése"
+
+msgid "Like"
+msgstr "Kedvelés"
+
+msgid "Create album"
+msgstr "Album létrehozása"
+
+msgid "Toggle flag"
+msgstr "Megjelölés / Jelölés törlése"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Previous"
+msgstr "Előző"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "File too big."
+msgstr "A fájl túl nagy."
+
+msgid "Invalid or unsupported file format."
+msgstr "A fájl formátuma érvénytelen, vagy nem támogatott."
+
+msgid "Some files couldn't be added"
+msgstr "Néhány fájl hozzáadása nem sikerült"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%s albumai"
+
+msgid "Image edited successfully."
+msgstr "A kép módosítása sikeres."
+
+msgid "private"
+msgstr "privát"
+
+msgid "The content has been edited."
+msgstr "A tartalom módosítva lett."
+
+msgid "Invalid URL key."
+msgstr "Érvénytelen URL kulcs."
+
+msgid "Category URL key already being used."
+msgstr "A kategória URL kulcs már használatban van."
+
+msgid "Category successfully deleted."
+msgstr "A kategória sikeresen törölve."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "%s kategória létrehozva."
+
+msgid "Invalid expiration date."
+msgstr "Érvénytelen lejárati dátum."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "Az IP (%s) már tiltva van."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP (%s) tiltásra került."
+
+msgid "IP ban successfully deleted."
+msgstr "Az IP ban törlésre került."
+
+msgid "Please fill all the required fields."
+msgstr "Kérjük töltse ki az összes szükséges mezőt."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Érvénytelen tároló kapacitás érték. Használjon érvényes formátumot."
+
+msgid "Invalid URL."
+msgstr "Érvénytelen URL."
+
+msgid "Storage successfully edited."
+msgstr "Tároló sikeresen módosítva."
+
+msgid "The content has been deleted."
+msgstr "A tartalom törlésre került."
+
+msgid "The content has been moved."
+msgstr "A tartalom áthelyezésre került."
+
+msgid "Select"
+msgstr "Kiválasztás"
+
+msgid "Unselect"
+msgstr "Kiválasztás törlése"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Hogyha folytatja az összes módosítás elvész."
+
+msgid "Save changes"
+msgstr "Változtatások mentése"
+
+msgid "Submit"
+msgstr "Elküld"
+
+msgid "Changes saved successfully."
+msgstr "A változtatások mentése sikeres."
+
+msgid "Go back to form"
+msgstr "Vissza az űrlaphoz"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "continue anyway"
+msgstr "folytatom"
+
+msgid "cancel"
+msgstr "mégse"
+
+msgid "Saving"
+msgstr "Mentés"
+
+msgid "Sending"
+msgstr "Küldés"
+
+msgid "Confirm action"
+msgstr "Döntés megerősítése"
+
+msgid "information"
+msgstr "információ"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Egy e-mail cím megváltoztatására irányuló kérés érkezett hozzánk a következő fiókhoz: <a href=\"%u\">%n</a>"
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "A folyamat befejezéséhez <a href=\"%s\">aktiválnia kell az e-mail címét</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Kattintson a fenti linkre vagy másolja be a következő hivatkozást a böngészője címsorába: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Amennyiben nem ön indította a regisztrációt úgy kérjük hagyja figyelmen kívül ezt az üzenetet."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "A kérés a következő IP címről érkezett: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Regisztrációt kezdeményezett %n felhasználónévvel a következő webhelyen: %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "A folyamat befejezéséhez <a href=\"%s\">aktiválnia kell a fiókját</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Egy jelszó visszaállító kérés érkezett a következő fiókjához: <a href=\"%u\">%n</a>"
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "A jelszó visszaállításához <a href=\"%s\">kattintson erre a linkre</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Kedves %n, üdvözöljük a %w oldalán"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Most hogy a fiókja elkészült feltölthet - privát vagy nyilvános - képeket, létrehozhat albumokat és nekiláthat a megannyi izgalmas funkció felfedezésének."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Itt találhatja a nagyszerű profil oldalát: <a href=\"%u\">%n</a> Indulhat a testreszabás!"
+
+msgid "Thank you for joining"
+msgstr "Köszönjük, hogy csatlakozott!"
+
+msgid "This email was sent from %w %u"
+msgstr "Az e-mail innen került kiküldésre: %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "Húzza ide vagy illessze be a képeket a vágólapról a feltöltéshez"
+
+msgid "Select the images to upload"
+msgstr "Válassza ki a feltölteni kívánt képeket"
+
+msgid "complete"
+msgstr "kész"
+
+msgid "Upload complete"
+msgstr "Feltöltés befejezve"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Jelölje be hogyha a feltöltés korhatáros (felnőtteknek szóló)"
+
+msgid "Not family safe upload"
+msgstr "Korhatáros tartalom"
+
+msgid "Uploading"
+msgstr "Feltöltés"
+
+msgid "cancel remaining"
+msgstr "hátralévők megszakítása"
+
+msgid "learn more"
+msgstr "tudjon meg többet"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "További információért ellenőrizze a <a data-modal=\"simple\" data-target=\"failed-upload-result\">hibajelentést</a>."
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "optional"
+msgstr "opcionális"
+
+msgid "Resize image"
+msgstr "Kép átméretezése"
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "Megjegyzés: Az animált GIF képek nem kerülnek átméretezésre."
+
+msgid "Mark this if the image is not family safe"
+msgstr "Jelölje be hogyha a kép korhatáros (felnőtteknek szóló)"
+
+msgid "Flag as unsafe"
+msgstr "Kép jelentése"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Add image URLs"
+msgstr "Kép URL-ek hozzáadása"
+
+msgid "Add the image URLs here"
+msgstr "Itt adja hozzá a kép URL-eket"
+
+msgid "Error report"
+msgstr "Hibajelentés"
+
+msgid "Links"
+msgstr "Linkek"
+
+msgid "Direct"
+msgstr "Direkt"
+
+msgid "HTML Codes"
+msgstr "HTML kódok"
+
+msgid "HTML image"
+msgstr "HTML kép"
+
+msgid "HTML full linked"
+msgstr "HTML teljes link"
+
+msgid "HTML medium linked"
+msgstr "HTML középméret"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML miniatűr"
+
+msgid "BBCodes"
+msgstr "BBkódok"
+
+msgid "BBCode full"
+msgstr "Teljes BBCode"
+
+msgid "BBCode full linked"
+msgstr "BBCode teljes link"
+
+msgid "BBCode medium linked"
+msgstr "BBCode közepes link"
+
+msgid "BBCode thumbnail linked"
+msgstr "BBkód miniatűr"
+
+msgid "Markdown full"
+msgstr "Teljes markdown"
+
+msgid "Markdown full linked"
+msgstr "Teljes linkelt markdown"
+
+msgid "Markdown medium linked"
+msgstr "Közepes linkelt markdown"
+
+msgid "Markdown thumbnail linked"
+msgstr "Miniatűr linkelt markdown"
+
+msgid "Viewer links"
+msgstr "Megtekintő linkek"
+
+msgid "All these words"
+msgstr "Írja ide a keresett szót vagy kifejezést"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Például: autós háttérképek"
+
+msgid "This exact word or phrase"
+msgstr "Pontosabb keresés"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Tegye idézőjelbe a teljes kifejezést: \"autós háttérképek\""
+
+msgid "None of these words"
+msgstr "Találatok szűrése"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Tegyen egy minusz jelet a nem kívánt találatok elé: -ferrari -\"VW Golf\""
+
+msgid "Storage"
+msgstr "Tároló"
+
+msgid "IP address"
+msgstr "IP cím"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Who can view this content"
+msgstr "Ki láthatja ezt a tartalmat"
+
+msgid "Private (just me)"
+msgstr "Privát (csak én)"
+
+msgid "Private (anyone with the link)"
+msgstr "Privát (a linkkel rendelkező felhasználók tudják megtekinteni)"
+
+msgid "URL key"
+msgstr "Keresőbarát URL"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Csak betűk, számok és kötőjelek"
+
+msgid "Path"
+msgstr "Elérési út"
+
+msgid "Expiration date"
+msgstr "Lejárati dátum"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "ÉÉÉÉ-HH-NN ÓÓ:PP:MM"
+
+msgid "Example"
+msgstr "Példa"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Meddig kerüljön az IP cím bannolásra? Hagyja üresen, ha nem kíván megadni lejárati dátumot."
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Szöveges üzenet, HTML vagy átirányítási cím (URL)"
+
+msgid "Storage name"
+msgstr "Tároló neve"
+
+msgid "Region"
+msgstr "Régió"
+
+msgid "Storage region"
+msgstr "Tároló régió"
+
+msgid "Storage bucket"
+msgstr "Tároló bucket"
+
+msgid "Key"
+msgstr "Kulcs"
+
+msgid "Storage key"
+msgstr "Tároló kulcsa"
+
+msgid "Secret"
+msgstr "Titkos kulcs"
+
+msgid "Storage secret"
+msgstr "Tároló titkos kulcs"
+
+msgid "Private key"
+msgstr "Privát kulcs"
+
+msgid "Google Cloud JSON key"
+msgstr "Google Cloud JSON kulcs"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Ehhez <a %s> szolgáltatás fiók</a> szükséges."
+
+msgid "Identity API endpoint"
+msgstr "Identity API végpont"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "API végpont az OpenStack identityhez"
+
+msgid "Container"
+msgstr "Konténer"
+
+msgid "Storage container"
+msgstr "Tároló konténer"
+
+msgid "Tenant id (account id)"
+msgstr "Tenant id (fiók azonosító)"
+
+msgid "Tenant name"
+msgstr "Tenant név"
+
+msgid "Tenant name (account name)"
+msgstr "Tenant név (fiók neve)"
+
+msgid "Hostname or IP of the storage server"
+msgstr "A tároló szerver hostneve vagy IP címe"
+
+msgid "Server path"
+msgstr "Szerver útvonal"
+
+msgid "Server password"
+msgstr "Szerver jelszó"
+
+msgid "Storage capacity"
+msgstr "Tároló kapacitás"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Példa: 20 GB, 1 TB, stb."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "A tároló inaktív lesz amint eléri ezt a mennyiséget. Hagyja üresen vagy adjon meg nullát a korlátlan értékhez."
+
+msgid "Storage URL"
+msgstr "Tároló URL"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "A rendszer ehhez az URL-hez fogja rendelni a tároló képeit."
+
+msgid "view more"
+msgstr "továbbiak megtekintése"
+
+msgid "Load more"
+msgstr "Több betöltése"
+
+msgid "Get embed codes"
+msgstr "Beillesztő kódok megjelenítése"
+
+msgid "Flag as safe"
+msgstr "Megjelölés mint biztonságos tartalom"
+
+msgid "Select all"
+msgstr "Összes kijelölése"
+
+msgid "Clear selection"
+msgstr "Kiválasztás megszüntetése"
+
+msgid "Sign in with another account"
+msgstr "Belépés más fiókkal"
+
+msgid "There's nothing to show here."
+msgstr "Jelenleg nincs megjeleníthető tartalom."
+
+msgid "There is no categories."
+msgstr "Nincsenek kategóriák."
+
+msgid "Confirm flag content as safe"
+msgstr "A megjelölés biztonságosként lépés megerősítése"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Biztos, hogy meg akarja jelölni, mint biztonságos tartalmat?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "A megjelölés korhatárosként lépés megerősítése"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Biztos, hogy meg akarja jelölni, mint korhatáros tartalmat?"
+
+msgid "Confirm deletion"
+msgstr "Törlés megerősítése"
+
+msgid "Guest"
+msgstr "Vendég"
+
+#, php-format
+msgid "by %u"
+msgstr "%u által"
+
+msgid "Toggle unsafe flag"
+msgstr "A nem biztonságos jelzés mutatása"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Nincs jogosultsága az oldal megtekintéséhez vagy a link már érvénytelen."
+
+msgid "Go to homepage"
+msgstr "Ugrás a főoldalra"
+
+msgid "The requested page was not found."
+msgstr "A kért oldal nem található."
+
+msgid "The user has been deleted"
+msgstr "A felhasználó törlésre került"
+
+msgid "Your account is almost ready"
+msgstr "Az ön fiókja majdnem kész"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "A fiókja aktiválására szolgáló üzenetet kiküldtük az e-mail címére (%s). Az aktiváló link csak 48 óráig érvényes. Amennyiben az üzenet nem érkezik meg ellenőrizze a spam szűrő beállításait."
+
+msgid "Resend activation"
+msgstr "Aktiváló üzenet újraküldése"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Sikeresen megváltoztatta a fiókja e-mail címét a következőre: %s"
+
+msgid "Go to my profile"
+msgstr "Ugrás a profilomhoz"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Egy megerősítésre szolgáló hivatkozást küldünk erre az e-mail címre az aktiválás befejezéséhez szükséges lépésekkel."
+
+msgid "Your email address"
+msgstr "Az ön e-mail címe"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "A jelszó visszaállítására vonatkozó instrukciókat tartalmazó üzenetet kiküldtük a regisztrációkor megadott e-mail címére. Ellenőrizze a spam mappát is."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "A jelszó visszaállítási útmutatót tartalmazó üzenetet elküldtük. Ha nem érkezett meg kérjük ellenőrizze a levelezője spam mappáját."
+
+msgid "Resend instructions"
+msgstr "Instrukciók újraküldése"
+
+msgid "Username or Email address"
+msgstr "Felhasználónév vagy E-mail cím"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "A jelszava megváltozott. A következő belépéskor az újonnan megadott jelszót használja."
+
+msgid "Login now"
+msgstr "Bejelentkezés most"
+
+msgid "Enter your new password"
+msgstr "Írja be az új jelszót"
+
+#, php-format
+msgid "%d characters min"
+msgstr "Minimum %d karakter"
+
+msgid "Re-enter your new password"
+msgstr "Az új jelszó még egyszer"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "A fiók aktiválásához szükséges instrukciókat tartalmazó üzenetet kiküldtük a következő címre: %s. n\\ Kérjük ellenőrizze a spam mappát is!"
+
+msgid "You like this"
+msgstr "Kedveled ezt"
+
+msgid "This content is private"
+msgstr "Ez egy privát tartalom"
+
+msgid "Check the errors to proceed."
+msgstr "A folytatáshoz javítsa a hibákat."
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Show not safe content in listings"
+msgstr "A korhatáros tartalom megjelenítése"
+
+msgid "Blur NSFW content in listings"
+msgstr "A korhatáros tartalom elmosása a feltöltések között"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "Engedélyezése esetén a korhatáros képek elmosódva (kivehetetlenül) fognak látszódni a feltöltési listában."
+
+msgid "Show not safe content in random mode"
+msgstr "Mutassa a korhatáros tartalmat a \"véletlen\" módban"
+
+msgid "Show banners in not safe content"
+msgstr "Mutassa a bannereket a korhatáros tartalmak között"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "Engedélyezze, ha szeretné, hogy megjelenjenek a bannerek a korhatáros tartalmak között."
+
+msgid "Cookie law compliance"
+msgstr "Sütikre vonatkozó jogi figyelmeztetés"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Engedélyezése esetén megjelenik az EU jogszabályoknak megfelelő figyelmeztető üzenet. Megjegyzés: Bekapcsolására csak abban az esetben van szükség, ha a weboldal az EU területén belüli tárhelyen található és ha használ követő sütiket."
+
+msgid "From name"
+msgstr "Küldő neve"
+
+msgid "Sender name for emails sent to users."
+msgstr "Ez lesz a küldő neve a felhasználóknak kiküldött üzenetekben."
+
+msgid "From email address"
+msgstr "Küldő e-mail címe"
+
+msgid "Sender email for emails sent to users."
+msgstr "Küldő e-mail címe a felhasználóknak kiküldött üzenetekben."
+
+msgid "Incoming email address"
+msgstr "Beérkező üzenetek címe"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "A kapcsolati űrlap és a rendszerüzenetek címzettje."
+
+msgid "Email mode"
+msgstr "E-mail mód"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Hogyan küldjük ki az e-maileket? Ajánlott: SMTP"
+
+msgid "SMTP server and port"
+msgstr "SMTP szerver és port"
+
+msgid "SMTP server"
+msgstr "SMTP szerver"
+
+msgid "SMTP username"
+msgstr "SMTP felhasználónév"
+
+msgid "SMTP password"
+msgstr "SMTP jelszó"
+
+msgid "SMTP security"
+msgstr "SMTP biztonság"
+
+msgid "Unsecured"
+msgstr "Nem biztonságos"
+
+msgid "Comment code"
+msgstr "Komment kód"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook vagy bármi más amit szeretne. A képnézetben kerül megjelenítésre."
+
+msgid "Analytics code"
+msgstr "Analytics kód"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics vagy bármi más amit szeretne. A sablon láblécébe (footer) kerül."
+
+msgid "Twitter account"
+msgstr "Twitter fiók"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Engedélyezze, hogy be/kikapcsolja a HTTPS-t"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "Engedélyezze, hogy be/kikapcsolja ezt a tárolót"
+
+msgid "Quota"
+msgstr "Kvóta"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Storage method"
+msgstr "Tárolási módszer"
+
+msgid "Disk used"
+msgstr "Felhasznált tárterület"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "A helyi tároló az alapértelmezetten használt mód (abban az esetben is, ha nincs aktív külső tároló)."
+
+msgid "Notify to email"
+msgstr "Értesítés e-mailben"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "Engedélyezése esetén a rendszer e-mail üzenetet fog küldeni feltöltési (flood) támadás esetén."
+
+msgid "Minute limit"
+msgstr "Percenkénti limit"
+
+msgid "Hourly limit"
+msgstr "Óránkénti limit"
+
+msgid "Daily limit"
+msgstr "Napi limit"
+
+msgid "Weekly limit"
+msgstr "Heti limit"
+
+msgid "Monthly limit"
+msgstr "Havi limit"
+
+msgid "Style"
+msgstr "Stílus"
+
+msgid "Landing page"
+msgstr "Kezdőoldal"
+
+msgid "Split landing + images"
+msgstr "Kezdőoldal + képek"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "Válassza ki a kezdőlap stílusát. További módosításhoz szerkessze az app/themes/%s/views/index.php fájlt."
+
+msgid "Cover image"
+msgstr "Borítókép"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "Ez lesz hozzáadva a kezdőlap %s tagjéhez. Hagyja üresen az alapértelmezett tartalom használatához."
+
+msgid "Paragraph"
+msgstr "Bekezdés"
+
+msgid "Call to action button color"
+msgstr "Az \"akciógomb\" színe"
+
+msgid "Blue"
+msgstr "Kék"
+
+msgid "Green"
+msgstr "Zöld"
+
+msgid "Orange"
+msgstr "Narancs"
+
+msgid "Red"
+msgstr "Piros"
+
+msgid "Grey"
+msgstr "Szürke"
+
+msgid "Black"
+msgstr "Fekete"
+
+msgid "White"
+msgstr "Fehér"
+
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgid "Color of the homepage call to action button."
+msgstr "A kezdőlapon megjelenő \"akciógomb\" színe."
+
+msgid "Call to action outline style button"
+msgstr "Az \"akciógomb\" külső stílua"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "Engedélyezze, hogy külső stílust adjon meg a kezdőlapi \"akciógombnak\"."
+
+msgid "Call to action functionality"
+msgstr "Akciógomb funkció"
+
+msgid "Trigger uploader"
+msgstr "Feltöltő aktiválása"
+
+msgid "Open URL"
+msgstr "Link megnyitása"
+
+msgid "Call to action URL"
+msgstr "Akciógomb URL"
+
+msgid "Enter an absolute or relative URL"
+msgstr "Adjon meg egy abszolút vagy relatív URL-t"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "Egy relatív URL mint például %r lesz hozzárendelve a következőhöz: %l"
+
+msgid "Call to action HTML"
+msgstr "Akciógomb HTML"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "Ez lesz hozzáadva az akciógomb <a> tagjához. Hagyja üresen az alapértelmezett tartalom használatához."
+
+msgid "User IDs"
+msgstr "Felhasználó azonosítók"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Az ön felhasználó azonosítója: %s"
+
+msgid "Enable uploads"
+msgstr "Feltöltések engedélyezése"
+
+msgid "Guest uploads"
+msgstr "Vendég feltöltés"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Engedélyezze ha szeretné, hogy nem regisztrált felhasználók is tudjanak feltölteni."
+
+msgid "Enable embed codes (uploader)"
+msgstr "Beillesztő kódok engedélyezése (feltöltő)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Engedélyezze, ha szeretné megjeleníttetni a beillesztő kódokat a feltöltés végén."
+
+msgid "Enable expirable uploads"
+msgstr "Automatikusan törlődő feltöltések engedélyezése"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Engedélyezze, ha szeretné, hogy a feltöltésekhez megadható legyen automatikus törlési időpont."
+
+msgid "Image Exif data"
+msgstr "Kép Exif adatok"
+
+msgid "Keep"
+msgstr "Megőriz"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Válassza ki az alapértelmezett beállításokat a kép <a %s>Exif adataihoz</a> feltöltéskor."
+
+msgid "Image Exif data (user setting)"
+msgstr "Kép Exif adatai (felhasználói beállítás)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Engedélyezze, ha szeretné, hogy a felhasználók maguk állíthassák be az Exif beállításokat."
+
+msgid "Image path"
+msgstr "A képek útvonala"
+
+msgid "Relative to Chevereto root"
+msgstr "Relatív a Chevereto gyökérkönyvtárához"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Hol tároljuk a képeket? Az útvonal relatív kell legyen a Chevereto gyökérkönyvtárához."
+
+msgid "Storage mode"
+msgstr "Tároló mód"
+
+msgid "Datefolders"
+msgstr "Dátum mappák"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "A dátum mappák a következő struktúrát hozzák létre: %s"
+
+msgid "File naming method"
+msgstr "Fájl elnevezési módszer"
+
+msgid "Original"
+msgstr "Eredeti"
+
+msgid "Mix original + random"
+msgstr "Az eredeti és véletlen keverése"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "Az \"eredeti\" megpróbálja megtartani a kép eredeti nevét míg a \"véletlen\" generál egy vegyes karakterekből álló nevet. Az \"ID\" elnevezi a képet egy azonosító alapján."
+
+msgid "Thumb size"
+msgstr "Miniatűrök mérete"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "A miniatűrök ekkora méretben fognak megjelenni."
+
+msgid "Expires"
+msgstr "Lejár"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "A bannolt IP cím tulajdonosa képtelen lesz hozzáférni a weboldalhoz."
+
+msgid "Default language"
+msgstr "Alapértelmezett nyelv"
+
+msgid "Default base language to use."
+msgstr "Az alapértelmezetten használt nyelv."
+
+msgid "Auto language"
+msgstr "Automata nyelvváltás"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "Engedélyezze, ha szeretné, hogy a felhasználók számára automatikusan beállításra kerüljön az oldalon használt nyelv."
+
+msgid "Language chooser"
+msgstr "Nyelvválasztó"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "Engedélyezze, ha szeretné engedélyezni a nyelvválasztást."
+
+msgid "Enabled languages"
+msgstr "Engedélyezett nyelvek"
+
+msgid "List items per page"
+msgstr "Oldalak szerinti listázás"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Hány elem kerüljön megjelenítésre a listázás során."
+
+msgid "List pagination mode"
+msgstr "Képek lapozásának módja"
+
+msgid "Endless scrolling"
+msgstr "Végtelen görgetés"
+
+msgid "Classic pagination"
+msgstr "Klasszikus lapozás"
+
+msgid "What pagination method should be used."
+msgstr "Kiválaszthatja az önnek leginkább tetsző navigációs megoldást."
+
+msgid "Image listing size"
+msgstr "Kép listázás méret"
+
+msgid "Fixed"
+msgstr "Fix"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "Mind a két opció fix szélességet használ, a \"fluid\" azonban automatán számolja ki a magasságot."
+
+msgid "Listing columns number"
+msgstr "Képlista oszlopszáma"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Itt beállíthatja hány oszlop jelenjen meg az eszközökön."
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Desktop"
+msgstr "Asztali gép"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "A weboldal logójának vektoros változata SVG formátumban."
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "A logó hétköznapi verziója. Az ajánlott formátum a PNG."
+
+msgid "Logo height"
+msgstr "Logo magasság"
+
+msgid "No value"
+msgstr "Nincs érték"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Itt állíthatja be a logo magasságát, ha szükséges."
+
+msgid "Favicon image"
+msgstr "A favicon képe"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Favicon kép. A magasságnak és szélességnek egyeznie kell."
+
+msgid "Page title"
+msgstr "Oldal címe"
+
+msgid "Page status"
+msgstr "Oldal státusza"
+
+msgid "Active page"
+msgstr "Aktív oldal"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Inaktív oldal (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "Csak az aktív oldalak érhetőek el."
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Contact"
+msgstr "Kapcsolatok"
+
+msgid "Page visibility"
+msgstr "Oldal láthatósága"
+
+msgid "Visible page"
+msgstr "Látható oldal"
+
+msgid "Hidden page"
+msgstr "Rejtett oldal"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "A rejtett oldalak nem látszanak a menüben, de a linkkel rendelkezők meg tudják nyitni őket."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Csak betűk, számok, kötőjel és perjel (/)"
+
+msgid "File path"
+msgstr "Fájl útvonal"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "Egy %f fájl relatív a következőhöz: %s"
+
+msgid "Meta keywords"
+msgstr "Meta kulcsszavak"
+
+msgid "Meta description"
+msgstr "Meta leírás"
+
+msgid "Source code"
+msgstr "Forráskód"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Nincs írási engedély a(z) %s útvonalhoz tehát külső szerkesztő segítségével kell hozzáadnia ezt a fájlt."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Nincs írási engedély a(z) %s fájlhoz tehát külső szerkesztő segítségével kell módosítania a tartalmát."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Származási hely: %s"
+
+msgid "Link target attribute"
+msgstr "Link cél attribútum (target)"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Válassza ki a(z) %s értéket az oldal vagy link új ablakban történő megnyitásához."
+
+msgid "Link rel attribute"
+msgstr "Link rel attribútum"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Csak betűk, számok, kötőjel és szóközök"
+
+msgid "Link icon"
+msgstr "Link ikon"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Tekintse meg a(z) <a %s> ikon útmutatót</a> a támogatott ikonok teljes listájáért."
+
+msgid "Sort order display"
+msgstr "Megjelenítési sorrend"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "Az oldalak megjelenítési sorrendje a menüben és a listákban. Adja meg az \"1\" értéket a magasabb prioritáshoz."
+
+msgid "Maintenance"
+msgstr "Karbantartás"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "Ez a 'salt' konvertálja a numerikus azonosítót alfanumerikussá. A telepítéskor került létrehozásra."
+
+msgid "Debug level"
+msgstr "Hibakeresési szint"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "Error log"
+msgstr "Hibák logolása"
+
+msgid "Print errors without error log"
+msgstr "Hibák megjelenítése logolás nélkül"
+
+msgid "Print and log errors"
+msgstr "Mutassa és logolja is a hibákat"
+
+msgid "Enable download button"
+msgstr "A letöltés gomb engedélyezése"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Engedélyezze, ha szeretné, hogy megjelenjen a letöltés gomb a képek mellett."
+
+msgid "Enable right click on image"
+msgstr "Jobb kattintás engedélyezése a képeken"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Engedélyezze, ha szeretné, hogy engedélyezett legyen a jobb kattintás a képmegjelenítő felületen."
+
+msgid "Enable show Exif data"
+msgstr "Exif adatok mutatásának engedélyezése"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Engedélyezze, ha szeretné, hogy megjelenjenek az Exif adatok."
+
+msgid "Enable social share"
+msgstr "Közösségi megosztás engedélyezése"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Engedélyezze, ha szeretné megjeleníteni a közösségi megosztás gombokat."
+
+msgid "Enable embed codes (content)"
+msgstr "Beillesztő kódok engedélyezése (tartalom)"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Engedélyezze, ha szeretné megjeleníteni a beillesztő kódokat a tartalomhoz."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "Lehetőség a korhatáros tartalom megjelölésére a feltöltés során"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Engedélyezze, ha szeretne megjeleníteni egy kiválasztó gombot a korhatáros tartalom megjelölésére feltöltések esetén."
+
+msgid "Custom CSS code"
+msgstr "Saját CSS kód"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Ide írja a saját CSS kódját. Ez <style> formátumban kerül beillesztésre a záró </head> tag elé."
+
+msgid "Custom JS code"
+msgstr "Saját JS kód"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Ide írja a saját JS kódját. Ez <script> formátumban kerül beillesztésre a záró </head> tag elé."
+
+msgid "Send test email"
+msgstr "Teszt e-mail küldése"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Használja ezt a beépített tesztet, hogy kipróbálja a rendszerüzenetek küldését. Az ajánlott módszer: %s."
+
+msgid "Additional settings"
+msgstr "További beállítások"
+
+msgid "Enable signups"
+msgstr "Regisztráció engedélyezése"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Engedélyezze, ha szeretné, hogy a látogatók regisztrálhassanak."
+
+msgid "Require email confirmation"
+msgstr "E-mail megerősítés szükséges"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Engedélyezze, ha szeretné, hogy a felhasználóknak meg kelljen erősíteni az e-mail címüket regisztrációkor."
+
+msgid "Require email for social signup"
+msgstr "E-mail szükséges a közösségi oldalakkal történő regisztrációhoz."
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Engedélyezze, ha a közösségi oldalakon át érkező regisztrációkhoz szükséges legyen e-mail cím megadása."
+
+msgid "User avatar max. filesize"
+msgstr "Felhasználó avatárjának maximális fájlmérete"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "A maximális engedélyezett méret a felhasználó avatárjához. (A szerver által engedélyezett maximum: %s)"
+
+msgid "User background max. filesize"
+msgstr "A felhasználó hátterének maximális fájlmérete"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "A maximális engedélyezett méret a felhasználó hátteréhez. (A szerver által engedélyezett maximum: %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Engedélyezze, ha szeretne logót vagy képet elhelyezni a feltöltéseken."
+
+msgid "Watermark user toggles"
+msgstr "Vízjel felhasználó beállításai"
+
+msgid "Enable watermark on guest uploads"
+msgstr "Vízjel engedélyezése a vendég feltöltéseknél"
+
+msgid "Enable watermark on user uploads"
+msgstr "Vízjel engedélyezése a felhasználók feltöltéseinél"
+
+msgid "Enable watermark on admin uploads"
+msgstr "Vízjel engedélyezése az admin feltöltéseinél"
+
+msgid "Watermark file toggles"
+msgstr "Vízjel fájl beállításai"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Vízjel engedélyezése a GIF feltöltéseknél"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "A vízjelhez szükséges minimális képméret"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Az ennél kisebb méretű képekre nem fog kerülni vízjel. Adjon meg nullát (0), ha nem szeretne beállítani méretkorlátozást."
+
+msgid "Watermark image"
+msgstr "Vízjel képe"
+
+msgid "Watermark position"
+msgstr "A vízjel pozíciója"
+
+msgid "left top"
+msgstr "bal felül"
+
+msgid "left center"
+msgstr "bal középen"
+
+msgid "left bottom"
+msgstr "bal alul"
+
+msgid "center top"
+msgstr "középen felül"
+
+msgid "center center"
+msgstr "közép közép"
+
+msgid "center bottom"
+msgstr "közép alul"
+
+msgid "right top"
+msgstr "jobb felül"
+
+msgid "right center"
+msgstr "jobb középen"
+
+msgid "right bottom"
+msgstr "jobb alul"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "A vízjel képének relatív pozíciója. Az első érték a horizontális, a második a vertikális pozíció."
+
+msgid "Watermark percentage"
+msgstr "Vízjel mérete"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "A vízjel százalékos mérete a képhez viszonyítva. Megadható érték: 1-100."
+
+msgid "Watermark margin"
+msgstr "A vízjel margója"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Margó a kép szélétől számítva a vízjelig."
+
+msgid "Watermark opacity"
+msgstr "Vízjel átlátszósága"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "A vízjel átlátszósága a végső vízjelezett képen. Az értéke 0 és 100 között lehet."
+
+msgid "Website name"
+msgstr "Weboldal neve"
+
+msgid "Website doctitle"
+msgstr "Weboldal címe (doctitle)"
+
+msgid "Website description"
+msgstr "Weboldal meta leírása"
+
+msgid "Default time zone"
+msgstr "Alapértelmezett időzóna"
+
+msgid "Select region"
+msgstr "Régió kiválasztása"
+
+msgid "Website mode"
+msgstr "Weboldal mód"
+
+msgid "You can switch the website mode anytime."
+msgstr "Bármikor megváltoztathatja a weboldal üzemmódját."
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "Egyedi hozzárendelés (/felhasználónév -> /valami). A kezdőlaphoz rendeléshez írjon perjelet \"/\"."
+
+msgid "Website privacy mode"
+msgstr "Weboldal tartalomkorlátozási módja"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "A privát mód csak a regisztrált felhasználók számára teszi elérhetővé a weboldalt."
+
+msgid "Content privacy mode"
+msgstr "Privát tartalom mód"
+
+msgid "Force private (self)"
+msgstr "Kényszerített privát"
+
+msgid "Force private (anyone with the link)"
+msgstr "Kényszerített privát (csak a linkkel rendelkező felhasználóknak)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "A kényszerített tartalom mód felülírja a felhasználó által kiválasztott módot."
+
+msgid "Role"
+msgstr "Jogosultság"
+
+msgid "Email address"
+msgstr "E-mail cím"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Hozzáadva a következőhöz: %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Feltöltve a következőbe: %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Feltöltés ideje: %s"
+
+msgid "Less Exif data"
+msgstr "Kevesebb Exif adat"
+
+msgid "More Exif data"
+msgstr "Több Exif adat"
+
+msgid "Add IP ban"
+msgstr "IP ban hozzáadása"
+
+msgid "Upload and share your images."
+msgstr "Töltse fel képeit és ossza meg őket a világgal."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Húzza a képeket ahová csak szeretné és kezdje el feltölteni őket most! (Korlát: %s). Direkt linkek, BBCode-ok, HTML miniatűrök és még megannyi hasznos funkció."
+
+msgid "Sign up to unlock all the features"
+msgstr "Regisztráljon, hogy hozzáférhessen az összes funkcióhoz"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Töltse fel képeit, hozzon létre privát albumokat, szabja testre a profilját és fedezzen fel még több egyedi funkciót."
+
+msgid "Logged out"
+msgstr "Kijelentkezett"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Kilépett a %s oldalról. A mihamarabbi viszontlátásra!"
+
+msgid "Website under maintenance"
+msgstr "A weboldal karbantartás alatt áll"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Éppen változtatásokat végzünk a motorháztető alatt, frissítünk, újítunk, javítunk. Még néhány perc és újra elérhetőek leszünk."
+
+msgid "Valid"
+msgstr "Aktivált"
+
+msgid "Banned"
+msgstr "Tiltott"
+
+msgid "Awaiting email"
+msgstr "E-mail-re vár"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "Engedélyezett karakterek: %i - %f <br>Számok, betűk és \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Feltöltések automatikus törlése"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "Ez a beállítás az összes feltöltésere alapértelmezetten érvényes lesz. A beállítás felülírható minden egyes feltöltés esetében."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "A kép <a %s>Exif adatainak</a> megtartása feltöltéskor"
+
+msgid "Newsletter"
+msgstr "Hírlevél"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Szeretnék hírlevelet kapni a(z) %s újdonságaival kapcsolatban"
+
+msgid "Content settings"
+msgstr "Tartalmi beállítások"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Mutassa a korhatáros tartalmat a képek között (mások feltöltései esetében)"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Timezone"
+msgstr "Időzóna"
+
+msgid "User has no connections."
+msgstr "A felhasználónak nincsenek kapcsolatai."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Biztos benne, hogy lecsatlakoztatja %s -t erről a fiókról?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Ez a fiók a következőhöz van kapcsolva: %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Biztos, hogy lecsatlakozik az ön %s fiókjáról?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Kiléptetésre kerül és nem fog tudni bejelentkezni a fiókjába a %s fiók segítségével."
+
+msgid "Button"
+msgstr "Gomb"
+
+msgid "Current password"
+msgstr "Jelenlegi jelszó"
+
+msgid "Enter your current password"
+msgstr "Írja be a jelenlegi jelszavát"
+
+msgid "New password"
+msgstr "Új jelszó"
+
+msgid "Confirm new password"
+msgstr "Erősítse meg az új jelszót"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Adjon meg egy jelszót, hogy be tudjon jelentkezni a felhasználónevével vagy e-mail címével."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Ennek a felhasználónak nincs jelszava. Adjon meg egyet az űrlap kitöltésével."
+
+msgid "Enter your password"
+msgstr "Írja be a jelszavát"
+
+msgid "Confirm password"
+msgstr "Jelszó megerősítése"
+
+msgid "Re-enter your password"
+msgstr "A jelszó még egyszer"
+
+msgid "This is your real name, not your username."
+msgstr "Ez a valódi neve, nem a felhasználóneve."
+
+msgid "Bio"
+msgstr "Rólam"
+
+msgid "Tell us a little bit about you"
+msgstr "Mondjon egy pár szót magáról"
+
+msgid "resend account activation"
+msgstr "aktiváló e-mail újraküldése"
+
+msgid "Upload profile background"
+msgstr "Profil háttérkép feltöltése"
+
+msgid "Change background"
+msgstr "Háttér megváltoztatása"
+
+msgid "Upload new image"
+msgstr "Új kép feltöltése"
+
+msgid "Delete background"
+msgstr "Háttér törlése"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Követő"
+msgstr[1] "Követők"
+
+msgid "Follow"
+msgstr "Követés"
+
+msgid "General questions/comments"
+msgstr "Általános kérdések/reakciók"
+
+msgid "DMCA complaint"
+msgstr "Jogi bejelentés/kép törlési kérelem"
+
+msgid "Invalid message"
+msgstr "Érvénytelen üzenet"
+
+msgid "Invalid subject"
+msgstr "Érvénytelen tárgy"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Üzenet elküldve. Hamarosan válaszolni fogunk."
+
+msgid "Your name"
+msgstr "A neved"
+
+msgid "Subject"
+msgstr "Tárgy"
+
+msgid "Send"
+msgstr "Küldés"
+

@@ -1,0 +1,1339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Απαγορεύεται να χρησιμοποιήσετε αυτή την ιστοσελίδα."
+
+msgid "View all my images"
+msgstr "Δείτε όλες τις φωτογραφίες μου"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Διστάσετε να περιηγηθείτε και να ανακαλύψουν όλες τις κοινές φωτογραφίες και τα άλμπουμ μου."
+
+msgid "Request denied"
+msgstr "Το αίτημα αρνήθηκε"
+
+msgid "That page doesn't exist"
+msgstr "Αυτή η σελίδα δεν υπάρχει"
+
+msgid "Forgot password?"
+msgstr "Ξεχάσατε τον κωδικό;"
+
+msgid "Reset password"
+msgstr "Επαναφορά κωδικού"
+
+msgid "Resend account activation"
+msgstr "Αποστολή κωδικού ενεργοποίησης ξανά"
+
+msgid "Add your email address"
+msgstr "Προσθέστε το email σας"
+
+msgid "Awaiting confirmation"
+msgstr "Αναμονή επιβεβαίωσης"
+
+msgid "Email changed"
+msgstr "Το email άλλαξε"
+
+msgid "Invalid Username/Email"
+msgstr "Λάθος όνομα χρήστη/κωδικός"
+
+msgid "User doesn't have an email."
+msgstr "Ο χρήστης δεν έχει email."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Ο λογαριασμός χρειάζεται να ενεργοποιηθεί για να χρησιμοποιήσετε αυτή την δυνατότητα."
+
+msgid "Account already activated"
+msgstr "Ο λογαριασμός έχει ήδη ενεργοποιηθεί."
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Δώστε 15 λεπτά στο email. Μπορείτε να προσπαθήσετε ξανά αργότερα"
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Διαγραφή κωδικού στο %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Απαιτείται επιβεβαίωση στο %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Καλώς ήρθατε στο %s"
+
+msgid "Invalid password"
+msgstr "Μη έγκυρος κωδικός"
+
+msgid "Passwords don't match"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+msgid "Invalid email"
+msgstr "Μη έγκυρο email"
+
+msgid "Email already being used"
+msgstr "Το email χρησιμοποιείτε ήδη"
+
+msgid "Check the errors in the form to continue."
+msgstr "Ελέγξτε τα λάθη στη φόρμα για να συνεχίσετε"
+
+msgid "Embed codes"
+msgstr "Επισυναπτόμενος κώδικας(embed)"
+
+msgid "%a album hosted in %w"
+msgstr "%a άλμπουμ που φιλοξενείται σε %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "εικόνα"
+msgstr[1] "εικόνες"
+
+msgid "Stats"
+msgstr "Στατιστικά"
+
+msgid "Images"
+msgstr "Εικόνες"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Αλμπουμ"
+msgstr[1] "Αλμπουμ"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Χρήστης"
+msgstr[1] "Χρήστες"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Listings"
+msgstr "Καταχωρήσεις"
+
+msgid "Image upload"
+msgstr "Μεταφόρτωση εικόνας"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Theme"
+msgstr "Θέμα"
+
+msgid "System"
+msgstr "Σύστημα"
+
+msgid "Languages"
+msgstr "Γλώσσες"
+
+msgid "External storage"
+msgstr "Εξωτερικός χώρος αποθήκευσης"
+
+msgid "Homepage"
+msgstr "Αρχική"
+
+msgid "External services"
+msgstr "Εξωτερικές υπηρεσίες"
+
+msgid "Flood protection"
+msgstr "Προστασία υπερχείλισης"
+
+msgid "Banners"
+msgstr "Διαφημίσεις"
+
+msgid "IP bans"
+msgstr "Αποκλεισμένες IP"
+
+msgid "PHP version"
+msgstr "Έκδοση PHP"
+
+msgid "Server"
+msgstr "Διακομιστής"
+
+msgid "MySQL version"
+msgstr "Έκδοση MySQL"
+
+msgid "MySQL server info"
+msgstr "Πληροφορίες διακομιστή MySQL"
+
+msgid "File uploads"
+msgstr "Μεταφορτώσεις αρχείων"
+
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+msgid "Max. execution time"
+msgstr "Μεγ. χρόνος εκτέλεσης"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d δευτερόλεπτο"
+msgstr[1] "%d δευτερόλεπτα"
+
+msgid "Memory limit"
+msgstr "Όριο μνήμης"
+
+msgid "Local"
+msgstr "Τοπικά"
+
+msgid "External"
+msgstr "Εξωτερικά"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "search content"
+msgstr "αναζήτηση περιεχομένων"
+
+msgid "After header (image page)"
+msgstr "Μετά από το  header (εικόνα σελίδας)"
+
+msgid "Footer (image page)"
+msgstr "Footer (εικόνα σελίδας)"
+
+msgid "Explore"
+msgstr "Αναζήτηση"
+
+msgid "Invalid website name"
+msgstr "Λανθασμένο όνομα ιστοσελίδας"
+
+msgid "Invalid language"
+msgstr "Λανθασμένη γλώσσα"
+
+msgid "Invalid timezone"
+msgstr "Λανθασμένη ζώνη ώρας"
+
+msgid "Invalid upload storage mode"
+msgstr "Λανθασμένος τρόπος αποθήκευσης αρχείου μεταφόρτωσης"
+
+msgid "Invalid upload filenaming"
+msgstr "Λανθασμένη ονομασία αρχείου μεταφόρτωσης"
+
+msgid "Invalid thumb width"
+msgstr "Λάθος μήκος"
+
+msgid "Invalid thumb height"
+msgstr "Λάθος ύψος μικρογραφίας"
+
+msgid "Invalid theme"
+msgstr "Λάθος θέμα"
+
+msgid "Invalid value"
+msgstr "Λανθασμένη τιμή"
+
+msgid "Invalid theme image listing size"
+msgstr "Λάθος μέγεθος εικόνας θέματος"
+
+msgid "Invalid user id"
+msgstr "Λάθος ταυτότητα χρήστη"
+
+msgid "Invalid email mode"
+msgstr "Λάθος τρόπος λειτουργίας email"
+
+msgid "Invalid SMTP port"
+msgstr "Λάθος θύρα SMTP"
+
+msgid "Invalid SMTP security"
+msgstr "Λάθος ασφάλειας SMTP"
+
+msgid "Invalid website mode"
+msgstr "Λάθος μορφή ιστοσελίδας"
+
+msgid "Invalid website privacy mode"
+msgstr "Άκυρο ιστότοπος της ιδιωτικής ζωής"
+
+msgid "Invalid website content privacy mode"
+msgstr "Λάθος περιεχόμενο ιδιωτικότητας ιστοσελίδας"
+
+msgid "Invalid homepage style"
+msgstr "Άκυρη στυλ αρχική σελίδα"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Άκυρη αρχική σελίδα κλήση στο χρώμα κουμπί δράσης"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Άκυρη αρχική σελίδα πρόσκληση προς τη λειτουργικότητα δράση"
+
+msgid "Invalid URL"
+msgstr "Λάθος λινκ"
+
+msgid "Invalid upload image path"
+msgstr "Λάθος διαδρομή ανεβάσματος εικόνας"
+
+msgid "Invalid call to action URL"
+msgstr "Άκυρη κλήση στο URL δράση"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Μεγ. επιτρεπόμενο %s"
+
+msgid "Invalid SMTP server"
+msgstr "Λάθος διακομιστής SMTP"
+
+msgid "Invalid SMTP username"
+msgstr "Λάθος όνομα χρήστη SMTP"
+
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+msgid "About"
+msgstr "Περί"
+
+msgid "Image ID"
+msgstr "Ταυτότητα εικόνας"
+
+msgid "Upload date"
+msgstr "Ημερομηνία ανεβάσματος"
+
+msgid "Image %i in %a album"
+msgstr "Εικόνα %i στο %a άλμπουμ"
+
+msgid "Image %i in %c category"
+msgstr "Εικόνα %i στην %c κατηγορία"
+
+msgid "Image %i hosted in %w"
+msgstr "Εικόνα %i φιλοξενείται στο %a"
+
+msgid "Direct links"
+msgstr "Απευθείας λινικ"
+
+msgid "Image link"
+msgstr "Λινκ εικόνας"
+
+msgid "Image URL"
+msgstr "Διέυθυνση εικόνας"
+
+msgid "Thumbnail URL"
+msgstr "Μικρογραφία εικόνας"
+
+msgid "Medium URL"
+msgstr "Μεσαίο URL"
+
+msgid "Start uploading"
+msgstr "Ξεκίνησε το ανέβασμα"
+
+msgid "Login needed"
+msgstr "Χρειάζεται είσοδος"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Εικόνα"
+msgstr[1] "Εικόνες"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "IP address already banned"
+msgstr "Η IP είναι ήδη αποκλεισμένη"
+
+msgid "Missing values"
+msgstr "Λείπουν αξίες"
+
+msgid "Invalid username"
+msgstr "Μη έγκυρο όνομα χρήστη"
+
+msgid "Invalid role"
+msgstr "Λάθος ρόλος"
+
+msgid "Username already being used"
+msgstr "Το όνομα χρήστη χρησιμποιείτε ήδη"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s αποσυνδέθηκε."
+
+msgid "Wrong Username/Email password combination"
+msgstr "Λανθασμένος συνδυασμός ονόματος χρήστη/κωδικού πρόσβασης"
+
+msgid "Sign in"
+msgstr "Είσοδος"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Password"
+msgstr "Κωδικός"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Αποστάλθηκε ένα email στη διεύθυνση %s με οδηγίες για την ενεργοποίηση αυτού του email"
+
+msgid "Invalid name"
+msgstr "Λάθος όνομα"
+
+msgid "Invalid website"
+msgstr "Λάθος ιστοσελίδα"
+
+msgid "Wrong password"
+msgstr "Λάθος κωδικός πρόσβασης"
+
+msgid "Use a new password"
+msgstr "Χρησιμοποιήστε ένα νέο κωδικό πρόσβασης"
+
+msgid "Changes have been saved."
+msgstr "Οι αλλαγές αποθηκέυτηκαν"
+
+msgid "Password has been changed"
+msgstr "Ο κωδικός πρόσβασης άλλαξε"
+
+msgid "Password has been created."
+msgstr "Ο κωδικός δημιουργήθηκε"
+
+msgid "Wrong Username/Email values"
+msgstr "Λάθος τιμές για όνομα χρήστη/email"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Ρυθμίσεις για %s"
+
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgid "Delete user"
+msgstr "Διαγραφή χρήστη"
+
+msgid "User ID"
+msgstr "Ταυτότητα Χρήστη"
+
+msgid "Register date"
+msgstr "Ημερ. εγγραφής"
+
+msgid "Create account"
+msgstr "Δημιουργία λογαριασμού"
+
+msgid "Upload"
+msgstr "Ανέβασμα"
+
+msgid "Albums"
+msgstr "Άλμπουμ"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) άλμπουμ στο %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) στο %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "άλμπουμ"
+msgstr[1] "άλμπουμ"
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Σημείωση: Αυτό το περιεχόμενο είναι ιδιωτικό. Αλλάξτε την ιδιωτικότητα σε \"δημόσιο\" για να το μοιραστείτε."
+
+msgid "Public"
+msgstr "Δημίσιο"
+
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "λεπτό"
+msgstr[1] "λεπτά"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ώρα"
+msgstr[1] "ώρες"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "μέρα"
+msgstr[1] "μέρες"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "εβδομάδα"
+msgstr[1] "εβδομάδες"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "μήνας"
+msgstr[1] "μήνες"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "έτος"
+msgstr[1] "έτη"
+
+msgid "Duplicated upload"
+msgstr "Διπλασιασμος μεταφόρτωση"
+
+msgid "Private upload"
+msgstr "Ιδιωτικό ανέβασμα"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "προβολή"
+msgstr[1] "προβολές"
+
+msgid "Most recent"
+msgstr "Πρόσφατο"
+
+msgid "Oldest"
+msgstr "Παλαιότερο"
+
+msgid "Most viewed"
+msgstr "Περισσότερες προβολές"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Η χωρητικότητα αποθήκευσης δεν μπορεί να είναι μικρότερη από την τρέχουσα χρησιμοποιούμενη (%s)."
+
+msgid "Unlimited"
+msgstr "Απεριόριστα"
+
+msgid "used"
+msgstr "σε χρήση"
+
+msgid "Share"
+msgstr "Μοιραστείτε το"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "δευτερόλεπτο"
+msgstr[1] "δευτερόλεπτα"
+
+#, php-format
+msgid "%s ago"
+msgstr "Πριν από %s"
+
+msgid "moments ago"
+msgstr "πριν λίγο"
+
+msgid "Random"
+msgstr "Τυχαία"
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "Advanced search"
+msgstr "Προχωρημένη αναζήτηση"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Σημειώσεις (%s)"
+
+msgid "loading"
+msgstr "Φόρτωση"
+
+msgid "My Profile"
+msgstr "Το προφίλ μου"
+
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+msgid "Sign out"
+msgstr "Αποσύνδεση"
+
+msgid "You must enter the album name."
+msgstr "Πρέπει να δώσετε ένα όνομα στο άλμπουμ."
+
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+msgid "Select existing album"
+msgstr "Επιλογή υπάρχον άλμπουμ"
+
+msgid "An error occurred. Please try again later."
+msgstr "Συνέβη κάποιο λάθος. Παρακαλώ δοκιμάστε ξανά αργότερα."
+
+msgid "Please select a valid image file type."
+msgstr "Παρακαλώ επιλέξτε έναν έγκυρο τύπο αρχείου."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Παρακαλώ επιλέξτε μια φωτογραφία με μέγιστο μέγεθος %s."
+
+msgid "Profile image updated."
+msgstr "Η εικόνα του προφίλ ενημερώθηκε."
+
+msgid "Profile background image updated."
+msgstr "Εικόνα φόντου προφίλ αλλάχτηκε."
+
+msgid "Profile background image deleted."
+msgstr "Η εικόνα ταπετσαρίας του προφίλ διαγράφηκε."
+
+msgid "Error deleting profile background image."
+msgstr "Λάθος κατά την διαγραφή εικόνας φόντου προφίλ"
+
+msgid "Create album"
+msgstr "Δημιουργία άλμπουμ"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "File too big."
+msgstr "Πολύ μεγάλο αρχείο."
+
+msgid "Some files couldn't be added"
+msgstr "Κάποια αρχεία δε μπορούσαν να προστεθούν"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "Αλμπουμ του %s"
+
+msgid "Image edited successfully."
+msgstr "Η εικόνα διορθώθηκε επιτυχώς."
+
+msgid "private"
+msgstr "ιδιωτικό"
+
+msgid "The content has been edited."
+msgstr "Το περιεχόμενο επεγεργάστηκε."
+
+msgid "Invalid URL key."
+msgstr "Λάθος κλειδί URL."
+
+msgid "Category URL key already being used."
+msgstr "Το κλειδί κατηγορίας URL χρησιμοποιείτε ήδη."
+
+msgid "Category successfully deleted."
+msgstr "Η κατηγορία διαγράφηκε επιτυχώς."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "Η κατηγορία %s προστέθηκε."
+
+msgid "Invalid expiration date."
+msgstr "Μη έγκυρη ημερομηνία λήξης."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "Η διέυθυνση IP %s έχει ήδη αποκλειστεί."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "Η διέυθυνση IP %s αποκλείστηκε."
+
+msgid "IP ban successfully deleted."
+msgstr "Η διέυθυνση IP διαγράφηκε επιτυχώς."
+
+msgid "Please fill all the required fields."
+msgstr "Παρακαλώ συμπληρώστε όλα τα απαραίτητα πεδία."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Μη έγκυρη τιμή χωρητικότητας αποθήκευσης. Βεβαιωθείτε ότι χρησιμοποιείτε μια έγκυρη μορφή."
+
+msgid "Invalid URL."
+msgstr "Μη έγκυρη διεύθυνση URL."
+
+msgid "Storage successfully edited."
+msgstr "Αποθήκευση επεξεργάστηκε με επιτυχία."
+
+msgid "The content has been deleted."
+msgstr "Το περιεχόμενο έχει διαγραφεί."
+
+msgid "The content has been moved."
+msgstr "Το περιεχόμενο μετακινήθηκε."
+
+msgid "Select"
+msgstr "Επιλογή"
+
+msgid "Unselect"
+msgstr "Αποεπιλογή"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Όλες οι αλλαγές που κάνατε θα χαθούν αν συνεχίσετε."
+
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+msgid "Submit"
+msgstr "Αποστολή"
+
+msgid "Changes saved successfully."
+msgstr "Οι αλλαγές αποθηκέυτηκαν επιτυχώς."
+
+msgid "Go back to form"
+msgstr "Επιστροφή στην φόρμα"
+
+msgid "or"
+msgstr "ή"
+
+msgid "continue anyway"
+msgstr "συνέχεια έτσι κι αλλιώς"
+
+msgid "cancel"
+msgstr "ακύρωση"
+
+msgid "Saving"
+msgstr "Αποθήκευση"
+
+msgid "Sending"
+msgstr "Αποστολή"
+
+msgid "Confirm action"
+msgstr "Επιβεβαίωση ενέργειας"
+
+msgid "information"
+msgstr "πληροφορία"
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Για να ολοκληρώσετε την διαδικασία πρέπει να <a href=\"%s\">ενεργοποιήσετε το email σας</a>."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Για να ολοκληρώσετε την διαδικασία πρέπει να <a href=\"%s\">ενεργοποιήσετε τον λογαριασμό σας</a>."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Για σβήσιμο του κωδικού <a href=\"%s\">ακολούθησε αυτό το λινκ</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Γεια %n, καλώς ήρθες στο %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Τώρα που ο λογαριασμός σας είναι έτοιμος μπορείτε να απολαύσετε το ανέβασμα των εικόνων σας, να δημιουργήσετε άλμπουμ και να ορίσετε την ιδιωτικότητα του περιεχομένου σας καθώς και πολλά άλλα ωραία πράγματα που θα ανακαλύψετε."
+
+msgid "Thank you for joining"
+msgstr "Ευχαρισστούμε για τη συμμετοχή"
+
+msgid "This email was sent from %w %u"
+msgstr "Αυτό το email αποστάλθηκε από %w %u"
+
+msgid "Select the images to upload"
+msgstr "Διάλεξε τις εικόνες που θες να ανεβάσεις"
+
+msgid "Upload complete"
+msgstr "Το ανέβασμα ολοκληρώθηκε"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Επέλεξε εαν δεν είναι κατάλληλο για ανηλίκους"
+
+msgid "Not family safe upload"
+msgstr "Δεν είναι κατάλληλο για ανηλίκους"
+
+msgid "Uploading"
+msgstr "Ανεβαίνει"
+
+msgid "cancel remaining"
+msgstr "Ακύρωση υπολοίπων"
+
+msgid "learn more"
+msgstr "μάθε περισσότερα"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Ελέγξτε την <a data-modal=\"simple\" data-target=\"failed-upload-result\">αναφορά σφαλμάτων</a> για περισσότερες πληροφορίες."
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "optional"
+msgstr "προαιρετικά"
+
+msgid "Mark this if the image is not family safe"
+msgstr "Επιλέξτε αυτό, αν η εικόνα δεν είναι κατάλληλη για ανηλίκους"
+
+msgid "Flag as unsafe"
+msgstr "Σημείωση ως μη ασφαλές"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Add image URLs"
+msgstr "Προσθήκη λινκ εικόνων"
+
+msgid "Add the image URLs here"
+msgstr "Προσθήκη των λινκ εικόνων εδώ"
+
+msgid "Error report"
+msgstr "Λάθος αναφορά"
+
+msgid "Links"
+msgstr "Λινκ"
+
+msgid "Direct"
+msgstr "Απευθείας"
+
+msgid "HTML Codes"
+msgstr "Κώδικες HTML"
+
+msgid "HTML medium linked"
+msgstr "Σύνδεσμος HTML μεσαίας"
+
+msgid "HTML thumbnail linked"
+msgstr "Σύνδεσμος HTML μικρογραφίας"
+
+msgid "BBCode medium linked"
+msgstr "Σύνδεσμος BBCode μεσαίας"
+
+msgid "BBCode thumbnail linked"
+msgstr "Σύνδεσμος BBCode μικρογραφίας"
+
+msgid "Viewer links"
+msgstr "Προβολές Λινκ"
+
+msgid "All these words"
+msgstr "Όλες αυτές οι λέξεις"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Συμπλήρωσε τις απαραίτητες λέξεις: tri-colour rat terrier"
+
+msgid "This exact word or phrase"
+msgstr "Η ακριβής λέξη ή φράση"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Βάλε τις ακριβείς λέξεις στα εισαγωγικά: \"rat terrier\""
+
+msgid "None of these words"
+msgstr "Καμία από αυτές τις λέξεις"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Βάλε ένα αρνητικό πρόσημο λίγο πριν από τις λέξεις που δεν θες:  -rodent -\"Jack Russell\""
+
+msgid "Storage"
+msgstr "Αποθήκευση"
+
+msgid "IP address"
+msgstr "Διέυθυνση IP"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Who can view this content"
+msgstr "Ποιος μπορεί να δει αυτό το περιεχόμενο"
+
+msgid "Private (just me)"
+msgstr "Ιδιωτικό (μόνο εγώ)"
+
+msgid "Private (anyone with the link)"
+msgstr "Ιδιωτικό (ο καθένας με το σύνδεσμο)"
+
+msgid "URL key"
+msgstr "Κλειδί URL"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Μόνο γράμματα, νούμερα και απόστροφοι"
+
+msgid "Path"
+msgstr "Μονοπάτι"
+
+msgid "Expiration date"
+msgstr "Ημερομηνία λήξης"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "ΕΕΕΕ-ΜΜ-ΗΗ ΩΩ:ΛΛ:ΔΔ"
+
+msgid "Example"
+msgstr "Παράδειγμα"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Μέχρι ποιά ημερομηνία αυτή η IP θα πρέπει να είναι απαγορευμένη;Αφήστε το κενό για να μην λήξη ποτέ."
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Μήνυμα κειμένου , HTML, ή απευθείας λινκ"
+
+msgid "Storage name"
+msgstr "Όνομα αποθηκευτικού χώρου"
+
+msgid "Region"
+msgstr "περιοχή"
+
+msgid "Storage bucket"
+msgstr "κάδος αποθήκευσης"
+
+msgid "Key"
+msgstr "Κλειδί"
+
+msgid "Storage key"
+msgstr "Κλειδί αποθήκευσης"
+
+msgid "Secret"
+msgstr "Μυστικό"
+
+msgid "Storage secret"
+msgstr "Μυστικό αποθήκευσης"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Διέυθυνση ή Ip του σέρβερ αποθήκευσης"
+
+msgid "Server path"
+msgstr "Μονοπάτι σέρβερ"
+
+msgid "Server password"
+msgstr "Κωδικός σέρβερ"
+
+msgid "Storage capacity"
+msgstr "Χωρητικότητα αποθήκευσης"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Παράδειγμα: 20 GB, 1 TB, κτλ."
+
+msgid "Storage URL"
+msgstr "URL αποθήκευσης"
+
+msgid "view more"
+msgstr "δείτε περισσότερα"
+
+msgid "Load more"
+msgstr "Φορτώστε περισσότερα"
+
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+msgid "Clear selection"
+msgstr "Απαλοιφή επιλογής"
+
+msgid "Sign in with another account"
+msgstr "Είσοδος με διαφορετικό λογαριασμό"
+
+msgid "There's nothing to show here."
+msgstr "Δεν υπάρχει τίποτα για εμφάνιση εδώ."
+
+msgid "There is no categories."
+msgstr "Δεν υπάρχουν κατηγορίες."
+
+msgid "Confirm deletion"
+msgstr "Επιβεβαίωση διαγραφής"
+
+msgid "Guest"
+msgstr "Επισκέπτης"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Ή δεν έχεις την άδεια να εισέλθεις σε αυτή τη σελίδα ή το λίνκ έληξε."
+
+msgid "Go to homepage"
+msgstr "Πηγαίνετε στην αρχική σελίδα"
+
+msgid "The requested page was not found."
+msgstr "Η σελίδα που ζητήσατε δεν βρέθηκε."
+
+msgid "The user has been deleted"
+msgstr "Ο χρήστης έχει διαγραφεί"
+
+msgid "Your account is almost ready"
+msgstr "Ο λογαριασμός σας είναι σχεδόν έτοιμος"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Ένα email αποστάλθηκε προς την διεύθυνση %s με οδηγίες για την ενεργοποίηση του λογαριασμού σας. Ο σύνδεσμος ενεργοποίησης θα είναι ενεργός μόνο για 48 ώρες. Αν δεν λάβετε τις οδηγίες ελέγξτε τα σκουπίδια ή τα φίλτρα ανεπιθύμητης αλληλογραφίας."
+
+msgid "Resend activation"
+msgstr "Επαναποστολή ενεργοποίησης"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Αλλάξατε με επιτυχία το email του λογαριασμού σας σε %s"
+
+msgid "Go to my profile"
+msgstr "Πήγαινε στο προφίλ μου"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Ένας σύνδεσμος επιβεβαίωσης θα σταλεί σε αυτό το email με λεπτομέρειες για το πως να ενεργοποιήσετε τον λογαριασμό σας."
+
+msgid "Your email address"
+msgstr "To email σου"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Ένα email με οδηγίες για την επαναφορά του μυστικού κωδικού σας αποστάλθηκε προς την εγγεγραμμένη διεύθυνση email σας. Αν δεν λάβετε τις οδηγίες ελέγξτε τα σκουπίδια ή τα φίλτρα ανεπιθύμητης αλληλογραφίας."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "Ένα προηγούμενο email με οδηγίες για την επαναφορά του μυστικού κωδικού σας αποστάλθηκε. Αν δεν λάβετε τις οδηγίες ελέγξτε τα σκουπίδια ή τα φίλτρα ανεπιθύμητης αλληλογραφίας."
+
+msgid "Username or Email address"
+msgstr "Όνομα χρήστη ή διέυθυνση email"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Ο κωδικός πρόσβασής σας έχει αλλάξει. Τώρα μπορείτε να δοκιμάσετε να συνδεθείτε χρησιμοποιώντας το νέο κωδικό πρόσβασης."
+
+msgid "Login now"
+msgstr "Σύνδεση"
+
+msgid "Enter your new password"
+msgstr "Εισάγετε το νέο κωδικό πρόσβασής σας"
+
+#, php-format
+msgid "%d characters min"
+msgstr "ελάχιστοι χαρακτήρες %d"
+
+msgid "Re-enter your new password"
+msgstr "Εισάγετε ξανά το νέο κωδικό πρόσβασής σας"
+
+msgid "This content is private"
+msgstr "Το περιεχόμενο είναι ιδιωτικό"
+
+msgid "Check the errors to proceed."
+msgstr "Έλεγξε τα λάθη για να προχωρήσεις."
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "From name"
+msgstr "Από όνομα"
+
+msgid "Sender name for emails sent to users."
+msgstr "Όνομα αποστολέα για τα email που αποστέλλονται στους χρήστες."
+
+msgid "From email address"
+msgstr "Από την διεύθυνση email"
+
+msgid "Sender email for emails sent to users."
+msgstr "Email αποστολέα για τα email που αποστέλλονται στους χρήστες."
+
+msgid "Incoming email address"
+msgstr "Διεύθυνση εισερχόμενων email"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Παραλήπτης για την φόρμα επικοινωνίας και τις ειδοποιήσεις του συστήματος."
+
+msgid "Email mode"
+msgstr "Τρόπος λειτουργίας email"
+
+msgid "SMTP server and port"
+msgstr "Διακομιστής και θύρα SMTP"
+
+msgid "SMTP server"
+msgstr "Διακομιστής SMTP"
+
+msgid "SMTP username"
+msgstr "Όνομα χρήστη SMTP"
+
+msgid "SMTP password"
+msgstr "Κωδικός πρόσβασης SMTP"
+
+msgid "SMTP security"
+msgstr "Ασφάλεια SMTP"
+
+msgid "Unsecured"
+msgstr "Ανασφαλής"
+
+msgid "Comment code"
+msgstr "Κώδικας σχολίων"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook ή ότι άλλο θέλετε. Θα χρησιμοποιηθεί στην προβολή εικόνων."
+
+msgid "Analytics code"
+msgstr "Κώδικας στατιστικών"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics ή ότι άλλο θέλετε. Θα προστεθεί στο footer του θέματος."
+
+msgid "Twitter account"
+msgstr "Twitter λογαριασμός"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Εναλλαγή για να ενεργοποιήσετε ή να απενεργοποιήσετε το HTTPS"
+
+msgid "Quota"
+msgstr "Ποσόστωση"
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Storage method"
+msgstr "Μέθοδος αποθήκευσης"
+
+msgid "Disk used"
+msgstr "Δίσκος που χρησιμοποιήθηκε"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Η τοπική αποθήκευση χρησιμοποιείται από προεπιλογή ή όταν η εξωτερική μονάδα αποθήκευσης δεν είναι ενεργή."
+
+msgid "Notify to email"
+msgstr "Ειδοποίηση σε email"
+
+msgid "Minute limit"
+msgstr "Όριο ανά λεπτό"
+
+msgid "Hourly limit"
+msgstr "Ωριαίο όριο"
+
+msgid "Daily limit"
+msgstr "Ημερήσιο όριο"
+
+msgid "Weekly limit"
+msgstr "Εβδομαδιαίο όριο"
+
+msgid "Monthly limit"
+msgstr "Μηνιαίο όριο"
+
+msgid "Enable uploads"
+msgstr "Ενεργοποίηση uploads"
+
+msgid "Guest uploads"
+msgstr "Ανέβασμα από επισκέπτες"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Ενεργοποιήστε αυτό αν θέλετε μη εγγεγραμμένοι χρήστες να μπορούν να ανεβάσουν."
+
+msgid "Image path"
+msgstr "Διαδρομή εικόνων"
+
+msgid "Relative to Chevereto root"
+msgstr "Σε σχέση με την θέση του Chevereto"
+
+msgid "Storage mode"
+msgstr "Τρόπος αποθήκευσης"
+
+msgid "Datefolders"
+msgstr "Φάκελοι δεδομένων"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Οι φάκελοι δεδομένων δημιουργούν %s δομή"
+
+msgid "File naming method"
+msgstr "Μέθοδος ονοματοδοσίας αρχείων"
+
+msgid "Original"
+msgstr "Πρωτότυπο"
+
+msgid "Thumb size"
+msgstr "Μέγεθος μικρογραφίας"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Οι μικρογραφίες θα είναι σταθερές σε αυτό το μέγεθος."
+
+msgid "Default language"
+msgstr "Προεπιλεγμένη γλώσσα"
+
+msgid "Default base language to use."
+msgstr "Προεπιλεγμένη βασική γλώσσα για χρήση."
+
+msgid "Auto language"
+msgstr "Αυτόματη γλώσσα"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Πόσα αντικείμενα πρέπει να εμφανίζονται ανά σελίδα λίστας."
+
+msgid "Maintenance"
+msgstr "Συντήρηση"
+
+msgid "Crypt salt"
+msgstr "Κλειδί κρυπτογράφησης"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "Αυτό είναι το κλειδί που χρησιμοποιείται για την μετατροπή αριθμητικών ID σε αλφαριθμητικών. Δημιουργείται κατά την εγκατάσταση."
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Ενεργοποιήστε αυτό για να βάλετε ένα λογότυπο ή οτιδήποτε άλλο θέλετε στο ανέβασμα εικόνων."
+
+msgid "Watermark image"
+msgstr "Υδατογράφημα εικόνας"
+
+msgid "Watermark position"
+msgstr "Θέση υδατογραφήματος"
+
+msgid "left top"
+msgstr "πάνω αριστερά"
+
+msgid "left center"
+msgstr "αριστερά στη μέση"
+
+msgid "left bottom"
+msgstr "κάτω αριστερά"
+
+msgid "center top"
+msgstr "πάνω κεντρικά"
+
+msgid "center center"
+msgstr "στην μέση κεντρικά"
+
+msgid "center bottom"
+msgstr "στην μέση κάτω"
+
+msgid "right top"
+msgstr "πάνω δεξιά"
+
+msgid "right center"
+msgstr "δεξιά στην μέση"
+
+msgid "right bottom"
+msgstr "κάτω δεξιά"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Σχετική θέση της υδατογρφημένης εικόνας. Πρώτη οριζόντια στοίχιση και στη συνέχεια κατακόρυφη στοίχιση."
+
+msgid "Website name"
+msgstr "Όνομα ιστοσελίδας"
+
+msgid "Website doctitle"
+msgstr "Τίτλος ιστοσελίδας"
+
+msgid "Website description"
+msgstr "Περιγραφή ιστοσελίδας"
+
+msgid "Default time zone"
+msgstr "Προεπιλεγμένη ζώνη ώρας"
+
+msgid "Select region"
+msgstr "Επιλέξτε περιοχή"
+
+msgid "Role"
+msgstr "Ρόλος"
+
+msgid "Email address"
+msgstr "Διέυθυνση email"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Προστέθηκε στον %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Ανεβάστηκε στον %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "%s ανέβηκε"
+
+msgid "Upload and share your images."
+msgstr "Ανέβασε και μοιράσου τις εικόνες σου."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Σύρετε και αφήστε το οπουδήποτε θέλετε και να ξεκινήσετε τη μεταφόρτωση των εικόνων σας τώρα. όριο %s. Απευθείας συνδέσεις εικόνας, BBCode και HTML μικρογραφίες."
+
+msgid "Sign up to unlock all the features"
+msgstr "Εγγραφείτε να ξεκλειδώσετε όλες τις λειτουργίες"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Διαχειρίσου τα περιεχόμενα, δημιούργησε ιδιωτικά άλμπουμ. επεξεργάσου το προφίλ σου και πολλά ακόμα."
+
+msgid "Logged out"
+msgstr "Αποσυνδεθήκατε"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Αποσυνδέθηκες %s. >Ελπίζουμε να σε δούμε σύντομα."
+
+msgid "Website under maintenance"
+msgstr "Η Ιστοσελίδα είναι υπό συντήρηση"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Εκτελούμε προγραμματισμένες εργασίες συντήρησης στην ιστοσελίδα. Παρακαλούμε επανέλθετε σε λίγα λεπτά."
+
+msgid "Valid"
+msgstr "Έγκυρο"
+
+msgid "Banned"
+msgstr "Αποκλεισμένο"
+
+msgid "Awaiting email"
+msgstr "Αναμονή email"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i εως %f χαρακτήρες<br>Γράμματα, νούμερα και \"_\""
+
+msgid "Newsletter"
+msgstr "Ενημερωτικό Δελτίο"
+
+msgid "Content settings"
+msgstr "Ρυθμίσεις περιεχομένου"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Timezone"
+msgstr "Ζώνη ώρας"
+
+msgid "User has no connections."
+msgstr "Ο χρήστης δεν έχει συνδέσεις."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Αλήθεια θές να αποσυνδέσεις τονt %s από αυτόν το λογαριασμό?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Ο λογαριασμός είναι συνδεδεμένος στο %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Αλήθεια θες να αποσυνδέσεις τον λογαριασμό %s ;"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Θα αποσυνδεθείς και δε θα μπορείς να συνδεθείς χρησιμοποιώντας αυτόν τον λογαριασμό %s"
+
+msgid "Current password"
+msgstr "Τρέχων κωδικός"
+
+msgid "Enter your current password"
+msgstr "Εισαγωγή κωδικού"
+
+msgid "New password"
+msgstr "Νέος κωδικός"
+
+msgid "Confirm new password"
+msgstr "Επιβεβαίωση νέου κωδικού"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Πρόσθεσε ένα κωδικό για να μπορείς να συνδεθείς με το όνομα χρήστη ή το email σου"
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Ο χρήστης αυτός δεν έχει κωδικό. Πρόσθεσε έναν χρησιμποιώντας αυτή την φόρμα"
+
+msgid "Enter your password"
+msgstr "Βάλε το κωδικό σου"
+
+msgid "Confirm password"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+msgid "Re-enter your password"
+msgstr "Επανάληψη κωδικού"
+
+msgid "This is your real name, not your username."
+msgstr "Αυτό είναι το πραγματικό σου όνομα, όχι όνομα χρήστη"
+
+msgid "Tell us a little bit about you"
+msgstr "Πείτε μας λίγα λόγια για εσάς"
+
+msgid "Upload profile background"
+msgstr "Ανέβασε φόντο προφίλ"
+
+msgid "Change background"
+msgstr "Αλλαγή φόντου"
+
+msgid "Upload new image"
+msgstr "Ανέβασε νέα εικόνα"
+
+msgid "Delete background"
+msgstr "Διαγραφή φόντου"
+
+msgid "General questions/comments"
+msgstr "Γενικές ερωτήσεις/σχόλια"
+
+msgid "DMCA complaint"
+msgstr "καταγγελία DMCA"
+
+msgid "Invalid message"
+msgstr "Λάθος μήνυμα"
+
+msgid "Invalid subject"
+msgstr "Λάθος θέμα"
+

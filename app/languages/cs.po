@@ -1,0 +1,3084 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Máte zakázáno používat tuto webovou stránku."
+
+msgid "Moderate"
+msgstr "Moderovat"
+
+msgid "View all my images"
+msgstr "Zobrazit všechny mé obrázky"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Neváhejte a prohlédněte si všechny mé sdílené obrázky a alba."
+
+msgid "Recent"
+msgstr "Nedávné"
+
+msgid "Trending"
+msgstr "Trendy"
+
+msgid "Popular"
+msgstr "Populární"
+
+msgid "Animated"
+msgstr "Animované"
+
+msgid "Request denied"
+msgstr "Požadavek byl zamítnut"
+
+msgid "terms"
+msgstr "Podmínky"
+
+msgid "privacy policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "Souhlasím s %terms_link a %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "Tato stránka neexistuje"
+
+#, php-format
+msgid "Page %s"
+msgstr "Stránka %s"
+
+msgid "Forgot password?"
+msgstr "Zapoměli jste heslo?"
+
+msgid "Reset password"
+msgstr "Obnovit heslo"
+
+msgid "Resend account activation"
+msgstr "Znovu zaslat aktivační informace"
+
+msgid "Add your email address"
+msgstr "Přidejte vaši e-mailovou adresu."
+
+msgid "Awaiting confirmation"
+msgstr "Čeká se na potvrzení"
+
+msgid "Email changed"
+msgstr "E-mail změněn"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s říká, že jste robot"
+
+msgid "Invalid Username/Email"
+msgstr "Neplatné uživatelské jméno nebo e-mail."
+
+msgid "User doesn't have an email."
+msgstr "Uživatel nemá žádnou e-mailovou adresu."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Pro použití této funkce si musíte svůj účet nejprve aktivovat."
+
+msgid "Account already activated"
+msgstr "Účet již byl aktivován"
+
+msgid "Account banned"
+msgstr "Účet zakázán"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Zkuste to prosím později. E-mail by měl dorazit do 15 minut."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Resetujte si své heslo na %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Je vyžadován souhlas na %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Vítejte do %s"
+
+msgid "Invalid password"
+msgstr "Neplatné heslo"
+
+msgid "Passwords don't match"
+msgstr "Hesla se neshodují"
+
+msgid "Invalid email"
+msgstr "Neplatný e-mail"
+
+msgid "Email already being used"
+msgstr "E-mailová adresa již v systému existuje"
+
+msgid "Check the errors in the form to continue."
+msgstr "Aby jste mohli pokračovat, zkontrolujte chyby ve formuláři."
+
+msgid "Password required"
+msgstr "Je vyžadováno heslo"
+
+msgid "Embed codes"
+msgstr "Kódy pro vložení"
+
+msgid "Info"
+msgstr "info"
+
+msgid "%a album hosted in %w"
+msgstr "%a album hostováno v %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "obrázek"
+msgstr[1] "obrázků"
+msgstr[2] "obrázků"
+msgstr[3] "obrázky"
+
+msgid "Stats"
+msgstr "Statistiky"
+
+msgid "Images"
+msgstr "Obrázky"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Alb"
+msgstr[2] "Alb"
+msgstr[3] "Alba"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Uřivatel"
+msgstr[1] "Uživatelů"
+msgstr[2] "Uživatelů"
+msgstr[3] "Uživatelé"
+
+msgid "Bulk importer"
+msgstr "Hromadný import"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Website"
+msgstr "Webová stránka"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Listings"
+msgstr "Výpisy"
+
+msgid "Image upload"
+msgstr "Nahrávání obrázků"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Theme"
+msgstr "Šablona (theme)"
+
+msgid "System"
+msgstr "Systém"
+
+msgid "Languages"
+msgstr "Jazyky"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "External storage"
+msgstr "Externí úložiště"
+
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+msgid "Pages"
+msgstr "Stránky"
+
+msgid "Routing"
+msgstr "Směrování"
+
+msgid "External services"
+msgstr "Externí služby"
+
+msgid "Upload plugin"
+msgstr "Plugin pro nahrávání"
+
+msgid "Consent screen"
+msgstr "Schvalovací obrazovka"
+
+msgid "Flood protection"
+msgstr "Ochrana proti záplavě (flood)"
+
+msgid "Banners"
+msgstr "Bannery"
+
+msgid "IP bans"
+msgstr "IP bany"
+
+msgid "Watermarks"
+msgstr "Vodoznaky"
+
+msgid "Documentation"
+msgstr "Dokumentace"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Community"
+msgstr "Komunita"
+
+msgid "install update"
+msgstr "Instalovat aktualizaci"
+
+msgid "Max. upload file size"
+msgstr "Max. velikost nahrávaného souboru"
+
+msgid "Graphics Library"
+msgstr "Grafická knihovna"
+
+msgid "Rebuild stats"
+msgstr "Znovu sestavit statistiky"
+
+msgid "Connecting IP"
+msgstr "Připojení IP"
+
+msgid "Not your IP?"
+msgstr "Není vaše IP?"
+
+msgid "PHP version"
+msgstr "PHP verze"
+
+msgid "MySQL version"
+msgstr "MySQL verze"
+
+msgid "MySQL server info"
+msgstr "Informace o MySQL serveru"
+
+msgid "File uploads"
+msgstr "Nahraných souborů"
+
+msgid "Enabled"
+msgstr "Zapnuto"
+
+msgid "Disabled"
+msgstr "Vypnuto"
+
+msgid "Max. execution time"
+msgstr "Max. čas požadavků (exec, time)"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekunda"
+msgstr[1] "%d sekund"
+msgstr[2] "%d sekund"
+msgstr[3] "%d sekundy"
+
+msgid "Memory limit"
+msgstr "Limit paměti (mem. limit)"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Nelze odstranit všechny obrázky pozadí domovské stránky"
+
+msgid "Homepage cover image deleted"
+msgstr "Obrázek pozadí domovské stránky byl odstraněn"
+
+msgid "Local"
+msgstr "Místní"
+
+msgid "External"
+msgstr "Externí"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "search content"
+msgstr "vyhledat obsah"
+
+msgid "Add page"
+msgstr "Přidat stránku"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Upravit stránku ID %s"
+
+msgid "The page has been added successfully."
+msgstr "Stránka byla úspěšně přidána."
+
+msgid "The page has been deleted."
+msgstr "Stránka byla odstraněna."
+
+msgid "homepage"
+msgstr "domovská stránka"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "Před hlavním názvem (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "Po \"call to action\" (%s)"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "Po titulním obrázku (%s)"
+
+#, php-format
+msgid "After listing (%s)"
+msgstr "Po výpisu (%s)"
+
+msgid "Before pagination"
+msgstr "Před stránkováním"
+
+msgid "After pagination"
+msgstr "Za stránkováním"
+
+msgid "Content (image and album)"
+msgstr "Obsah (obrázek a album)"
+
+msgid "Tab about column"
+msgstr "Tabulka se sloupcem \"O ...\""
+
+msgid "Before comments"
+msgstr "Před komentáři"
+
+msgid "Image page"
+msgstr "Stránka s obrázkem"
+
+msgid "Inside viewer top (image page)"
+msgstr "Uvnitř prohlížeče nahoře (stránka s obrázkem)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "Uvnitř prohlížeče dole (stránka s obrázkem)"
+
+msgid "After image viewer (image page)"
+msgstr "Za prohlížečem obrázku (stránka s obrázkem)"
+
+msgid "Before header (image page)"
+msgstr "Před hlavičkou (stránka s obrázkem)"
+
+msgid "After header (image page)"
+msgstr "Za hlavičkou (stránka s obrázkem)"
+
+msgid "Footer (image page)"
+msgstr "Patička (stránka s obrázkem)"
+
+msgid "User profile page"
+msgstr "Stránka s uživatelským profilem"
+
+msgid "After top (user profile)"
+msgstr "Za hlavičkou (stránka s uživatelským profilem)"
+
+msgid "Before listing (user profile)"
+msgstr "Před výpisem (stránka s uživatelským profilem)"
+
+msgid "Explore"
+msgstr "Prozkoumat"
+
+msgid "NSFW"
+msgstr "NFSW"
+
+msgid "Invalid website name"
+msgstr "Neplatné jméno webové stránky"
+
+msgid "Invalid language"
+msgstr "Neplatný jazyk"
+
+msgid "Invalid timezone"
+msgstr "Neplatná časová zóna"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "Neplatná hodnota: %s"
+
+msgid "Invalid upload storage mode"
+msgstr "Neplatný způsob nahrávání do úložiště"
+
+msgid "Invalid upload filenaming"
+msgstr "Neplatné pojmenování nahrávaných souborů"
+
+msgid "Invalid thumb width"
+msgstr "Neplatná šířka miniatury"
+
+msgid "Invalid thumb height"
+msgstr "Špatná výška miniatury"
+
+msgid "Invalid medium size"
+msgstr "Neplatná střední velikost"
+
+msgid "Invalid watermark percentage"
+msgstr "Neplatná procentuální hodnota vodoznaku"
+
+msgid "Invalid watermark opacity"
+msgstr "Chybná neprůhlednost vodoznaku"
+
+msgid "Invalid theme"
+msgstr "Špatná šablona (téma)"
+
+msgid "Invalid value"
+msgstr "Neplatná hodnota"
+
+msgid "Invalid theme image listing size"
+msgstr "Neplatná velikost náhledového obrázku šablony"
+
+msgid "Invalid user id"
+msgstr "Neplatné ID uživatele"
+
+msgid "Invalid email mode"
+msgstr "Špatný e-mailový mod"
+
+msgid "Invalid SMTP port"
+msgstr "Špatný SMTP port"
+
+msgid "Invalid SMTP security"
+msgstr "Neplatné zabezpečení SMTP"
+
+msgid "Invalid website mode"
+msgstr "Neplatný režim stránky"
+
+msgid "Invalid personal mode user ID"
+msgstr "Neplatné osobní uživatelské ID."
+
+msgid "Invalid or reserved route"
+msgstr "Neplatná nebo vyhrazená trasa"
+
+msgid "Invalid website privacy mode"
+msgstr "Neplatný režim soukromí stránky"
+
+msgid "Invalid website content privacy mode"
+msgstr "Neplatný režim bezpečnosti stránky"
+
+msgid "Invalid homepage style"
+msgstr "Neplatný styl domovské stránky"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Neplatný příkaz tlačítka akce."
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Neplatný příkaz."
+
+msgid "Invalid title"
+msgstr "Neplatný název"
+
+msgid "Invalid status"
+msgstr "Neplatný stav"
+
+msgid "Invalid type"
+msgstr "Neplatný typ"
+
+msgid "Invalid visibility"
+msgstr "Neplatná viditelnost"
+
+msgid "Invalid internal type"
+msgstr "Neplatný interní typ"
+
+msgid "Invalid target attribute"
+msgstr "Neplatný cílový atribut"
+
+msgid "Invalid rel attribute"
+msgstr "Neplatný rel atribut"
+
+msgid "Invalid icon"
+msgstr "Neplatná ikona"
+
+msgid "Invalid URL key"
+msgstr "Neplatná URL adresa klíče"
+
+msgid "Invalid file path"
+msgstr "Neplatná cesta souboru"
+
+msgid "Invalid link URL"
+msgstr "Neplatná URL adresa odkazu"
+
+msgid "Invalid user minimum age"
+msgstr "Neplatný minimální věk uživatele"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "Povoleny jsou pouze alfanumerické znaky, pomlčka a podtržítko"
+
+msgid "Invalid URL"
+msgstr "Neplatná URL adresa"
+
+msgid "Invalid key"
+msgstr "Neplatný klíč"
+
+msgid "Routes can't be the same"
+msgstr "Cesty nemůžou být stejné"
+
+msgid "Invalid upload image path"
+msgstr "Neplatná cesta nahrávaného obrázku"
+
+msgid "Invalid call to action URL"
+msgstr "Neplatné výzva k akci URL"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Max. povoleno %s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "%m nelze namapovat do existující složky (%f)"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "Nelze namapovat %m na existující trasu (%r)"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "%m nelze namapovat k %r (kolize uživatelského jména)"
+
+msgid "Invalid SMTP server"
+msgstr "Špatný SMTP server"
+
+msgid "Invalid SMTP username"
+msgstr "Špatné SMTP uživatelské jméno"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "Tato URL adresa klíče je již používána jinou stránkou (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Tato cesta souboru je již používána jinou stránkou (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Nelze uložit obsah stránky: %s."
+
+msgid "Dashboard"
+msgstr "Administrace"
+
+msgid "Following"
+msgstr "Sledující"
+
+msgid "About"
+msgstr "O webu"
+
+msgid "Image ID"
+msgstr "ID obrázku"
+
+msgid "Upload date"
+msgstr "Datum nahrání"
+
+msgid "Image %i in %a album"
+msgstr "Obrázek %i v %a albu"
+
+msgid "Image %i in %c category"
+msgstr "Obrázek %i v %c kategorii"
+
+msgid "Image %i hosted in %w"
+msgstr "Obrázek %i hostován v %w"
+
+msgid "Direct links"
+msgstr "Přímé odkazy"
+
+msgid "Image link"
+msgstr "Odkaz obrázku"
+
+msgid "Image URL"
+msgstr "URL obrázku"
+
+msgid "Thumbnail URL"
+msgstr "URL miniatury"
+
+msgid "Medium URL"
+msgstr "URL střední zmenšeniny"
+
+msgid "Full image"
+msgstr "Plná velikost obrázku"
+
+msgid "Full image (linked)"
+msgstr "Plná velikost obrázku (odkazy pro vložení)"
+
+msgid "Medium image (linked)"
+msgstr "Střední velikost obrázku (odkazy pro vložení)"
+
+msgid "Thumbnail image (linked)"
+msgstr "Miniatura obrázku (odkazy pro vložení)"
+
+msgid "Start uploading"
+msgstr "Začít nahrávat"
+
+msgid "Login needed"
+msgstr "Vyžadováno přihlášení"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Obrázek"
+msgstr[1] "Obrázků"
+msgstr[2] "Obrázků"
+msgstr[3] "Obrázky"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "IP address already banned"
+msgstr "IP adresa je již zabanována"
+
+msgid "Missing values"
+msgstr "Chybí hodnoty"
+
+msgid "Invalid username"
+msgstr "Neplatné uživatelské jméno"
+
+msgid "Invalid role"
+msgstr "Neplatná úloha"
+
+msgid "Username already being used"
+msgstr "Uživatelské jméno je obsazené"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "Přidat heslo nebo jiné sociální připojení před smazáním %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "Přidat e-mail nebo jiné sociální připojení před smazáním %s"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s byl odpojen."
+
+msgid "Test email from %s @ %t"
+msgstr "Testovací email z %s @ %t"
+
+msgid "This is just a test"
+msgstr "Toto je pouze testovací zpráva."
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Testovací email byl odeslán na %s."
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "Stahování dat %s"
+
+msgid "Content liked"
+msgstr "Obsah se líbí"
+
+msgid "Content disliked"
+msgstr "Obsah se nelíbí"
+
+msgid "%u liked your %t %c"
+msgstr "%u se líbí váš %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u vás nyní sleduje"
+
+msgid "A private user"
+msgstr "Soukromý uživatel"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Špatná kombinace přihlašovacího jména nebo e-mailu a hesla"
+
+msgid "Sign in"
+msgstr "Přihlásit se"
+
+msgid "Upload images"
+msgstr "Nahrát obrázky"
+
+msgid "Search"
+msgstr "Hledat"
+
+msgid "Account"
+msgstr "Účet"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Powered by"
+msgstr "Běží na systému"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "Chybná doba platnosti obrázku: %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Email byl odeslán %s s instrukcemi pro aktivaci tohoto emailu"
+
+msgid "Invalid name"
+msgstr "Neplatné jméno"
+
+msgid "Invalid website"
+msgstr "Neplatná webová stránka"
+
+msgid "Spam detected"
+msgstr "Byl detekován spam"
+
+msgid "Wrong password"
+msgstr "Neplatné heslo"
+
+msgid "Use a new password"
+msgstr "Použijte nové heslo"
+
+msgid "Changes have been saved."
+msgstr "Změny byly uloženy."
+
+msgid "Password has been changed"
+msgstr "Heslo bylo změněno"
+
+msgid "Password has been created."
+msgstr "Heslo bylo vytvořeno."
+
+msgid "Wrong Username/Email values"
+msgstr "Špatné hodnoty přihlašovacího jména  nebo e-mailu"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Nastavení pro %s"
+
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+msgid "Delete user"
+msgstr "Odstranit uživatele"
+
+msgid "User ID"
+msgstr "Uživatelské ID"
+
+msgid "Register date"
+msgstr "Datum registrace"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "Musíte souhlasit s podmínkami a zásadami ochrany osobních údajů"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "Pro možnost používat tuto webovou stránku vám musí být alespoň %s let."
+
+msgid "Create account"
+msgstr "Vytvořit účet"
+
+msgid "Upload"
+msgstr "Nahrát"
+
+msgid "Albums"
+msgstr "Alba"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "Co se líbí %s"
+
+msgid "Liked"
+msgstr "Líbí se mi"
+
+msgid "Followers"
+msgstr "Sledující"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) alb v %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) v %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album"
+msgstr[1] "alba"
+msgstr[2] "alba"
+msgstr[3] "alba"
+
+msgid "Flooding detected. You can only upload %limit% %content% per %time%"
+msgstr "Bylo zjištěno zahlcení. Můžete nahrát pouze %limit% %content% za %time%"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Poznámka: Tento obsah je soukromý, ale kdokoli s odkazem jej bude moci zobrazit."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Poznámka: Tento obsah je chráněn heslem. Pokud jej hodláte sdílet, nezapomeňte sdělit příjemci i heslo."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Poznámka: Tento obsah je soukromý. Pro umožnění sdílení je potřeba změnit soukromí na \"veřejné\"."
+
+msgid "Private"
+msgstr "Soukromý"
+
+msgid "Public"
+msgstr "Veřejné"
+
+msgid "Me"
+msgstr "Já"
+
+msgid "Link"
+msgstr "Odkaz"
+
+msgid "After %n %t"
+msgstr "Po %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuta"
+msgstr[1] "minut"
+msgstr[2] "minut"
+msgstr[3] "minuty"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "hodina"
+msgstr[1] "hodin"
+msgstr[2] "hodin"
+msgstr[3] "hodiny"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "den"
+msgstr[1] "dnů"
+msgstr[2] "dnů"
+msgstr[3] "dny"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "týden"
+msgstr[1] "týdnů"
+msgstr[2] "týdnů"
+msgstr[3] "týdny"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "měsíc"
+msgstr[1] "měsíců"
+msgstr[2] "měsíců"
+msgstr[3] "měsíce"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "rok"
+msgstr[1] "let"
+msgstr[2] "let"
+msgstr[3] "let"
+
+msgid "Don't autodelete"
+msgstr "Automaticky nemazat"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "Nelze otevřít %s pro zápis"
+
+msgid "Duplicated upload"
+msgstr "Duplicitně nahráno"
+
+msgid "Private upload"
+msgstr "Soukromé nahrávání"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "zobrazení"
+msgstr[1] "zobrazení"
+msgstr[2] "zobrazení"
+msgstr[3] "zobrazení"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "líbí se"
+msgstr[1] "se líbí"
+msgstr[2] "se líbí"
+msgstr[3] "líbí se"
+
+msgid "Most recent"
+msgstr "Nejnovější"
+
+msgid "Oldest"
+msgstr "Nejstarší"
+
+msgid "Most viewed"
+msgstr "Nejprohlíženější"
+
+msgid "Most liked"
+msgstr "Nejoblíbenější"
+
+msgid "People"
+msgstr "Lidé"
+
+msgid "adult"
+msgstr "dospělý"
+
+msgid "teen"
+msgstr "dospívající"
+
+#, php-format
+msgid "Content of type %s is forbidden"
+msgstr "Obsah typu %s je zakázán"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Nelze vytvořit %s cílový adresář"
+
+msgid "Internal"
+msgstr "Interní"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Velikost úložiště nemůže být menší než ta, kterou používáte nyní (%s)."
+
+msgid "Unlimited"
+msgstr "Neomezeno"
+
+msgid "used"
+msgstr "využíváno"
+
+msgid "Private profile"
+msgstr "Soukromý profil"
+
+msgid "Share"
+msgstr "Sdílet"
+
+#, php-format
+msgid "view on %s"
+msgstr "zobrazit na %s"
+
+msgid "cookie policy"
+msgstr "zásady cookie"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "Používáme naše vlastní cookies a cookies třetích stran, abychom zlepšili vaše zážitky z prohlížení a s používáním našich služeb. Pokud budete pokračovat v používání našich webových stránek, souhlasíte a přijímáte naše %cookie_policy_link."
+
+msgid "I understand"
+msgstr "Rozumím"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekunda"
+msgstr[1] "sekund"
+msgstr[2] "sekund"
+msgstr[3] "sekundy"
+
+#, php-format
+msgid "%s ago"
+msgstr "před %s"
+
+msgid "moments ago"
+msgstr "před několika okamžiky"
+
+msgid "Discovery"
+msgstr "Objevit"
+
+msgid "Random"
+msgstr "Náhodně"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Advanced search"
+msgstr "Pokročilé vyhledávání"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Oznámení (%s)"
+
+msgid "Notifications"
+msgstr "Oznámení"
+
+msgid "loading"
+msgstr "načítání"
+
+msgid "You don't have notifications"
+msgstr "Nemáte žádná oznámení"
+
+msgid "My Profile"
+msgstr "Můj profil"
+
+msgid "Administrator"
+msgstr "Administrátor"
+
+msgid "Manager"
+msgstr "Správce"
+
+msgid "Sign out"
+msgstr "Odhlásit se"
+
+msgid "You must enter the album name."
+msgstr "Musíte zadat název alba."
+
+msgid "Confirm"
+msgstr "Potvrdit"
+
+msgid "The content has been approved."
+msgstr "Obsah byl schválen."
+
+msgid "Select existing album"
+msgstr "Vyberte stávající album"
+
+msgid "An error occurred. Please try again later."
+msgstr "Došlo k chybě. Prosím zkuste opakovat akci později."
+
+msgid "Please select a valid image file type."
+msgstr "Prosím vyberte přípustné typy souborů obrázků."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Prosím vyberte obrázek s největší %s velikostí."
+
+msgid "Profile image updated."
+msgstr "Profilový obrázek byl aktualizován."
+
+msgid "Profile background image updated."
+msgstr "Pozadí profilu bylo aktualizováno."
+
+msgid "Profile background image deleted."
+msgstr "Pozadí profilu bylo odstraněno."
+
+msgid "Error deleting profile background image."
+msgstr "Nastala chyba při odstraňování obrázku pozadí profilu."
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "Je dostupná aktualizace v%s"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "Tato webová stránka používá nejnovější verzi %s"
+
+msgid "Please review the system requirements before proceeding"
+msgstr "Než budete pokračovat, zkontrolujte systémové požadavky"
+
+msgid "Toggle select"
+msgstr "Označit vybraný obrázek"
+
+msgid "Like"
+msgstr "Líbí se"
+
+msgid "Create album"
+msgstr "Vytvořit album"
+
+msgid "Toggle flag"
+msgstr "Označit štítkem"
+
+msgid "Edit"
+msgstr "Uprav"
+
+msgid "Approve"
+msgstr "Schválit"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Previous"
+msgstr "Předchozí"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "File too big."
+msgstr "Soubor je příliš velký."
+
+msgid "Invalid or unsupported file format."
+msgstr "Neplatný nebo nepodporovaný formát souboru."
+
+msgid "Some files couldn't be added"
+msgstr "Některé soubory nemohly být přidány."
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%s Alb"
+
+msgid "Image edited successfully."
+msgstr "Obrázek byl úspěšně upraven."
+
+msgid "private"
+msgstr "soukromý"
+
+msgid "The content has been edited."
+msgstr "Obsah byl upraven."
+
+msgid "Invalid URL key."
+msgstr "Neplatný klíč URL."
+
+msgid "Category URL key already being used."
+msgstr "URL klíč kategorie se již používá."
+
+msgid "Category successfully deleted."
+msgstr "Kategorie byla úspěšně odstraněna."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "Kategorie %s byla přidána."
+
+msgid "Invalid expiration date."
+msgstr "Neplatné datum ukončení platnosti."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP %s je již zakázána."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP %s je zakázána."
+
+msgid "IP ban successfully deleted."
+msgstr "IP zákaz byl úspěšně odstraněn."
+
+msgid "Please fill all the required fields."
+msgstr "Prosím vyplňte všechny požadované kolonky."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Neplatná velikost úložiště. Prosím ověřte, že je ve správném formátu."
+
+msgid "Invalid URL."
+msgstr "Neplatné URL."
+
+msgid "Storage successfully edited."
+msgstr "Úložiště bylo úspěšně upraveno."
+
+msgid "The content has been deleted."
+msgstr "Obsah byl smazán."
+
+msgid "The content has been moved."
+msgstr "Obsah byl přesunut."
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Unselect"
+msgstr "Odebrat"
+
+#, javascript-format
+msgid "Import ID %s removed"
+msgstr "Import ID %s byl odstraněn"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Všechny změny, které jste provedl(a), budou ztraceny"
+
+msgid "Save changes"
+msgstr "Uložit změny"
+
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "Changes saved successfully."
+msgstr "Změny byly úspěšně uloženy."
+
+msgid "Go back to form"
+msgstr "Vrátit se zpět na formulář"
+
+msgid "or"
+msgstr "nebo"
+
+msgid "continue anyway"
+msgstr "přesto pokračovat"
+
+msgid "cancel"
+msgstr "zrušit"
+
+msgid "Saving"
+msgstr "Ukládání"
+
+msgid "Sending"
+msgstr "Odesílání"
+
+msgid "Confirm action"
+msgstr "Potvrdit akci"
+
+msgid "information"
+msgstr "informace"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Zaznamenali jsme pokus o změnu e-mailu vašeho <a href=\"%u\">%n</a> účtu na %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Pro dokončení musíte <a href=\"%s\">aktivovat váš e-mail.</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Alternativně můžete zkopírovat a vložit URL adresu přímo do adresního řádku vašeho prohlížeče: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Pokud jste žádost o změnu neodesílali, stačí když budete tuto zprávu ignorovat."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Tento požadavek byl vytvořen z IP adresy: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Obdrželi jsme žádost o registraci %n účtu na %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Pro dokončení musíte <a href=\"%s\">aktivovat váš účet</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Obdrželi jsme žádost o reset hesla k vašemu <a href=\"%u\">%n</a> účtu."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Pro resetování hesla <a href=\"%s\">přejděte na tento odkaz</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Dobrý den %n, vítejte na %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Nyní, když je váš účet konečně připraven k používání, si můžete naplno užívat nahrávání obrázků, vytváření alb, nastavovat jejich soukromí a spousty dalších vlastností, které jistě brzy objevíte!"
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Mimochodem, zde je stránka s vaším úžasným profilem: <a href=\"%u\">%n</a>. Tak neváhejte a upravte si ji podle vašich představ. Je to jenom na vás!"
+
+msgid "Thank you for joining"
+msgstr "Děkujeme, že jste se k nám přidali"
+
+msgid "This email was sent from %w %u"
+msgstr "Tento e-mail byl odeslán od %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "Chytněte a přetáhněte nebo vložte obrázky sem pro nahrání"
+
+msgid "Select the images to upload"
+msgstr "Zvolte obrázky k nahrání"
+
+msgid "You can also %i or %u."
+msgstr "Můžeš také %i nebo %u."
+
+#, php-format
+msgid "You can also %s."
+msgstr "Můžete také %s."
+
+msgid "browse from your computer"
+msgstr "vybrat z vašeho počítače"
+
+msgid "add image URLs"
+msgstr "přidat URL adresy obrázků"
+
+msgid "You can also %i, %c or %u."
+msgstr "Můžete také %i, %c nebo %u."
+
+msgid "You can also %i or %c."
+msgstr "Můžete také %i nebo %c."
+
+msgid "browse from your device"
+msgstr "procházet z vašeho zařízení"
+
+msgid "take a picture"
+msgstr "pořídit fotku"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "Zaregistrujte se pro získání %s"
+
+msgid "Uploading %q %o"
+msgstr "Nahrávání %q %o"
+
+msgid "complete"
+msgstr "kompletní"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "Fronta se nahrává. Proces nahrávání by měl trvat jen několik sekund."
+
+msgid "Upload complete"
+msgstr "Nahrávání dokončeno"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "Nahraný obsah byl přidán do %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "Můžete %c s právě nahraným obsahem nebo %m."
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "Můžete %c s právě nahraným obsahem."
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "Musíte se %s nebo %l pro uložení tohoto obsahu do svého účtu."
+
+msgid "create an account"
+msgstr "vytvořit účet"
+
+msgid "sign in"
+msgstr "přihlásit se"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "Žádné %s nebyly nahrány"
+
+msgid "Sign up"
+msgstr "Přihlásit se"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s pro zapnutí nebo vypnutí automatického mazání obrázků"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Zatrhněte pokud obrázek není vhodný pro děti a mladistvé."
+
+msgid "Not family safe upload"
+msgstr "Obrázek není vhodný pro děti a mladistvé."
+
+msgid "Uploading"
+msgstr "Nahrávám"
+
+msgid "cancel remaining"
+msgstr "zrušit zbývající"
+
+msgid "learn more"
+msgstr "dozvědět se více"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Zkontrolujte <a data-modal=\"simple\" data-target=\"failed-upload-result\">chybovou zprávu</a> kde se dozvíte více informací."
+
+msgid "reset"
+msgstr "resetovat"
+
+msgid "Note"
+msgstr "Poznámka"
+
+msgid "We must approve the uploaded content before being able to share."
+msgstr "Než budeme moci sdílet, musíme schválit nahraný obsah."
+
+msgid "copy"
+msgstr "kopírovat"
+
+msgid "insert"
+msgstr "vložit"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "upload"
+msgstr "nahrát"
+
+msgid "Title"
+msgstr "Název"
+
+msgid "optional"
+msgstr "volitelné"
+
+msgid "Resize image"
+msgstr "Změnit velikost obrázku"
+
+msgid "Width"
+msgstr "Šířka"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "Poznámka: Animované GIF obrázky se nezmění."
+
+msgid "Mark this if the image is not family safe"
+msgstr "Zatrhněte pokud obrázek není vhodný pro děti a mladistvé."
+
+msgid "Flag as unsafe"
+msgstr "Označit jako nevhodné."
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Add image URLs"
+msgstr "Přidat URL obrázku"
+
+msgid "Add the image URLs here"
+msgstr "Přidejte URL obrázku zde"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "Nahraný obsah bude přesunut do tohoto nově vytvořeného alba."
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "Pokud chcete album později upravit, musíte se nejdříve %s nebo %l."
+
+msgid "Error report"
+msgstr "Chybová zpráva"
+
+msgid "Links"
+msgstr "Odkazy"
+
+msgid "Direct"
+msgstr "Přímý"
+
+msgid "HTML Codes"
+msgstr "HTML kódy"
+
+msgid "HTML image"
+msgstr "HTML obrázku"
+
+msgid "HTML full linked"
+msgstr "plná velikost obrázku s odkazem na originál"
+
+msgid "HTML medium linked"
+msgstr "středně velký obrázek s odkazem na originál"
+
+msgid "HTML thumbnail linked"
+msgstr "miniatura obrázku s odkazem na originál"
+
+msgid "BBCodes"
+msgstr "do fóra (BBCode)"
+
+msgid "BBCode full"
+msgstr "BBKód plné velikosti obrázku"
+
+msgid "BBCode full linked"
+msgstr "Plný odkaz do diskuzního fóra."
+
+msgid "BBCode medium linked"
+msgstr "Kód do fóra se střední zmenšeninou obrázku a odkazem."
+
+msgid "BBCode thumbnail linked"
+msgstr "miniatura obrázku s odkazem na originál"
+
+msgid "Markdown full"
+msgstr "Markdown kód plné velikosti obrázku"
+
+msgid "Markdown full linked"
+msgstr "Markdown kód plné velikosti obrázku s odkazem"
+
+msgid "Markdown medium linked"
+msgstr "Markdown kód střední velikosti velikosti obrázku"
+
+msgid "Markdown thumbnail linked"
+msgstr "Markdown kód náhledu obrázku s odkazem"
+
+msgid "Viewer links"
+msgstr "Odkaz s náhledem"
+
+msgid "All these words"
+msgstr "Všechna tato slova"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Zadejte důležitá slova: tri-colour rat terrier"
+
+msgid "This exact word or phrase"
+msgstr "Toto konkrétní slovo či frázi"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Zadejte přesná slova v uvozovkách: \"rat terrier\""
+
+msgid "None of these words"
+msgstr "Žádné z těchto slov"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Vložte znaménko mínus před slova, která nechcete povolit: -rodent - \"Jack Russell\""
+
+msgid "Storage"
+msgstr "Úložiště"
+
+msgid "IP address"
+msgstr "IP adresa"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Privacy"
+msgstr "Soukromí"
+
+msgid "Who can view this content"
+msgstr "Kdo může zobrazit tento obsah"
+
+msgid "Private (just me)"
+msgstr "Soukromé (pouze já)"
+
+msgid "Private (anyone with the link)"
+msgstr "Soukromé (kdokoliv komu dáte link)"
+
+msgid "Private (password protected)"
+msgstr "Soukromé (chráněno heslem)"
+
+msgid "URL key"
+msgstr "URL klíč"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Pouze písmena, čísla a pomlčky"
+
+msgid "Mark this if the image is not safe for work"
+msgstr "Označit tento obrázek, pokud není vhodný a bezpečný"
+
+msgid "Flag not safe"
+msgstr "Označeno jako \"nevhodné\""
+
+msgid "Path"
+msgstr "Cesta"
+
+msgid "Local path (absolute)"
+msgstr "Lokální cesta (absolutní)"
+
+msgid "Directory structure"
+msgstr "Adresářová struktura"
+
+msgid "Parse top level folders as users (username)"
+msgstr "Přiřadit složky nejvyšší úrovně jako uživatele (uživatelské jméno)"
+
+msgid "Parse top level folders as albums"
+msgstr "Přiřadit složky nejvyšší úrovně jako alba"
+
+msgid "Don't parse folders"
+msgstr "Nepřiřazovat složky"
+
+msgid "When parsing top level folders as users, second level folders will be parsed as user albums. Parsing top level folders as albums adds these as guest albums."
+msgstr "Při přiřazení složek nejvyšší úrovně jako uživatelé budou složky druhé úrovně přiřazeny jako uživatelské alba. Přiřazení složek nejvyšší úrovně jako alba přidává tyto složky jako alba pro návštěvníky."
+
+msgid "Threads"
+msgstr "Vlákna"
+
+msgid "Select number of threads"
+msgstr "Vyberte počet vláken"
+
+#, php-format
+msgid "This determines how intensive and fast will be the import process. Don't use more than %s threads on a shared server."
+msgstr "Toto určuje, jak intenzivní a rychlý bude proces importu. Na sdíleném serveru nepoužívejte více než %s vláken."
+
+msgid "You can use wildcard * characters."
+msgstr "Můžete použít zástupné znaky *."
+
+msgid "Expiration date"
+msgstr "Datum platnosti"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "RRRR-MM-DD HH:MM:SS"
+
+msgid "Example"
+msgstr "Příklad"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Do kdy bude tato IP zakázána? Zanechte pole prázdné pro trvalý zákaz."
+
+msgid "Message"
+msgstr "Zpráva"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Textová zpráva, HTML nebo přesměrovat URL"
+
+msgid "Storage name"
+msgstr "Jméno úložiště"
+
+msgid "Storage region"
+msgstr "Region úložiště (Storage region)"
+
+msgid "Storage bucket"
+msgstr "Bucket úložiště"
+
+msgid "Key"
+msgstr "Klíč"
+
+msgid "Storage key"
+msgstr "Klíč úložiště"
+
+msgid "Storage secret"
+msgstr "Secret úložiště"
+
+msgid "Private key"
+msgstr "Soukromý klíč"
+
+msgid "Google Cloud JSON key"
+msgstr "Google Cloud JSON klíč"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Pro toto potřebujete <a %s>service account</a>."
+
+msgid "Service name"
+msgstr "Název služby"
+
+msgid "Identity URL"
+msgstr "Adresa URL Identity (Identity URL)"
+
+msgid "Identity API endpoint"
+msgstr "Koncový bod API Identity (Identity API endpoint)"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "Koncový bod API OpenStack identity (API endpoint for OpenStack identity)"
+
+msgid "Container"
+msgstr "Kontejner (Container)"
+
+msgid "Storage container"
+msgstr "Kontejner úložiště (Storage container)"
+
+msgid "Tenant id"
+msgstr "ID Nájemce (Tenant id)"
+
+msgid "Tenant id (account id)"
+msgstr "ID účtu nájemce (Tenant id)"
+
+msgid "Tenant name"
+msgstr "Jméno nájemce (Tenant name)"
+
+msgid "Tenant name (account name)"
+msgstr "uživatelský účet"
+
+msgid "Storage endpoint"
+msgstr "Koncový bod úložiště"
+
+msgid "Server address"
+msgstr "Adresa serveru"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Hostname nebo IP serveru s úložištěm."
+
+msgid "Server path"
+msgstr "Serverová cesta"
+
+msgid "Absolute path where the files will be stored in the context of the %p login. Use %s for root path."
+msgstr "Absolutní cesta, kde budou soubory uloženy v souvislosti s přihlášením %p. Pro kořenovou (root) cestu použijte %s."
+
+msgid "Server login"
+msgstr "Přihlášení k serveru"
+
+msgid "Server password"
+msgstr "Serverové heslo"
+
+msgid "Local path"
+msgstr "Místní cesta"
+
+msgid "Local path where the files will be stored"
+msgstr "Místní cesta, kde budou soubory uloženy"
+
+msgid "Storage capacity"
+msgstr "Kapacita úložiště"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Příklad: 20 GB, 1 TB, atp."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "Toto úložiště přestane být používáno jakmile bude dosaženo zvolené kapacity. Ponechte prázdné nebo nastavte 0 pokud nechcete nastavit kapacitu."
+
+msgid "Storage URL"
+msgstr "URL úložiště"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "Sytém namapuje obrázky v úložišti na tuto URL."
+
+msgid "view more"
+msgstr "zobrazit více"
+
+msgid "Load more"
+msgstr "Načíst více"
+
+msgid "Actions"
+msgstr "Akce"
+
+msgid "Get embed codes"
+msgstr "Zobrazit kódy pro vložení"
+
+msgid "Flag as safe"
+msgstr "Označit jako bezpečné"
+
+msgid "Select all"
+msgstr "Vybrat vše"
+
+msgid "Clear selection"
+msgstr "Zrušit výběr"
+
+msgid "Sign in with another account"
+msgstr "Přihlásit se pomocí jiného účtu"
+
+msgid "Home"
+msgstr "Domů"
+
+msgid "There's nothing to show here."
+msgstr "Zde se nenachází nic k zobrazení."
+
+msgid "There is no categories."
+msgstr "Nejsou zde žádné kategorie."
+
+msgid "Confirm flag content as safe"
+msgstr "Potvrďte, že obrázek je bezpečný"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Opravdu si přejete tento obsah označit jako bezpečný?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Potvrďte, že obrázek není bezpečný"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Opravdu si přejete tento obsah označit jako nebezpečný?"
+
+msgid "Confirm approval"
+msgstr "Potvrďte souhlas"
+
+msgid "Confirm deletion"
+msgstr "Potvrďte odstranění"
+
+msgid "Guest"
+msgstr "Host"
+
+msgid "Keyboard shortcuts"
+msgstr "Klávesové zkratky"
+
+msgid "Private album"
+msgstr "Soukromé album"
+
+msgid "Password protected"
+msgstr "Chráněno heslem"
+
+msgid "Uploaded by guest"
+msgstr "Nahráno návštěvníkem"
+
+msgid "Uploaded by private"
+msgstr "Nahráno soukromě"
+
+#, php-format
+msgid "by %u"
+msgstr "od %u"
+
+msgid "Toggle unsafe flag"
+msgstr "Označit obrázek jako nevhodný"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Nemáte oprávnění k prohlížení této stránky nebo odkaz ze kterého jste se zde dostali již expiroval."
+
+msgid "Go to homepage"
+msgstr "Jít na úvodní stránku"
+
+msgid "The requested page was not found."
+msgstr "Požadovaná stránka nebyla nalezena."
+
+msgid "The user has been deleted"
+msgstr "Uživatel byl smazán"
+
+msgid "Your account is almost ready"
+msgstr "Váš účet je téměř připraven"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "E-mail pro %s byl právě odeslán. E-mail obsahuje instrukce o tom jak aktivovat váš účet. Aktivaci je možné provést do 48 hodin. Pokud e-mailovou zprávu neobdržíte, pak prosím zkontrolujte vaši složku se spamem."
+
+msgid "Resend activation"
+msgstr "Znovu odeslat aktivaci"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Úspěšně jste změnili e-mail k vašemu účtu na %s"
+
+msgid "Go to my profile"
+msgstr "Jdi na můj profil"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Odkaz k potvrzení bude zaslán na e-mail spolu s detaily k aktivaci účtu."
+
+msgid "Your email address"
+msgstr "Vaše e-mailová adresa"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "E-mail s instrukcemi jak resetovat vaše heslo byl právě odeslán na e-mailovou adresu, kterou jste uvedli při registraci. Pokud jste e-mail s instrukcemi neobdrželi, pak prosím zkontrolujte vaši složku se spamem či ostatní filtrovanou poštu."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "E-mail s instrukcemi k resetování vašeho hesla jsme již odeslali. Pokud vám nedorazil pak si prosím zkontrolujte vaši složku se spamem."
+
+msgid "Resend instructions"
+msgstr "Zaslat instrukce znova."
+
+#, php-format
+msgid "Enter your username or email address to continue. You may need to check your spam folder or whitelist %s"
+msgstr "Chcete-li pokračovat, zadejte své uživatelské jméno nebo e-mailovou adresu. Možná budete muset zkontrolovat složku spamu nebo whitelist %s"
+
+msgid "Username or Email address"
+msgstr "Uživatelské jméno nebo e-mailová adresa"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Vaše heslo bylo úspěšně změněno. Nyní se můžete přihlásit s vašim novým heslem."
+
+msgid "Login now"
+msgstr "Přihlásit se"
+
+msgid "Enter your new password"
+msgstr "Vložte vaše nové heslo"
+
+#, php-format
+msgid "%d characters min"
+msgstr "%d znaků minimálně"
+
+msgid "Password strength"
+msgstr "Síla hesla"
+
+msgid "Re-enter your new password"
+msgstr "Znovu vyplňte nové heslo"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Na adresu %s byl zaslán email s instrukcemi pro aktivaci Vašeho účtu. Pokud jste neobdrželi žádné instrukce, zkontrolujte prosím Vaši nevyžádanou poštu nebo spamové filtry."
+
+msgid "Sub album"
+msgstr "Podřízené album"
+
+msgid "Upload to album"
+msgstr "Nahrát do alba"
+
+msgid "You like this"
+msgstr "Toto se vám líbí"
+
+msgid "This content is private"
+msgstr "Tento obsah je soukromý"
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "Přečtěte si a souhlaste s těmito podmínkami, než budete moci pokračovat:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "Tato webová stránka obsahuje informace, odkazy a obrázky se sexuálním materiálem. Pokud jste mladší %s let, jestli Vás tento materiál uráží, nebo jestli je zobrazení tohoto materiálu nezákonné ve Vaší komunitě, prosím nepokračujte dál.\n\nJe mi alespoň %s let a věřím, že jako dospělý je to mé nezadatelné právo získávat/prohlížet sexuálně explicitní materiál. Přeji si získávat/zobrazovat  sexuálně explicitní materiály.\n\nDomnívám se, že sexuální akty mezi dospělými nejsou nezákonné ani obscénní. Prohlížení, čtení a stahování sexuálně explicitních materiálů neporušuje standardy mé komunity, města, státu nebo země.\n\nSexuálně explicitní materiál si prohlížím pro mou osobní potřebu a nebudu tomuto  materiálu vystavovat děti a mladistvé.\n\nJsem sám osobně zodpovědný(á) za poskytnutí nepravdivých informací nebo za jakékoli právní následky za prohlížení, čtení nebo stahování jakéhokoliv materiálu z této webové stránky. Navíc tyto webové stránky ani její pobočky nebudou zodpovědny za případné právní následky vyplývající z podvodného přístupu nebo používání této webové stránky.\n\nTato obrazovka představuje souhlas a právní dohodu mezi těmito webovými stránkami a Vámi a / nebo jakýkoliv podnikem, ve kterém můžete mít jakýkoli právní nebo soukromý zájem. Pokud bude některá část této smlouvy  považována za nevymahatelnou prostřednictvím příslušného soudu, nebude to mít vliv na vymahatelnost ostatních částí této dohody."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "Kliknutím na \"Souhlasím \" prohlašujete, že jste si přečetli a pochopili všechny výše uvedené podmínky."
+
+msgid "I Agree"
+msgstr "Souhlasím"
+
+msgid "documentation"
+msgstr "dokumentace"
+
+msgid "Check the errors to proceed."
+msgstr "Před pokračováním zkontrolujte chyby"
+
+msgid "Queued"
+msgstr "Ve frontě"
+
+msgid "Working"
+msgstr "Spuštěno"
+
+msgid "Paused"
+msgstr "Pozastaveno"
+
+msgid "Canceled"
+msgstr "Zrušeno"
+
+msgid "Completed"
+msgstr "Dokončeno"
+
+#, php-format
+msgid "Top level folders as %s"
+msgstr "Složky nejvyšší úrovně jako %s"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Process log"
+msgstr "Protokol procesu"
+
+msgid "Errors"
+msgstr "Chyby"
+
+#, php-format
+msgid "Do you really want to remove the import ID %s?"
+msgstr "Opravdu chcete odstranit import ID %s?"
+
+msgid "Reset"
+msgstr "Resetovat"
+
+msgid "Resume"
+msgstr "Pokračovat"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Run the following command to import content to Chevereto:"
+msgstr "Spuštěním následujícího příkazu importujte obsah do Chevereto:"
+
+#, php-format
+msgid "Read the %s for more information about this feature."
+msgstr "Přečtěte si %s pro více informací o této funkci."
+
+msgid "Dashboard > Settings > Website"
+msgstr "Administrace > Nastavení > Webová stránka"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "Zobrazuje schvalovací obrazovku před přístupem na tyto webové stránky. Toto je užitečné pro webové stránky s obsahem pro dospělé, který by neměl být přístupný nezletilím."
+
+msgid "Enable consent screen"
+msgstr "Zapnout schvalovací obrazovku"
+
+msgid "Consent screen cover image"
+msgstr "Obrázek schvalovací obrazovky"
+
+msgid "Show not safe content in listings"
+msgstr "V galerii vypisovat i nevhodný obsah"
+
+msgid "Blur NSFW content in listings"
+msgstr "Rozostření NSFW obsahu v seznamech"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "Povolte tuto možnost, pokud chcete použít efekt rozostření  NSFW obrázků v seznamech."
+
+msgid "Show not safe content in random mode"
+msgstr "Zobraz nevhodný obsah v náhodném pořadí"
+
+msgid "Show banners in not safe content"
+msgstr "Zobrazit bannery v nevhodném obsahu"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "Nastavte pokud chcete zobrazovat bannery i mezi nevhodným obsahem."
+
+#, php-format
+msgid "Lock %s editing"
+msgstr "Zamknout úpravy %s"
+
+msgid "Enable this to prevent users from changing the NSFW flag. When enabled, only admin and managers will have this permission."
+msgstr "Povolte tuto funkci, aby uživatelé nemohli změnit příznak NSFW. Pokud je funkce povolena, toto oprávnění budou mít pouze administrátoři a správci."
+
+msgid "Cookie law compliance"
+msgstr "Vyžádání EU cookie politiky"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Povolením této možnosti se zobrazí zpráva, která splňuje požadavky kladené na cookie právních předpisů EU. Poznámka: Toto nastavení budete potřebovat pouze, pokud jsou vaše webové stránky umístěny v EU, a pokud přidáte tracking cookies."
+
+msgid "From name"
+msgstr "Od jména"
+
+msgid "Sender name for emails sent to users."
+msgstr "Jméno odesílatele uvedeného v e-mailech odeslaných uživatelům."
+
+msgid "From email address"
+msgstr "Z e-mailové adresy"
+
+msgid "Sender email for emails sent to users."
+msgstr "E-mail odesílatele uvedený v e-mailech odeslaných uživatelům."
+
+msgid "Incoming email address"
+msgstr "Příchozí e-mailová adresa"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Příjemce pro kontaktování v případě systémových varování."
+
+msgid "Email mode"
+msgstr "Režim e-mailu."
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Způsob odesílání e-mailů. Doporučena metoda SMTP."
+
+msgid "SMTP server and port"
+msgstr "SMTP server a port"
+
+msgid "SMTP username"
+msgstr "Uživatelské jméno na SMTP server"
+
+msgid "SMTP password"
+msgstr "Heslo na SMTP server"
+
+msgid "SMTP security"
+msgstr "SMTP zabezpečení"
+
+msgid "Unsecured"
+msgstr "Nezabezpečeno"
+
+msgid "Comments API"
+msgstr "API komentářů"
+
+#, php-format
+msgid "Disqus API works with %s."
+msgstr "Disqus API pracuje s %s."
+
+msgid "Disqus shortname"
+msgstr "Vaše krátké jméno na Disqus"
+
+#, php-format
+msgid "%s secret key"
+msgstr "%s tajný kód"
+
+#, php-format
+msgid "%s public key"
+msgstr "%s veřejný kód"
+
+msgid "Comment code"
+msgstr "Kód komentáře"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook nebo cokoliv jiného. Bude použito v zobrazení obrázku."
+
+msgid "Analytics code"
+msgstr "Kód analytics."
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics nebo cokoliv jiného. Bude přidáno do patičky."
+
+#, php-format
+msgid "%s spam protection"
+msgstr "Ochrana proti spamu %s"
+
+msgid "user generated content"
+msgstr "uživatelem vytvořený obsah"
+
+msgid "Enable this to use %l to block spam on %c."
+msgstr "Povolte tuto možnost, chcete-li pomocí %s blokovat spam na %c."
+
+#, php-format
+msgid "%s API key"
+msgstr "API klíč %s"
+
+msgid "user signup"
+msgstr "registrace uživatele"
+
+#, php-format
+msgid "%s site key"
+msgstr "%s kód stránky"
+
+#, php-format
+msgid "Force %s on contact page"
+msgstr "Vynutit %s na kontaktní stránce"
+
+#, php-format
+msgid "Enable this to always show %s on contact page."
+msgstr "Aktivací této funkce se bude %s vždy zobrazovat na kontaktní stránce."
+
+#, php-format
+msgid "Automatically moderate the content using the %s service."
+msgstr "Automaticky moderujte obsah pomocí služby %s."
+
+msgid "Automatic approve"
+msgstr "Automatické schválení"
+
+msgid "Enable this to automatically approve content moderated by this service."
+msgstr "Povolte tuto funkci pro automatické schválení obsahu moderovaného touto službou."
+
+msgid "Block content"
+msgstr "Blokovat obsah"
+
+msgid "Adult"
+msgstr "Dospělí"
+
+msgid "Teen and adult"
+msgstr "Dospívající i dospělí"
+
+msgid "Flag NSFW"
+msgstr "Příznak NSFW"
+
+msgid "Twitter account"
+msgstr "Twitter účet"
+
+msgid "Disk used"
+msgstr "Využití disku"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Ve výchozím stavu je nataveno místní ukládání. Používá se i pokud není aktivní žádné externí uložiště."
+
+msgid "Notify to email"
+msgstr "Upozornit na e-mail"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "Pokud je zapnuté, pak vás systém o pokusu o záplavu varuje e-mailem."
+
+msgid "Minute limit"
+msgstr "Minutový limit"
+
+msgid "Hourly limit"
+msgstr "Hodinový limit"
+
+msgid "Daily limit"
+msgstr "Denní limit"
+
+msgid "Weekly limit"
+msgstr "Týdenní limit"
+
+msgid "Monthly limit"
+msgstr "Měsíční limit"
+
+msgid "Style"
+msgstr "Styl"
+
+msgid "Landing page"
+msgstr "Vstupní stránka"
+
+msgid "Split landing + images"
+msgstr "Split landing + obrázky"
+
+msgid "explore"
+msgstr "průzkumník"
+
+#, php-format
+msgid "Route %s"
+msgstr "Trasa %s"
+
+msgid "Blue"
+msgstr "Modrá"
+
+msgid "Green"
+msgstr "Zelená"
+
+msgid "Orange"
+msgstr "Oranžová"
+
+msgid "Red"
+msgstr "Červená"
+
+msgid "Grey"
+msgstr "Šedá"
+
+msgid "Black"
+msgstr "Černá"
+
+msgid "White"
+msgstr "Bílá"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Empty"
+msgstr "Prázdné"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Vaše uživatelské id je: %s"
+
+msgid "Enabled image formats"
+msgstr "Povolené formáty obrázků"
+
+msgid "Enable uploads"
+msgstr "Povolit nahrávání"
+
+msgid "Enable this if you want to allow image upload from URLs."
+msgstr "Zapněte tuto volbu, pokud chcete povolit nahrávání obrázků. Toto nastavení nemá vliv na administrátory."
+
+msgid "Note that enabling this will expose your server IP."
+msgstr "Pamatujte na to, že povolením této možnosti odhalíte IP adresu svého serveru."
+
+msgid "Upload user interface"
+msgstr "Rozhraní uživatelského nahrávání"
+
+msgid "On-page container"
+msgstr "On-page kontejner"
+
+msgid "route"
+msgstr "trasa"
+
+msgid "Guest uploads"
+msgstr "Nahráno hostem"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Povol pokud chceš umožnit neregistrovaným uživatelům nahrávání."
+
+msgid "Moderate uploads"
+msgstr "Moderovat nahrávání"
+
+msgid "Enable this to moderate incoming uploads. Target content will require moderation for approval."
+msgstr "Povolte tuto funkci pro moderování příchozích nahrávek. Cílový obsah bude ke schválení vyžadovat moderování."
+
+msgid "Enable embed codes (uploader)"
+msgstr "Povolit vkládací odkazy (v nahrávacím nástroji)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Povolte pokud chcete umožnit zobrazování vkládacích odkazů jakmile bude obrázek úspěšné nahraný."
+
+msgid "Upload threads"
+msgstr "Počet vláken pro nahrávání"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "Počet vláken použitých při nahrávání (souběžné nahrávání více souborů)"
+
+msgid "Redirect on single upload"
+msgstr "Přesměrování na jednotlivé nahrání"
+
+msgid "Enable this if you want to redirect to image page on single upload."
+msgstr "Povolte tuto funkci, pokud chcete přesměrovat na stránku s obrázky při jednotlivém nahrávání."
+
+msgid "Enable duplicate uploads"
+msgstr "Povolit duplicitní nahrávání"
+
+msgid "Enable expirable uploads"
+msgstr "Povolit časové omezení pro nahrané soubory"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Aktivujte tuto funkci, pokud chcete povolit nahrávání s volbou automatického mazání."
+
+msgid "Auto delete guest uploads"
+msgstr "Automatické mazání návštěvnických uploadů"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "Při povolení budou automatické mazány návštěvnické uploady po určitém čase."
+
+msgid "Maximum image size"
+msgstr "Maximální velikost obrázku"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "Obrázky větší, než je tato velikost budou automaticky zmenšeny. Zadejte nulu (0) pokud chcete zachovat původní velikost obrázku."
+
+msgid "Image Exif data"
+msgstr "Exif data obrázku"
+
+msgid "Keep"
+msgstr "Zachovat"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Zvolit výchozí nastavení pro <a %s>Exif data</a> obrázku při nahrávání."
+
+msgid "Image Exif data (user setting)"
+msgstr "Exif data obrázku (uživ. nastavení)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Povolte, pokud chcete, aby měl každý uživatel možnost nastavit, jak bude nakládáno s EXIF daty obrázku."
+
+msgid "Maximum upload file size"
+msgstr "Maximální velikost nahrávaného souboru"
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "Maximální velikost povolená serverem je %s. Tato velikost je limitována %u a %p (%f hodnoty)."
+
+msgid "guests"
+msgstr "hosté"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "Stejné jako \"%s\" ale platné pouze pro neregistrované uživatele."
+
+msgid "Image path"
+msgstr "Cesta k obrázku"
+
+msgid "Relative to Chevereto root"
+msgstr "Relativně k Chvereto root"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Kde ukládat obrázky? Relativní k chevereto rootu."
+
+msgid "Storage mode"
+msgstr "Režim ukládání"
+
+msgid "Datefolders"
+msgstr "Složky podle data"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Složka podle data vytvoří %s strukturu"
+
+msgid "File naming method"
+msgstr "Metoda pojmenování souborů"
+
+msgid "Original"
+msgstr "Originální"
+
+msgid "Mix original + random"
+msgstr "Mix originál + náhodné"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "\"Originál\" se bude snažit zachovat název zdrojového obrázku, zatímco \"náhodné \" bude generovat náhodné jméno. \"ID\" název  bude stejný, jako ID obrázku."
+
+msgid "Thumb size"
+msgstr "Velikost miniatury"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "MIniatury budou nastaveny na tuto velikost"
+
+msgid "Medium image fixed dimension"
+msgstr "Střední velikost obrázku - pevný rozměr"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "Střední velikost obrázku bude mít tyto rozměry. Například, pokud zvolíte \"šířku\", tento rozměr bude opraven a výška obrázku bude automaticky vypočítána."
+
+msgid "Medium image fixed size"
+msgstr "Střední velikost obrázku - pevná velikost"
+
+msgid "Width or height will be automatically calculated."
+msgstr "Šířka nebo výška bude automaticky vypočítána."
+
+msgid "Expires"
+msgstr "Vyprší"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "Zakázaným IP adresám bude znemožněn přístup na celý tento web."
+
+msgid "List items per page"
+msgstr "Počet obrázků na stránku"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Kolik položek může být zobrazeno na jedné stránce výpisu"
+
+msgid "List pagination mode"
+msgstr "Listovací stránkování"
+
+msgid "Endless scrolling"
+msgstr "Nekonečné skrolování"
+
+msgid "Classic pagination"
+msgstr "Klasické stránkování"
+
+msgid "What pagination method should be used."
+msgstr "Jaká metoda stránkování má být použita?"
+
+msgid "Listing viewer"
+msgstr "Prohlížeč seznamu obrázků"
+
+msgid "Enable this to use the listing viewer when clicking on an image."
+msgstr "Povolte to, chcete-li kliknutím na obrázek otevřít prohlížeč seznamu obrázků."
+
+msgid "Image listing size"
+msgstr "Velikost náhledu"
+
+msgid "Fluid"
+msgstr "Plynulý"
+
+msgid "Fixed"
+msgstr "Pevný"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "Obě metody používají pevnou šířku, ale plynulá využívá proměnnou výšku."
+
+msgid "Listing columns number"
+msgstr "Počet sloupců výpisu"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Zde můžete nastavit, kolik sloupců se použije na základě každého cílového zařízení."
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Laptop"
+msgstr "Notebook"
+
+msgid "Desktop"
+msgstr "Počítač"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "Vektorová verze loga vaší webové stránky ve formátu SVG."
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "Rastrová verze loga vaší webové stránky, nejlépe ve formátu PNG."
+
+msgid "Logo height"
+msgstr "Výška loga."
+
+msgid "No value"
+msgstr "Žádná hodnota"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Toto použijte pro natavení výšky loga pokud je to potřeba."
+
+msgid "Favicon image"
+msgstr "Favicon (ikonka webu)"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Favicon musí mít stejnou šířku a výšku."
+
+msgid "Page title"
+msgstr "Název stránky"
+
+msgid "Page status"
+msgstr "Stav stránky"
+
+msgid "Active page"
+msgstr "Aktivní stránka"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Neaktivní stránka (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "Pouze aktivní stránky budou přístupné."
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Terms of service"
+msgstr "Podmínky používání služby"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Extra page"
+msgstr "Zvláštní stránka"
+
+msgid "Internal page type"
+msgstr "Typ interní stránky"
+
+msgid "You can have multiple extra pages, but only one of the other special internal types."
+msgstr "Můžete mít několik dalších stránek, ale pouze jeden z dalších speciálních interních typů."
+
+msgid "Page visibility"
+msgstr "Viditelnost stránky"
+
+msgid "Visible page"
+msgstr "Viditelná stránka"
+
+msgid "Hidden page"
+msgstr "Skrytá stránka"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "Skryté stránky se nebudou zobrazovat v systémových nabídkách, ale každý k nim může přistupovat pomocí odkazu."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Pouze alfanumerické znaky, pomlčky a lomítko"
+
+msgid "File path"
+msgstr "Cesta k souboru"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "%f soubor relativní k %s"
+
+msgid "Meta keywords"
+msgstr "Meta klíčová slova"
+
+msgid "Meta description"
+msgstr "Meta popis"
+
+msgid "Source code"
+msgstr "Zdrojový kód"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Nemáte oprávnění k zápisu pro cestu %s. Budete muset přidat tento soubor v externím editoru."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Nemáte oprávnění k zápisu v %s. Budete muset upravit obsah tohoto souboru pomocí externího editoru."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Převzato z: %s"
+
+msgid "Link URL"
+msgstr "URL odkazu"
+
+msgid "Link target attribute"
+msgstr "Atribut cíle odkazu"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Zvolte %s pro otevření stránky nebo odkazu v novém okně."
+
+msgid "Link rel attribute"
+msgstr "\"REL\" atribut odkazu"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Pouze alfanumerické znaky, pomlčky a prázné mezery"
+
+msgid "Link icon"
+msgstr "Odkaz na ikonu"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Zkontrolujte <a %s>referenční ikonu</a> pro kompletní seznam podporovaných ikon."
+
+msgid "Sort order display"
+msgstr "Pořadí řazení zobrazení"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "Pořadí zobrazení stránky pro menu a výpisy. Použijte \"1\" pro nejvyšší prioritu."
+
+msgid "Image load max. filesize"
+msgstr "Max. velikost obrázku"
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "U obrázků větších, než je tento rozměr, se zobrazí tlačítko pro načtení obrázku v plném rozlišení"
+
+msgid "Enable download button"
+msgstr "Aktivovat tlačítko Stáhnout"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Povolte, pokud chcete uživatelům nechat zobrazovat tlačítko \"Stáhnout\"."
+
+msgid "Enable right click on image"
+msgstr "Povolit pravý klik myši na obrázku"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Aktivujte tuto možnost, pokud chcete povolit kliknutí pravým tlačítkem myši na stránce prohlížeče obrázků."
+
+msgid "Enable show Exif data"
+msgstr "Povolit zobrazení EXIF dat"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Povolte tuto možnost, pokud chcete zobrazovat EXIF data obrázku."
+
+msgid "Enable social share"
+msgstr "Povolit sdílení přes sociální sítě."
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Zapněte pokud chcete povolit zobrazování tlačítek sociálních sítí u obsahu (sdílení, lajkování...)"
+
+msgid "Enable embed codes (content)"
+msgstr "Povolit vkládací odkazy (obsah)"
+
+msgid "Everybody"
+msgstr "Všichni"
+
+msgid "Users only"
+msgstr "Pouze uživatelé"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Povolte pokud chcete v obsahu zobrazovat vkládací obsahy."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "Zaškrtávací políčko s volbou nevhodného obsahu v nahrávacím rozhraní"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Zapněte pokud chcete uživatelům dovolit nastavování nevhodného obsahu."
+
+msgid "Custom CSS code"
+msgstr "Vlastní CSS kód"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Vložte váš vlastní CSS kód zde. Bude umístěný jako <style> těsně před koncem hlavičky (</head>) html kódu."
+
+msgid "Custom JS code"
+msgstr "Vlastní JS kód"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Vložte váš vlastní JS kód zde. Bude umístěný jako <script> těsně před koncem hlavičky (</head>) html kódu."
+
+#, php-format
+msgid "Do not use %s markup here. This is for plain JS code, not for HTML script tags. If you use script tags here you will break your website."
+msgstr "Zde nepoužívejte značku %s. Toto je pro jednoduchý kód JS, ne pro značky skriptů HTML. Používáte-li zde značky skriptů, narušíte své webové stránky."
+
+msgid "Decode ID"
+msgstr "ID dekódování"
+
+msgid "Encode ID"
+msgstr "ID kódování"
+
+msgid "Send test email"
+msgstr "Odeslat testovací email"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Pomocí této funkce lze otestovat, jak jsou vaše e-maily doručovány. Doporučujeme použít %s."
+
+msgid "Export a user"
+msgstr "Exportujte uživatele"
+
+msgid "Export user"
+msgstr "Exportovat uživatele"
+
+msgid "This will allow you to download a user's standard personal information in JSON format."
+msgstr "To vám umožní stahovat standardní osobní údaje uživatele ve formátu JSON."
+
+msgid "Regenerate external storage stats"
+msgstr "Regenerovat statistiky externího úložiště"
+
+msgid "Storage id"
+msgstr "ID úložiště"
+
+msgid "Regenerate"
+msgstr "Regenerovat"
+
+msgid "This will re-calculate the sum of all the image records associated to the target external storage."
+msgstr "Tím se přepočítá součet všech záznamů obrázků přidružených k cílovému externímu úložišti."
+
+msgid "Source storage id"
+msgstr "ID zdrojového úložiště"
+
+msgid "Target storage id"
+msgstr "ID cílového úložiště"
+
+msgid "Migrate"
+msgstr "Migrovat"
+
+msgid "This only updates the database. You must transfer the actual files to target storage container on your own. URL rewriting is strongly recommended. Use zero (0) for local storage."
+msgstr "Toto pouze aktualizuje databázi. Musíte přenést skutečné soubory do cílového úložného kontejneru. Přepis URL je důrazně doporučen. Použijte nulu (0) pro místní úložiště."
+
+msgid "Additional settings"
+msgstr "Doplňková nastavení"
+
+msgid "Plugin route"
+msgstr "Směrování Pluginu"
+
+msgid "Use this to set a custom URL for %p. Please note that you need to manually replicate %s in this URL."
+msgstr "Toto použijte pro nastavení vlastní URL adresy pro %p. Upozorňujeme, že musíte v této URL adrese ručně zkopírovat %s."
+
+msgid "Enable signups"
+msgstr "Povolit registrace"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Povolte, pokud chcete povolit uživatelům registraci."
+
+msgid "Enable user content delete"
+msgstr "Povolit smazání obsahu uživatele"
+
+msgid "Minimum age required"
+msgstr "Požadavek na minimální věk"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "Zanechte pole prázdné, pokud nevyžadujete minimální věk uživatele pro používání této webové stránky."
+
+msgid "Notify on user signup"
+msgstr "Upozornit na registraci uživatele"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "Povolte to, pokud chcete dostat e-mailové upozornění pro každou novou registraci uživatele."
+
+msgid "Require email confirmation"
+msgstr "Je vyžadováno potvrzení e-mailu"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Povolte pokud uživatelé musí potvrdit svou e-mailovou schránku během registrace."
+
+msgid "Require email for social signup"
+msgstr "K přihlášení přes sociální síť je vyžadován e-mail."
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Povolte pokud uživatelé, využívající k registraci sociální sítě, budou muset také poskytnou svou e-mailovou adresu."
+
+msgid "User avatar max. filesize"
+msgstr "Max. velikost souboru avatara"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "Max. povolená velikost souboru obrázku avatara. (Max. velikost povolená serverem je %s)"
+
+msgid "User background max. filesize"
+msgstr "Max. velikost souboru uživatelského pozadí"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "Max. povolená velikost souboru obrázku pozadí. (Max. velikost povolená serverem je %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Aktivuj pokud chceš vložit logo nebo cokoliv jiného do nahrávaných obrázků."
+
+msgid "Watermark user toggles"
+msgstr "Přepínač vodoznaku uživatele"
+
+msgid "Enable watermark on guest uploads"
+msgstr "Povolit vodoznak pro soubory nahrané hostem"
+
+msgid "Enable watermark on user uploads"
+msgstr "Povolit vodoznak pro soubory nahrané uživatelem"
+
+msgid "Enable watermark on admin uploads"
+msgstr "Povolit vodoznak pro soubory nahrané administrátorem"
+
+msgid "Watermark file toggles"
+msgstr "Přepínač vodoznaku souboru"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Povolit vodoznak při nahrávání GIF obrázků"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "Minimální potřebná velikost obrázku pro vložení vodoznaku"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Do obrázků menších, než je tato hodnota nebude možno vložit vodoznak. Pokud zadáte nulu (0) , nebude stanoven žádný minimální limit velikosti obrázku."
+
+msgid "Watermark image"
+msgstr "Soubor s vodoznakem"
+
+msgid "Watermark position"
+msgstr "Pozice vodoznaku"
+
+msgid "left top"
+msgstr "vpravo nahoře"
+
+msgid "left center"
+msgstr "vlevo uprostřed"
+
+msgid "left bottom"
+msgstr "vlevo dole"
+
+msgid "center top"
+msgstr "uprostřed nahoře"
+
+msgid "center center"
+msgstr "uprostřed"
+
+msgid "center bottom"
+msgstr "uprostřed dole"
+
+msgid "right top"
+msgstr "vpravo nahoře"
+
+msgid "right center"
+msgstr "vpravo uprostřed"
+
+msgid "right bottom"
+msgstr "vpravo dole"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Relativní pozice vodoznaku. První hodnota je horizontální, druhá vertikální"
+
+msgid "Watermark percentage"
+msgstr "Procentuální velikost vodoznaku"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "Procentuální velikost vodoznaku v poměru k ploše cílového obrázku. Hodnoty od 1 do 100."
+
+msgid "Watermark margin"
+msgstr "Odsazení vodoznaku."
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Odsazení od okraje obrázku po vodoznak."
+
+msgid "Watermark opacity"
+msgstr "Průhlednost vodoznaku."
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "Průhlednost vodoznaku vzhledem k obrázku. Hodnoty od 0 do 100."
+
+msgid "Website name"
+msgstr "Název webu"
+
+msgid "Website doctitle"
+msgstr "Nadpis webové stránky (title)"
+
+msgid "Website description"
+msgstr "Popis webu"
+
+msgid "Default time zone"
+msgstr "Výchozí časové pásmo"
+
+msgid "Select region"
+msgstr "Vyber region"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "Umožňuje vyhledávat obrázky, alba a uživatele na základě daného vyhledávacího dotazu."
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "Umožňuje procházet veřejně nahrané obrázky. Také umožňuje procházet veřejné kategorie."
+
+msgid "Enables to browse images randomly."
+msgstr "Umožňuje prohlížet obrázky v náhodném pořadí."
+
+msgid "Likes"
+msgstr "Líbí se"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "Umožňuje uživatelům \"lajkovat\" obsah a šířit výpisy \"Nejoblíbenějších\"."
+
+msgid "Followers allows users to follow each other."
+msgstr "Odběratelé uživatelům umožňují se navzájem sledovat."
+
+msgid "Website mode"
+msgstr "Režim webové stránky"
+
+msgid "You can switch the website mode anytime."
+msgstr "Režim webové stránky můžete kdykoliv přepnout."
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "Vlastní cesta pro namapování /uživatelskéjméno na /cokoliv. Použijte \"/\" pro namapování na domovskou stránku."
+
+msgid "Website privacy mode"
+msgstr "Režim soukromí webu"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "Soukromý režim způsobí, že stránka bude dostupná pouze registrovaným uživatelům."
+
+msgid "Content privacy mode"
+msgstr "Obsah soukromého módu"
+
+msgid "Force private (self)"
+msgstr "Vynutit soukromí (jen já)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Vynutit soukromí (kdokoliv kdo má link)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "Vynucení soukromí ovlivní i to co měl uživatel nastaveno."
+
+msgid "Make sure that you address this issue as the system relies on accurate IP detections to provide basic functionalities and to protect against spam, flooding, and brute force attacks."
+msgstr "Ujistěte se, že tento problém řešíte, protože systém spoléhá na přesné detekce IP, aby poskytoval základní funkce a chránil před spamem, záplavami a útoky brutální silou."
+
+msgid "Role"
+msgstr "Úloha"
+
+msgid "Email address"
+msgstr "E-mailová adresa"
+
+msgid "Play GIF"
+msgstr "Přehrát GIF"
+
+msgid "Load 360° view"
+msgstr "Načíst 360° pohled"
+
+msgid "Do you really want to approve this image? The image will go public if you approve it."
+msgstr "Opravdu chcete odstranit veškerý vybraný obsah? Toto nelze vrátit zpět."
+
+msgid "Cover"
+msgstr "Obal"
+
+msgid "This is the album cover"
+msgstr "Toto je obal alba"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Přidáno do alba %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Nahráno do alba %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Nahráno %s"
+
+msgid "Less Exif data"
+msgstr "Méně EXIF dat"
+
+msgid "More Exif data"
+msgstr "Více EXIF dat"
+
+msgid "Add IP ban"
+msgstr "Přidat zakázanou IP"
+
+msgid "Upload and share your images."
+msgstr "Nahrajte a sdílejte obrázky."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Chyťte a přetáhněte obrázky kamkoli budete chtít a začněte ihned nahrávat. Maximální velikost souboru je %s. \nZískáte přímé odkazy, BB-kód, HTML náhledy a vaše obrázky můžete snadno sdílet na mnoha sociálních sítích."
+
+msgid "Sign up to unlock all the features"
+msgstr "Zaregistrujte se pro zpřístupnění všech funkcí"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Spravujte váš obsah, vytvářejte soukromá alba, nastavujte váš profil a spoustu dalšího."
+
+msgid "Sign in with your account"
+msgstr "Přihlaste se pomocí svého účtu"
+
+msgid "Logged out"
+msgstr "Odhlášeno"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Odhlášení z webu %s proběhlo úspěšně. Brzy na shledanou."
+
+msgid "Website under maintenance"
+msgstr "Na webové stránce probíhá údržba"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Snažíme se co nejdříve dokončit plánované úkoly údržby na naší webové stránce. Vraťte se prosím za pár minut."
+
+msgid "This content is password protected."
+msgstr "Tento obsah je chráněn heslem."
+
+msgid "Please enter your password to continue."
+msgstr "Pro pokračování zadejte prosím vaše heslo."
+
+msgid "Add image uploading to your website, blog or forum by installing our upload plugin. It provides image uploading to any website by placing a button that will allow your users to directly upload images to our service and it will automatically handle the codes needed for insertion. All features included like drag and drop, remote upload, image resizing and more."
+msgstr "Přidejte funkci nahrávání obrázků na své webové stránky, blog nebo fórum nainstalováním pluginu pro nahrávání. Tato funkce poskytuje možnost nahrávání obrázků z libovolné webové stránky tím, že zde umístí tlačítko, které umožní vašim uživatelům přímo odesílat obrázky do naší služby a automaticky zpracuje a vytvoří kódy potřebné pro vkládání. Všechny funkce zahrnují například funkci přetáhni a pusť, vzdálené nahrávání, změnu velikosti obrázků a další."
+
+msgid "Supported software"
+msgstr "Podporovaný software"
+
+msgid "supported software"
+msgstr "podporovaný software"
+
+#, php-format
+msgid "The plugin works in any website with user-editable content and for %sv, it will place an upload button that will match the target editor toolbar so no extra customization is needed."
+msgstr "Plugin funguje na libovolné webové stránce s uživatelsky upravitelným obsahem a pro %sv, umístí tlačítko pro nahrání, které bude odpovídat panelu nástrojů pro cílový editor, takže není potřeba další přizpůsobení."
+
+msgid "Add it to your website"
+msgstr "Přidejte je na své webové stránky"
+
+msgid "options"
+msgstr "možnosti"
+
+#, php-format
+msgid "Copy and paste the plugin code into your website HTML code (preferably inside the head section). There are plenty %o to make it fit better to your needs."
+msgstr "Zkopírujte a vložte kód pluginu do kódu HTML vašich stránek (nejlépe v sekci hlavičky webu). Existuje spousta  %o, aby to lépe vyhovovalo vašim potřebám."
+
+msgid "Basic options"
+msgstr "Základní možnosti"
+
+msgid "Color palette"
+msgstr "Paleta barev"
+
+msgid "Button color scheme"
+msgstr "Barevné schéma tlačítka"
+
+msgid "Embed codes that will be auto-inserted in editor box"
+msgstr "Kódy pro sdílení, které budou automaticky vloženy do pole editoru"
+
+msgid "Sibling selector"
+msgstr "Sibling selektor"
+
+msgid "Sibling element selector where to place the button next to"
+msgstr "Sibling selektor vedle kterého se má umístit tlačítko"
+
+msgid "Sibling position"
+msgstr "Pozice Siblingu"
+
+msgid "After"
+msgstr "Po"
+
+msgid "Before"
+msgstr "Před"
+
+msgid "Position relative to sibling element"
+msgstr "Relativní pozice vedle Siblingu"
+
+msgid "Advanced options"
+msgstr "Pokročilé možnosti"
+
+#, php-format
+msgid "The plugin has a large set of additional options that allow full customization. You can use custom HTML, CSS, own color palette, set observers and more. Check the %d and the plugin source to get a better idea of these advanced options."
+msgstr "Plugin má velkou sadu dalších možností, které umožňují úplné přizpůsobení. Můžete použít vlastní HTML, CSS, vlastní paletu barev, nastavit pozorovatele a další. Zkontrolujte %d a zdroj pluginu, abyste získali lepší představu o těchto pokročilých možnostech."
+
+msgid "Valid"
+msgstr "Platný"
+
+msgid "Banned"
+msgstr "Zabanovaný"
+
+msgid "Awaiting email"
+msgstr "Čeká se na e-mail"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i do %f znaků<br>Písmena, čísla a \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Automaticky smazat nahrané obrázky"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "Toto nastavení se bude vztahovat na všechny vaše nahrávané obrázky jako výchozí nastavení. Můžete přepsat toto nastavení při každém nahrávání."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "Zachovat <a %s>Exif data</a> obrázku po nahrání"
+
+msgid "Newsletter"
+msgstr "Informační Bulletin"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Zasílat mi e-maily o novinkách z %s"
+
+msgid "Content settings"
+msgstr "Nastavení obsahu"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Zobrazit závadný obsah v seznamech (od ostatních)"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Timezone"
+msgstr "Časová zóna"
+
+msgid "User has no connections."
+msgstr "Uživatel nemá žádné propojení."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Opravdu se chcete odpojit %s od tohoto účtu?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Tento účet je propojen s %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Opravdu chcete odpojit váš %s účet?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Budete odhlášen(a) a již se nebudete moci přihlásit ke svému účtu prostřednictvím tohoto %s účtu."
+
+msgid "Button"
+msgstr "Tlačítko"
+
+msgid "Current password"
+msgstr "Současné heslo"
+
+msgid "Enter your current password"
+msgstr "Vložte své současné heslo"
+
+msgid "New password"
+msgstr "Nové heslo"
+
+msgid "Confirm new password"
+msgstr "Potvrdit nové heslo"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "K tomu aby jste byli schopni se přihlásit uživatelským jménem nebo e-mailem je zapotřebí přidat heslo."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Tento uživatel nemá uložené žádné heslo. Heslo přidejte tímto formulářem."
+
+msgid "Enter your password"
+msgstr "Vložte vaše heslo"
+
+msgid "Confirm password"
+msgstr "Potvrďte heslo"
+
+msgid "Re-enter your password"
+msgstr "Napište heslo znovu"
+
+msgid "Upload avatar"
+msgstr "Nahrát avatar"
+
+msgid "Make my profile and identity totally private"
+msgstr "Zachovat můj profil a identitu zcela soukromou"
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "Povolte, pokud chcete působit jako anonymní uživatel"
+
+msgid "This is your real name, not your username."
+msgstr "Toto je vaše opravdové jméno, ne uživatelské."
+
+msgid "Bio"
+msgstr "Životopis"
+
+msgid "Tell us a little bit about you"
+msgstr "Řekněte nám něco o vás..."
+
+msgid "Login"
+msgstr "Přihlásit se"
+
+#, php-format
+msgid "Already have an account? %s now."
+msgstr "Máte již účet? %s nyní."
+
+msgid "resend account activation"
+msgstr "znovu poslat aktivaci účtu"
+
+#, php-format
+msgid "If you have already signed up maybe you need to request to %s to activate your account."
+msgstr "Pokud jste se již zaregistrovali, možná budete muset požádat %s o aktivaci Vašeho účtu."
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "Je mi minimálně %s let."
+
+msgid "Upload profile background"
+msgstr "Nahrát pozadí profilu"
+
+msgid "Change background"
+msgstr "Změnit pozadí"
+
+msgid "Upload new image"
+msgstr "Nahrát nový soubor"
+
+msgid "Delete background"
+msgstr "Odstranit pozadí"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Sledující"
+msgstr[1] "Sledujících"
+msgstr[2] "Sledujících"
+msgstr[3] "Sledující"
+
+msgid "Follow"
+msgstr "Sledovat"
+
+msgid "General questions/comments"
+msgstr "Obecné dotazy a komentáře"
+
+msgid "DMCA complaint"
+msgstr "Nahlásit porušení autorského zákona"
+
+msgid "Invalid message"
+msgstr "Neplatná zpráva"
+
+msgid "Invalid subject"
+msgstr "Neplatný předmět"
+
+msgid "Message sent"
+msgstr "Zpráva byla odeslána"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Zpráva byla odeslána. Budeme Vás brzy kontaktovat."
+
+msgid "If you want to send a message fill the form below."
+msgstr "Chcete-li poslat zprávu, vyplňte níže uvedený formulář."
+
+msgid "Your name"
+msgstr "Vaše jméno"
+
+msgid "Subject"
+msgstr "Předmět zprávy"
+
+msgid "Send"
+msgstr "Odeslat"
+

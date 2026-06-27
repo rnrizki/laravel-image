@@ -1,0 +1,1039 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Jums draudžiama naudotis šia svetaine."
+
+msgid "View all my images"
+msgstr "Žiūrėti visus mano paveikslėlius"
+
+msgid "Plugin"
+msgstr "Įskiepis"
+
+msgid "Request denied"
+msgstr "Užklausa atmesta"
+
+msgid "terms"
+msgstr "sąlygos"
+
+msgid "privacy policy"
+msgstr "privatumo politika"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "Aš sutinku su %terms_link ir %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "Puslapis neegzistuoja"
+
+msgid "Forgot password?"
+msgstr "Pamiršote slaptažodį?"
+
+msgid "Reset password"
+msgstr "Atnaujinti slaptažodį"
+
+msgid "Resend account activation"
+msgstr "Aktyvuoti paskyrą"
+
+msgid "Add your email address"
+msgstr "Įrašykite savo el.paštą"
+
+msgid "Awaiting confirmation"
+msgstr "Laukiama patvirtinimo"
+
+msgid "Email changed"
+msgstr "El.paštas pakeistas"
+
+msgid "Invalid Username/Email"
+msgstr "Neteisingas Vartotojo vardas/El.paštas"
+
+msgid "User doesn't have an email."
+msgstr "Vartotojas neturi el.pašto."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Paskyra reikalauja aktyvacijos"
+
+msgid "Account already activated"
+msgstr "Paskyra jau yra aktyvuota"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Palaukite apie 15 minučių el.laiško. Taip pat galite bandyti vėliau dar kartą."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Atnaujinti slaptažodį %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Reikalauja patvirtinimo %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Sveiki atvykę į %s"
+
+msgid "Invalid password"
+msgstr "Neteisingas slaptažodis"
+
+msgid "Passwords don't match"
+msgstr "Slaptažodžiai nesutampa"
+
+msgid "Invalid email"
+msgstr "Neteisingas el.paštas"
+
+msgid "Email already being used"
+msgstr "Šis el.paštas jau naudojamas"
+
+msgid "Check the errors in the form to continue."
+msgstr "Pasitikrinkite klaidas ir tęskite."
+
+msgid "Password required"
+msgstr "Būtinas slaptažodis"
+
+msgid "Embed codes"
+msgstr "Dalinimosi kodas"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "paveiksl."
+msgstr[1] "paveiksl."
+msgstr[2] "paveiksl."
+msgstr[3] "paveiksl."
+
+msgid "Stats"
+msgstr "Statistika"
+
+msgid "Images"
+msgstr "Paveikslėliai"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album."
+msgstr[1] "Album."
+msgstr[2] "Album."
+msgstr[3] "Album."
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Vartotojas"
+msgstr[1] "Vartotojai"
+msgstr[2] "Vartotojai"
+msgstr[3] "Vartotojai"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Website"
+msgstr "Svetainė"
+
+msgid "Content"
+msgstr "Turinys"
+
+msgid "Listings"
+msgstr "Skelbimai"
+
+msgid "Image upload"
+msgstr "paveikslėlio įkėlimas"
+
+msgid "Categories"
+msgstr "Kategorijos"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Languages"
+msgstr "Kalbos"
+
+msgid "Email"
+msgstr "El.paštas"
+
+msgid "External storage"
+msgstr "Išorinė saugykla"
+
+msgid "Homepage"
+msgstr "Namų puslapis"
+
+msgid "External services"
+msgstr "Išorinės tarnybos"
+
+msgid "Flood protection"
+msgstr "Apsauga nuo floodo"
+
+msgid "Banners"
+msgstr "Baneriai"
+
+msgid "IP bans"
+msgstr "Užblokuoti IP"
+
+msgid "Support"
+msgstr "Pagalba"
+
+msgid "Community"
+msgstr "Bendruomenė"
+
+msgid "PHP version"
+msgstr "PHP versija"
+
+msgid "Server"
+msgstr "Serveris"
+
+msgid "MySQL version"
+msgstr "MySQL versija"
+
+msgid "MySQL server info"
+msgstr "MySQL serverio informacija"
+
+msgid "File uploads"
+msgstr "Failų įkėlimas"
+
+msgid "Enabled"
+msgstr "Įjungta"
+
+msgid "Disabled"
+msgstr "Išjungta"
+
+msgid "Max. execution time"
+msgstr "Maksimalus vykdymo laikas"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sek."
+msgstr[1] "%d sek."
+msgstr[2] "%d sek."
+msgstr[3] "%d sek."
+
+msgid "Memory limit"
+msgstr "Atminties limitas"
+
+msgid "Local"
+msgstr "Vietinis"
+
+msgid "External"
+msgstr "Išorinis"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "search content"
+msgstr "ieškoti"
+
+msgid "Explore"
+msgstr "Naršyti"
+
+msgid "Invalid website name"
+msgstr "Neteisingas svetainės pavadinimas"
+
+msgid "Invalid language"
+msgstr "Neteisinga kalba"
+
+msgid "Invalid timezone"
+msgstr "Neteisinga laiko juosta"
+
+msgid "Invalid upload storage mode"
+msgstr "Neteisingas įkėlimo saugojimo režimas"
+
+msgid "Invalid upload filenaming"
+msgstr "Neteisingi įkeliamų failų pavadinimai"
+
+msgid "Invalid thumb width"
+msgstr "Neteisingas miniatiūros plotis"
+
+msgid "Invalid thumb height"
+msgstr "Neteisingas miniatiūros aukštis"
+
+msgid "Invalid theme"
+msgstr "Neteisinga tema"
+
+msgid "Invalid value"
+msgstr "Neteisingas dydis"
+
+msgid "Invalid theme image listing size"
+msgstr "Neteisingas temos paveikslėlių sąrašo dydis"
+
+msgid "Invalid user id"
+msgstr "Neteisingas vartotojo id"
+
+msgid "Invalid email mode"
+msgstr "Neteisingas el.pašto režimas"
+
+msgid "Invalid SMTP port"
+msgstr "Neteisingas SMTP portas"
+
+msgid "Invalid SMTP security"
+msgstr "Neteisinga SMTP apsauga"
+
+msgid "Invalid website mode"
+msgstr "Neteisingas svetainės režimas"
+
+msgid "Invalid website content privacy mode"
+msgstr "Neteisingas svetainės turinio privatumo režimas"
+
+msgid "Invalid URL"
+msgstr "Neteisingas URL"
+
+msgid "Invalid upload image path"
+msgstr "Neteisingas įkeliamo paveikslėlio kelias"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Maks. galima %s"
+
+msgid "Invalid SMTP server"
+msgstr "Neteisingas SMTP serveris"
+
+msgid "Invalid SMTP username"
+msgstr "Neteisingas SMTP vartotojo vardas"
+
+msgid "Dashboard"
+msgstr "Skydelis"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Image ID"
+msgstr "Paveikslėlio ID"
+
+msgid "Upload date"
+msgstr "Įkėlimo data"
+
+msgid "Direct links"
+msgstr "Tiesioginės nuorodos"
+
+msgid "Image link"
+msgstr "Paveikslėlio nuoroda"
+
+msgid "Image URL"
+msgstr "Paveikslėlio URL"
+
+msgid "Thumbnail URL"
+msgstr "Miniatiūros URL"
+
+msgid "Medium URL"
+msgstr "Vidutinio dydžio URL"
+
+msgid "Login needed"
+msgstr "Reikia prisijungti"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Paveikslėlis"
+msgstr[1] "Paveikslėliai"
+msgstr[2] "Paveikslėliai"
+msgstr[3] "Paveikslėliai"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "IP address already banned"
+msgstr "IP adresas jau yra užblokuotas"
+
+msgid "Missing values"
+msgstr "Dingę dydžiai"
+
+msgid "Invalid username"
+msgstr "Neteisingas vartotojo vardas"
+
+msgid "Invalid role"
+msgstr "Neteisinga rolė"
+
+msgid "Username already being used"
+msgstr "Toks vartotojo vardas jau naudojamas"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s atsijungęs."
+
+msgid "Wrong Username/Email password combination"
+msgstr "Netesinga vartotojo vardo/el.pašto kombinacija"
+
+msgid "Sign in"
+msgstr "Prisijungti"
+
+msgid "Search"
+msgstr "Ieškoti"
+
+msgid "Account"
+msgstr "Paskyra"
+
+msgid "Profile"
+msgstr "Profilis"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Laiškas buvo išsiųstas į %s el. paštą su elektroninio pašto aktyvavimo instrukcijomis"
+
+msgid "Invalid name"
+msgstr "Neteisingas vardas"
+
+msgid "Invalid website"
+msgstr "Neteisinga svetainė"
+
+msgid "Wrong password"
+msgstr "Neteisingas slaptažodis"
+
+msgid "Use a new password"
+msgstr "Naudokite naują slaptažodį"
+
+msgid "Changes have been saved."
+msgstr "Pakeitimai išsaugoti."
+
+msgid "Password has been changed"
+msgstr "Slaptažodis pakeistas"
+
+msgid "Password has been created."
+msgstr "Slaptažodis sukurtas."
+
+msgid "Wrong Username/Email values"
+msgstr "Neteisingi vartotojo vardo/el.pašto dydžiai"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "%s nustatymai"
+
+msgid "Username"
+msgstr "Vartotojo vardas"
+
+msgid "Delete user"
+msgstr "Pašalinti vartotoją"
+
+msgid "User ID"
+msgstr "Vartotojo ID"
+
+msgid "Register date"
+msgstr "Registracijos data"
+
+msgid "Create account"
+msgstr "Sukurti paskyrą"
+
+msgid "Upload"
+msgstr "Įkelti"
+
+msgid "Albums"
+msgstr "Albumai"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album."
+msgstr[1] "album."
+msgstr[2] "album."
+msgstr[3] "album."
+
+msgid "Flooding detected. You can only upload %limit% %content% per %time%"
+msgstr "Aptiktas piktnaudžiavimas. Galite įkelti tik %limit% %content% per %time%"
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Perspėjimas: Turinys yra privatus. Pakeiskite privatumo lygį į \"viešą\"  ir galėsite dalintis."
+
+msgid "Public"
+msgstr "Viešas"
+
+msgid "Me"
+msgstr "Aš"
+
+msgid "Link"
+msgstr "Nuoroda"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minutė"
+msgstr[1] "minutės"
+msgstr[2] "minučių"
+msgstr[3] "minutės"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "valanda"
+msgstr[1] "valandos"
+msgstr[2] "valandų"
+msgstr[3] "valandos"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "d."
+msgstr[1] "d."
+msgstr[2] "d."
+msgstr[3] "d."
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "sav."
+msgstr[1] "sav."
+msgstr[2] "sav."
+msgstr[3] "sav."
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mėn."
+msgstr[1] "mėn."
+msgstr[2] "mėn."
+msgstr[3] "mėn."
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "m."
+msgstr[1] "m."
+msgstr[2] "m."
+msgstr[3] "m."
+
+msgid "Private upload"
+msgstr "Privatus įkėlimas"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "perž."
+msgstr[1] "perž."
+msgstr[2] "perž."
+msgstr[3] "perž."
+
+msgid "Most recent"
+msgstr "Naujausia"
+
+msgid "Oldest"
+msgstr "Seniausia"
+
+msgid "Most viewed"
+msgstr "Labiausiai žiūrima"
+
+msgid "People"
+msgstr "Žmonės"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Atminties talpa negali būti mažesnė nei dabartinis jos naudojimas (%s)"
+
+msgid "Unlimited"
+msgstr "Be apribojimo"
+
+msgid "used"
+msgstr "naudojama"
+
+msgid "Share"
+msgstr "Dalintis"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "s."
+msgstr[1] "s."
+msgstr[2] "s."
+msgstr[3] "s."
+
+#, php-format
+msgid "%s ago"
+msgstr "prieš %s"
+
+msgid "moments ago"
+msgstr "ką tik"
+
+msgid "Random"
+msgstr "Atsitiktinis"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Advanced search"
+msgstr "Išplėstinė paieška"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Pranešimai (%s)"
+
+msgid "loading"
+msgstr "kraunama"
+
+msgid "My Profile"
+msgstr "Mano profilis"
+
+msgid "Administrator"
+msgstr "Administratorius"
+
+msgid "Sign out"
+msgstr "Atsijungti"
+
+msgid "Confirm"
+msgstr "Patvirtinti"
+
+msgid "Create album"
+msgstr "Sukurti albumą"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "Delete"
+msgstr "Pašalinti"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%s albumai"
+
+msgid "private"
+msgstr "privatus"
+
+msgid "Invalid URL."
+msgstr "Neteisingas URL."
+
+msgid "The content has been deleted."
+msgstr "Turinys buvo pašalintas"
+
+msgid "Select"
+msgstr "Rinktis"
+
+msgid "Save changes"
+msgstr "Išsaugoti pakeitimus"
+
+msgid "Changes saved successfully."
+msgstr "Pakeitimai sėkmingai išsaugoti."
+
+msgid "or"
+msgstr "ar"
+
+msgid "cancel"
+msgstr "atšaukti"
+
+msgid "Confirm action"
+msgstr "Patvirtinti veiksmą"
+
+msgid "information"
+msgstr "informacija"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Gavome prašymą pakeisti el.paštą jūsų <a href=\"%u\">%n</a> paskyroje %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Proceso užbaigimui turite <a href=\"%s\">aktyvuoti savo el.paštą</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Taip pat galite kopijuoti ir įklijuoti URL adresą į naršyklę: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Jei tai buvote ne jūs - nekreipkite dėmesio į šį pranešimą."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Prašymas buvo pateiktas iš IP adreso: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Gavome prašymą užregistruoti %n paskyrą %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Proceso užbaigimui turite <a href=\"%s\">turite aktyvuoti savo paskyrą</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Gavome užklausą atnaujinti slaptažodį jūsų <a href=\"%u\">%n</a> paskyrai."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Tam, kad atnaujintumėte slaptažodį <a href=\"%s\">spauskite šią nuorodą</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Labas %n, sveiki atvykę į %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Dabar, kai jūsų paskyra sukurta - mėgaukitės įkeltomis nuotraukomis ir paveikslėliais, kurkite naujus albumus, dalinkitės jais su draugais."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Čia yra jūsų profilio puslapis: <a href=\"%u\">%n</a>. Nustatykite jį pagal savo skonį ir poreikius!."
+
+msgid "Thank you for joining"
+msgstr "Ačiū už registraciją"
+
+msgid "This email was sent from %w %u"
+msgstr "Šis laiškas buvo išsiųstas iš %w %u"
+
+msgid "Select the images to upload"
+msgstr "Rinkitės paveikslėlius įkėlimui"
+
+msgid "Upload complete"
+msgstr "Įkėlimas baigtas"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Pažymėkite, jei įkėlimas neskirtas peržiūrėti visai šeimai"
+
+msgid "Not family safe upload"
+msgstr "Įkėlimas neskirtas peržiūrėti visai šeimai"
+
+msgid "Uploading"
+msgstr "Įkėlimas"
+
+msgid "cancel remaining"
+msgstr "atšaukti likusius"
+
+msgid "learn more"
+msgstr "sužinoti daugiau"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Peržiūrėkite <a data-modal=\"simple\" data-target=\"failed-upload-result\">klaidų ataskaitas,</a> jei norite sužinoti daugiau."
+
+msgid "Title"
+msgstr "Pavadinimas"
+
+msgid "optional"
+msgstr "nebūtina"
+
+msgid "Mark this if the image is not family safe"
+msgstr "Pažymėkite, jei paveikslėlis skirtas peržiūrėti ne visai šeimai"
+
+msgid "Flag as unsafe"
+msgstr "Žymėti kaip nesaugų"
+
+msgid "Description"
+msgstr "Aprašymas"
+
+msgid "Add image URLs"
+msgstr "Įkelti paveikslėlio URL"
+
+msgid "Add the image URLs here"
+msgstr "Čia įkelkite paveikslėlio URL"
+
+msgid "Error report"
+msgstr "Pranešimas apie klaidą"
+
+msgid "Links"
+msgstr "Nuorodos"
+
+msgid "HTML Codes"
+msgstr "HTML kodai"
+
+msgid "HTML medium linked"
+msgstr "HTML vidutinės kokybės nuoroda"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML miniatiūros nuoroda"
+
+msgid "BBCodes"
+msgstr "BBkodai"
+
+msgid "BBCode medium linked"
+msgstr "BBkodo vidutinės kokybės nuoroda"
+
+msgid "BBCode thumbnail linked"
+msgstr "BBkodo miniatiūros nuoroda"
+
+msgid "Viewer links"
+msgstr "Peržiūros nuorodos"
+
+msgid "All these words"
+msgstr "Visi šie žodžiai"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Įveskite svarbius žodžius: trispalvė žiurkė terjeras"
+
+msgid "This exact word or phrase"
+msgstr "Tai tikslus žodis ar frazė"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Įdėkite tikslius žodžius į kabutes: \"žiurkių terjeras\""
+
+msgid "None of these words"
+msgstr "Nė vienas iš šių žodžių"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Įdėkite minusą prieš žodžius, kurių nenorite: -terjeras - \"Džeko Raselo\""
+
+msgid "Storage"
+msgstr "Saugojimas"
+
+msgid "IP address"
+msgstr "IP adresas"
+
+msgid "Name"
+msgstr "Vardas"
+
+msgid "Privacy"
+msgstr "Privatumas"
+
+msgid "Who can view this content"
+msgstr "Kas gali matyti šį turinį"
+
+msgid "Private (just me)"
+msgstr "Privatus (tik man)"
+
+msgid "Private (anyone with the link)"
+msgstr "Privatus (kitiems pagal nuorodą)"
+
+msgid "URL key"
+msgstr "URL raktas"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Tik raidės, skaičiai ir brūkšneliai"
+
+msgid "Expiration date"
+msgstr "Galiojimo data"
+
+msgid "Example"
+msgstr "Pavyzdys"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Kuriam laikui šis IP adresas bus užblokuotas? Palikite tuščią, jei blokuosite visam laikui."
+
+msgid "Message"
+msgstr "Žinutė"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Teksto žinutė, HTML arba nukreipimo URL"
+
+msgid "Storage name"
+msgstr "Laikmenos pavadinimas"
+
+msgid "Region"
+msgstr "Regionas"
+
+msgid "Key"
+msgstr "Raktas"
+
+msgid "Storage key"
+msgstr "Laikmenos raktas"
+
+msgid "Server password"
+msgstr "Serverio slaptažodis"
+
+msgid "view more"
+msgstr "žiūrėti daugiau"
+
+msgid "Load more"
+msgstr "Įkelti daugiau"
+
+msgid "Get embed codes"
+msgstr "Gauti dalinimosi kodus"
+
+msgid "Flag as safe"
+msgstr "Žymėti kaip saugų"
+
+msgid "Select all"
+msgstr "Pasirinkti viską"
+
+msgid "Clear selection"
+msgstr "Išvalyti pažymėtus"
+
+msgid "Sign in with another account"
+msgstr "Prisijungti su kita paskyra"
+
+msgid "There's nothing to show here."
+msgstr "Nėra ką rodyti."
+
+msgid "There is no categories."
+msgstr "Nėra kategorijų."
+
+msgid "Confirm flag content as safe"
+msgstr "Patvirtinkite turinio žymėjimą kaip saugų"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Ar tikrai norite pažymėti turinį kaip saugų?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Patvirtinkite turinio žymėjimą kaip nesaugų"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Ar tikrai norite pažymėti turinį kaip nesaugų?"
+
+msgid "Confirm deletion"
+msgstr "Patvirtinti šalinimą"
+
+msgid "Guest"
+msgstr "Svečiai"
+
+msgid "Go to homepage"
+msgstr "Į namų puslapį"
+
+msgid "The requested page was not found."
+msgstr "Puslapis nerastas"
+
+msgid "The user has been deleted"
+msgstr "Vartotojas buvo pašalintas"
+
+msgid "Your account is almost ready"
+msgstr "Jūsų paskyra beveik sukurta"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Laiškas su paskyros aktyvavimo instrukcijomis buvo išsiųstas į %s . Paskyros aktyvavimo nuoroda galios 48 valandas. Jei laiško negaunate - pasitikrinkite savo el.pašto spamo ir šiukšlių direktorijas."
+
+msgid "Resend activation"
+msgstr "Aktyvuoti iš naujo"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Jūs sėkmingai pakeitėte paskyros el.paštą į %s"
+
+msgid "Go to my profile"
+msgstr "Eiti į mano profilį"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Patvirtinimo nuoroda bus išsiųsta šiuo el.paštu kartu su instrukcija, kaip aktyvuoti paskyrą."
+
+msgid "Your email address"
+msgstr "Jūsų el.pašto adresas"
+
+msgid "Username or Email address"
+msgstr "Vartotojo vardas arba el.pašto adresas"
+
+msgid "Login now"
+msgstr "Prisijungti dabar"
+
+msgid "Enter your new password"
+msgstr "Jūsų naujas slaptažodis"
+
+msgid "Re-enter your new password"
+msgstr "Pakartotinai įrašyti naują slaptažodį"
+
+msgid "Status"
+msgstr "Statusas"
+
+msgid "From email address"
+msgstr "Iš el.pašto"
+
+msgid "Sender email for emails sent to users."
+msgstr "Laiškų siuntimo vartotojams el.paštas"
+
+msgid "Incoming email address"
+msgstr "Įeinantis el. paštas"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Kontaktinės formos ir sistemos perspėjimų gavėjas."
+
+msgid "Email mode"
+msgstr "El. pašto režimas"
+
+msgid "SMTP server"
+msgstr "SMTP serveris"
+
+msgid "SMTP username"
+msgstr "SMTP vartotojo vardas"
+
+msgid "SMTP password"
+msgstr "SMTP slaptažodis"
+
+#, php-format
+msgid "%s API key"
+msgstr "%s API raktas"
+
+msgid "Disk used"
+msgstr "Užimta vietos"
+
+msgid "Default language"
+msgstr "Kalba pagal nutylėjimą"
+
+msgid "Contact"
+msgstr "Kontaktai"
+
+msgid "Send test email"
+msgstr "Siųsti bandomąjį el. laišką"
+
+msgid "Website name"
+msgstr "Svetainės pavadinimas"
+
+msgid "Website description"
+msgstr "Svetainės aprašymas"
+
+msgid "Website mode"
+msgstr "Svetainės režimas"
+
+msgid "You can switch the website mode anytime."
+msgstr "Svetainės režimą galite pakeisti bet kada."
+
+msgid "Email address"
+msgstr "El.pašto adresas"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Įkelta į %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Įkelta %s"
+
+msgid "Logged out"
+msgstr "Atsijungta"
+
+msgid "This content is password protected."
+msgstr "Šis turinys apsaugotas slaptažodžiu."
+
+msgid "Newsletter"
+msgstr "Naujienlaiškis"
+
+msgid "Content settings"
+msgstr "Turinio nustatymai"
+
+msgid "Language"
+msgstr "Kalba"
+
+msgid "Timezone"
+msgstr "Laiko zona"
+
+msgid "Current password"
+msgstr "Dabartinis slaptažodis"
+
+msgid "Enter your current password"
+msgstr "Įrašykite dabartinį slaptažodį"
+
+msgid "New password"
+msgstr "Naujas slaptažodis"
+
+msgid "Confirm new password"
+msgstr "Patvirtinti naują slaptažodį"
+
+msgid "Confirm password"
+msgstr "Pakartoti slaptažodį"
+
+msgid "Upload avatar"
+msgstr "Įkelti avatarą"
+
+msgid "Bio"
+msgstr "Biografija"
+
+msgid "Login"
+msgstr "Prisijungti"
+
+msgid "Upload profile background"
+msgstr "Įkelti profilio fono paveikslėlį"
+
+msgid "Change background"
+msgstr "Keisti fono paveikslėlį"
+
+msgid "Upload new image"
+msgstr "Įkelti naują paveikslėlį"
+
+msgid "Delete background"
+msgstr "Pašalinti fono paveikslėlį"
+
+msgid "Follow"
+msgstr "Sekti"
+
+msgid "General questions/comments"
+msgstr "Bendrieji klausimai/komentarai"
+
+msgid "DMCA complaint"
+msgstr "DMCA skundas"
+
+msgid "Invalid message"
+msgstr "Neteisinga žinutė"
+
+msgid "Invalid subject"
+msgstr "Neteisinga tema"
+
+msgid "Message sent"
+msgstr "Žinutė išsiųsta"
+
+msgid "Your name"
+msgstr "Jūsų vardas"
+
+msgid "Subject"
+msgstr "Tema"
+

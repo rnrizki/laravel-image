@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "View all my images"
+msgstr "همه عکسهای مرا نشان بده"
+
+msgid "Request denied"
+msgstr "درخواست غیر مجاز است"
+
+msgid "That page doesn't exist"
+msgstr "صفحه وجود ندارد."
+
+msgid "Forgot password?"
+msgstr "کلمه عبور را فراموش کرده اید ؟"
+
+msgid "Reset password"
+msgstr "بازیابی رمز عبور"
+
+msgid "Resend account activation"
+msgstr "ارسال دوباره ایمیل فعال سازی"
+
+msgid "Add your email address"
+msgstr "ایمیل خود را وارد کنید"
+
+msgid "Awaiting confirmation"
+msgstr "در انتظار تایید ایمیل"
+
+msgid "Email changed"
+msgstr "ایمیل تغییر کرد."
+
+msgid "Invalid Username/Email"
+msgstr "نام کاربری / رمز عبور اشتباه است"
+
+msgid "User doesn't have an email."
+msgstr "کاربر ایمیلی ندارد."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "برای استفاده از این ویژگی باید حساب خود را فعال کنید."
+
+msgid "Account already activated"
+msgstr "حساب شما فعال شد."
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "حداقل 15 دقیقه تا دریافت ایمیل . شما میتوانید بعدا دوباره امتحان کنید."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "بازیابی رمز عبور در %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "فعالسازی مورد نیاز است در %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "به %s خوش آمدید"
+
+msgid "Invalid password"
+msgstr "رمز عبور اشتباه استد"
+
+msgid "Passwords don't match"
+msgstr "رمز عبور هماهنگ نیستند"
+
+msgid "Invalid email"
+msgstr "ایمیل اشتباه است"
+
+msgid "Email already being used"
+msgstr "ایمیل در حال حاضر استفاده شده است."
+
+msgid "Check the errors in the form to continue."
+msgstr "خطاهای این فرم را بررسی کنید"
+
+msgid "Embed codes"
+msgstr "کد های پیوست"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "عکس"
+msgstr[1] "عکس"
+
+msgid "Stats"
+msgstr "آمار"
+
+msgid "Images"
+msgstr "عکس"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "کاربر"
+msgstr[1] "کاربران"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Website"
+msgstr "وبسایت"
+
+msgid "Content"
+msgstr "محتوا"
+
+msgid "Listings"
+msgstr "لیست"
+
+msgid "Image upload"
+msgstr "آپلود تصویر"
+
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+msgid "Theme"
+msgstr "قالب"
+
+msgid "System"
+msgstr "سیستم"
+
+msgid "Languages"
+msgstr "زبان"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Tools"
+msgstr "ابزار"
+
+msgid "External storage"
+msgstr "ذخیره ساز داخلی"
+
+msgid "Homepage"
+msgstr "صفحه اصلی"
+
+msgid "Pages"
+msgstr "صفحه"
+
+msgid "External services"
+msgstr "سرویس های خارجی"
+
+msgid "Flood protection"
+msgstr "محافظت از حملات"
+
+msgid "Banners"
+msgstr "بنر ها"
+
+msgid "IP bans"
+msgstr "آی پی مسدود"
+
+msgid "Community"
+msgstr "انجمن های گفتگو"
+
+msgid "install update"
+msgstr "نصب بروز رسانی"
+
+msgid "PHP version"
+msgstr "نسخه ی PHP"
+
+msgid "Server"
+msgstr "سرور"
+
+msgid "MySQL version"
+msgstr "نسخه ی دیتابیس"
+
+msgid "MySQL server info"
+msgstr "اطلاعات سرور دیتابیس"
+
+msgid "File uploads"
+msgstr "فایل آپلود شده"
+
+msgid "Enabled"
+msgstr "فعال"
+
+msgid "Disabled"
+msgstr "غیرفعال"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d ثانیه"
+msgstr[1] "%d ثانیه"
+
+msgid "Memory limit"
+msgstr "محدودیت حافظه"
+
+msgid "Local"
+msgstr "محلی"
+
+msgid "External"
+msgstr "خارجی"
+
+msgid "All"
+msgstr "همه"
+
+msgid "search content"
+msgstr "جستجو مطالب"
+
+msgid "Add page"
+msgstr "افزودن صفحه"
+
+msgid "The page has been added successfully."
+msgstr "صفحه با موفقیت اضافه شد"
+
+msgid "The page has been deleted."
+msgstr "صفحه حذف سد"
+
+msgid "Before pagination"
+msgstr "قبل از شمارنده صفحه"
+
+msgid "After pagination"
+msgstr "بعد از شماره صفحات"
+
+msgid "Content (image and album)"
+msgstr "مطالب ( تصاویر و آلبوم ها )"
+
+msgid "Tab about column"
+msgstr "سربرگ درباره "
+
+msgid "Before comments"
+msgstr "قبل از نظرات"
+
+msgid "Image page"
+msgstr "صفحه تصاویر"
+
+msgid "Inside viewer top (image page)"
+msgstr "بالا درون نمایشگر ( صفحه تصاویر )"
+
+msgid "Inside viewer foot (image page)"
+msgstr "پایین درون نمایشگر (صفحه تصاویر)"
+
+msgid "After image viewer (image page)"
+msgstr "بعد از نمایشگر تصاویر ( صفحه تصاویر )"
+
+msgid "Before header (image page)"
+msgstr "قبل از سربرگ ( صفحه تصاویر )"
+
+msgid "After header (image page)"
+msgstr "بعد از سربرگ ( صفحه تصاویر )"
+
+msgid "Footer (image page)"
+msgstr "پاورقی ( صفحه تصاویر)"
+
+msgid "User profile page"
+msgstr "صفحه ی پروفایل کاربر"
+
+msgid "After top (user profile)"
+msgstr "بعد از سربرگ ( صفحه ی کاربر )"
+
+msgid "Before listing (user profile)"
+msgstr "قبل از لیست تصاویر ( صفحه پروفایل )"
+
+msgid "Explore"
+msgstr "پویش"
+
+msgid "Invalid website name"
+msgstr "نام وبسایت اشتباه است"
+
+msgid "Invalid language"
+msgstr "زبان اشتباه است"
+
+msgid "Invalid timezone"
+msgstr "منطقه زمانی نامعتبر است"
+
+msgid "Invalid upload storage mode"
+msgstr "شیوه ذخیره سازی فایل های آپلود شده اشتباه است."
+
+msgid "Invalid upload filenaming"
+msgstr "نام گذاری فایل های آپلود شده اشتباه است."
+
+msgid "Invalid thumb width"
+msgstr "عرض تصویر بند انگشتی اشتباه است."
+
+msgid "Invalid thumb height"
+msgstr "ارتقاع تصویر بند انگشتی اشتباه است."
+
+msgid "Invalid medium size"
+msgstr "اندازه متوسط نامعتبر است"
+
+msgid "Invalid watermark percentage"
+msgstr "واتر مارک درصدی نامعتبر است"
+
+msgid "Invalid watermark opacity"
+msgstr "شفافیت واتر مارک نامعتبر است"
+
+msgid "Invalid theme"
+msgstr "قالب اشتباه است"
+
+msgid "Invalid value"
+msgstr "مقدار اشتباه است"
+
+msgid "Invalid theme image listing size"
+msgstr "اندازه لیست تصاویر قالب اشتباده است"
+
+msgid "Invalid user id"
+msgstr "شناسه کاربری اشتباه است"
+
+msgid "Invalid email mode"
+msgstr "شیوه ارسال ایمیل نادرست است."
+
+msgid "Invalid SMTP port"
+msgstr "پرت SMTP اشتباه است"
+
+msgid "Invalid SMTP security"
+msgstr "امنیت SMTP اشتباه است"
+
+msgid "Invalid website mode"
+msgstr "روش وبسایت اشتباه است"
+
+msgid "Invalid website content privacy mode"
+msgstr "حریم خصوصی مطالب سایت اشتباه است"
+
+msgid "Invalid title"
+msgstr "عنوان معتبر نیست"
+
+msgid "Invalid status"
+msgstr "وضعیت معتبر نیست"
+
+msgid "Invalid type"
+msgstr "نوع نامعتبر است"
+
+msgid "Invalid upload image path"
+msgstr "آدرس آپلود تصاویر اشتباه است"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "حداکثر مجاز %s"
+
+msgid "Invalid SMTP server"
+msgstr "سرور SMTP نادرست است"
+
+msgid "Invalid SMTP username"
+msgstr "نام کاربری SMTP نادرست است"
+
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+msgid "About"
+msgstr "درباره"
+
+msgid "Image ID"
+msgstr "شماره ی تصویر"
+
+msgid "Upload date"
+msgstr "تاریخ آپلود تصویر"
+
+msgid "Direct links"
+msgstr "لینک مستقیم"
+
+msgid "Image link"
+msgstr "لینک تصویر"
+
+msgid "Image URL"
+msgstr "URL تصویر"
+
+msgid "Thumbnail URL"
+msgstr "آدرس پیشنمایش"
+
+msgid "Medium URL"
+msgstr "آدرس تصویر متوسط"
+
+msgid "Login needed"
+msgstr "باید وارد شوید"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "تصویر"
+msgstr[1] "تصاویر"
+
+msgid "Category"
+msgstr "دسته بندی"
+
+msgid "Missing values"
+msgstr "مقدار اشتباه است"
+
+msgid "Invalid username"
+msgstr "نام کاربری اشتباه است"
+
+msgid "Invalid role"
+msgstr "نقش اشتباه است"
+
+msgid "Username already being used"
+msgstr "نام کاربری قبلا ثبت شده است"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s متصل نشده است"
+
+msgid "Wrong Username/Email password combination"
+msgstr "ترکیب نام کاربری / ایمیل + رمز عبور اشتباه است"
+
+msgid "Sign in"
+msgstr "ورود"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Account"
+msgstr "حساب"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "ایمیلی به %s جهت فعالسازی این ایمیل آدرس ارسال شده است."
+
+msgid "Invalid name"
+msgstr "نام اشتباه است"
+
+msgid "Invalid website"
+msgstr "وبسایت اشتباه است"
+
+msgid "Wrong password"
+msgstr "رمز عبور اشتباه است"
+
+msgid "Use a new password"
+msgstr "استفاده از یک رمز عبور جدید"
+
+msgid "Changes have been saved."
+msgstr "تغییرات ذخیره شدند."
+
+msgid "Password has been changed"
+msgstr "رمز عبور تغییر یافت."
+
+msgid "Password has been created."
+msgstr "رمز عبور ساخته شد."
+
+msgid "Wrong Username/Email values"
+msgstr "مقدار نام کاربری / ایمیل اشتباه وارد شده است."
+
+#, php-format
+msgid "Settings for %s"
+msgstr "تنظیمات برای %s"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Delete user"
+msgstr "حذف کاربر"
+
+msgid "User ID"
+msgstr "شناسه کاربری"
+
+msgid "Register date"
+msgstr "تاریخ عضویت"
+
+msgid "Create account"
+msgstr "ثبت نام"
+
+msgid "Upload"
+msgstr "آپلود عکس"
+
+msgid "Albums"
+msgstr "آلبوم ها"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "آلبوم"
+msgstr[1] "آلبوم ها"
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "توجه: این مطلب خصوصی است. جهت اشتراک آن باید مطلب را  \"public\" کنید"
+
+msgid "Private"
+msgstr "خصوصی"
+
+msgid "Public"
+msgstr "عمومی"
+
+msgid "Link"
+msgstr "پیوند"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "دقیقه"
+msgstr[1] "دقیقه"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ساعت"
+msgstr[1] "ساعت"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "روز"
+msgstr[1] "روز"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "هفته"
+msgstr[1] "هفته"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "ماه"
+msgstr[1] "ماه"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "سال"
+msgstr[1] "سال"
+
+msgid "Don't autodelete"
+msgstr "بصورت خهودکار حذف نشود"
+
+msgid "Private upload"
+msgstr "بارگذاری خصوصی"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "نمایش"
+msgstr[1] "نمایش"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "لایک"
+msgstr[1] "لایک"
+
+msgid "Most recent"
+msgstr "آخرین تصاویر"
+
+msgid "Oldest"
+msgstr "قدیمیترین تصاویر"
+
+msgid "Most viewed"
+msgstr "محبوبترین"
+
+msgid "Most liked"
+msgstr "بیشترین لایک"
+
+msgid "Internal"
+msgstr "داخلی"
+
+msgid "Unlimited"
+msgstr "بدون محدودیت"
+
+msgid "used"
+msgstr "استفاده شده"
+
+msgid "Share"
+msgstr "اشتراک گذاری"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "ثانیه"
+msgstr[1] "ثانیه"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s قبل"
+
+msgid "moments ago"
+msgstr "لحظه ایی پیش"
+
+msgid "Random"
+msgstr "تصادفی"
+
+msgid "loading"
+msgstr "در حال بارگذاری"
+
+msgid "My Profile"
+msgstr "پروفایل من"
+
+msgid "Administrator"
+msgstr "مدیر کل سایت"
+
+msgid "Sign out"
+msgstr "خروج"
+
+msgid "You must enter the album name."
+msgstr "شما باید نام آلبوم را وارد کنید"
+
+msgid "Confirm"
+msgstr "تایید"
+
+msgid "Select existing album"
+msgstr "انتخاب یک آلبوم"
+
+msgid "An error occurred. Please try again later."
+msgstr "خطایی پیش آمده. لطفا بعدا دوباره تلاش کنید."
+
+msgid "Please select a valid image file type."
+msgstr "لطفا یک فایل قابل قبول انتخاب کنید (تصویر)"
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "لطفا یک تصویر با حداکثر حجم %s انتخاب کنید"
+
+msgid "Profile image updated."
+msgstr "تصویر پروفایل با موفقیت به روز شد."
+
+msgid "Profile background image updated."
+msgstr "تصویر پس زمینه با موفقیت به روز شد."
+
+msgid "Profile background image deleted."
+msgstr "تصویر پس زمینه با موفقیت حذف شد"
+
+msgid "Error deleting profile background image."
+msgstr "خطا در هنگام حذف تصویر پس زمینه."
+
+msgid "Create album"
+msgstr "ساخت آلبوم"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "File too big."
+msgstr "فایل بسیار بزرگ است."
+
+msgid "Some files couldn't be added"
+msgstr "بعضی فایل ها امکان اضافه شدن را ندارند."
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "آلبوم های %s"
+
+msgid "Image edited successfully."
+msgstr "تصویر با موفقیت ویرایش شد"
+
+msgid "private"
+msgstr "خصوصی"
+
+msgid "The content has been edited."
+msgstr "محتوا با موفقیت ویرایش شد."
+
+msgid "The content has been deleted."
+msgstr "مطلب حذف شد."
+
+msgid "The content has been moved."
+msgstr "محتوا منتقل شده است."
+
+msgid "Select"
+msgstr "انتخاب"
+
+msgid "Unselect"
+msgstr "عدم انتخاب"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "تمامی تغییراتی که اعمال کرده ایید در صورت ادامه از بین میروند"
+
+msgid "Save changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Changes saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شدند."
+
+msgid "Go back to form"
+msgstr "بازگشت به فرم"
+
+msgid "or"
+msgstr "یا"
+
+msgid "continue anyway"
+msgstr "ادامه در هر صورت"
+
+msgid "cancel"
+msgstr "لغو"
+
+msgid "Saving"
+msgstr "در حال ذخیره"
+
+msgid "Sending"
+msgstr "در حال ارسال"
+
+msgid "Confirm action"
+msgstr "تایید"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "ما درخواستی مبنی بر تغییر ایمیل آدرس حساب شما <a href=\"%u\">%n</a> در %w دریافت کرده اییم"
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "برای پردازش این عمل شما باید <a href=\"%s\">ایمیل خود را تایید کنید</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "همچنین شما میتوانید آدرس مقابل را در مرورگر خود وارد کنید :  <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "در صورتی که این شما نبوده ایید، کافیست این ایمیل را نادیده بگیرید."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "این درخواست از آیپی آدرس %s دریافت شده است"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "ما درخواستی مبنی بر ثبت حساب %n در %w دریافت کرده اییم."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "برای پردازش این درخواست شما باید <a href=\"%s\">حساب خود را فعال کنید</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "ما درخواستی برای بازیابی رمز عبور حساب شما <a href=\"%u\">%n</a> دریافت کرده اییم."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "برای بازیابی رمز خود <a href=\"%s\">این لینک را دنبال کنید</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "سلام %n, خوش آمدید به %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "حالا حساب شما فعال است و میتوانید از بارگذاری تصاویر ، ساخت آلبوم ها ، تنظیمات حریم خصوصی تصاویر و آلبوم و بسیاری ویژگی های دیگر سایت ما لذت ببرید."
+
+msgid "Thank you for joining"
+msgstr "از عضویت شما متشکریم"
+
+msgid "This email was sent from %w %u"
+msgstr "این ایمیل از %w %u ارسال شده است."
+
+msgid "Select the images to upload"
+msgstr "عکسی را برای آپلود انتخاب کنید"
+
+msgid "Upload complete"
+msgstr "بارگذاری کامل شد"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "اگر آپلود حاوی محتوای نا مناسب است این گزینه را فعال کنید"
+
+msgid "Not family safe upload"
+msgstr "نا مناسب برای خانواده"
+
+msgid "Uploading"
+msgstr "در حال آپلود"
+
+msgid "cancel remaining"
+msgstr "لغو باقی مانده ها"
+
+msgid "learn more"
+msgstr "بیشتر بخوانید."
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "برای توضیحات بیشتر <a data-modal=\"simple\" data-target=\"failed-upload-result\">گزارش خطاها</a> را مطلعه کنید"
+
+msgid "optional"
+msgstr "اختیاری"
+
+msgid "Mark this if the image is not family safe"
+msgstr "اگر تصویر نامناسب برای خانواده است این گزینه را فعال کنید"
+
+msgid "Flag as unsafe"
+msgstr "برچسب به عنوان نا امن"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Add image URLs"
+msgstr "افزودن آدرس تصویر"
+
+msgid "Add the image URLs here"
+msgstr "آدرس تصویر را اینجا وارد کنید"
+
+msgid "Error report"
+msgstr "گزارش خطا"
+
+msgid "Links"
+msgstr "لینکها"
+
+msgid "Direct"
+msgstr "مستقیم"
+
+msgid "HTML Codes"
+msgstr "کد HTML"
+
+msgid "HTML medium linked"
+msgstr "کد HTML برای تصویر متوسط"
+
+msgid "HTML thumbnail linked"
+msgstr "کد HTML برای تصویر بند انگشتی"
+
+msgid "BBCodes"
+msgstr "BBCode ها"
+
+msgid "BBCode medium linked"
+msgstr "کد BBCode برای تصویر متوسط"
+
+msgid "BBCode thumbnail linked"
+msgstr "کد BBCode برای تصویر بندانگشتی"
+
+msgid "Viewer links"
+msgstr "لینک مشاهده"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Who can view this content"
+msgstr "چه کسانی میتوانند این را مشاهده کنند؟"
+
+msgid "Private (just me)"
+msgstr "خصوصی ( فقط من )"
+
+msgid "Private (anyone with the link)"
+msgstr "خصوصی (هرکسی که لینک داشته باشد)"
+
+msgid "URL key"
+msgstr "کلید آدرس"
+
+msgid "Message"
+msgstr "پیغام"
+
+msgid "view more"
+msgstr "بیشتر"
+
+msgid "Load more"
+msgstr "بارگذاری بیشتر"
+
+msgid "Get embed codes"
+msgstr "دریافت کد پیوست"
+
+msgid "Flag as safe"
+msgstr "برچسب به عنوان امن"
+
+msgid "Select all"
+msgstr "انتخاب همه"
+
+msgid "Clear selection"
+msgstr "عدم انتخاب"
+
+msgid "Sign in with another account"
+msgstr "وارد شدن با یک حساب دیگر"
+
+msgid "There's nothing to show here."
+msgstr "چیزی برای نمایش وجود ندارد"
+
+msgid "Confirm flag content as safe"
+msgstr "تایید مطلب به عنوان امن"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "آیا نسبت به امن کردن محتوا اطمینان دارید؟"
+
+msgid "Confirm flag content as unsafe"
+msgstr "تایید برچسب مطلب به عنوان نا امن"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "نسبت به علامت زدن این محتوا به عنوان کنترل نشده اطمینان دارید؟"
+
+msgid "Confirm deletion"
+msgstr "تایید حذف"
+
+msgid "Guest"
+msgstr "مهمان"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "شما دیگر دسترسی برای این صفحه را ندارید یا این لینک منقضی شده است"
+
+msgid "Go to homepage"
+msgstr "رفتن به صفحه ی اصلی"
+
+msgid "The requested page was not found."
+msgstr "صفحه ی درخواستی وجود ندارد."
+
+msgid "The user has been deleted"
+msgstr "کاربر حذف شد."
+
+msgid "Your account is almost ready"
+msgstr "حساب شما آماده است."
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "ایمیلی به %s بهمراه توضیحات جهت فعالسازی حساب شما ارسال شد. این ایمیل تا 48 ساعت آینده معتبر است. در صورتی که آن را دریافت نکرده ایید پوشه ی اسپم ایمیل خود را چک کنید."
+
+msgid "Resend activation"
+msgstr "ارسال دوباره فعالسازی"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "شما با موفقیت ایمیل حساب خود را به  %s تغییر دادید"
+
+msgid "Go to my profile"
+msgstr "به پروفایل خود بروید"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "یک ایمیل فعالسازی همراه با جزئیات فعالسازی به این ایمیل ارسال خواهد شد."
+
+msgid "Your email address"
+msgstr "آدرس ایمیل شما"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "ایمیلی بهمراه توضیحات در مورد بازیابی رمز عبور شما به ایمیل ثبت شده ی حسابتان ارسال شد. در صورتی که ایمیل را نمیبینید پوشه ی اسپم ایمیل را چک کنید."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "ایمیل قبلی بهمراه راهنمایی های لازم جهت بازیابی رمزتان به ایمیلتان ارسال شد. اگر ایمیل را نمیبینید پوشه ی اسپم خود را بررسی کنید."
+
+msgid "Resend instructions"
+msgstr "ارسال دوباره ی راهنمایی"
+
+msgid "Username or Email address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "رمز عبور شما تغییر یافت. شما اکنون میتوانید با رمز عبور جدید وارد سایت شوید."
+
+msgid "Login now"
+msgstr "اکنون وارد شوید"
+
+msgid "Enter your new password"
+msgstr "رمز عبور جدید خود را وارد کنید"
+
+#, php-format
+msgid "%d characters min"
+msgstr "حداقل %d کاراکتر"
+
+msgid "Re-enter your new password"
+msgstr "رمز عبور جدید را دوباره وارد کنید"
+
+msgid "This content is private"
+msgstr "این مطلب خصوصی میباشد."
+
+msgid "Check the errors to proceed."
+msgstr "برای ادامه خطا ها را رفع کنید"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Show not safe content in listings"
+msgstr "نمایش محتوای کنترل نشده در لیست محتوا"
+
+msgid "Show not safe content in random mode"
+msgstr "نمایش محتوای کنترل نشده در نمایشگر تصادفی"
+
+msgid "Show banners in not safe content"
+msgstr "نمایش بنر ها در مطالب کنترل نشده"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "برای نمایش بنر ها در محتوا های کنترل نشده این گزینه را فعال کنید"
+
+msgid "From name"
+msgstr "نام "
+
+msgid "Sender name for emails sent to users."
+msgstr "نام ارسال کننده برای ایمیل های ارسال شده به کاربران"
+
+msgid "From email address"
+msgstr "ایمیل آدرس"
+
+msgid "Sender email for emails sent to users."
+msgstr "ایمیل آدرس برای ارسال ایمیل به کاربران"
+
+msgid "Incoming email address"
+msgstr "ایمیل آدرس ورودی"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "ایمیل جهت دریافت فرم های تماس و پیغام های سیستمی"
+
+msgid "Email mode"
+msgstr "روش ارسال ایمیل"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "نحوه ی ارسال ایمیل ها؟ SMTP پیشنهاد میشود"
+
+msgid "SMTP server and port"
+msgstr "پرت و سرور smtp"
+
+msgid "SMTP server"
+msgstr "سرور SMTP"
+
+msgid "SMTP username"
+msgstr "نام کاربری SMTP"
+
+msgid "SMTP password"
+msgstr "رمز عبور SMTP"
+
+msgid "SMTP security"
+msgstr "امنیت SMTP"
+
+msgid "Unsecured"
+msgstr "غیر امن"
+
+msgid "Comment code"
+msgstr "کد نظرات"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "دیکاس ، فیسبوک و یا هر چیزی که شما مایل باشید. این در قسمت نمایش تصویر استفاده میشود."
+
+msgid "Analytics code"
+msgstr "کد آمارگیر"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "گوگل آنالیتیکس یا هر چیز دیگری که شما مایلید. این در فوتر سایت نمایش داده میشود"
+
+msgid "Twitter account"
+msgstr "حساب توییتر"
+
+msgid "Disk used"
+msgstr "فضای استفاده شده"
+
+msgid "Notify to email"
+msgstr "ارسال ایمیل"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "اگر فعال باشد سیستم در هنگام حملات برای شما ایمیل ارسال میکند"
+
+msgid "Minute limit"
+msgstr "محدودیت آپلود در دقیقه"
+
+msgid "Hourly limit"
+msgstr "محدودیت آپلود در ساعت"
+
+msgid "Daily limit"
+msgstr "محدودیت آپلود در روز"
+
+msgid "Weekly limit"
+msgstr "محدودیت آپلود در هفته"
+
+msgid "Monthly limit"
+msgstr "محدودیت آپلود در ماه"
+
+msgid "Default"
+msgstr "معمولی"
+
+msgid "Enable uploads"
+msgstr "فعالسازی بارگذاری"
+
+msgid "Guest uploads"
+msgstr "آپلود مهمان"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "برای فعالسازی آپلود کاربران غیر عضو این گزینه را فعال کنید."
+
+msgid "Image path"
+msgstr "پوشه تصاویر"
+
+msgid "Relative to Chevereto root"
+msgstr "مربوط به پوشه ی نرم افزار"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "کجا تصاویر ذخیره شوند؟ مربوط است به محل ذخیره نرم افزار"
+
+msgid "Storage mode"
+msgstr "شیوه ذخیره سازی"
+
+msgid "Datefolders"
+msgstr "پوشه بندی بر اساس زمان"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "پوشه بندی بر اساس زمان ساختار %s را تولید میکنند"
+
+msgid "File naming method"
+msgstr "شیوه نامگذاری فایلها"
+
+msgid "Original"
+msgstr "نام اصلی"
+
+msgid "Thumb size"
+msgstr "اندازه بند انگشتی"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "تصاویر بند انگشتی با این اندازه نمایش داده میشوند."
+
+msgid "Default language"
+msgstr "زبان اصلی"
+
+msgid "Default base language to use."
+msgstr "زبان اصلی مورد استفاده در نرم افزار."
+
+msgid "Auto language"
+msgstr "انتخاب خودکار زبان"
+
+msgid "List items per page"
+msgstr "نمایش آیتم ها در هر صفحه"
+
+msgid "How many items should be displayed per page listing."
+msgstr "چه تعداد تصویر در هر صفحه نمایش داده شود"
+
+msgid "List pagination mode"
+msgstr "حالت نمایش محتوا"
+
+msgid "Endless scrolling"
+msgstr "خزیدن نا محدود"
+
+msgid "Classic pagination"
+msgstr "نمایش شماره صفحات"
+
+msgid "What pagination method should be used."
+msgstr "آنچه نمایش صفحات به آن صورت است"
+
+msgid "Image listing size"
+msgstr "اندازه لیست تصاویر"
+
+msgid "Fluid"
+msgstr "روان"
+
+msgid "Fixed"
+msgstr "فیکس شده"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "هر دو روش از عرض فیکس شده استفاده میکنند ولی در حالت روان ارتفاع ها متغییر است"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "نسخه ی برداری لوگو وبسایت شما در فرمت svg"
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "لوگو اصلی وبسایت شما در فرمت png"
+
+msgid "Favicon image"
+msgstr "تصویر فاو آیکون"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "تصویر فاو آیکون باید ارتفاع و عرض یکسان داشته باشد."
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "این کلید برای تبدیل شناسه عددی به شناسه ی ترکیبی حروف و اعداد استفاده میشود. این به صورت خودکار در هنگام نصب ساخته شده است."
+
+msgid "Enable download button"
+msgstr "فعالسازی دکمه دانلود"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "برای نمایش دکمه دانلود تصاویر این گزینه را فعال کنید"
+
+msgid "Not safe content checkbox in uploader"
+msgstr "چک باکس محتوای نا امن در آپلودر"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "برای نمایش چک باکس به جهت علامت دار شدن محتوای کنترل نشده این گزینه را فعال کنید"
+
+msgid "Custom CSS code"
+msgstr "کد css شخصی"
+
+msgid "Custom JS code"
+msgstr "جاوا اسکریپت شخصی"
+
+msgid "Additional settings"
+msgstr "تنظیمات اضافه"
+
+msgid "Enable signups"
+msgstr "فعالسازی عضویت"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "برای فعالسازی عضویت کاربران جدید این گزینه را فعال کنید"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "برای اضافه کردن لوگو و یا هر چیزی در عکس های آپلود شده"
+
+msgid "Watermark image"
+msgstr "تصویر واترمارک"
+
+msgid "Watermark position"
+msgstr "مکان قرار گیری واترمارک"
+
+msgid "left top"
+msgstr "بالا چپ"
+
+msgid "left center"
+msgstr "مرکز چپ"
+
+msgid "left bottom"
+msgstr "چپ پایین"
+
+msgid "center top"
+msgstr "وسط بالا"
+
+msgid "center center"
+msgstr "وسط وسط"
+
+msgid "center bottom"
+msgstr "وسط پایین"
+
+msgid "right top"
+msgstr "بالا راست"
+
+msgid "right center"
+msgstr "راست مرکز"
+
+msgid "right bottom"
+msgstr "پایین راست"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "مربوط به مکان قرارگیری تصویر واترمارک. اولی افقی و دومی عمودی است"
+
+msgid "Watermark margin"
+msgstr "فاصله واترمارک"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "قراردادن فاصل بین انتهای تصویر و محل قرار گیری واترمارک"
+
+msgid "Watermark opacity"
+msgstr "شفافیت واترمارک"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "شفافیت نمایش واترمارک در تصاویر. بین 0 تا 100"
+
+msgid "Website name"
+msgstr "آدرس وبسایت"
+
+msgid "Website doctitle"
+msgstr "عنوان وبسایت"
+
+msgid "Website description"
+msgstr "توضیحات وبسایت"
+
+msgid "Default time zone"
+msgstr "منطقه زمانی اصلی"
+
+msgid "Select region"
+msgstr "انتخاب منطقه"
+
+msgid "Website mode"
+msgstr "حالت وبسایت"
+
+msgid "You can switch the website mode anytime."
+msgstr "شما هر زمان که بخواهید می توانید حالت وب سایت را تغییر دهید"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "حالت خصوصی دسترسی به وبسایت را تنها برای کاربران عضو امکان پذیر میکند"
+
+msgid "Content privacy mode"
+msgstr "حالت حفظ خصوصی مطالب"
+
+msgid "Force private (self)"
+msgstr "اجبار به خصوصی"
+
+msgid "Force private (anyone with the link)"
+msgstr "اجبار به خصوصی ( هر کسی با یک لینک )"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "تنظیمات خصوصی اجباری تنظیمات کاربران را تحت تاثیر قرار میدهد"
+
+msgid "Role"
+msgstr "سمت"
+
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#, php-format
+msgid "Added to %s"
+msgstr "افزوده شد به %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "آپلود شده به %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "%s آپلود شد"
+
+msgid "Upload and share your images."
+msgstr "عکس های خود را آپلود و منتشر کنید"
+
+msgid "Sign up to unlock all the features"
+msgstr "عضو شوید تا همه چیز را به رایگان داشته باشید!"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "مدیریت مطالب شما ، ساخت آلبوم خصوصی ، ویرایش پروفایل و ..."
+
+msgid "Logged out"
+msgstr "خارج شدید"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "%s شما با موفقیت خارج شدید. به امید دیدار "
+
+msgid "Valid"
+msgstr "فعال"
+
+msgid "Banned"
+msgstr "اخراج شده"
+
+msgid "Awaiting email"
+msgstr "در انتظار ایمیل"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "کاراکتر های %i تا %f <br> حروف ، اعداد و \"_\""
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Timezone"
+msgstr "منطقه زمانی"
+
+msgid "User has no connections."
+msgstr "کاربر هیچ اتصالاتی ندارد"
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "آیا نسبت به قطع اتصال %s از این حساب مطمئنید؟"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "این کاربر به %s متصل شد."
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "آیا نسبت به قطع ارتباط %s به حساب خود مطمئنید؟"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "شما خارج خواهید شد و دیگر با %s قادر به ورود به این حساب نیستیدو"
+
+msgid "Current password"
+msgstr "رمز عبور فعلی"
+
+msgid "Enter your current password"
+msgstr "رمز عبور فعلی خود را وارد کنید"
+
+msgid "New password"
+msgstr "رمز عبور جدید"
+
+msgid "Confirm new password"
+msgstr "تایید رمز عبور"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "جهت ورود با نام کاربری یا ایمیل باید یک پسورد تعیین کنید."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "این کاربر رمز عبوری ندارد. توسط فرم زیر برای کاربر رمز عبور تعیین کنید."
+
+msgid "Enter your password"
+msgstr "رمز عبور خود را وارد کنید"
+
+msgid "Confirm password"
+msgstr "رمز عبور را دوباره وارد کنید"
+
+msgid "Re-enter your password"
+msgstr "رمز عبور را دوباره وارد کنید"
+
+msgid "This is your real name, not your username."
+msgstr "این نام اصلی شماست. نه نام کاربری شما"
+
+msgid "Upload profile background"
+msgstr "بارگذاری پس زمینه ی پروفایل"
+
+msgid "Change background"
+msgstr "تغییر پس زمینه"
+
+msgid "Upload new image"
+msgstr "بارگذاری تصویر جدید"
+
+msgid "Delete background"
+msgstr "حذف پس زمینه"
+
+msgid "General questions/comments"
+msgstr "نظرات / سوالات اصلی"
+
+msgid "DMCA complaint"
+msgstr "شکایت از نقض حقوق معنوی"
+
+msgid "Invalid message"
+msgstr "پیغام نادرست است."
+
+msgid "Invalid subject"
+msgstr "عنوان نادرست است."
+

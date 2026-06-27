@@ -1,0 +1,3998 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2024-05-20 18:55+0000\n"
+"PO-Revision-Date: 2024-05-20 18:55+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Vous avez été banni du site."
+
+msgid "Moderate"
+msgstr "Modérer"
+
+msgid "View all my images"
+msgstr "Voir toutes mes images"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Profitez-en pour découvrir toutes mes images et albums partagés."
+
+msgid "Recent"
+msgstr "Récent"
+
+msgid "Trending"
+msgstr "Tendances"
+
+msgid "Popular"
+msgstr "Populaire"
+
+msgid "Videos"
+msgstr "Vidéos"
+
+msgid "Animated"
+msgstr "Animé"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Request denied"
+msgstr "Demande refusée"
+
+msgid "terms"
+msgstr "conditions générales"
+
+msgid "privacy policy"
+msgstr "politique de confidentialité"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "J'accepte les %terms_link et la %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "Cette page n'existe pas"
+
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+msgid "Forgot password?"
+msgstr "Mot de passe oublié ?"
+
+msgid "Reset password"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Resend account activation"
+msgstr "Renvoyer l'email d'activation du compte"
+
+msgid "Add your email address"
+msgstr "Ajouter votre adresse email"
+
+msgid "Awaiting confirmation"
+msgstr "En attente de confirmation"
+
+msgid "Two-factor authentication"
+msgstr "Authentification à deux facteurs"
+
+msgid "Email changed"
+msgstr "Adresse email modifiée"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s dit que vous êtes un robot"
+
+msgid "Invalid Username/Email"
+msgstr "Nom d'utilisateur/email incorrect"
+
+msgid "User doesn't have an email."
+msgstr "L'utilisateur n'a pas d'adresse email."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Le compte doit être activé pour utiliser cette fonctionnalité"
+
+msgid "Account already activated"
+msgstr "Compte déjà activé"
+
+msgid "Account banned"
+msgstr "Compte banni"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Merci de patienter 15 minutes pour le traitement de l'email. Vous pourrez réessayer ultérieurement."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Réinitialisez votre mot de passe sur %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Validation de votre compte sur %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Bienvenue sur %s"
+
+msgid "Invalid password"
+msgstr "Mot de passe incorrect"
+
+msgid "Passwords don't match"
+msgstr "Les mots de passe ne correspondent pas"
+
+msgid "Invalid email"
+msgstr "Adresse email incorrecte"
+
+msgid "Email already being used"
+msgstr "Adresse email déjà utilisée"
+
+msgid "Invalid code"
+msgstr "Code invalide"
+
+msgid "Check the errors in the form to continue."
+msgstr "Vérifiez les erreurs dans le formulaire pour continuer."
+
+msgid "Password required"
+msgstr "Mot de passe requis"
+
+msgid "Embed codes"
+msgstr "Codes d'intégration"
+
+msgid "albums"
+msgstr "albums"
+
+#, php-format
+msgid "Sub %s"
+msgstr "Sous %s"
+
+msgid "Info"
+msgstr "Informations"
+
+msgid "%a album hosted in %w"
+msgstr "Album %a hébergé dans %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "image"
+msgstr[1] "images"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "File"
+msgid_plural "Files"
+msgstr[0] "Fichier"
+msgstr[1] "Fichiers"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Albums"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Utilisateur"
+msgstr[1] "Utilisateurs"
+
+msgid "Bulk importer"
+msgstr "Importer en masse"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+#, php-format
+msgid "Run %s"
+msgstr "Exécuter %s"
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Listings"
+msgstr "Listes"
+
+msgid "File uploads"
+msgstr "Envoi de fichiers"
+
+msgid "Semantics"
+msgstr "Sémantique"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Theme"
+msgstr "Thème"
+
+msgid "System"
+msgstr "Système"
+
+msgid "Languages"
+msgstr "Langues"
+
+msgid "Email"
+msgstr "Adresse email"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Upload plugin"
+msgstr "Envoyer un plugin"
+
+msgid "Consent screen"
+msgstr "Disclamer"
+
+#, php-format
+msgid "Guests %s"
+msgstr "Invités %s"
+
+msgid "External storage"
+msgstr "Stockage externe"
+
+msgid "Routing"
+msgstr "Adressage"
+
+msgid "External services"
+msgstr "Services externes"
+
+msgid "Login providers"
+msgstr "Fournisseurs de connexion"
+
+msgid "Cookie compliance"
+msgstr "Conformité aux cookies"
+
+msgid "Flood protection"
+msgstr "Protection flood"
+
+msgid "Banners"
+msgstr "Bannières"
+
+msgid "IP bans"
+msgstr "Bannissements IP"
+
+msgid "Watermarks"
+msgstr "Filigranes"
+
+msgid "Upgrade now"
+msgstr "Mettre à jour maintenant"
+
+msgid "The latest release will be downloaded and extracted in the filesystem."
+msgstr "La dernière version sera téléchargée et extraite dans le système de fichiers."
+
+msgid "License key"
+msgstr "Clé de licence"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "install update"
+msgstr "Installer la mise à jour"
+
+msgid "Check upgrades"
+msgstr "Vérifier les mises à niveau"
+
+msgid "not running"
+msgstr "pas en fonctionnement"
+
+#, php-format
+msgid "PHP function [%s] not available in this PHP installation"
+msgstr "Fonction PHP [%s] non disponible dans cette installation PHP"
+
+msgid "Max. upload file size"
+msgstr "Taille maximum de l'image importée"
+
+msgid "Graphics library"
+msgstr "Bibliothèque graphique"
+
+msgid "Stats"
+msgstr "Statistiques"
+
+msgid "Rebuild stats"
+msgstr "Reconstruire les stats"
+
+msgid "Connecting IP"
+msgstr "IP de connexion"
+
+msgid "Not your IP?"
+msgstr "Pas votre IP ?"
+
+msgid "Encryption"
+msgstr "Chiffrement"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Meta"
+msgstr "Méta"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Docs"
+msgstr "Documents"
+
+msgid "Releases"
+msgstr "Versions"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Community"
+msgstr "Communauté"
+
+msgid "Links"
+msgstr "Liens"
+
+msgid "Cron last ran"
+msgstr "Dernière exécution Cron"
+
+msgid "PHP version"
+msgstr "Version de PHP"
+
+msgid "Server"
+msgstr "Serveur"
+
+msgid "Max. execution time"
+msgstr "Temps max. d'exécution"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d seconde"
+msgstr[1] "%d secondes"
+
+msgid "Memory limit"
+msgstr "Limite de mémoire"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Impossible de supprimer toutes les images de couverture de la page d'accueil"
+
+msgid "Homepage cover image deleted"
+msgstr "Image de couverture de la page d'accueil supprimée"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "External"
+msgstr "Externe"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "search content"
+msgstr "rechercher du contenu"
+
+msgid "Add page"
+msgstr "Ajouter une page"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Modifier l'ID de la page %s"
+
+msgid "The page has been added successfully."
+msgstr "La page a été ajoutée avec succès."
+
+msgid "The page has been deleted."
+msgstr "La page a été supprimée."
+
+msgid "homepage"
+msgstr "page d'accueil"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "Avant le titre principal (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "Après l'appel à l'action (%s)"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "Après la couverture (%s)"
+
+#, php-format
+msgid "After listing (%s)"
+msgstr "Après la liste (%s)"
+
+msgid "Before pagination"
+msgstr "Avant la pagination"
+
+msgid "After pagination"
+msgstr "Après la pagination"
+
+msgid "Content (image and album)"
+msgstr "Contenu (image et album)"
+
+msgid "Tab about column"
+msgstr "Onglet sur la colonne"
+
+msgid "Before comments"
+msgstr "Avant les commentaires"
+
+msgid "Image page"
+msgstr "Page d'images"
+
+msgid "Inside viewer top (image page)"
+msgstr "Intérieure du haut de la visionneuse (page d'images)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "Intérieure du bas de la visionneuse (page d'images)"
+
+msgid "After image viewer (image page)"
+msgstr "Après la visionneuse d'images (page d'images)"
+
+msgid "Before header (image page)"
+msgstr "Avant l'en-tête (page d'images)"
+
+msgid "After header (image page)"
+msgstr "Après l'en-tête (page d'images)"
+
+msgid "Footer (image page)"
+msgstr "Pied de page (page d'images)"
+
+#, php-format
+msgid "%s page"
+msgstr "page %s"
+
+#, php-format
+msgid "Before header (%s page)"
+msgstr "Avant l'en-tête (page %s)"
+
+#, php-format
+msgid "After header (%s page)"
+msgstr "Après l'en-tête (page %s)"
+
+msgid "User profile page"
+msgstr "Page de profil utilisateur"
+
+msgid "After top (user profile)"
+msgstr "Après le haut (profil utilisateur)"
+
+msgid "Before listing (user profile)"
+msgstr "Avant la liste (profil utilisateur)"
+
+msgid "Explore"
+msgstr "Explorer"
+
+#, php-format
+msgid "After top (%s page)"
+msgstr "Après le haut (page %s)"
+
+msgid "NSFW"
+msgstr "NSFW"
+
+msgid "Invalid website name"
+msgstr "Nom de site web incorrect"
+
+msgid "Invalid language"
+msgstr "Langage incorrect"
+
+msgid "Invalid timezone"
+msgstr "Fuseau horaire incorrect"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "Valeur invalide : %s"
+
+msgid "Invalid upload storage mode"
+msgstr "Mode de stockage d'envois incorrect"
+
+msgid "Invalid upload filenaming"
+msgstr "Nommage de fichiers envoyés incorrect"
+
+msgid "Invalid thumb width"
+msgstr "Largeur des miniatures incorrecte"
+
+msgid "Invalid thumb height"
+msgstr "Hauteur de miniature incorrecte"
+
+msgid "Invalid medium size"
+msgstr "Taille moyenne invalide"
+
+msgid "Invalid watermark percentage"
+msgstr "Pourcentage du filigrane non valide"
+
+msgid "Invalid watermark opacity"
+msgstr "Opacité du filigrane non valide"
+
+msgid "Invalid theme"
+msgstr "Thème non valide"
+
+msgid "Invalid value"
+msgstr "Valeur incorrect"
+
+msgid "font"
+msgstr "police de caractère"
+
+#, php-format
+msgid "Invalid %s"
+msgstr "%s invalide"
+
+msgid "palette"
+msgstr "palette"
+
+msgid "Invalid theme image listing size"
+msgstr "Taille de la liste des images de thème non valide"
+
+msgid "Invalid user id"
+msgstr "Identifiant invalide"
+
+msgid "Invalid email mode"
+msgstr "Mode de mail invalide"
+
+msgid "Invalid SMTP port"
+msgstr "Port SMTP invalide"
+
+msgid "Invalid SMTP security"
+msgstr "Sécurité SMTP invalide"
+
+msgid "Invalid website mode"
+msgstr "Mode de site Web invalide"
+
+msgid "Invalid personal mode user ID"
+msgstr "ID utilisateur en mode personnel invalide"
+
+msgid "Invalid or reserved route"
+msgstr "Racine invalide ou réservé"
+
+msgid "Invalid website privacy mode"
+msgstr "Mode de confidentialité du site Web invalide"
+
+msgid "Invalid website content privacy mode"
+msgstr "Mode de confidentialité du contenu du site Web non valide"
+
+msgid "Invalid homepage style"
+msgstr "Style de page d'accueil invalide"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Couleur du bouton d'appel à l'action de la page d'accueil non valide"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Fonctionnalité d'appel à l'action de la page d'accueil non valide"
+
+msgid "Invalid title"
+msgstr "Titre invalide"
+
+msgid "Invalid status"
+msgstr "Statut invalide"
+
+msgid "Invalid type"
+msgstr "Type invalide"
+
+msgid "Invalid visibility"
+msgstr "Visibilité invalide"
+
+msgid "Invalid internal type"
+msgstr "Type interne invalide"
+
+msgid "Invalid target attribute"
+msgstr "Attribut cible non valide"
+
+msgid "Invalid rel attribute"
+msgstr "Attribut rel invalide"
+
+msgid "Invalid icon"
+msgstr "Icône invalide"
+
+msgid "Invalid URL key"
+msgstr "Clé URL invalide"
+
+msgid "Invalid file path"
+msgstr "Chemin de fichier invalide"
+
+msgid "Invalid link URL"
+msgstr "URL de lien invalide"
+
+msgid "Invalid user minimum age"
+msgstr "Âge minimum de l'utilisateur non valide"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "Seuls les caractères alphanumériques, tirets et traits de soulignement sont autorisés"
+
+msgid "Invalid URL"
+msgstr "URL invalide"
+
+msgid "Invalid key"
+msgstr "Clé non valide"
+
+msgid "Routes can't be the same"
+msgstr "Les racines ne peuvent pas être les mêmes"
+
+msgid "Invalid upload image path"
+msgstr "Chemin d'accès à l'image de téléchargement non valide"
+
+msgid "Invalid call to action URL"
+msgstr "URL d'appel à l'action non valide"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Max. autorisé %s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "Impossible de mapper %m à un dossier existant (%f)"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "Impossible de mapper %m à une racine existante (%r)"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "Impossible de mapper %m à %r (collision de nom d'utilisateur)"
+
+msgid "Invalid SMTP server"
+msgstr "Serveur SMTP invalide"
+
+msgid "Invalid SMTP username"
+msgstr "Nom d'utilisateur SMTP invalide"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "Cette clé URL est déjà utilisée par une autre page (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Ce chemin de fichier est déjà utilisé par une autre page (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Impossible d'enregistrer le contenu de la page : %s."
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Following"
+msgstr "Abonnements"
+
+msgid "About"
+msgstr "À Propos"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Image ID"
+msgstr "ID de l'image"
+
+msgid "Upload date"
+msgstr "Date de l'envoi"
+
+msgid "Image %i in %a album"
+msgstr "Image %i dans l'album %a"
+
+msgid "Image %i in %c category"
+msgstr "Image %i dans la catégorie %c"
+
+msgid "Image %i hosted in %w"
+msgstr "Image %i hébergée dans %w"
+
+msgid "Start uploading"
+msgstr "Commencer l'envoi"
+
+msgid "Login needed"
+msgstr "Connexion requise"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Image"
+msgstr[1] "Images"
+
+#, php-format
+msgid "%s doesn't exists"
+msgstr "%s n'existe pas"
+
+#, php-format
+msgid "%s edited"
+msgstr "%s modifié"
+
+msgid "Category"
+msgstr "Catégorie"
+
+#, php-format
+msgid "%s URL key already being used."
+msgstr "La clé d'URL %s est déjà utilisée."
+
+msgid "Missing values"
+msgstr "Valeurs manquantes"
+
+msgid "Invalid username"
+msgstr "Nom d'utilisateur incorrect"
+
+msgid "Invalid role"
+msgstr "Rôle non valide"
+
+msgid "Username already being used"
+msgstr "Nom d'utilisateur déjà utilisé"
+
+#, php-format
+msgid "%s added"
+msgstr "%s ajouté"
+
+msgid "IP address already banned"
+msgstr "L'adresse IP est déjà bannie"
+
+#, php-format
+msgid "%s not found"
+msgstr "%s introuvable"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "Ajouter un mot de passe ou un réseau sociale avant de supprimer %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "Ajouter une adresse email ou un réseau sociale avant de supprimer %s"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s a été déconnecté."
+
+msgid "Test email from %s @ %t"
+msgstr "Email test de %s @ %t"
+
+msgid "This is just a test"
+msgstr "Ceci est juste un test"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Email de test envoyé à %s"
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "Téléchargement des données %s"
+
+#, php-format
+msgid "%s %u followed"
+msgstr "%s %u suivi"
+
+#, php-format
+msgid "%s %u unfollowed"
+msgstr "%s %u non suivi"
+
+msgid "%s doesn't belong to this %t"
+msgstr "%s n'appartient pas à ce %t"
+
+#, php-format
+msgid "%s cover updated"
+msgstr "couverture de %s mise à jour"
+
+msgid "Content liked"
+msgstr "Contenus aimés"
+
+msgid "Content disliked"
+msgstr "Contenus non aimés"
+
+msgid "%u liked your %t %c"
+msgstr "%u a aimé votre %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u vous suit désormais"
+
+msgid "A private user"
+msgstr "Utilisateur privé"
+
+msgid "Chevereto V%s license key used, required V%r or greater license key"
+msgstr "Clé de licence Chevereto V%s utilisée, clé de licence V%r ou supérieure requise"
+
+msgid "License key removed"
+msgstr "Clé de licence supprimée"
+
+msgid "License key updated"
+msgstr "Clé de licence mise à jour"
+
+msgid "Wrong Username/Email password combination"
+msgstr "L'identifiant ou le mot de passe est incorrect"
+
+msgid "Sign in"
+msgstr "Connexion"
+
+msgid "Upload images"
+msgstr "Importer des images"
+
+msgid "%t search results for %s"
+msgstr "%t résultats de recherche pour %s"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Security"
+msgstr "Sécurité"
+
+msgid "Connections"
+msgstr "Connexions"
+
+msgid "Powered by"
+msgstr "Propulsé par"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "Expiration d'image invalide : %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Un email contenant des instructions pour l'activation du compte a été envoyé à l'adresse %s"
+
+msgid "Invalid name"
+msgstr "Nom d'utilisateur incorrect"
+
+msgid "Invalid website"
+msgstr "Site web non valide"
+
+msgid "Spam detected"
+msgstr "Spam détecté"
+
+msgid "Wrong password"
+msgstr "Mot de passe incorrect"
+
+msgid "Use a new password"
+msgstr "Utiliser un nouveau mot de passe"
+
+msgid "Changes have been saved."
+msgstr "Les modifications ont été enregistrées."
+
+msgid "Password has been changed"
+msgstr "Le mot de passe a été modifié"
+
+msgid "Password has been created."
+msgstr "Le mot de passe a été créé."
+
+msgid "Wrong Username/Email values"
+msgstr "Identifiant incorrect"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Paramètres pour %s"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "utilisateur"
+msgstr[1] "utilisateurs"
+
+#, php-format
+msgid "Do you really want to delete this %s?"
+msgstr "Voulez-vous vraiment supprimer %s ?"
+
+msgid "This can't be undone."
+msgstr "Cela ne peut pas être annulé."
+
+msgid "Delete user"
+msgstr "Supprimer l'utilisateur"
+
+msgid "User ID"
+msgstr "ID Utilisateur"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Register date"
+msgstr "Date d'enregistrement"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "Vous devez accepter les conditions générales et la politique de confidentialité"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "Vous devez avoir plus de %s pour utiliser ce site."
+
+msgid "Create account"
+msgstr "Créer un compte"
+
+msgid "Upload"
+msgstr "Envoyer"
+
+msgid "%t by %s"
+msgstr "%t par %s"
+
+msgid "Albums"
+msgstr "Albums"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "Aimé par %s"
+
+msgid "Liked"
+msgstr "Aimé"
+
+msgid "%t followed by %s"
+msgstr "%t suivi par %s"
+
+msgid "%t following %s"
+msgstr "%t suivant %s"
+
+msgid "Followers"
+msgstr "Abonnés"
+
+#, php-format
+msgid "Search results for %s"
+msgstr "Résultats de la recherche pour %s"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) albums dans %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) sur %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album"
+msgstr[1] "albums"
+
+msgid "Flooding detected. You can only upload %limit% %content% per %time%"
+msgstr "Flooding détecté. Vous ne pouvez télécharger que %limit% %content% par %time%."
+
+msgid "Unnamed"
+msgstr "Anonyme"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Remarque : Ce contenu est privé mais toute personne disposant du lien pourra y accéder."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Remarque: Ce contenu est protégé par mot de passe mais toute personne ayant le mot de passe sera en mesure de voir cela."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Note : Ce contenu est privé. Changez la confidentialité à \"publique\" pour le partager."
+
+msgid "Private"
+msgstr "Privé"
+
+msgid "Public"
+msgstr "Publique"
+
+msgid "Me"
+msgstr "Moi"
+
+msgid "Link"
+msgstr "Lien"
+
+msgid "CSAM content is forbidden"
+msgstr "Le contenu CSAM est interdit"
+
+msgid "After %n %t"
+msgstr "Après %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minute"
+msgstr[1] "minutes"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "heure"
+msgstr[1] "heures"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "jour"
+msgstr[1] "jours"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "semaine"
+msgstr[1] "semaines"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mois"
+msgstr[1] "mois"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "an"
+msgstr[1] "ans"
+
+msgid "Don't autodelete"
+msgstr "Pas d'auto suppression"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "Impossible d'ouvrir %s pour écriture"
+
+msgid "Duplicated upload"
+msgstr "Envoi dupliqué"
+
+msgid "Private upload"
+msgstr "Envoi privé"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "vue"
+msgstr[1] "vues"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "j'aime"
+msgstr[1] "j'aime"
+
+msgid "Top"
+msgstr "Haut"
+
+msgid "Most recent"
+msgstr "Plus récentes"
+
+msgid "Oldest"
+msgstr "Plus anciennes"
+
+msgid "Most viewed"
+msgstr "Plus vues"
+
+msgid "Most liked"
+msgstr "Plus aimés"
+
+msgid "People"
+msgstr "Personnes"
+
+msgid "adult"
+msgstr "adulte"
+
+msgid "teen"
+msgstr "adolescent"
+
+#, php-format
+msgid "Content of type %s is forbidden"
+msgstr "Le contenu du type %s est interdit"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Impossible de créer le dossier de destination %s"
+
+msgid "Internal"
+msgstr "Interne"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "La capacité de stockage ne peut pas être inférieure à son usage actuel (%s)."
+
+msgid "Unlimited"
+msgstr "Illimité"
+
+msgid "used"
+msgstr "utilisé"
+
+msgid "Private profile"
+msgstr "Profil privé"
+
+msgid "Share"
+msgstr "Partager"
+
+#, php-format
+msgid "view on %s"
+msgstr "vue sur %s"
+
+msgid "cookie policy"
+msgstr "politique des cookies"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "Nous utilisons nos propres cookies et ceux de tiers pour améliorer votre expérience de navigation et nos services. Si vous continuez à utiliser notre site, il est entendu que vous acceptez la %cookie_policy_link."
+
+msgid "I understand"
+msgstr "je comprends"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "seconde"
+msgstr[1] "secondes"
+
+#, php-format
+msgid "%s ago"
+msgstr "il y a %s"
+
+msgid "moments ago"
+msgstr "il y a peu de temps"
+
+msgid "There is an update available for your system."
+msgstr "Une mise à jour est disponible pour votre système."
+
+#, php-format
+msgid "Go to %s to download and install this update."
+msgstr "Accédez à %s pour télécharger et installer cette mise à jour."
+
+msgid "System database is outdated."
+msgstr "La base de données système est obsolète."
+
+msgid "Update"
+msgstr "Mise à jour"
+
+#, php-format
+msgid "You need to %s."
+msgstr "Vous devez %s."
+
+msgid "Website is in maintenance mode."
+msgstr "Le site est en mode maintenance."
+
+#, php-format
+msgid "To revert this setting go to %s."
+msgstr "Pour rétablir ce paramètre, accédez à %s."
+
+#, php-format
+msgid "%s settings"
+msgstr "paramètres de %s"
+
+msgid "You haven't changed the default email settings. Go to %emailSettings% to fix this."
+msgstr "Vous n'avez pas modifié les paramètres de messagerie par défaut. Accédez à %emailSettings% pour résoudre ce problème."
+
+msgid "Discovery"
+msgstr "Découverte"
+
+msgid "Random"
+msgstr "Aléatoire"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Advanced search"
+msgstr "Recherche avancée"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Notifications (%s)"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "loading"
+msgstr "chargement"
+
+msgid "You don't have notifications"
+msgstr "Vous n'avez pas de notifications"
+
+msgid "My Profile"
+msgstr "Mon Profil"
+
+msgid "Palette"
+msgstr "Palette"
+
+msgid "Administrator"
+msgstr "Administrateur"
+
+msgid "Manager"
+msgstr "Directeur"
+
+msgid "Sign out"
+msgstr "Déconnexion"
+
+msgid "You must enter the album name."
+msgstr "Vous devez saisir le nom de l'album."
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "The content has been approved."
+msgstr "Ce contenu a été approuvé."
+
+msgid "Select existing album"
+msgstr "Choisir un album existant"
+
+msgid "An error occurred. Please try again later."
+msgstr "Une erreur est survenue. Veuillez réessayer plus tard."
+
+msgid "Please select a valid image file type."
+msgstr "Veuillez sélectionner un type de fichier image valide."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Veuillez sélectionner une image d'une taille d'au plus %s."
+
+msgid "Profile image updated."
+msgstr "Image de profil mise à jour."
+
+msgid "Profile background image updated."
+msgstr "Photo de couverture mise à jour."
+
+msgid "Profile background image deleted."
+msgstr "Photo de couverture supprimée."
+
+msgid "Error deleting profile background image."
+msgstr "Erreur lors de la suppression de la photo de couverture."
+
+#, javascript-format
+msgid "Chevereto v%s available"
+msgstr "Chevereto v%s disponible"
+
+msgid "There is a new Chevereto version available with the following release notes."
+msgstr "Une nouvelle version de Chevereto est disponible avec les notes de version suivantes."
+
+#, javascript-format
+msgid "Check %s for a complete changelog since you last upgrade."
+msgstr "Vérifiez %s pour un journal des modifications complet depuis votre dernière mise à niveau."
+
+msgid "documentation"
+msgstr "documentation"
+
+#, javascript-format
+msgid "Check the %s for alternative update methods."
+msgstr "Vérifiez le %s pour d'autres méthodes de mise à jour."
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "Ce site web utilise la dernière version %s"
+
+#, javascript-format
+msgid "Chevereto v%s installed"
+msgstr "Chevereto v%s installé"
+
+msgid "Usage of Chevereto Software must be in compliance with the software license terms known as \"The Chevereto License\"."
+msgstr "L'utilisation du logiciel Chevereto doit être conforme aux termes de la licence du logiciel connus sous le nom de \"Licence Chevereto\"."
+
+msgid "License agreement"
+msgstr "Accord de licence"
+
+msgid "Please review the system requirements before proceeding"
+msgstr "Veuillez consulter la configuration requise avant de poursuivre"
+
+#, javascript-format, php-format
+msgid "Get a license at %s to unlock all features and support."
+msgstr "Obtenez une licence chez %s pour débloquer toutes les fonctionnalités et le support."
+
+msgid "You can enter your license key in the dashboard panel."
+msgstr "Vous pouvez saisir votre clé de licence dans le panneau du tableau de bord."
+
+msgid "Enter license"
+msgstr "Entrez la licence"
+
+msgid "Create album"
+msgstr "Créer un album"
+
+msgid "Approve"
+msgstr "Approuver"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Toggle flag"
+msgstr "Basculer le drapeau"
+
+msgid "Like"
+msgstr "J'aime"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Toggle select"
+msgstr "Basculer la sélection"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "File too big."
+msgstr "Fichier trop volumineux."
+
+msgid "Invalid or unsupported file format."
+msgstr "Format de fichier incorrect ou non pris en charge."
+
+msgid "Some files couldn't be added"
+msgstr "Certains fichiers n'ont pu être ajoutés"
+
+msgid "Some files couldn't be loaded"
+msgstr "Certains fichiers n'ont pas pu être chargés"
+
+msgid "file"
+msgid_plural "files"
+msgstr[0] "fichier"
+msgstr[1] "fichiers"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "Les albums de %s"
+
+msgid "File edited successfully."
+msgstr "Fichier modifié avec succès."
+
+msgid "private"
+msgstr "privé"
+
+msgid "The content has been edited."
+msgstr "Ce contenu a été modifié."
+
+msgid "Invalid URL key."
+msgstr "Clé URL non valide."
+
+msgid "Category URL key already being used."
+msgstr "Clé URL de catégorie déjà utilisée."
+
+msgid "Category successfully deleted."
+msgstr "Catégorie supprimée avec succès."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "Catégorie %s ajoutée."
+
+msgid "Invalid expiration date."
+msgstr "Date d'expiration non valide."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP %s déjà bannie."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP %s bannie."
+
+msgid "IP ban successfully deleted."
+msgstr "Bannissement IP supprimé avec succès."
+
+msgid "Please fill all the required fields."
+msgstr "Merci de compléter tous les champs requis."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Capacité de stockage invalide. Merci d'utiliser un format valide."
+
+msgid "Invalid URL."
+msgstr "URL non valide."
+
+msgid "Storage successfully edited."
+msgstr "Stockage modifié avec succès."
+
+#, javascript-format
+msgid "%s added successfully."
+msgstr "%s ajouté avec succès."
+
+msgid "The content has been deleted."
+msgstr "Ce contenu a été supprimé."
+
+msgid "The content has been moved."
+msgstr "Ce contenu a été déplacé."
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Unselect"
+msgstr "Désélectionner"
+
+#, javascript-format
+msgid "Import ID %s removed"
+msgstr "ID d'importation %s supprimé"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Toutes les modifications effectuées seront perdues si vous continuez."
+
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Changes saved successfully."
+msgstr "Modifications enregistrées avec succès."
+
+msgid "Go back to form"
+msgstr "Retourner au formulaire"
+
+msgid "or"
+msgstr "ou"
+
+msgid "continue anyway"
+msgstr "continuer quand même"
+
+msgid "cancel"
+msgstr "annuler"
+
+msgid "Saving"
+msgstr "Enregistrement"
+
+msgid "Sending"
+msgstr "Envoi"
+
+msgid "Confirm action"
+msgstr "Confirmer l'action"
+
+msgid "information"
+msgstr "information"
+
+msgid "Paste"
+msgstr "Coller"
+
+msgid "Right click"
+msgstr "Clic-droit"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Nous avons reçu une demande de changement d'adresse email de votre compte <a href=\"%u\">%n</a> sur %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Pour finaliser votre demande vous devez <a href=\"%s\">activer votre adresse email</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Vous pouvez également copier-coller cette adresse dans votre navigateur : <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Si vous n'avez pas fait de telle demande, veuillez ignorer ce message."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Cette demande a été effectuée depuis l'adresse IP : %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Nous avons reçu une demande de création du compte %n sur %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Pour finaliser votre demande vous devez <a href=\"%s\">activer votre compte</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Nous avons reçu une demande de réinitialisation de mot de passe du compte <a href=\"%u\">%n</a>."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Pour réinitialiser votre mot de passe <a href=\"%s\">suivez ce lien</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Bonjour %n nous te souhaitons la bienvenue sur %w !"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Votre compte est désormais en ligne ! Vous pouvez dès maintenant envoyer des images et créez des albums. N'hésitez pas à partager votre contenu avec vos amis ! Vous avez également la possibilité de changer les paramètres de confidentialité dans les réglages de votre compte."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Consulter votre profil ici : <a href=\"%u\">%n</a>. N'hésitez pas à le personnaliser il est à vous  !"
+
+msgid "Thank you for joining"
+msgstr "Merci de rejoindre"
+
+msgid "This email was sent from %w %u"
+msgstr "Ce message a été envoyé par %w %u"
+
+msgid "Drag and drop or paste files here to upload"
+msgstr "Faites glisser et déposez ou collez les fichiers ici pour les télécharger"
+
+msgid "Select the files to upload"
+msgstr "Sélectionnez les fichiers à télécharger"
+
+msgid "You can also %i or %u."
+msgstr "Vous pouvez également %i ou %u."
+
+#, php-format
+msgid "You can also %s."
+msgstr "Vous pouvez également %s."
+
+msgid "browse from your computer"
+msgstr "parcourir depuis votre ordinateur"
+
+msgid "add file URLs"
+msgstr "ajouter des URL de fichiers"
+
+msgid "You can also %i, %c or %u."
+msgstr "Vous pouvez également %i, %c ou %u."
+
+msgid "You can also %i or %c."
+msgstr "Vous pouvez également %i ou %c."
+
+msgid "browse from device"
+msgstr "parcourir depuis l'appareil"
+
+msgid "use camera"
+msgstr "utiliser l'appareil photo"
+
+msgid "max"
+msgstr "maximum"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "Inscrivez-vous pour avoir %s"
+
+msgid "clicking"
+msgstr "en cliquant"
+
+msgid "Customize upload by %action% on any preview"
+msgstr "Personnalisez le téléchargement %action% sur n'importe quel aperçu"
+
+msgid "touching"
+msgstr "touchant"
+
+msgid "Uploading %q %o"
+msgstr "Importation %q %o"
+
+msgid "complete"
+msgstr "complété"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "La liste est en cours d'importation, il ne reste que quelques secondes !"
+
+msgid "Upload complete"
+msgstr "Envoi terminé"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "Contenu importé ajouté à %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "Vous pouvez %c avec le contenu que vous venez de mettre en ligne ou %m."
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "Vous pouvez %c avec le contenu que vous venez de mettre en ligne."
+
+#, php-format
+msgid "create new %s"
+msgstr "créer un nouvel %s"
+
+#, php-format
+msgid "move it to an existing %s"
+msgstr "déplacez le vers un %s existant"
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "Vous pouvez %s ou %l pour sauvegarder ce contenu dans votre compte."
+
+msgid "create an account"
+msgstr "créer un compte"
+
+msgid "sign in"
+msgstr "se connecter"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "Aucun %s n'a été mis en ligne"
+
+msgid "Some errors have occurred and the system couldn't process your request."
+msgstr "Certaines erreurs se sont produites et le système n'a pas pu traiter votre demande."
+
+msgid "category"
+msgstr "Catégorie"
+
+#, php-format
+msgid "Select %s"
+msgstr "Sélectionner %s"
+
+msgid "Auto delete"
+msgstr "Suppression automatique"
+
+msgid "Sign up"
+msgstr "S'inscrire"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s pour pouvoir personnaliser ou désactiver la suppression automatique de l'image."
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Cochez ceci si l'envoi ne convient pas à un public jeune"
+
+msgid "Not family safe upload"
+msgstr "Envoi ne convenant pas aux mineurs"
+
+msgid "Uploading"
+msgstr "Envoi en cours"
+
+msgid "cancel remaining"
+msgstr "annuler la file"
+
+msgid "Note: Some files couldn't be uploaded."
+msgstr "Remarque : Certains fichiers n'ont pas pu être téléchargés."
+
+msgid "learn more"
+msgstr "en savoir plus"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Regardez le <a data-modal=\"simple\" data-target=\"failed-upload-result\">rapport d'erreur</a> pour plus d'informations."
+
+msgid "reset"
+msgstr "réinitialiser"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "We must approve the uploaded content before being able to share."
+msgstr "Nous devons approuver le contenu téléchargé avant de pouvoir le partager."
+
+msgid "copy"
+msgstr "copie"
+
+msgid "insert"
+msgstr "insérer"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "upload"
+msgstr "télécharger"
+
+#, php-format
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "optional"
+msgstr "optionnel"
+
+msgid "Resize image"
+msgstr "Changer la taille de l'image"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "Height"
+msgstr "Hauteur"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "Note : Les GIFs ne seront pas redimensionnés."
+
+msgid "Mark this if the image is not family safe"
+msgstr "Cochez ceci si l'image ne convient pas à un public jeune"
+
+msgid "Flag as unsafe"
+msgstr "Contenu sensible"
+
+msgid "Description"
+msgstr "Description"
+
+#, php-format
+msgid "Brief description of this %s"
+msgstr "Brève description de cette %s"
+
+msgid "File URLs"
+msgstr "URL de fichiers"
+
+msgid "Add file URLs here"
+msgstr "Ajouter les URL des fichiers ici"
+
+#, php-format
+msgid "Create %s"
+msgstr "Créer %s"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "Le contenu envoyé sera déplacé vers cet album nouvellement créé."
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "Vous devez %s ou %l si vous souhaitez modifier cet album plus tard."
+
+#, php-format
+msgid "Move to %s"
+msgstr "Déplacer vers %s"
+
+msgid "Select an existing album to move the uploaded content."
+msgstr "Sélectionnez un album existant pour déplacer le contenu téléchargé."
+
+msgid "Error report"
+msgstr "Rapport d'erreur"
+
+msgid "Viewer"
+msgstr "Visualisateur"
+
+#, php-format
+msgid "%s link"
+msgstr "lien %s"
+
+msgid "Direct"
+msgstr "Direct"
+
+msgid "Frame"
+msgstr "Image"
+
+msgid "Thumbnail"
+msgstr "Vignette"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "embed"
+msgstr "intégrer"
+
+#, php-format
+msgid "%s full linked"
+msgstr "%s entièrement lié"
+
+#, php-format
+msgid "%s medium linked"
+msgstr "%s support lié"
+
+#, php-format
+msgid "%s thumbnail linked"
+msgstr "%s vignette liée"
+
+#, php-format
+msgid "%s full"
+msgstr "%s plein"
+
+msgid "All these words"
+msgstr "Tous ces mots"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Tapez les mots importants : rat terrier couleur"
+
+msgid "This exact word or phrase"
+msgstr "Ce mot exact ou la phrase"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Mettez les mots exacts entre guillemets: \"rat terrier\""
+
+msgid "None of these words"
+msgstr "Aucun de ces mots"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Mettez le signe moins devant le mot non souhaité: -rongeur -\"James Bond\""
+
+msgid "Storage"
+msgstr "Stockage"
+
+msgid "IP address"
+msgstr "Adresse IP"
+
+msgid "Name"
+msgstr "Nom"
+
+#, php-format
+msgid "Unnamed %s"
+msgstr "%s sans nom"
+
+msgid "Call to action"
+msgstr "Appel à l'action"
+
+msgid "Enable call to action buttons"
+msgstr "Activer les boutons d'appel à l'action"
+
+#, php-format
+msgid "Call to action buttons will be displayed on the %s page and in content belonging to."
+msgstr "Les boutons d'appel à l'action seront affichés sur la page %s et dans le contenu appartenant."
+
+msgid "You can use %emoji% or %package% icons."
+msgstr "Vous pouvez utiliser les icônes %emoji% ou %package% ."
+
+msgid "Label"
+msgstr "Étiqueter"
+
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Privacy"
+msgstr "Confidentialité"
+
+msgid "Who can view this content"
+msgstr "Qui peut voir ce contenu"
+
+msgid "Private (just me)"
+msgstr "Privé (moi uniquement)"
+
+msgid "Private (anyone with the link)"
+msgstr "Privé (tous ceux avec le lien)"
+
+msgid "Private (password protected)"
+msgstr "Privé (protégé par mot de passe)"
+
+msgid "Change password"
+msgstr "Changer le mot de passe"
+
+msgid "Set password"
+msgstr "Définir le mot de passe"
+
+#, php-format
+msgid "%s name"
+msgstr "%s nom"
+
+msgid "URL key"
+msgstr "Clé URL"
+
+#, php-format
+msgid "%s URL key"
+msgstr "Clé d'URL %s"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Lettres, chiffres et tirets uniquement."
+
+#, php-format
+msgid "Untitled %s"
+msgstr "%s sans titre"
+
+msgid "Mark this if the image is not safe for work"
+msgstr "Cochez cette case si l'image n'est pas sûre pour le travail."
+
+msgid "Flag not safe"
+msgstr "Marqueur non sûr"
+
+msgid "Path"
+msgstr "Chemin"
+
+msgid "Local path (absolute)"
+msgstr "Chemin local (absolu)"
+
+msgid "Directory structure"
+msgstr "Structure répertoire"
+
+msgid "Parse top level folders as users (username)"
+msgstr "Analyser les dossiers de niveau supérieur en tant qu'utilisateurs (nom d'utilisateur)"
+
+msgid "Parse top level folders as albums"
+msgstr "Analyser les dossiers de niveau supérieur en tant qu'albums"
+
+msgid "Don't parse folders"
+msgstr "Ne pas analyser les dossiers"
+
+msgid "When parsing top level folders as users, second level folders will be parsed as user albums. Parsing top level folders as albums adds these as guest albums."
+msgstr "Lors de l'analyse des dossiers de premier niveau en tant qu'utilisateurs, les dossiers de deuxième niveau seront analysés en tant qu'albums utilisateurs. L'analyse des dossiers de premier niveau en tant qu'albums les ajoute en tant qu'albums invités."
+
+msgid "Threads"
+msgstr "Fils"
+
+msgid "Select number of threads"
+msgstr "Sélectionnez le nombre de processus concurrents"
+
+#, php-format
+msgid "This determines how intensive and fast will be the import process. Don't use more than %s threads on a shared server."
+msgstr "Cela détermine l'intensité et la rapidité du processus d'importation. N'utilisez pas plus de %s fils sur un serveur partagé."
+
+msgid "You can use wildcard * characters."
+msgstr "Vous pouvez utiliser des caractères spéciaux."
+
+msgid "Expiration date"
+msgstr "Date d'expiration"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "YYYY-MM-DD HH:MM:SS"
+
+msgid "Example"
+msgstr "Exemple"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Jusqu'à quelle date cette adresse IP devra être bannie ? Laissez vide pour illimité."
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Message texte, HTML ou une adresse URL de redirection."
+
+msgid "API"
+msgstr "API"
+
+msgid "Storage name"
+msgstr "Nom du stockage"
+
+msgid "This is for the old deprecated B2 API. For new buckets you have to use S3 Compatible API."
+msgstr "Il s'agit de l'ancienne API B2 obsolète. Pour les nouveaux compartiments, vous devez utiliser l'API compatible S3."
+
+msgid "Region"
+msgstr "Région"
+
+msgid "Storage region"
+msgstr "Région de stockage"
+
+msgid "Storage bucket"
+msgstr "Bucket du stockage"
+
+msgid "Key"
+msgstr "Clé"
+
+msgid "Storage key"
+msgstr "Clé de stockage"
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Storage secret"
+msgstr "Secret de stockage"
+
+msgid "Private key"
+msgstr "Clé privée"
+
+msgid "Google Cloud JSON key"
+msgstr "Clé JSON Google Cloud"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Vous avez besoin d'un <a %s>compte de service</a> pour cela."
+
+msgid "Service name"
+msgstr "Nom du service"
+
+msgid "Identity URL"
+msgstr "URL de l'identité"
+
+msgid "Identity API endpoint"
+msgstr "Point de terminaison de l'API identité"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "Point de terminaison pour l'identité OpenStack"
+
+msgid "Container"
+msgstr "Conteneur"
+
+msgid "Storage container"
+msgstr "Conteneur de stockage"
+
+msgid "Tenant id"
+msgstr "ID du locataire"
+
+msgid "Tenant id (account id)"
+msgstr "ID du locataire (ID du compte)"
+
+msgid "Tenant name"
+msgstr "Nom du locataire"
+
+msgid "Tenant name (account name)"
+msgstr "Nom du locataire (nom du compte)"
+
+msgid "Storage endpoint"
+msgstr "Point de terminaison de stockage"
+
+msgid "Server address"
+msgstr "Adresse serveur"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Nom d'hôte ou adresse IP du serveur de stockage"
+
+msgid "Server path"
+msgstr "Chemin serveur"
+
+msgid "Absolute path where the files will be stored in the context of the %p login. Use %s for root path."
+msgstr "Chemin absolu où les fichiers seront stockés dans le contexte de la connexion %p. Utilisez %s pour le chemin racine."
+
+msgid "Server login"
+msgstr "Connexion au serveur"
+
+msgid "Server password"
+msgstr "Mot de passe serveur"
+
+msgid "Local path"
+msgstr "Chemin local"
+
+msgid "Local path where the files will be stored"
+msgstr "Chemin local où les fichiers seront stockés"
+
+msgid "Storage capacity"
+msgstr "Capacité de stockage"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Exemple : 20 GB, 1 TB, etc."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "Le stockage sera désactivé lorsque la capacité sera atteinte. Laissez la vide ou mettez 0 pour illimité."
+
+msgid "Storage URL"
+msgstr "URL du stockage"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "Le système va lier les images de ce stockage à cette adresse URL."
+
+msgid "Enabled types"
+msgstr "Types activés"
+
+msgid "The storage will be used only for selected types."
+msgstr "Le stockage sera utilisé uniquement pour les types sélectionnés."
+
+msgid "view more"
+msgstr "voir plus"
+
+msgid "Load more"
+msgstr "Voir plus"
+
+msgid "Clear"
+msgstr "Nettoyer"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Get embed codes"
+msgstr "Obtenir les liens d'intégration"
+
+#, php-format
+msgid "Assign %s"
+msgstr "Affecter %s"
+
+msgid "Flag as safe"
+msgstr "Retirer le signalement"
+
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+msgid "Clear selection"
+msgstr "Vider la sélection"
+
+#, php-format
+msgid "Create new %s"
+msgstr "Créer un nouvel %s"
+
+#, php-format
+msgid "sub %s"
+msgstr "sous %s"
+
+msgid "Sign in with another account"
+msgstr "Se connecter avec un autre compte"
+
+msgid "Sign in with %label%"
+msgstr "Connectez-vous avec %label%"
+
+msgid "There's nothing to show here."
+msgstr "Il n'y a rien à voir ici."
+
+msgid "Selection will be assigned to %t."
+msgstr "La sélection sera attribuée à %t."
+
+msgid "There is no categories."
+msgstr "Il n'y a pas de catégories."
+
+msgid "Confirm flag content as safe"
+msgstr "Confirmer l'annulation du signalement"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Souhaitez-vous vraiment retirer le signalement du contenu ?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Confirmer le signalement du contenu"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Souhaitez-vous vraiment signaler ce contenu ?"
+
+msgid "Confirm approval"
+msgstr "Confirmer l'approbation"
+
+msgid "Do you really want to approve this content?"
+msgstr "Voulez-vous vraiment approuver ce contenu ?"
+
+msgid "Confirm deletion"
+msgstr "Confirmez la suppression"
+
+msgid "Do you really want to remove this content?"
+msgstr "Voulez-vous vraiment supprimer ce contenu ?"
+
+msgid "Do you really want to approve all the selected content?"
+msgstr "Voulez-vous vraiment approuver tout le contenu sélectionné ?"
+
+msgid "Do you really want to remove all the selected content?"
+msgstr "Voulez-vous vraiment supprimer tout le contenu sélectionné ?"
+
+msgid "Guest"
+msgstr "Invité"
+
+msgid "Private album"
+msgstr "Album privé"
+
+msgid "Password protected"
+msgstr "Protégé par un mot de passe"
+
+msgid "Uploaded by guest"
+msgstr "Mise en ligne par un visiteur"
+
+msgid "Uploaded by private"
+msgstr "Mise en ligne par un compte privé"
+
+#, php-format
+msgid "by %u"
+msgstr "Par %u"
+
+msgid "Toggle unsafe flag"
+msgstr "Basculer le signalement"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Vous n'avez soit pas la permission d'accéder à cette page ou le lien a expiré."
+
+msgid "Go to homepage"
+msgstr "Retourner sur l'accueil"
+
+msgid "The requested page was not found."
+msgstr "La page demandée n'a pas été trouvée"
+
+msgid "The user has been deleted"
+msgstr "L'utilisateur a été supprimé"
+
+msgid "Your account is almost ready"
+msgstr "Votre compte est presque prêt"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Un email a été envoyé à l'adresse %s avec les instructions pour activer votre compte. Ce lien d'activation n'est valide que 48 heures. Si vous ne recevez pas les instructions, pensez à vérifier le contenu de vos filtres anti-spam."
+
+msgid "Resend activation"
+msgstr "Renvoyer l'email d'activation"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Vous avez changé l'adresse email de votre compte en %s avec succès"
+
+msgid "Go to my profile"
+msgstr "Allez à mon profil"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Un lien de confirmation va être envoyé à cette adresse avec les détails d’activation de votre compte."
+
+msgid "Your email address"
+msgstr "Votre adresse email"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Un email avec les instructions pour réinitialiser votre mot de passe a été envoyé à votre adresse email. Si vous ne recevez pas les instructions, vérifiez vos filtres anti-spam."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "Un email a été envoyé avec les instructions pour activer votre compte à l'adresse %s.n\\\\Si vous ne recevez pas les instructions, essayez de vérifier vos filtres anti-spam."
+
+msgid "Resend instructions"
+msgstr "Renvoyer les instructions"
+
+#, php-format
+msgid "Enter your username or email address to continue. You may need to check your spam folder or whitelist %s"
+msgstr "Entrez votre nom d'utilisateur ou votre adresse e-mail pour continuer. Vous devrez peut-être vérifier votre dossier spam %s"
+
+msgid "Username or Email address"
+msgstr "Nom d'utilisateur ou Adresse email"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Le mot de passe a été modifié. Vous pouvez essayer de vous connecter à l'aide de votre nouveau mot de passe."
+
+msgid "Login now"
+msgstr "Se connecter"
+
+msgid "Enter your new password"
+msgstr "Saisissez un nouveau mot de passe"
+
+#, php-format
+msgid "%d characters min"
+msgstr "%d caractères min"
+
+msgid "Password strength"
+msgstr "Force du mot de passe"
+
+msgid "Re-enter your new password"
+msgstr "Confirmez le nouveau mot de passe"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Un email contenant les instructions d'activation de compte a été envoyé à %s. Si vous ne recevez pas les instructions, vérifiez le contenu de vos dossiers de spam ou vos filtres."
+
+msgid "Unable to authenticate?"
+msgstr "Impossible à authentifier?"
+
+msgid "If you lost your authentication device you must contact the system administrator."
+msgstr "Si vous avez perdu votre appareil d'authentification, vous devez contacter l'administrateur système."
+
+msgid "Enter the security code from your authenticator app."
+msgstr "Entrez le code de sécurité de votre application d'authentification."
+
+msgid "Security code"
+msgstr "Code de sécurité"
+
+msgid "Sub album"
+msgstr "Sous-album"
+
+msgid "Do you really want to delete this %a and all of its %i?"
+msgstr "Voulez-vous vraiment supprimer %a et tous ses %i ?"
+
+msgid "Upload to album"
+msgstr "Importer dans un album"
+
+msgid "You like this"
+msgstr "Vous aimez ceci"
+
+msgid "This content is private"
+msgstr "Ce contenu a été modifié."
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "Merci de lire et de respecter les conditions suivantes avant de continuer:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "Ce site contient des informations, des liens et des images de type sexuellement explicite. Si vous êtes sous l'âge de %s ans, si ce type de contenu vous offense ou s'il est illégal de visionner ce contenu dans votre communauté, ville, état ou pays merci de ne pas continuer.\n\nJe suis âgé d'au moins %s ans et je reconnais croit qu'en tant qu'adulte, c'est mon droit de visualiser ou non un contenu sexuellement explicite.\n\nJe reconnais que les actes sexuels entre adultes consentants ne sont ni injurieux, ni obscène. La visualisation, la lecture et le téléchargement de contenu sexuellement explicite ne violent pas les normes de ma communauté, ville, état ou pays.\n\nLe contenue de ce site est pour mon propre usage personnel et je ne l'exposerais pas à des mineurs.\n\nJe suis seul responsable de toutes fausses divulgations ou ramifications juridiques de l'affichage, la lecture ou téléchargement de tout contenu de ce site. En outre ce site ni ses sociétés affiliées seront tenus responsables de n'importe quelles conséquences juridiques..."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "En cliquant sur \"J'accepte\", vous déclarez que vous avez lu et compris toutes les conditions mentionnées ci-dessus."
+
+msgid "I Agree"
+msgstr "J'accepte"
+
+#, php-format
+msgid "Learn about %s at our %d."
+msgstr "En savoir plus sur %s de notre %d.\n"
+
+msgid "Check the errors to proceed."
+msgstr "Vérifiez les erreurs pour continuer."
+
+msgid "Queued"
+msgstr "En attente"
+
+msgid "Working"
+msgstr "En cours"
+
+msgid "Paused"
+msgstr "En pause"
+
+msgid "Canceled"
+msgstr "Annulé"
+
+msgid "Completed"
+msgstr "Terminé"
+
+#, php-format
+msgid "Top level folders as %s"
+msgstr "Dossiers de niveau supérieur en tant que %s"
+
+msgid "Process"
+msgstr "Processus"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Process log"
+msgstr "Journal de processus"
+
+msgid "Errors"
+msgstr "Erreurs"
+
+#, php-format
+msgid "Do you really want to remove the import ID %s?"
+msgstr "Souhaitez-vous vraiment supprimé l'ID importé %s ?"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Resume"
+msgstr "Reprendre"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Run the following command to import content to Chevereto:"
+msgstr "Exécutez la commande suivante pour importer du contenu dans Chevereto :"
+
+#, php-format
+msgid "Read the %s for more information about this feature."
+msgstr "Lisez le %s pour plus d'informations sur cette fonctionnalité."
+
+msgid "Single profile"
+msgstr "Profil unique"
+
+#, php-format
+msgid "This setting is always disabled when using %s website mode."
+msgstr "Ce paramètre est toujours désactivé lors de l'utilisation du mode site Web %s."
+
+#, php-format
+msgid "%s won't work when the explorer feature is turned off."
+msgstr "%s ne fonctionnera pas si la fonction d'exploration est désactivée."
+
+msgid "Dashboard > Settings > Website"
+msgstr "Tableau de bord > Paramètres > Site web"
+
+#, php-format
+msgid "Do you really want to delete %s?"
+msgstr "Voulez-vous vraiment supprimer %s ?"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "Affiche un disclamer avant d'accéder au site. Utile pour les sites de contenu pour adultes où les mineurs ne devraient pas être autorisés."
+
+msgid "Enable consent screen"
+msgstr "Activer le disclamer"
+
+msgid "Consent screen cover image"
+msgstr "Image de couverture du disclamer"
+
+msgid "Show not safe content in listings"
+msgstr "Afficher le contenu signalé dans les listes"
+
+msgid "Enable this if you want to show not safe content in listings."
+msgstr "Activez cette option si vous souhaitez afficher le contenu non sécurisé dans les listes."
+
+msgid "Can be overridden by user own settings."
+msgstr "Peut être remplacé par les propres paramètres de l'utilisateur."
+
+msgid "This setting doesn't affect administrators."
+msgstr "Ce paramètre n'affecte pas les administrateurs."
+
+msgid "Blur NSFW content in listings"
+msgstr "Flouter le contenu sensible dans la liste."
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "Activez ceci si vous souhaitez appliquer un effet de flou sur les images sensibles dans la liste."
+
+msgid "Show not safe content in random mode"
+msgstr "Afficher le contenu non sûr dans le mode aléatoire"
+
+msgid "Show banners in not safe content"
+msgstr "Afficher les bannières pour le contenu signalé"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "Activez ceci si vous souhaitez afficher les bannières sur les pages avec du contenu signalé."
+
+#, php-format
+msgid "Lock %s editing"
+msgstr "Verrouiller l'édition de %s"
+
+msgid "Enable this to prevent users from changing the NSFW flag. When enabled, only admin and managers will have this permission."
+msgstr "Activez cette option pour empêcher les utilisateurs de modifier l'indicateur NSFW. Lorsqu'il est activé, seuls les administrateurs et les directeurs auront cette autorisation."
+
+msgid "Stop words"
+msgstr "Mots vides"
+
+msgid "One rule per line"
+msgstr "Une règle par ligne"
+
+msgid "Define words that won't be allowed for content."
+msgstr "Définissez les mots qui ne seront pas autorisés pour le contenu."
+
+msgid "Cookie law compliance"
+msgstr "Respecter la loi sur les cookies"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Activez ceci pour afficher un message qui respecte la loi sur les cookies de l'UE. Note : vous n'avez besoin de ceci que si votre site est hébergé dans l'UE et que vous utilisez des cookies de suivi."
+
+msgid "email delivery"
+msgstr "livraison par e-mail"
+
+msgid "Don't forget to test %t at %s"
+msgstr "N'oubliez pas de tester %t à %s"
+
+msgid "From name"
+msgstr "Nom de l'émetteur"
+
+msgid "Sender name for emails sent to users."
+msgstr "Nom d'envoi pour les emails envoyés aux utilisateurs."
+
+msgid "From email address"
+msgstr "Adresse email d'expédition"
+
+msgid "Sender email for emails sent to users."
+msgstr "Nom d'envoi pour les emails envoyés aux utilisateurs."
+
+msgid "Incoming email address"
+msgstr "Adresse email de contact"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Destinataire du formulaire de contact et des alertes système."
+
+msgid "Email mode"
+msgstr "Mode email"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Comment envoyer les emails ? SMTP recommandé."
+
+msgid "SMTP server and port"
+msgstr "Serveur SMTP et port"
+
+msgid "SMTP server"
+msgstr "Serveur SMTP"
+
+msgid "SMTP username"
+msgstr "Nom d'utilisateur SMTP"
+
+msgid "SMTP password"
+msgstr "Mot de passe SMTP"
+
+msgid "SMTP security"
+msgstr "Sécurité SMTP"
+
+msgid "Unsecured"
+msgstr "Non sécurisé"
+
+msgid "Comments API"
+msgstr "API des commentaires"
+
+#, php-format
+msgid "Disqus API works with %s."
+msgstr "Disqus API fonctionne avec %s"
+
+msgid "Disqus shortname"
+msgstr "Identifiant Disqus"
+
+#, php-format
+msgid "%s secret key"
+msgstr "Clé secrète %s"
+
+#, php-format
+msgid "%s public key"
+msgstr "Clé publique %s"
+
+msgid "Comment code"
+msgstr "Code des commentaires"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook ou ce que vous voulez. Ce sera utilisé dans le visualiseur d'images."
+
+msgid "Analytics code"
+msgstr "Code Analytics"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics ou ce que vous voulez. Ce sera ajouté au pied de page du thème."
+
+#, php-format
+msgid "%s spam protection"
+msgstr "%s protection contre les indésirables"
+
+msgid "user generated content"
+msgstr "contenu généré par l'utilisateur"
+
+msgid "Enable this to use %l to block spam on %c."
+msgstr "Activez cette option pour utiliser %l afin de bloquer le spam sur %c."
+
+#, php-format
+msgid "%s API key"
+msgstr "Clé API %s"
+
+msgid "user signup"
+msgstr "inscription de l'utilisateur"
+
+#, php-format
+msgid "%s site key"
+msgstr "Clé du site %s"
+
+#, php-format
+msgid "%s threshold"
+msgstr "seuil %s"
+
+msgid "How many failed attempts are needed to ask for CAPTCHA? Use zero (0) to always show CAPTCHA."
+msgstr "Combien de tentatives infructueuses sont nécessaires pour demander un CAPTCHA ? Utilisez zéro (0) pour toujours afficher le CAPTCHA."
+
+#, php-format
+msgid "Force %s on contact page"
+msgstr "Forcer %s sur la page de contact"
+
+#, php-format
+msgid "Enable this to always show %s on contact page."
+msgstr "Activez ceci pour toujours afficher %s sur la page de contact."
+
+#, php-format
+msgid "Use %s to combat child sexual abuse material (CSAM)."
+msgstr "Utilisez %s pour lutter contre le matériel pédopornographique (CSAM)."
+
+#, php-format
+msgid "Automatically moderate the content using the %s service."
+msgstr "Modérez automatiquement le contenu à l'aide du service %s."
+
+msgid "Automatic approve"
+msgstr "Approbation automatique"
+
+msgid "Enable this to automatically approve content moderated by this service."
+msgstr "Activez cette option pour approuver automatiquement le contenu modéré par ce service."
+
+msgid "Block content"
+msgstr "Bloquer le contenu"
+
+msgid "Adult"
+msgstr "Adulte"
+
+msgid "Teen and adult"
+msgstr "Adolescent et adulte"
+
+msgid "Flag NSFW"
+msgstr "Marquer NSFW"
+
+msgid "Twitter account"
+msgstr "Compte Twitter"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Activez ou désactivez le HTTPS"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "Activez ou désactivez ce stockage"
+
+msgid "Quota"
+msgstr "Quota"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Storage method"
+msgstr "Méthode de stockage"
+
+msgid "Disk used"
+msgstr "Espace disque utilisé"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Par défaut le stockage local est utilisé ou quand aucun stockage externe n'est actif."
+
+msgid "storage"
+msgstr "stockage"
+
+msgid "Enabled file extensions"
+msgstr "Extensions de fichiers activées"
+
+msgid "Unsupported in your server"
+msgstr "Non pris en charge sur votre serveur"
+
+msgid "Only checked file extensions will be allowed to be uploaded."
+msgstr "Seules les extensions de fichiers cochées pourront être téléchargées."
+
+msgid "Enable uploads"
+msgstr "Activer les envois"
+
+#, php-format
+msgid "Enable this if you want to allow %s uploads."
+msgstr "Activez ceci si vous souhaitez autoriser les téléchargements de %s."
+
+msgid "Enable this if you want to allow file upload from URLs."
+msgstr "Activez cette option si vous souhaitez autoriser le téléchargement de fichiers à partir d'URL."
+
+msgid "Note that enabling this will expose your server IP."
+msgstr "Notez que l'activation de cette option exposera l'adresse IP de votre serveur."
+
+msgid "This feature is available only for administrators."
+msgstr "Cette fonctionnalité est disponible uniquement pour les administrateurs."
+
+msgid "Upload user interface"
+msgstr "Télécharger l'interface utilisateur"
+
+msgid "On-page container"
+msgstr "Conteneur sur la page"
+
+msgid "route"
+msgstr "chemin"
+
+msgid "Guest uploads"
+msgstr "Tranferts des Invités"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Activez ceci si vous voulez autoriser les utilisateurs non enregistrés à envoyer des images."
+
+msgid "Moderate uploads"
+msgstr "Modérer les téléchargements"
+
+msgid "Enable this to moderate incoming uploads. Target content will require moderation for approval."
+msgstr "Activez cette option pour modérer les téléchargements entrants. Le contenu cible nécessitera une modération pour approbation."
+
+msgid "Enable embed codes (uploader)"
+msgstr "Activer les codes d'intégration (après l'envoi)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Activez ceci si vous souhaitez afficher les codes d'intégration quand un envoi est terminé."
+
+msgid "Upload threads"
+msgstr "Mise en ligne simultanées"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "Nombre de mise en ligne simultanées (Mise en ligne parallèle)"
+
+msgid "Redirect on single upload"
+msgstr "Rediriger après l'envoi d'une seule image."
+
+msgid "Enable this if you want to redirect to file viewer on single upload."
+msgstr "Activez cette option si vous souhaitez rediriger vers la visionneuse de fichiers lors d'un seul téléchargement."
+
+msgid "Enable duplicate uploads"
+msgstr "Activer la duplication des images mises en ligne"
+
+msgid "Enable this if you want to allow duplicate uploads from the same IP within 24hrs."
+msgstr "Activez cette option si vous souhaitez autoriser les envois en double à partir de la même adresse IP dans les 24 heures."
+
+msgid "Enable expirable uploads"
+msgstr "Activer l'expiration des envois"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Activez cette option si vous souhaitez autoriser les envois avec une option de suppression automatique."
+
+msgid "Auto delete guest uploads"
+msgstr "Supprimer automatiquement les images mises en ligne par les invités"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "Activez l'option si vous souhaitez supprimer automatiquement après un certain temps les images mis en ligne par les visiteurs."
+
+msgid "Maximum image size"
+msgstr "Taille maximale de l'image"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "Les images supérieures à cette taille seront automatiquement réduites. Utilisez zéro (0) pour ne pas définir de limite."
+
+msgid "Image Exif data"
+msgstr "Données Exif de l'image"
+
+msgid "Keep"
+msgstr "Garder"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Sélectionnez le paramètre par défaut pour les <a %s>données Exif</a> de l'image à l'envoi."
+
+msgid "Image Exif data (user setting)"
+msgstr "Données Exif de l'image (réglage de l'utilisateur)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Activez cette option si vous souhaitez permettre à chaque utilisateur de configurer comment les données Exif de l'image seront traitées."
+
+msgid "Maximum upload file size"
+msgstr "Taille maximale de l'image importé"
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "La taille maximale autorisée par le serveur est %s. Cette limite est fixée par %u et %p (valeurs %f)"
+
+msgid "guests"
+msgstr "invités"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "Pareil que \"%s\" mais pour les invités."
+
+msgid "File path"
+msgstr "Chemin de fichier"
+
+msgid "Relative to Chevereto root"
+msgstr "Relatif à la racine Chevereto"
+
+msgid "Where to store the uploaded files? Relative to Chevereto root."
+msgstr "Où stocker les fichiers téléchargés ? Par rapport à la racine de Chevereto."
+
+msgid "Storage mode"
+msgstr "Mode de stockage"
+
+msgid "Datefolders"
+msgstr "Dossiers de dates"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Les dossiers de dates créent une structure %s"
+
+msgid "File naming method"
+msgstr "Méthode de nommage des fichiers"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Mix original + random"
+msgstr "Mélange original + aléatoire"
+
+msgid "\"Original\" will try to keep the file source name while \"Random\" will generate a random name. \"ID\" will name the file just like the file ID."
+msgstr "\"Original\" essaiera de conserver le nom de la source du fichier tandis que \"Random\" générera un nom aléatoire. \"ID\" nommera le fichier exactement comme l'ID du fichier."
+
+msgid "Thumb size"
+msgstr "Taille de miniature"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Les miniatures seront fixées à cette taille."
+
+msgid "Medium image fixed dimension"
+msgstr "Fixe les dimensions d'une image moyenne"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "Les images de taille moyenne seront fixées à cette dimension. Par exemple, si vous sélectionnez «width» cette dimension sera fixe et hauteur de l'image sera calculée automatiquement."
+
+msgid "Medium image fixed size"
+msgstr "Image de taille moyenne fixe"
+
+msgid "Width or height will be automatically calculated."
+msgstr "La largeur ou la hauteur seront automatiquement calculés."
+
+msgid "Block file uploads by IP if the system notice a flood behavior based on the number of uploads per time period."
+msgstr "Bloquez les téléchargements de fichiers par IP si le système remarque un comportement de spam basé sur le nombre de téléchargements par période de temps."
+
+msgid "Notify to email"
+msgstr "Notifier par email"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "Si activé, le système va envoyer un email lors d'un incident flood."
+
+msgid "Minute limit"
+msgstr "Limite par minute"
+
+msgid "Hourly limit"
+msgstr "Limite par heure"
+
+msgid "Daily limit"
+msgstr "Limite par jour"
+
+msgid "Weekly limit"
+msgstr "Limite par semaine"
+
+msgid "Monthly limit"
+msgstr "Limite par mois"
+
+msgid "Public API key"
+msgstr "Clé API publique"
+
+msgid "This key is for guest usage."
+msgstr "Cette clé est réservée aux invités."
+
+#, php-format
+msgid "Check the %s documentation."
+msgstr "Consultez la documentation %s."
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Landing page"
+msgstr "Page d'accueil"
+
+msgid "Split landing + images"
+msgstr "Diviser l'accueil + images"
+
+msgid "explore"
+msgstr "explorer"
+
+#, php-format
+msgid "Route %s"
+msgstr "Chemin %s"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "Sélectionnez le style de page d'accueil. Pour la personnaliser davantage, modifiez app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "Image de couverture"
+
+msgid "Do you really want to delete?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+#, php-format
+msgid "Delete %s"
+msgstr "Supprimer %s"
+
+msgid "Add new cover image"
+msgstr "Ajouter une nouvelle image de couverture"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "Ceci sera ajouté dans le tag %s de votre page d'accueil. Laissez le vide pour utiliser le contenu par défaut."
+
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+msgid "Call to action button color"
+msgstr "Couleur du bouton d'action."
+
+msgid "Blue"
+msgstr "Bleu"
+
+msgid "Green"
+msgstr "Vert"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Red"
+msgstr "Rouge"
+
+msgid "Grey"
+msgstr "Gris"
+
+msgid "Black"
+msgstr "Noir"
+
+msgid "White"
+msgstr "Blanc"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Color of the homepage call to action button."
+msgstr "Couleur du bouton d'action de l'accueil."
+
+msgid "Call to action outline style button"
+msgstr "Style de contour du bouton d'action"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "Activez-ceci pour utiliser le style de couleur pour le bouton d'action de l'accueil."
+
+msgid "Call to action functionality"
+msgstr "Fonctionnalité d'appel à l'action"
+
+msgid "Trigger uploader"
+msgstr "Déclencher l'envoi"
+
+msgid "Open URL"
+msgstr "Ouvrir URL"
+
+msgid "Call to action URL"
+msgstr "URL de l'appel à l'action"
+
+msgid "Enter an absolute or relative URL"
+msgstr "Entrez une URL absolue ou relative"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "Une URL relative comme %r sera redirigée vers %l"
+
+msgid "Call to action HTML"
+msgstr "HTML de l'appel à l'action"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "Ceci sera ajouté dans la balise <a> de l'appel à l'action. Laissez le vide pour utiliser le contenu par défaut."
+
+msgid "User IDs"
+msgstr "IDs utilisateur"
+
+msgid "Empty"
+msgstr "Vide"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Votre identifiant utilisateur est : %s"
+
+msgid "Comma-separated list of target user IDs (integers) to show most recent images on homepage. Leave it empty to display trending images."
+msgstr "Liste séparée par des virgules des identifiants d'utilisateurs cibles pour afficher les images sur la page d'accueil. Laissez-le vide ou zéro pour afficher toutes les images récentes."
+
+msgid "Expires"
+msgstr "Expiration"
+
+#, php-format
+msgid "Do you really want to remove the ban to the IP %s?"
+msgstr "Voulez-vous vraiment supprimer l'interdiction de l'IP %s ?"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "L'adresse IP bannie ne pourra plus utiliser le site web."
+
+msgid "Default language"
+msgstr "Langue par défaut"
+
+msgid "Default base language to use."
+msgstr "Base de langue à utiliser par défaut"
+
+msgid "Auto language"
+msgstr "Langue automatique"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "Activez-ceci si vous souhaitez automatiquement détecter et paramétrer la langue pour chaque utilisateur."
+
+msgid "Language chooser"
+msgstr "Sélectionneur de langue"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "Activez-ceci si vous souhaitez autoriser la sélection des langues"
+
+msgid "Enabled languages"
+msgstr "Activez les langues"
+
+msgid "Only checked languages will be used in your website."
+msgstr "Seules les langues cochées seront utilisées sur votre site Web."
+
+msgid "List items per page"
+msgstr "Lister les objets par page"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Combien d'objets devraient être affichés par page."
+
+msgid "List pagination mode"
+msgstr "Mode de pagination de la liste"
+
+msgid "Endless scrolling"
+msgstr "Défilement infini"
+
+msgid "Classic pagination"
+msgstr "Pagination classique"
+
+msgid "What pagination method should be used."
+msgstr "Quel mode de pagination devrait être utilisé."
+
+msgid "Listing viewer"
+msgstr "Visionneuse de liste"
+
+msgid "Enable this to use the listing viewer when clicking on an image."
+msgstr "Activez cette option pour utiliser le visualiseur d'image lorsque vous cliquez sur une image."
+
+msgid "Image listing size"
+msgstr "Taille de la liste des images"
+
+msgid "Fluid"
+msgstr "Fluide"
+
+msgid "Fixed"
+msgstr "Fixé"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "Les deux méthodes utilisent une largeur fixe mais la méthode fluide utilise des hauteurs automatiques."
+
+msgid "%t listing requirement"
+msgstr "exigence de la liste %t"
+
+msgid "Sets the minimum content count needed to show %t in %s."
+msgstr "Définit le nombre de contenu minimum nécessaire pour afficher %t dans %s."
+
+msgid "Listing columns number"
+msgstr "Nombre de colonnes à afficher"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Ici vous pouvez définir combien de colonnes sont affichées suivant chaque périphérique."
+
+msgid "Phone"
+msgstr "Mobile"
+
+msgid "Phablet"
+msgstr "Phablette"
+
+msgid "Tablet"
+msgstr "Tablette"
+
+msgid "Laptop"
+msgstr "PC Portable"
+
+msgid "Desktop"
+msgstr "PC Fixe"
+
+msgid "Application"
+msgstr "Application"
+
+#, php-format
+msgid "%s id"
+msgstr "identifiant %s"
+
+#, php-format
+msgid "%s secret"
+msgstr "%s secrète"
+
+msgid "Vector"
+msgstr "Vectorielle"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Text option uses the website name as logo."
+msgstr "L'option de texte utilise le nom du site Web comme logo."
+
+msgid "Logo vector"
+msgstr "Logo vectoriel"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "Image vectorielle ou le logo de votre site au format SVG."
+
+msgid "Logo image"
+msgstr "Image logo"
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "Version Bitmap ou le logo de votre site. Le format PNG est recommandé."
+
+msgid "Logo height"
+msgstr "Hauteur de logo"
+
+msgid "No value"
+msgstr "Aucune valeur"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Utilisez ceci pour définir la hauteur du logo si nécessaire."
+
+msgid "Favicon image"
+msgstr "Image favicon"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Image favicon. L'image doit avoir la même largeur et la même hauteur."
+
+msgid "Page title"
+msgstr "Titre de la page"
+
+msgid "Page status"
+msgstr "Statut de la page"
+
+msgid "Active page"
+msgstr "Page active"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Page inactive (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "Seules pages actives seront accessibles."
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Terms of service"
+msgstr "Conditions d'utilisation"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Extra page"
+msgstr "Page supplémentaire"
+
+msgid "Internal page type"
+msgstr "Type de page interne"
+
+msgid "You can have multiple extra pages, but only one of the other special internal types."
+msgstr "Vous pouvez avoir plusieurs pages supplémentaires, mais un seul des autres types internes spéciaux."
+
+msgid "Page visibility"
+msgstr "Visibilité de la page"
+
+msgid "Visible page"
+msgstr "Page visible"
+
+msgid "Hidden page"
+msgstr "Page cachée"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "Les pages cachées ne s'afficheront pas dans les menus système, mais tout le monde peut y accéder par son lien."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Seuls les caractères alphanumériques, traits d'union et barre oblique"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "Un fichier %f relatif à %s"
+
+msgid "Meta keywords"
+msgstr "Mot clés meta"
+
+msgid "Meta description"
+msgstr "Description meta"
+
+msgid "Source code"
+msgstr "Code source"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Pas de permission d'écriture dans le chemin %s, vous allez devoir ajouter ce fichier en utilisant un éditeur externe."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Pas de permission d'écriture dans le chemin %s, vous allez modifier le contenu du fichier en utilisant un éditeur externe."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Prise depuis : %s"
+
+msgid "Link URL"
+msgstr "Lien URL"
+
+msgid "Link target attribute"
+msgstr "Attribut cible du lien"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Sélectionnez %s pour ouvrir la page ou le lien dans une nouvelle fenêtre."
+
+msgid "Link rel attribute"
+msgstr "Attribut rel du lien"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Seuls les caractères alphanumériques, traits d'union et espaces"
+
+#, php-format
+msgid "HTML %s attribute"
+msgstr "Attribut HTML %s"
+
+msgid "Link icon"
+msgstr "Lien icône"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Vérifiez les <a %s>références icône</a> pour une liste complète des icônes supportées."
+
+msgid "Sort order display"
+msgstr "Définir l'ordre d'affichage"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "Ordre d'affichage des pages dans les menus et listes. Utilisez \"1\" pour la priorité maximale."
+
+#, php-format
+msgid "Do you really want to delete the page ID %s?"
+msgstr "Voulez-vous vraiment supprimer l'ID de page %s ?"
+
+msgid "Routing allows you to customize default route binds on the fly. Only alphanumeric, hyphen and underscore characters are allowed."
+msgstr "Le routage vous permet de personnaliser à la volée les liens de routage par défaut. Seuls les caractères alphanumériques, tirets et traits de soulignement sont autorisés."
+
+#, php-format
+msgid "%s routing"
+msgstr "routage %s"
+
+#, php-format
+msgid "Routing for %s"
+msgstr "Adressage pour %s"
+
+msgid "Root"
+msgstr "Racine"
+
+msgid "Determine which content to resolve on root route."
+msgstr "Déterminez le contenu à résoudre sur la route racine."
+
+#, php-format
+msgid "SEO %s URLs"
+msgstr "URL de référencement %s"
+
+#, php-format
+msgid "Enable this if you want to use SEO %s URLs."
+msgstr "Activez cette option si vous souhaitez utiliser les URL de référencement %s."
+
+msgid "Semantics allows you to define the nouns used for content to customize your content driven experience."
+msgstr "La sémantique vous permet de définir les noms utilisés pour le contenu afin de personnaliser votre expérience axée sur le contenu."
+
+msgid "Automatic updates check"
+msgstr "Vérification automatique des mises à jour"
+
+msgid "When enabled the system will automatically check for new updates."
+msgstr "Quand l'option est activée le système vérifie automatiquement la présence de nouvelles mises à jour."
+
+msgid "Display available updates notification"
+msgstr "Afficher les mises à jour disponibles par notification"
+
+msgid "Enable this to show a notice on top warning you about new available system updates."
+msgstr "Activer cette option pour afficher une infobox en haut du site pour vous avertir de nouvelles mises à jour système disponibles."
+
+msgid "Dump update query"
+msgstr "Vider la requête de mise à jour"
+
+msgid "Enable this if you want to dump the update query to run it manually."
+msgstr "Activez cette option si vous souhaitez détecter et définir automatiquement la bonne langue pour chaque utilisateur."
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "When enabled the website will show a maintenance message."
+msgstr "Lorsqu'il est activé, le site Web affichera un message de maintenance."
+
+msgid "Crypt salt"
+msgstr "Grain de sel pour Crypt"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "C'est le grain de sel utilisé pour convertir des ID numériques en alphanumériques. Il a été généré lors de l'installation."
+
+msgid "Debug errors"
+msgstr "Erreurs de débogage"
+
+msgid "Enable this if you want to debug errors."
+msgstr "Activez ceci si vous souhaitez déboguer les erreurs."
+
+msgid "Debug level"
+msgstr "Niveau de débogage"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Error log"
+msgstr "Journal des erreurs"
+
+msgid "Print errors without error log"
+msgstr "Afficher les erreurs sans les enregistrer"
+
+msgid "Print and log errors"
+msgstr "Afficher et enregistrer les erreurs"
+
+msgid "To configure the debug level check the %docs%."
+msgstr "Pour configurer le niveau de débogage, consultez les %docs%."
+
+msgid "Enable %service%"
+msgstr "Activer %service%"
+
+msgid "Enable this if you want to send debug messages to %xr%."
+msgstr "Activez cette option si vous souhaitez envoyer des messages de débogage à %xr%."
+
+#, php-format
+msgid "%s Host"
+msgstr "Hôte %s"
+
+#, php-format
+msgid "%s Port"
+msgstr "Port %s"
+
+#, php-format
+msgid "%s Key"
+msgstr "Clé %s"
+
+#, php-format
+msgid "Default %s"
+msgstr "%s par défaut"
+
+msgid "Image load max. filesize"
+msgstr "Taille d'image maximum a l'affichage. Poids du fichier"
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "Les images supérieures à cette taille afficheront un bouton pour charger l'image en pleine résolution."
+
+msgid "Enable download button"
+msgstr "Activer le bouton de téléchargement"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Activer ceci si vous souhaitez afficher le bouton de téléchargement d'image."
+
+msgid "Enable right click on image"
+msgstr "Activer le clic droit sur l'image"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Activez ceci si vous souhaitez autoriser le clic droit sur l'image de la page de visualisation."
+
+msgid "Enable show Exif data"
+msgstr "Activer l'affichage des données Exif"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Activez-ceci si vous souhaite afficher les données Exif de l'image."
+
+#, php-format
+msgid "%s first tab"
+msgstr "%s premier onglet"
+
+#, php-format
+msgid "Determine the first tab on %s page."
+msgstr "Déterminez le premier onglet sur la page %s."
+
+msgid "Enable social share"
+msgstr "Activer le partage social"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Activez ceci si vous souhaitez afficher les boutons de partage des réseaux sociaux."
+
+msgid "Enable embed codes (content)"
+msgstr "Activer les codes d'intégration (contenu)"
+
+msgid "Everybody"
+msgstr "Tout le monde"
+
+msgid "Users only"
+msgstr "Utilisateurs uniquement"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Activez ceci si vous souhaitez afficher les codes d'intégration pour le contenu."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "Case à cocher signaler dans le formulaire d'envoi"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Activez ceci si vous souhaitez afficher une case à cocher pour indiquer si le contenu envoyé doit être signalé."
+
+msgid "Custom CSS code"
+msgstr "Code CSS personnalisé"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Insérez votre code CSS personnalisé ici. Il sera placé comme <style> juste avant la balise de clôture </head>."
+
+msgid "Custom JS code"
+msgstr "Code JS personnalisé"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Insérez votre code JS personnalisé ici. Il sera placé comme <script> juste avant la balise de clôture </head>."
+
+#, php-format
+msgid "Do not use %s markup here. This is for plain JS code, not for HTML script tags. If you use script tags here you will break your website."
+msgstr "N'utilisez pas le balisage %s ici. Ceci est pour le code JS brut, pas pour les balises de script HTML. Si vous utilisez des balises de script ici, vous casserez votre site Web."
+
+msgid "Decode ID"
+msgstr "Décoder l'ID"
+
+msgid "Encode ID"
+msgstr "Encoder l'ID"
+
+msgid "Send test email"
+msgstr "Envoyer un email test"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Utilisez cette option pour tester la façon dont vos e-mails sont envoyé. Nous vous recommandons d'utiliser %s"
+
+msgid "Export a user"
+msgstr "Exporter un utilisateur"
+
+msgid "Export user"
+msgstr "Exporter l'utilisateur"
+
+msgid "This will allow you to download a user's standard personal information in JSON format."
+msgstr "Cela vous permettra de télécharger les informations personnelles standard d'un utilisateur au format JSON."
+
+msgid "Regenerate external storage stats"
+msgstr "Régénérer les statistiques de stockage externe"
+
+msgid "Storage id"
+msgstr "id de stockage"
+
+msgid "Regenerate"
+msgstr "Regénérer"
+
+msgid "This will re-calculate the sum of all the image records associated to the target external storage."
+msgstr "Cela recalculera la somme de tous les enregistrements d'image associés au stockage externe cible."
+
+msgid "Migrate external storage records"
+msgstr "Migrer les enregistrements de stockage externe"
+
+msgid "Source storage id"
+msgstr "ID du stockage source"
+
+msgid "Target storage id"
+msgstr "ID du stockage cible"
+
+msgid "Migrate"
+msgstr "Migrer"
+
+msgid "This only updates the database. You must transfer the actual files to target storage container on your own. URL rewriting is strongly recommended. Use zero (0) for local storage."
+msgstr "Ceci ne fait que mettre à jour la base de données. Vous devez transférer vous-même les fichiers réels dans le conteneur de stockage cible. La réécriture d'URL est fortement recommandée. Utilisez zéro (0) pour le stockage local."
+
+msgid "Additional settings"
+msgstr "Paramètres additionnels"
+
+msgid "Plugin route"
+msgstr "Dossier plugin"
+
+#, php-format
+msgid "Enable this to display plugin instructions at %u. A link to these instructions will be added to the %s menu."
+msgstr "Activez ceci pour afficher les instructions du plug-in à %u. Un lien vers ces instructions sera ajouté au menu %s."
+
+msgid "Use this to set a custom URL for %p. Please note that you need to manually replicate %s in this URL."
+msgstr "Utilisez cette option pour définir une URL personnalisée pour %p. Veuillez noter que vous devez dupliquer manuellement %s dans cette URL."
+
+msgid "Enable signups"
+msgstr "Activer les inscriptions"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Activez ceci si vous souhaitez autoriser les utilisateurs à s'inscrire."
+
+msgid "Enable user content delete"
+msgstr "Activer la suppression du contenu pour les utilisateurs"
+
+msgid "Enable this if you want to allow users to delete their own content."
+msgstr "Activez cette option si vous souhaitez autoriser les utilisateurs à supprimer leur propre contenu."
+
+msgid "Minimum age required"
+msgstr "Age minimum requis"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "Laissez-le vide s'il n'y a pas un âge minimum pour utiliser le site."
+
+msgid "Notify on user signup"
+msgstr "Notifier lors de l'inscription de l'utilisateur"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "Activez cette option si vous souhaitez recevoir une notification par email pour chaque nouvel utilisateur inscrit."
+
+msgid "Require email confirmation"
+msgstr "Confirmation par email obligatoire"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Activez ceci si vous souhaitez que les utilisateurs valident leur adresse email pour s'inscrire."
+
+msgid "Require email for social signup"
+msgstr "Adresse email nécessaire pour l'enregistrement via réseaux sociaux"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Activez ceci si vous souhaitez que les utilisateurs utilisant les réseaux sociaux pour se connecter fournissent une adresse email."
+
+msgid "User avatar max. filesize"
+msgstr "Taille maximale de l'avatar de l'utilisateur."
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "Taille maximale autorisée pour l'avatar de l'utilisateur. (Maximum autorisé par le serveur : %s)"
+
+msgid "User background max. filesize"
+msgstr "Taille maximale du fond d'écran utilisateur"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "Taille maximale autorisée pour le fond d'écran utilisateur (Maximum autorisé par le serveur : %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Activez ceci pour insérer un logo ou autre chose dans les envois d'image."
+
+msgid "Watermark user toggles"
+msgstr "Basculer le filigrane utilisateur"
+
+msgid "Enable watermark on guest uploads"
+msgstr "Activer le filigrane pour les envois d'invités"
+
+msgid "Enable watermark on user uploads"
+msgstr "Activer le filigrane pour les envois d'utilisateurs"
+
+msgid "Enable watermark on admin uploads"
+msgstr "Activer le filigrane pour les envois d'administrateurs"
+
+msgid "Watermark file toggles"
+msgstr "Basculer le filigrane de fichier"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Activer le filigrane sur les envois d'images GIF"
+
+msgid "Animated images won't be watermarked."
+msgstr "Les images animées ne seront pas filigranées."
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "Taille minimale de l'image pour appliquer le filigrane"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Les images plus petites que cela n'auront pas de filigrane. Utilisez zéro (0) pour ne pas définir de limite."
+
+msgid "Watermark image"
+msgstr "Image du watermark (filigrane)"
+
+#, php-format
+msgid "Max size %s."
+msgstr "Taille maximale %s."
+
+msgid "Watermark position"
+msgstr "Position du watermark (filigrane)"
+
+msgid "left top"
+msgstr "gauche haut"
+
+msgid "left center"
+msgstr "gauche centre"
+
+msgid "left bottom"
+msgstr "gauche bas"
+
+msgid "center top"
+msgstr "centre haut"
+
+msgid "center center"
+msgstr "centre centre"
+
+msgid "center bottom"
+msgstr "centre bas"
+
+msgid "right top"
+msgstr "droit haut"
+
+msgid "right center"
+msgstr "droit centre"
+
+msgid "right bottom"
+msgstr "droit bas"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Position relative de l'image du watermark (filigrane). Alignement horizontal puis alignement vertical."
+
+msgid "Watermark percentage"
+msgstr "Pourcentage de filigrane"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "Pourcentage de filigrane relatif à la zone de l'image cible. Valeurs de 1 à 100."
+
+msgid "Watermark margin"
+msgstr "Marge du watermark (filigrane)"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Marge depuis la bordure de l'image vers l'image du watermark (filigrane)."
+
+msgid "Watermark opacity"
+msgstr "Opacité du watermark (filigrane)"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "Opacité du watermark (filigrane) dans l'image finale. Valeur de 0 à 100."
+
+msgid "Website name"
+msgstr "Nom du site web"
+
+msgid "Website doctitle"
+msgstr "Titre du site web"
+
+msgid "Website description"
+msgstr "Description du site web"
+
+msgid "Default time zone"
+msgstr "Fuseau horaire par défaut"
+
+msgid "Select region"
+msgstr "Sélectionnez la région"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "Permet de rechercher des images, des albums et des utilisateurs."
+
+msgid "search"
+msgstr "recherche"
+
+#, php-format
+msgid "Enables %s for guests."
+msgstr "Activer %s pour les invités."
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "Permets de consulter les images publiques du site. Permets également l'utilisation des catégories."
+
+msgid "Enables to browse images randomly."
+msgstr "Permets de parcourir les images une par une de manière aléatoire."
+
+msgid "random"
+msgstr "aléatoire"
+
+#, php-format
+msgid "Enable this if you want to show a \"%s\" link at the footer."
+msgstr "Activez cette option si vous souhaitez afficher un lien \"%s\" dans le pied de page."
+
+msgid "Likes"
+msgstr "J'aimes"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "Permets aux utilisateurs d'aimer le contenu et de consulter les images les plus aimées de la communauté."
+
+msgid "Followers allows users to follow each other."
+msgstr "Permets aux utilisateurs de s'abonner aux autres utilisateurs du site."
+
+msgid "Website mode"
+msgstr "Mode de site web"
+
+msgid "Multi-user"
+msgstr "Multi-utilisateur"
+
+msgid "You can switch the website mode anytime."
+msgstr "Vous pouvez changer le mode de site web à tout instant."
+
+msgid "%s target %t"
+msgstr "%s cible %t"
+
+msgid "Numeric ID of the target %t for %s mode."
+msgstr "ID numérique de la cible %t pour le mode %s."
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "Routage personnalité pour rediriger /nomdutilisateur vers /quelquechose. utilisez \"/\" pour rediriger vers la page d'accueil."
+
+msgid "Website privacy mode"
+msgstr "Mode de confidentialité du site web"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "Le mode privé ne rendra le site accessible qu'aux utilisateurs enregistrés."
+
+msgid "Content privacy mode"
+msgstr "Mode ce confidentialité du contenu"
+
+msgid "Force private (self)"
+msgstr "Forcer privé (lui même)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Forcer privé (ceux avec le lien)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "Les modes de confidentialité forcés outrepassent la confidentialité définie par l'utilisateur."
+
+#, php-format
+msgid "Hello and welcome, %s"
+msgstr "Bonjour et bienvenue, %s"
+
+msgid "Whether you're an individual creator or a company looking for a powerful media sharing platform, Chevereto has you covered."
+msgstr "Que vous soyez un créateur individuel ou une entreprise à la recherche d'une puissante plateforme de partage multimédia, Chevereto a ce qu'il vous faut."
+
+msgid "share your feedback"
+msgstr "partagez vos commentaires"
+
+#, php-format
+msgid "We're always looking for ways to improve, feel free to %s and suggestions."
+msgstr "Nous sommes toujours à la recherche de moyens d'amélioration, n'hésitez pas à %s et à faire des suggestions."
+
+msgid "We are available for all your support and customization needs."
+msgstr "Nous sommes disponibles pour tous vos besoins d’assistance et de personnalisation."
+
+msgid "Thank you for choosing Chevereto."
+msgstr "Merci d'avoir choisi Chevereto."
+
+msgid "Chevereto creator"
+msgstr "Créateur de Chevereto"
+
+#, php-format
+msgid "Provide Chevereto license key by assigning the environment variable %e or by creating the %f file containing the license key."
+msgstr "Fournissez la clé de licence Chevereto en attribuant la variable d'environnement %e ou en créant le fichier %f contenant la clé de licence."
+
+msgid "You can also set the license key in the textarea below."
+msgstr "Vous pouvez également définir la clé de licence dans la zone de texte ci-dessous."
+
+msgid "Chevereto license key"
+msgstr "Clé de licence Chevereto"
+
+msgid "PASTE LICENSE KEY HERE"
+msgstr "COLLER LA CLÉ DE LICENCE ICI"
+
+msgid "If the detected IP doesn't match yours it means that your web server is under a proxy. The connecting IP can be set using the HTTP header defined in the environment variable %e and when not set it fall-back to %v."
+msgstr "Si l'adresse IP détectée ne correspond pas à la vôtre, cela signifie que votre serveur Web est sous proxy. L'adresse IP de connexion peut être définie à l'aide de l'en-tête HTTP défini dans la variable d'environnement %e et, lorsqu'elle n'est pas définie, elle revient à %v."
+
+msgid "Make sure that you address this issue as the system relies on accurate IP detections to provide basic functionalities and to protect against spam, flooding, and brute force attacks."
+msgstr "Assurez-vous de résoudre ce problème car le système s'appuie sur des détections IP précises pour fournir des fonctionnalités de base et pour se protéger contre le spam, les inondations et les attaques par force brute."
+
+msgid "Disk"
+msgstr "Disque"
+
+#, php-format
+msgid "%s News"
+msgstr "Nouvelles %s"
+
+#, php-format
+msgid "%s edition"
+msgstr "édition de %s"
+
+msgid "Role"
+msgstr "Rôle"
+
+msgid "Email address"
+msgstr "Adresse email"
+
+#, php-format
+msgid "Play %s"
+msgstr "Jouer %s"
+
+msgid "Load 360° view"
+msgstr "Charger la vue à 360°"
+
+#, php-format
+msgid "%s image"
+msgstr "image %s"
+
+msgid "Do you really want to approve this image? The image will go public if you approve it."
+msgstr "Voulez-vous vraiment supprimer tout le contenu sélectionné ? Cela ne peut pas être annulé."
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Cover"
+msgstr "Couverture"
+
+msgid "This is the album cover"
+msgstr "Ceci est la couverture de l'album"
+
+msgid "Added to %a under %s %t"
+msgstr "Ajouté à %a sous %s %t"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Ajouté à %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Envoyé sur %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Envoyé %s"
+
+#, php-format
+msgid "This content will be removed on %s"
+msgstr "Ce contenu sera supprimé de %s"
+
+msgid "No description provided."
+msgstr "Aucune description fournie."
+
+msgid "Less Exif data"
+msgstr "Moins de données Exif"
+
+msgid "More Exif data"
+msgstr "Plus de données Exif"
+
+#, php-format
+msgid "%s ID"
+msgstr "ID %s"
+
+msgid "Add IP ban"
+msgstr "Ajouter bannissement IP"
+
+msgid "Upload and share your media"
+msgstr "Téléchargez et partagez vos médias"
+
+msgid "Drag and drop anywhere to start uploading."
+msgstr "Faites glisser et déposez n'importe où pour commencer le téléchargement."
+
+msgid "Get direct links, Markdown, BBCode and HTML thumbnails."
+msgstr "Obtenez des liens directs, des vignettes Markdown, BBCode et HTML."
+
+msgid "Sign up to unlock all the features"
+msgstr "Enregistrez-vous pour débloquer toutes les fonctionnalités"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Gérez vos contenus, créez des albums privés, modifiez votre profil et plus encore."
+
+msgid "Sign in with your account"
+msgstr "Connectez-vous avec votre compte"
+
+msgid "Don't have an account? %signup% now."
+msgstr "Vous n'avez pas de compte ? %signup% maintenant."
+
+msgid "Logged out"
+msgstr "Déconnexion"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Vous avez été déconnecté de %s. Nous espérons vous revoir prochainement."
+
+msgid "Website under maintenance"
+msgstr "Site web en maintenance"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Nous effectuons une maintenance programmée sur le site web. Veuillez réessayer dans quelques minutes."
+
+msgid "This content is password protected."
+msgstr "Ce contenu est protégé par mot de passe."
+
+msgid "Please enter your password to continue."
+msgstr "Veuillez entrer le mot de passe pour continuer."
+
+msgid "Unlock"
+msgstr "Ouvrir"
+
+msgid "Add media uploading and sharing to your website, blog or forum by installing our upload plugin."
+msgstr "Ajoutez le téléchargement et le partage de médias à votre site Web, blog ou forum en installant notre plugin de téléchargement."
+
+msgid "It provides file uploading to any website by placing a button that will allow your users to directly upload to our service and it will automatically handle the codes needed for insertion."
+msgstr "Il permet le téléchargement de fichiers sur n'importe quel site Web en plaçant un bouton qui permettra à vos utilisateurs de télécharger directement sur notre service et il gérera automatiquement les codes nécessaires à l'insertion."
+
+msgid "All features included like drag and drop, remote upload, image resizing and more."
+msgstr "Toutes les fonctionnalités incluses telles que le glisser-déposer, le téléchargement à distance, le redimensionnement des images et bien plus encore."
+
+msgid "Supported software"
+msgstr "Logiciel supporté"
+
+msgid "supported software"
+msgstr "logiciel supporté"
+
+#, php-format
+msgid "The plugin works in any website with user-editable content and for %sv, it will place an upload button that will match the target editor toolbar so no extra customization is needed."
+msgstr "Le plugin fonctionne sur n'importe quel site web avec un contenu modifiable par l'utilisateur et pour %sv, il placera un bouton de téléchargement qui correspondra à la barre d'outils de l'éditeur cible, donc aucune personnalisation supplémentaire n'est nécessaire."
+
+msgid "Add it to your website"
+msgstr "Ajoutez-le à votre site web"
+
+msgid "options"
+msgstr "options"
+
+#, php-format
+msgid "Copy and paste the plugin code into your website HTML code (preferably inside the head section). There are plenty %o to make it fit better to your needs."
+msgstr "Copiez le code du plugin dans le code HTML de votre site (de préférence dans la section head). Il y a beaucoup de %o pour le faire correspondre au mieux à vos besoins."
+
+msgid "Basic options"
+msgstr "Options de base"
+
+msgid "Color palette"
+msgstr "Palette de couleurs"
+
+msgid "Button color scheme"
+msgstr "Jeu de couleurs des boutons"
+
+msgid "Embed codes that will be auto-inserted in editor box"
+msgstr "Intégrer des codes qui seront automatiquement insérés dans la boîte d'édition"
+
+msgid "Sibling selector"
+msgstr "Sélecteur de frères et sœurs"
+
+msgid "Sibling element selector where to place the button next to"
+msgstr "Sélecteur d'élément frère où placer le bouton à côté de"
+
+msgid "Sibling position"
+msgstr "Poste de frère"
+
+msgid "After"
+msgstr "Après"
+
+msgid "Before"
+msgstr "Avant"
+
+msgid "Position relative to sibling element"
+msgstr "Position relative à l'élément frère"
+
+msgid "Advanced options"
+msgstr "Options avancées"
+
+#, php-format
+msgid "The plugin has a large set of additional options that allow full customization. You can use custom HTML, CSS, own color palette, set observers and more. Check the %d and the plugin source to get a better idea of these advanced options."
+msgstr "Le plugin possède un grand nombre d'options supplémentaires qui permettent une personnalisation complète. Vous pouvez utiliser l'HTML personnalisé, CSS, votre propre palette de couleurs, définir des observateurs et plus encore. Vérifiez le %d et la source du plugin pour avoir une meilleure idée de ces options avancées."
+
+msgid "Valid"
+msgstr "Valide"
+
+msgid "Banned"
+msgstr "Banni"
+
+msgid "Awaiting email"
+msgstr "En attente de l'email"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i à %f caractères<br>Lettres, chiffres et \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Suppression automatique des envois"
+
+msgid "This setting will apply to all your file uploads by default. You can override this setting on each upload."
+msgstr "Ce paramètre s’appliquera par défaut à tous vos téléchargements de fichiers. Vous pouvez remplacer ce paramètre à chaque téléchargement."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "Garder les <a %s>données Exif</a> de l'image lors de l'envoi"
+
+msgid "Newsletter"
+msgstr "Bulletin d'information"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Envoyez moi des courriels avec des informations sur %s"
+
+msgid "Content settings"
+msgstr "Paramètres du contenu"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Afficher le contenu non sûr dans la liste (des autres)"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+#, php-format
+msgid "%s key"
+msgstr "clé %s"
+
+#, php-format
+msgid "Store the %s in a secure location as it will be shown just once."
+msgstr "Stockez le %s dans un endroit sûr car il ne sera affiché qu'une seule fois."
+
+#, php-format
+msgid "Are you sure that you want to revoke the existing %s?"
+msgstr "Êtes-vous sûr de vouloir révoquer les %s existants ?"
+
+msgid "Regen key"
+msgstr "Clé de régénération"
+
+msgid "User has no connections."
+msgstr "L'utilisateur n'a pas de connexions."
+
+msgid "Link your account to external login providers to be able to login here."
+msgstr "Liez votre compte à des fournisseurs de connexion externes pour pouvoir vous connecter ici."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Souhaitez-vous vraiment déconnecter %s de son compte ?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Ce compte est connecté à %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Souhaitez-vous réellement déconnecter votre compte %s ?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Vous allez être déconnecté et vous ne pourrez plus vous connecter en utilisant le compte %s."
+
+#, php-format
+msgid "Connected to %s"
+msgstr "Connecté à %s"
+
+msgid "Logged in"
+msgstr "Connecté"
+
+msgid "Connect %label%"
+msgstr "Connecter %label%"
+
+msgid "Button"
+msgstr "Bouton"
+
+msgid "Current password"
+msgstr "Mot de passe actuel"
+
+msgid "Enter your current password"
+msgstr "Saisissez votre mot de passe actuel"
+
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgid "Confirm new password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Ajoutez un mot de passe pour pouvoir vous connecter avec votre nom d'utilisateur ou une adresse email."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Cet utilisateur n'a pas de mot de passe. Ajoutez-en un avec ce formulaire."
+
+msgid "Enter your password"
+msgstr "Entrez votre mot de passe"
+
+msgid "Confirm password"
+msgstr "Confirmez le mot de passe"
+
+msgid "Re-enter your password"
+msgstr "Entrez à nouveau votre mot de passe"
+
+msgid "This service is based on Chevereto hosted edition."
+msgstr "Ce service est basé sur l'édition hébergée de Chevereto."
+
+msgid "Usage of this service must be in compliance with the Chevereto Software Terms of Service."
+msgstr "L'utilisation de ce service doit être conforme aux conditions d'utilisation du logiciel Chevereto."
+
+msgid "This instance is hosted in a service layer provided by Chevereto Software, which hereby declare not being responsible for the use of this service neither the damages that this service may cause."
+msgstr "Cette instance est hébergée dans une couche de service fournie par Chevereto Software, qui déclare par la présente ne pas être responsable de l'utilisation de ce service ni des dommages que ce service pourrait causer."
+
+msgid "This service is based on Chevereto self-hosted edition."
+msgstr "Ce service est basé sur l'édition auto-hébergée de Chevereto."
+
+msgid "This instance is hosted in a service layer not provided by Chevereto Software, which hereby declare to do not have any control nor access to the management layer of this instance and it won't be responsible for this service neither the damages that this service may cause."
+msgstr "Cette instance est hébergée dans une couche de service non fournie par Chevereto Software, qui déclare par la présente n'avoir aucun contrôle ni accès à la couche de gestion de cette instance et ne sera pas responsable de ce service ni des dommages que ce service pourrait causer ."
+
+msgid "Upload avatar"
+msgstr "Télécharger un avatar"
+
+msgid "Make my profile and identity totally private"
+msgstr "Rendre mon profil entièrement privé"
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "Activez cette option si vous voulez utiliser le site comme un utilisateur anonyme"
+
+msgid "This is your real name, not your username."
+msgstr "C'est votre nom réel, pas votre nom d'utilisateur."
+
+msgid "Bio"
+msgstr "Biographie"
+
+msgid "Tell us a little bit about you"
+msgstr "Parlez-nous un peu de vous."
+
+msgid "Two-factor authentication is enabled."
+msgstr "L'authentification à deux facteurs est activée."
+
+msgid "Do you really want to disable two-factor authentication?"
+msgstr "Voulez-vous vraiment désactiver l'authentification à deux facteurs ?"
+
+msgid "Disable"
+msgstr "Désactiver"
+
+msgid "Scan the QR code below with an authenticator application and enter the code displayed."
+msgstr "Scannez le code QR ci-dessous avec une application d'authentification et saisissez le code affiché."
+
+msgid "Login"
+msgstr "Connexion"
+
+#, php-format
+msgid "Already have an account? %s now."
+msgstr "Vous avez déjà un compte ? %s maintenant."
+
+msgid "resend account activation"
+msgstr "renvoyer l'activation de compte"
+
+#, php-format
+msgid "If you have already signed up maybe you need to request to %s to activate your account."
+msgstr "Si vous avez déjà un compte vous avez peut-être besoin de demander à %s d'activer votre compte."
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "Je suis âgé d'au moins %s ans"
+
+msgid "Upload profile background"
+msgstr "Envoyer une photo de couverture"
+
+msgid "Change background"
+msgstr "Modifier la couverture"
+
+msgid "Upload new image"
+msgstr "Envoyer une nouvelle image"
+
+msgid "Are you sure that you want to delete the profile background image?"
+msgstr "Voulez-vous vraiment supprimer l'image d'arrière-plan du profil ?"
+
+msgid "Delete background"
+msgstr "Supprimer la couverture"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Abonné"
+msgstr[1] "Abonnés"
+
+msgid "Follow"
+msgstr "Suivre"
+
+#, php-format
+msgid "Set: %s"
+msgstr "Mettre: %s"
+
+msgid "Ban"
+msgstr "Bannir"
+
+msgid "General questions/comments"
+msgstr "Questions/commentaires généraux"
+
+msgid "DMCA complaint"
+msgstr "Réclamation DADVSI"
+
+msgid "Invalid message"
+msgstr "Message non valide"
+
+msgid "Invalid subject"
+msgstr "Sujet non valide"
+
+msgid "Message sent"
+msgstr "Message envoyé"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Message envoyé. Nous prendrons contact rapidement."
+
+msgid "If you want to send a message fill the form below."
+msgstr "Si vous voulez envoyer un message veuillez remplir le formulaire ci-dessous."
+
+msgid "Your name"
+msgstr "Votre nom"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "Send"
+msgstr "Envoyer"
+

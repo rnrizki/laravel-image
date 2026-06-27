@@ -1,0 +1,1315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Du är förbjuden att använda denna webbplats."
+
+msgid "View all my images"
+msgstr "Se alla mina bilder"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Välkommen att se och upptäcka alla mina delade bilder och album."
+
+msgid "Recent"
+msgstr "Nyliga"
+
+msgid "Trending"
+msgstr "Trendar"
+
+msgid "Popular"
+msgstr "Populärt"
+
+msgid "Animated"
+msgstr "GIFar"
+
+msgid "Request denied"
+msgstr "Begäran nekad"
+
+msgid "That page doesn't exist"
+msgstr "Sidan existerar inte"
+
+msgid "Forgot password?"
+msgstr "Glömt lösenord?"
+
+msgid "Reset password"
+msgstr "Återställ lösenord"
+
+msgid "Resend account activation"
+msgstr "Skicka aktiveringsmeddelande igen"
+
+msgid "Add your email address"
+msgstr "Lägg till din e-postadress"
+
+msgid "Awaiting confirmation"
+msgstr "Väntar på aktivering"
+
+msgid "Email changed"
+msgstr "E-postadress ändrad"
+
+msgid "Invalid Username/Email"
+msgstr "Ogiltigt användarnamn/e-postadress"
+
+msgid "User doesn't have an email."
+msgstr "Användaren har ingen e-postadress."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Kontot måste vara aktiverat för att göra detta"
+
+msgid "Account already activated"
+msgstr "Kontot är redan aktiverat"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Det kan ta upp till 15 minuter för e-postmeddelandet att skickas."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Återställ ditt lösenord på %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Bekräftelse krävs på %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Välkommen till %s"
+
+msgid "Invalid password"
+msgstr "Felaktigt lösenord"
+
+msgid "Passwords don't match"
+msgstr "Lösenorden matchar inte"
+
+msgid "Invalid email"
+msgstr "Inkorrekt email"
+
+msgid "Email already being used"
+msgstr "Denna e-post används redan av en annan användare."
+
+msgid "Check the errors in the form to continue."
+msgstr "Kontrollera felen innan du går vidare."
+
+msgid "Password required"
+msgstr "Lösenord krävs"
+
+msgid "Embed codes"
+msgstr "Inbäddningskoder"
+
+msgid "%a album hosted in %w"
+msgstr "%a album värd i %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "bild"
+msgstr[1] "bilder"
+
+msgid "Stats"
+msgstr "Statistik"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Album"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Användare"
+msgstr[1] "Användare"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Website"
+msgstr "Hemsida"
+
+msgid "Content"
+msgstr "Innehåll"
+
+msgid "Listings"
+msgstr "Listor"
+
+msgid "Image upload"
+msgstr "Bilduppladdning"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Languages"
+msgstr "språk"
+
+msgid "Email"
+msgstr "mejl"
+
+msgid "Tools"
+msgstr "verktyg"
+
+msgid "External storage"
+msgstr "Extern lagring"
+
+msgid "Homepage"
+msgstr "Hemsida"
+
+msgid "Pages"
+msgstr "Sidor"
+
+msgid "External services"
+msgstr "Externa tjänster"
+
+msgid "Upload plugin"
+msgstr "ladda upp plugin"
+
+msgid "Consent screen"
+msgstr "Samtyckeskontroll"
+
+msgid "Flood protection"
+msgstr "Antiflood"
+
+msgid "IP bans"
+msgstr "Blockerade IP-adresser"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Support"
+msgstr "Hjälp"
+
+msgid "Community"
+msgstr "Gemenskap"
+
+msgid "install update"
+msgstr "Installera uppdatering"
+
+msgid "Max. upload file size"
+msgstr "Maximal uppladdningsstorlek"
+
+msgid "File uploads"
+msgstr "Filuppladdningar"
+
+msgid "Enabled"
+msgstr "Aktiverat"
+
+msgid "Disabled"
+msgstr "Inaktiverat"
+
+msgid "Max. execution time"
+msgstr "Maximal execution time"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekund"
+msgstr[1] "%d sekunder"
+
+msgid "Memory limit"
+msgstr "Minnesgräns"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Det går inte att ta bort alla bilder på Omslagsbild."
+
+msgid "Homepage cover image deleted"
+msgstr "Omslagsbild huvudsida raderad"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "External"
+msgstr "Extern"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "search content"
+msgstr "Sök innehåll"
+
+msgid "Add page"
+msgstr "Lägg till sida"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Redigera sid ID %s"
+
+msgid "The page has been added successfully."
+msgstr "Sidan har tillagts"
+
+msgid "The page has been deleted."
+msgstr "Sidan har raderats"
+
+msgid "homepage"
+msgstr "omslag"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "Efter omslagsbild (%s)"
+
+msgid "Before comments"
+msgstr "Före kommentarer"
+
+msgid "Image page"
+msgstr "Bild sida"
+
+msgid "User profile page"
+msgstr "Användarprofil sida"
+
+msgid "Explore"
+msgstr "Bläddra"
+
+msgid "NSFW"
+msgstr "Olämpligt innehåll"
+
+msgid "Invalid website name"
+msgstr "Ogiltigt namn på hemsidan"
+
+msgid "Invalid language"
+msgstr "Ogiltigt språk"
+
+msgid "Invalid timezone"
+msgstr "Ogiltig tidszon"
+
+msgid "Invalid upload storage mode"
+msgstr "Ogiltig uppladdning till lagringsläge"
+
+msgid "Invalid upload filenaming"
+msgstr "Ogiltig uppladdning filnamn"
+
+msgid "Invalid thumb width"
+msgstr "Ogiltig bredd på miniatyrbild"
+
+msgid "Invalid thumb height"
+msgstr "Ogiltig tumnagelhöjd"
+
+msgid "Invalid theme"
+msgstr "Ogiltigt tema"
+
+msgid "Invalid value"
+msgstr "Ogiltigt värde"
+
+msgid "Invalid user id"
+msgstr "Okänd användar ID"
+
+msgid "Invalid SMTP port"
+msgstr "Felaktig SMTP port"
+
+msgid "Invalid SMTP security"
+msgstr "Fel SMTP-säkerhet"
+
+msgid "Invalid website mode"
+msgstr "Okänt webbplatsläge"
+
+msgid "Invalid website content privacy mode"
+msgstr "Ogiltig webbplatsinnehåll privat läge"
+
+msgid "Invalid upload image path"
+msgstr "Ogiltlig sökväg för bilduppladdning"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Max tillåtna %s"
+
+msgid "Invalid SMTP server"
+msgstr "Felaktig SMTP server"
+
+msgid "Invalid SMTP username"
+msgstr "Felaktigt SMTP användarnamn"
+
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+msgid "Following"
+msgstr "följande"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Image ID"
+msgstr "Bild ID"
+
+msgid "Upload date"
+msgstr "Uppladdad datum"
+
+msgid "Direct links"
+msgstr "Direktlänkar"
+
+msgid "Image link"
+msgstr "Bildlänk"
+
+msgid "Image URL"
+msgstr "Direktlänk"
+
+msgid "Thumbnail URL"
+msgstr "Liten miniatyrbild"
+
+msgid "Medium URL"
+msgstr "Medelstor miniatyrbild"
+
+msgid "Full image"
+msgstr "Bild i helstorlek"
+
+msgid "Full image (linked)"
+msgstr "Bild i helstorlek (länkad)"
+
+msgid "Medium image (linked)"
+msgstr "Medelstor bild (länkad)"
+
+msgid "Login needed"
+msgstr "Inloggning krävs"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Bild"
+msgstr[1] "Bilder"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Missing values"
+msgstr "Värden saknas"
+
+msgid "Invalid username"
+msgstr "Inkorrekt användarnamn"
+
+msgid "Invalid role"
+msgstr "Ogitlig roll"
+
+msgid "Username already being used"
+msgstr "Användarnamn används redan"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s har "
+
+msgid "This is just a test"
+msgstr "Detta är endast ett test"
+
+msgid "Content liked"
+msgstr "Länkat innehåll"
+
+msgid "Content disliked"
+msgstr "Ogillat innehåll"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Felaktigt användarnamn/lösenord"
+
+msgid "Sign in"
+msgstr "Logga in"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Lösenord"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Ett email har skickats till %s med instruktioner."
+
+msgid "Invalid name"
+msgstr "Ogiltigt namn"
+
+msgid "Invalid website"
+msgstr "Ogiltig hemsida"
+
+msgid "Wrong password"
+msgstr "Felaktigt lösenord"
+
+msgid "Use a new password"
+msgstr "Använd ett nytt lösenord"
+
+msgid "Changes have been saved."
+msgstr "Ändringarna har sparats."
+
+msgid "Password has been changed"
+msgstr "Lösenordet har ändrats"
+
+msgid "Password has been created."
+msgstr "Lösenordet har skapats"
+
+msgid "Wrong Username/Email values"
+msgstr "Felaktigt användarnamn/e-post"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Inställningar för %s"
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Delete user"
+msgstr "Radera användare"
+
+msgid "User ID"
+msgstr "Användar-ID"
+
+msgid "Register date"
+msgstr "Blev medlem"
+
+msgid "Create account"
+msgstr "Skapa konto"
+
+msgid "Upload"
+msgstr "Ladda upp"
+
+msgid "Albums"
+msgstr "Album"
+
+msgid "Followers"
+msgstr "följare"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album"
+msgstr[1] "album"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Notera: Detta innehåll är privat men kan ses av alla som har länken."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Notera: Detta innehåll är lösenordsskyddat. Kom ihåg att dela lösenordet med andra om du vill att de ska kunna se det."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Notera: Detta innehåll är privat, ändra sekretess till \"publikt\" för att dela."
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Public"
+msgstr "Publikt"
+
+msgid "Me"
+msgstr "Jag"
+
+msgid "Link"
+msgstr "Länk"
+
+msgid "After %n %t"
+msgstr "Efter %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minut"
+msgstr[1] "minuter"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "timme"
+msgstr[1] "timmar"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dagar"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "vecka"
+msgstr[1] "veckor"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "månad"
+msgstr[1] "månader"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "år"
+msgstr[1] "år"
+
+msgid "Don't autodelete"
+msgstr "Radera inte automatiskt"
+
+msgid "Duplicated upload"
+msgstr "Duplicerad uppladdning"
+
+msgid "Private upload"
+msgstr "Privat uppladdning"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "visning"
+msgstr[1] "visningar"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "gilla"
+msgstr[1] "gillar"
+
+msgid "Most recent"
+msgstr "Nyast"
+
+msgid "Oldest"
+msgstr "Äldst"
+
+msgid "Most viewed"
+msgstr "Flest visningar"
+
+msgid "Most liked"
+msgstr "Mest gillad"
+
+msgid "People"
+msgstr "Gillar"
+
+msgid "Internal"
+msgstr "Inre"
+
+msgid "Unlimited"
+msgstr "oinskränkt"
+
+msgid "used"
+msgstr "använd"
+
+msgid "Private profile"
+msgstr "privat profil"
+
+msgid "Share"
+msgstr "Dela"
+
+#, php-format
+msgid "view on %s"
+msgstr "syn på %s"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekund"
+msgstr[1] "sekunder"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s sedan"
+
+msgid "moments ago"
+msgstr "alldeles nyss"
+
+msgid "Discovery"
+msgstr "Upptäckt"
+
+msgid "Random"
+msgstr "Slumpvald"
+
+msgid "loading"
+msgstr "laddar"
+
+msgid "My Profile"
+msgstr "Min profil"
+
+msgid "Administrator"
+msgstr "Administratör"
+
+msgid "Sign out"
+msgstr "Logga ut"
+
+msgid "You must enter the album name."
+msgstr "Du måste ange ett namn på albumet."
+
+msgid "Confirm"
+msgstr "Bekräfta"
+
+msgid "Select existing album"
+msgstr "Välj befintligt album"
+
+msgid "An error occurred. Please try again later."
+msgstr "Något gick fel, vänligen prova igen senare."
+
+msgid "Please select a valid image file type."
+msgstr "Vänligen välj en giltig filtyp för bilder."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Bilden får inte vara större än %s."
+
+msgid "Profile image updated."
+msgstr "Profilbild uppdaterad."
+
+msgid "Profile background image updated."
+msgstr "Profilbakgrund uppdaterad."
+
+msgid "Profile background image deleted."
+msgstr "Profilbakgrund raderad."
+
+msgid "Error deleting profile background image."
+msgstr "Fel, kunde inte radera profilbakgrunden."
+
+msgid "Create album"
+msgstr "Skapa album"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "File too big."
+msgstr "Filen är för stor."
+
+msgid "Some files couldn't be added"
+msgstr "Vissa filer kunde inte läggas till"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%s's Album"
+
+msgid "Image edited successfully."
+msgstr "Bilden har ändrats."
+
+msgid "private"
+msgstr "privat"
+
+msgid "The content has been edited."
+msgstr "Innehållet har ändrats."
+
+msgid "The content has been deleted."
+msgstr "Innehållet har raderats."
+
+msgid "The content has been moved."
+msgstr "Innehållet har flyttats."
+
+msgid "Select"
+msgstr "Markera"
+
+msgid "Unselect"
+msgstr "Avmarkera"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Alla ändringar kommer försvinna."
+
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+msgid "Submit"
+msgstr "Skicka"
+
+msgid "Changes saved successfully."
+msgstr "Ändringarna sparades."
+
+msgid "Go back to form"
+msgstr "Gå tillbaka till formulär"
+
+msgid "or"
+msgstr "eller"
+
+msgid "continue anyway"
+msgstr "Fortsätt ändå"
+
+msgid "cancel"
+msgstr "avbryt"
+
+msgid "Saving"
+msgstr "Sparar"
+
+msgid "Sending"
+msgstr "Skickar"
+
+msgid "Confirm action"
+msgstr "Bekräfta"
+
+msgid "information"
+msgstr "Information"
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "För att slutföra processen måste du <a href=\"%s\">bekräfta din email</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Alternativt kan du kopiera och klistra in adressen i webbläsaren: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Om detta inte stämmer kan du ignorera detta mail."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Begäran gjordes från IP: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Du (förhoppningsvis) vill registrera kontot %n hos %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "För att slutföra registreringen måste du <a href=\"%s\">aktivera ditt konto</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Vi har mottagit en begäran om att återställa lösenordet för kontot <a href=\"%u\">%n</a>."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "För att återställa lösenordet, <a href=\"%s\">klicka här</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Hej %n, välkommen till %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Kul att du registrerade dig! Du kan nu ladda upp bilder, skapa album och dela (eller inte dela) med dina nära och kära!"
+
+msgid "Thank you for joining"
+msgstr "Tack för att du registrerade dig"
+
+msgid "This email was sent from %w %u"
+msgstr "Detta mail skickades från %w %u"
+
+msgid "Select the images to upload"
+msgstr "Välj bilder att ladda upp"
+
+msgid "Upload complete"
+msgstr "Uppladdning klar"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Markera denna om uppladdningen inte är familjesäker"
+
+msgid "Not family safe upload"
+msgstr "Inte familje säker uppladdning"
+
+msgid "Uploading"
+msgstr "Laddar upp"
+
+msgid "cancel remaining"
+msgstr "avbryt kvarvarande"
+
+msgid "learn more"
+msgstr "läs mer"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Kolla <a data-modal=\"simple\" data-target=\"failed-upload-result\">felrapporteringen</a> för mer information."
+
+msgid "optional"
+msgstr "valfritt"
+
+msgid "Flag as unsafe"
+msgstr "Markera som osäkert"
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Add image URLs"
+msgstr "Lägg till URL till bild"
+
+msgid "Add the image URLs here"
+msgstr "Lägg till URL till bild här"
+
+msgid "Error report"
+msgstr "Felrapport"
+
+msgid "Links"
+msgstr "Länkar"
+
+msgid "Direct"
+msgstr "Direkt"
+
+msgid "HTML Codes"
+msgstr "HTML-kod"
+
+msgid "HTML medium linked"
+msgstr "HTML-länk mediumstor"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML-länk miniatyrbild"
+
+msgid "BBCode medium linked"
+msgstr "BBCode mellanstor link"
+
+msgid "BBCode thumbnail linked"
+msgstr "BBCode länk miniatyrbild"
+
+msgid "Viewer links"
+msgstr "Kortlänkar"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Who can view this content"
+msgstr "Vem kan se detta innehåll"
+
+msgid "Private (just me)"
+msgstr "Privat (bara jag)"
+
+msgid "URL key"
+msgstr "URL nyckel"
+
+msgid "Message"
+msgstr "Meddelande"
+
+msgid "view more"
+msgstr "se mer"
+
+msgid "Load more"
+msgstr "Ladda mer"
+
+msgid "Flag as safe"
+msgstr "Markera som säker uppladdning"
+
+msgid "Select all"
+msgstr "Välj alla"
+
+msgid "Clear selection"
+msgstr "Plocka bort val"
+
+msgid "Sign in with another account"
+msgstr "Logga in med ett annat konto"
+
+msgid "There's nothing to show here."
+msgstr "Finns inget att visa här"
+
+msgid "Confirm deletion"
+msgstr "Bekräfta radering"
+
+msgid "Guest"
+msgstr "Gäst"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Du har inte tillåtelse att besöka denna sida, alternativt har länken dött."
+
+msgid "Go to homepage"
+msgstr "Gå till startsidan"
+
+msgid "The requested page was not found."
+msgstr "Den begärda sidan kunde inte hittas"
+
+msgid "The user has been deleted"
+msgstr "Användaren har raderats"
+
+msgid "Your account is almost ready"
+msgstr "Ditt konto är nästan klart"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Ett e-postmeddelande har skickats till %s med instruktioner för hur du aktiverar ditt konto. Länken i e-postmeddelandet är giltig i 48 timmar. Glöm inte att kolla skräpmappen."
+
+msgid "Resend activation"
+msgstr "Skicka aktivering igen"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Du har ändrat din e-post till %s"
+
+msgid "Go to my profile"
+msgstr "Gå till min profil"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "En aktiveringslänk kommer skickas till mailen."
+
+msgid "Your email address"
+msgstr "Din e-postadress"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Ett e-postmeddelande med instruktioner om hur du byter lösenord har skickats till angiven e-postadress. Om du inte få meddelandet direkt kolla så att det inte har fastnat i något spamfilter."
+
+msgid "Resend instructions"
+msgstr "Skicka instruktioner igen"
+
+msgid "Username or Email address"
+msgstr "Användarnamn eller e-postadress"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Ditt lösenord har ändrats. Du kan nu logga in."
+
+msgid "Login now"
+msgstr "Logga in nu"
+
+msgid "Enter your new password"
+msgstr "Ange ditt nya lösenord"
+
+msgid "Re-enter your new password"
+msgstr "Skriv in lösenordet igen"
+
+msgid "This content is private"
+msgstr "Detta innehåll är privat"
+
+msgid "Check the errors to proceed."
+msgstr "Undersök felen innan du fortsätter."
+
+msgid "From name"
+msgstr "Avsändarens namn"
+
+msgid "Sender name for emails sent to users."
+msgstr "Avsändarens namn för e-post skickat till användare"
+
+msgid "From email address"
+msgstr "Avsändarens email"
+
+msgid "Sender email for emails sent to users."
+msgstr "Avsändarens e-postadress som skickas till användare"
+
+msgid "Incoming email address"
+msgstr "Inkommande e-post"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Mottagare för kontaktformuläret samt systemmeddelanden"
+
+msgid "Email mode"
+msgstr "E-postläge"
+
+msgid "SMTP server and port"
+msgstr "SMTP server och port"
+
+msgid "SMTP username"
+msgstr "SMTP användarnamn"
+
+msgid "SMTP password"
+msgstr "SMTP lösenord"
+
+msgid "SMTP security"
+msgstr "SMTP säkerhet"
+
+msgid "Unsecured"
+msgstr "Osäker"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook eller det du vill kommer att användas i bildvyn."
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics eller det du vill använda kommer att läggas till i footern på temat."
+
+msgid "Twitter account"
+msgstr "Twitter konto"
+
+msgid "Disk used"
+msgstr "Använt utrymme"
+
+msgid "Minute limit"
+msgstr "Minutgräns"
+
+msgid "Hourly limit"
+msgstr "Timgräns"
+
+msgid "Daily limit"
+msgstr "Dagsgräns"
+
+msgid "Weekly limit"
+msgstr "Veckogräns"
+
+msgid "Monthly limit"
+msgstr "Månadsgräns"
+
+msgid "Cover image"
+msgstr "Omslagsbild"
+
+msgid "Add new cover image"
+msgstr "Lägg till nytt omslagbild"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Enable uploads"
+msgstr "Aktivera uppladdningar"
+
+msgid "Guest uploads"
+msgstr "Gästuppladdningar"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Aktivera detta om du vill tillåta icke registrerade användare att ladda upp."
+
+msgid "Image path"
+msgstr "Sökväg för bild"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Var ska bilderna lagras?"
+
+msgid "Storage mode"
+msgstr "Lagringsläge"
+
+msgid "Datefolders"
+msgstr "Datummappar"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Datummappar skapar %s struktur"
+
+msgid "File naming method"
+msgstr "Metod för att namnge bilder"
+
+msgid "Thumb size"
+msgstr "Storlek på miniatyrbild"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Miniatyrbilder kommer att fastställas till den här storleken."
+
+msgid "Default language"
+msgstr "Standardspråk"
+
+msgid "Default base language to use."
+msgstr "Standardspråk att använda"
+
+msgid "Auto language"
+msgstr "Sätt språk automatiskt"
+
+msgid "List items per page"
+msgstr "Lista objekt per sida"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Hur många poster ska visas per sida."
+
+msgid "List pagination mode"
+msgstr "Lista paginering läge"
+
+msgid "Endless scrolling"
+msgstr "Oändlig skrollning"
+
+msgid "Classic pagination"
+msgstr "Klassisk paginering"
+
+msgid "What pagination method should be used."
+msgstr "Vilken paginerings metod ska användas."
+
+msgid "Fluid"
+msgstr "Flytande"
+
+msgid "Fixed"
+msgstr "Fixerad"
+
+msgid "Favicon image"
+msgstr "Favicon bild"
+
+msgid "Enable download button"
+msgstr "Aktivera nerladdningsknapp"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Aktivera om du vill visa bild nerladdningsknappen"
+
+msgid "Custom CSS code"
+msgstr "Anpassad CSS kod"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Sätt in din anpassade CSS kod här. Den kommer att läggas till inom <style> precis före </head> taggen."
+
+msgid "Custom JS code"
+msgstr "Anpassad JS kod"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Sätt in din anpassade JS kod här. Den kommer att läggas till inom <script> precis före </head> taggen."
+
+msgid "Additional settings"
+msgstr "ytterligare inställningar"
+
+msgid "Plugin route"
+msgstr "Plugin rutt"
+
+msgid "Enable signups"
+msgstr "Aktivera registreringar"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Aktivera om du vill tillåta användare att registrera sig."
+
+msgid "Require email confirmation"
+msgstr "Kräv epost validering"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Aktivera denna för att lägga till en logotyp eller vad du vill i bilduppladdning."
+
+msgid "Watermark image"
+msgstr "Vattenmärkningsbild"
+
+msgid "Watermark position"
+msgstr "Position för vattenmärkning"
+
+msgid "left top"
+msgstr "vänster övre"
+
+msgid "left center"
+msgstr "vänster center"
+
+msgid "left bottom"
+msgstr "vänster nedre"
+
+msgid "center top"
+msgstr "center övre"
+
+msgid "center bottom"
+msgstr "center nedre"
+
+msgid "right top"
+msgstr "höger övre"
+
+msgid "right center"
+msgstr "höger center"
+
+msgid "right bottom"
+msgstr "höger nedre"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Relativ position av vattenmärkning. Först är vågrätt och sen lodrätt led"
+
+msgid "Watermark margin"
+msgstr "Marginal av vattenmärkning"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Marginal från ramen i bilden till vattenmärkning"
+
+msgid "Watermark opacity"
+msgstr "Opacitet av vattenmärkning"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "Opacitet av vattenmärkning i den slutliga bilden. Värden från 0 till 100."
+
+msgid "Website name"
+msgstr "Hemsidans namn"
+
+msgid "Website doctitle"
+msgstr "Hemsidans doctitle"
+
+msgid "Website description"
+msgstr "Hemsidans beskrivning"
+
+msgid "Default time zone"
+msgstr "Standard tidszon"
+
+msgid "Select region"
+msgstr "Välj region"
+
+msgid "Followers allows users to follow each other."
+msgstr "Följare tillåter användare att följa varandra."
+
+msgid "Website mode"
+msgstr "Webbplatsläge"
+
+msgid "You can switch the website mode anytime."
+msgstr "Du kan byta hemsidans läge närsomhelst."
+
+msgid "Content privacy mode"
+msgstr "Innehåll privat läge"
+
+msgid "Force private (self)"
+msgstr "Tvinga privat (själv)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Tvinga privat (Alla med en länk)"
+
+msgid "Role"
+msgstr "Roll"
+
+msgid "Email address"
+msgstr "E-postadress"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Tillagt i %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Uppladdad till %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Uppladdad %s"
+
+msgid "Upload and share your images."
+msgstr "Ladda upp och dela dina bilder."
+
+msgid "Sign up to unlock all the features"
+msgstr "Registrera dig för att låsa upp alla funktioner"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Hantera ditt innehåll, skapa privata album, anpassa din profil och mer."
+
+msgid "Logged out"
+msgstr "Utloggad"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Du har loggats ut från %s. På återseende!"
+
+msgid "Valid"
+msgstr "Aktiv"
+
+msgid "Banned"
+msgstr "Bannad"
+
+msgid "Awaiting email"
+msgstr "Väntar e-post"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i till %f tecken<br>Bokstäver, siffror och \"_\""
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Timezone"
+msgstr "Tidszon"
+
+msgid "User has no connections."
+msgstr "Användaren har inga anslutningar."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Vill du verkligen koppla bort %s från detta konto?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Detta konto är anslutet till %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Vill du verkligen koppla bort ditt %s konto?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Du kommer att loggas ut och du kommer inte att kunna logga in med %s kontot."
+
+msgid "Current password"
+msgstr "Nuvarande lösenord"
+
+msgid "Enter your current password"
+msgstr "Ange ditt nuvarande lösenord"
+
+msgid "New password"
+msgstr "Nytt lösenord"
+
+msgid "Confirm new password"
+msgstr "Bekräfta nytt lösenord"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Lägg till ett lösenord för att kunna logga in med ditt användarnamn eller e-post."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Denna användare har inget lösenord. Ange ett med detta formulär."
+
+msgid "Enter your password"
+msgstr "Ange ditt lösenord"
+
+msgid "Confirm password"
+msgstr "Bekräfta lösenord"
+
+msgid "Re-enter your password"
+msgstr "Ange ditt lösenord igen"
+
+msgid "This is your real name, not your username."
+msgstr "Detta är ditt riktiga namn, inte ditt användarnamn."
+
+msgid "Upload profile background"
+msgstr "Ladda upp profilbakgrund"
+
+msgid "Change background"
+msgstr "Ändra bakgrund"
+
+msgid "Upload new image"
+msgstr "Ladda upp ny bild"
+
+msgid "Delete background"
+msgstr "Radera bakgrund"
+
+msgid "DMCA complaint"
+msgstr "DMCA"
+
+msgid "Invalid message"
+msgstr "Ogiltigt meddelande"
+
+msgid "Invalid subject"
+msgstr "Ogiltigt ämne"
+

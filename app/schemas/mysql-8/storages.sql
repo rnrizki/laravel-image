@@ -1,0 +1,26 @@
+DROP TABLE IF EXISTS `%table_prefix%storages`;
+CREATE TABLE `%table_prefix%storages` (
+  `storage_id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `storage_api_id` INT UNSIGNED NOT NULL,
+  `storage_name` VARCHAR(255) NOT NULL,
+  `storage_service` VARCHAR(255) DEFAULT NULL,
+  `storage_url` VARCHAR(255) NOT NULL,
+  `storage_bucket` VARCHAR(255) DEFAULT NULL,
+  `storage_region` VARCHAR(255) DEFAULT NULL,
+  `storage_server` VARCHAR(255) DEFAULT NULL,
+  `storage_account_id` VARCHAR(255) DEFAULT NULL,
+  `storage_account_name` VARCHAR(255) DEFAULT NULL,
+  `storage_key` TEXT,
+  `storage_secret` TEXT,
+  `storage_is_https` TINYINT UNSIGNED NOT NULL DEFAULT '0',
+  `storage_is_active` TINYINT UNSIGNED NOT NULL DEFAULT '0',
+  `storage_capacity` BIGINT UNSIGNED DEFAULT NULL,
+  `storage_space_used` BIGINT UNSIGNED DEFAULT '0',
+  `storage_type_chain` TINYINT UNSIGNED NOT NULL DEFAULT '1',
+  `storage_use_path_style_endpoint` TINYINT UNSIGNED NOT NULL DEFAULT '0',
+  `storage_deleted_at` DATETIME NULL DEFAULT NULL,
+  PRIMARY KEY (`storage_id`),
+  KEY `storage_api_id` (`storage_api_id`),
+  KEY `storage_is_active` (`storage_is_active`),
+  KEY `storage_deleted_at` (`storage_deleted_at`)
+) ENGINE=%table_engine% DEFAULT CHARSET=utf8mb4;

@@ -1,0 +1,3170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Sinulla ei ole oikeuksia käyttää tätä sivustoa."
+
+msgid "Moderate"
+msgstr "Valvonta"
+
+msgid "View all my images"
+msgstr "Näytä kaikki kuvani"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Voit vapaasti selata kaikkia jakamiani kuvia ja albumeita."
+
+msgid "Recent"
+msgstr "Viimeaikainen"
+
+msgid "Trending"
+msgstr "Nousussa"
+
+msgid "Popular"
+msgstr "Suosittu"
+
+msgid "Animated"
+msgstr "Animoitu"
+
+msgid "Plugin"
+msgstr "Liitännäinen"
+
+msgid "Request denied"
+msgstr "Pyyntö hylätty"
+
+msgid "terms"
+msgstr "villkor"
+
+msgid "privacy policy"
+msgstr "integritetspolicy"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "Jag instämmer i %terms_link och %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "Sivua ei ole olemassa"
+
+#, php-format
+msgid "Page %s"
+msgstr "sida %s"
+
+msgid "Forgot password?"
+msgstr "Salasana unohtunut?"
+
+msgid "Reset password"
+msgstr "Nollaa salasana"
+
+msgid "Resend account activation"
+msgstr "Lähetä käyttäjätunnuksen aktivointi uudelleen"
+
+msgid "Add your email address"
+msgstr "Lisää sähköpostisi"
+
+msgid "Awaiting confirmation"
+msgstr "Odottaa hyväksyntää"
+
+msgid "Email changed"
+msgstr "Sähköposti muutettu"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s sanoo, että olet robotti"
+
+msgid "Invalid Username/Email"
+msgstr "Virheellinen käyttäjätunnus/sähköpostiosoite"
+
+msgid "User doesn't have an email."
+msgstr "Käyttäjällä ei ole sähköpostia."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Käyttäjätunnus tulee aktivoida, jotta voit käyttää tätä ominaisuutta"
+
+msgid "Account already activated"
+msgstr "Käyttäjätunnus on jo aktivoitu"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Voit pyytää lähetystä vasta 15 minuutin kuluttua sähköpostiisi. Kokeile myöhemmin uudelleen."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Nollaa salasanasi palvelussa %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Varmistus tarvitaan palvelusta %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Tervetuloa palveluun %s"
+
+msgid "Invalid password"
+msgstr "Virheellinen salasana"
+
+msgid "Passwords don't match"
+msgstr "Salasanat eivät täsmää"
+
+msgid "Invalid email"
+msgstr "Ogiltig e-postadress"
+
+msgid "Email already being used"
+msgstr "Sähköpostiosoite on jo käytössä"
+
+msgid "Check the errors in the form to continue."
+msgstr "Tarkista virheet jatkaaksesi."
+
+msgid "Password required"
+msgstr "Salasana vaaditaan"
+
+msgid "Embed codes"
+msgstr "Upotuskoodit"
+
+msgid "%a album hosted in %w"
+msgstr "%a albumi ylläpidetty %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "kuva"
+msgstr[1] "kuvaa"
+
+msgid "Stats"
+msgstr "Tilastot"
+
+msgid "Images"
+msgstr "Kuvat"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Albumi"
+msgstr[1] "Albumit"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Käyttäjä"
+msgstr[1] "Käyttäjät"
+
+msgid "Bulk importer"
+msgstr "Massatuonti"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Website"
+msgstr "Verkkosivusto"
+
+msgid "Content"
+msgstr "Sisältö"
+
+msgid "Listings"
+msgstr "Listaus"
+
+msgid "Image upload"
+msgstr "Kuvan lähetys"
+
+msgid "Categories"
+msgstr "Kategoriat"
+
+msgid "Theme"
+msgstr "Teema"
+
+msgid "System"
+msgstr "Järjestelmä"
+
+msgid "Languages"
+msgstr "Kielet"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Tools"
+msgstr "Työkalut"
+
+msgid "External storage"
+msgstr "Ulkoinen tallennustila"
+
+msgid "Homepage"
+msgstr "Etusivu"
+
+msgid "Pages"
+msgstr "Sivut"
+
+msgid "Routing"
+msgstr "Ohjaus"
+
+msgid "External services"
+msgstr "Ulkoiset palvelut"
+
+msgid "Upload plugin"
+msgstr "Kuvien lataus liitännäinen"
+
+msgid "Consent screen"
+msgstr "Ehtojen hyväksymisikkuna"
+
+msgid "Flood protection"
+msgstr "Spämmiesto"
+
+msgid "Banners"
+msgstr "Bannerit"
+
+msgid "IP bans"
+msgstr "IP-estot"
+
+msgid "Watermarks"
+msgstr "Vesileima"
+
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+msgid "Support"
+msgstr "Tuki"
+
+msgid "Community"
+msgstr "Yhteisö"
+
+msgid "install update"
+msgstr "asenna päivitys"
+
+msgid "Max. upload file size"
+msgstr "Suurin lähetettävän tiedoston koko"
+
+msgid "Rebuild stats"
+msgstr "Uudelleenrakenna statistiikka"
+
+msgid "Connecting IP"
+msgstr "Yhdistetään IP"
+
+msgid "Not your IP?"
+msgstr "Ei sinun IP?"
+
+msgid "PHP version"
+msgstr "PHP-versio"
+
+msgid "Server"
+msgstr "Palvelin"
+
+msgid "MySQL version"
+msgstr "MySQL-versio"
+
+msgid "MySQL server info"
+msgstr "MySQL-palvelimen tiedot"
+
+msgid "File uploads"
+msgstr "Tiedostojen lähetys"
+
+msgid "Enabled"
+msgstr "Käytössä"
+
+msgid "Disabled"
+msgstr "Pois käytöstä"
+
+msgid "Max. execution time"
+msgstr "Suurin suoritusaika"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekunti"
+msgstr[1] "%d sekuntia"
+
+msgid "Memory limit"
+msgstr "Muistirajoitus"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Kotisivun kansikuvien poisto ei onnistu"
+
+msgid "Homepage cover image deleted"
+msgstr "Kotisivun kansikuva poistettu"
+
+msgid "Local"
+msgstr "Paikallinen"
+
+msgid "External"
+msgstr "Ulkoinen"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "search content"
+msgstr "etsi sisältöä"
+
+msgid "Add page"
+msgstr "Lisää sivu"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Muokkaa sivun %s ID:tä"
+
+msgid "The page has been added successfully."
+msgstr "Sivu lisätty onnistuneesti."
+
+msgid "The page has been deleted."
+msgstr "Sivu on poistettu."
+
+msgid "homepage"
+msgstr "kotisivu"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "Ennen pääotsikkoa (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "Toimintapainikkeen jälkeen (%s)"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "Kannen jälkeen (%s)"
+
+#, php-format
+msgid "After listing (%s)"
+msgstr "Listauksen jälkeen (%s)"
+
+msgid "Before pagination"
+msgstr "Ennen sivunumerointia"
+
+msgid "After pagination"
+msgstr "Sivunumeroinnin jälkeen"
+
+msgid "Content (image and album)"
+msgstr "Sisältö (kuva ja albumi)"
+
+msgid "Tab about column"
+msgstr "Tietoa välilehden sarake"
+
+msgid "Before comments"
+msgstr "Ennen kommentteja"
+
+msgid "Image page"
+msgstr "Kuvasivu"
+
+msgid "Inside viewer top (image page)"
+msgstr "Katselijan sisällä keskellä (kuvasivu)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "Katselijan sisällä alhaalla (kuvasivu)"
+
+msgid "After image viewer (image page)"
+msgstr "Katselijan jälkeen (kuvasivu)"
+
+msgid "Before header (image page)"
+msgstr "Ennen headeria (kuvasivu)"
+
+msgid "After header (image page)"
+msgstr "Headerin jälkeen (kuvasivu)"
+
+msgid "Footer (image page)"
+msgstr "Footeri (kuvasivu)"
+
+msgid "User profile page"
+msgstr "Käyttäjän profiili"
+
+msgid "After top (user profile)"
+msgstr "Yläreunan jälkeen (käyttäjän profiili)"
+
+msgid "Before listing (user profile)"
+msgstr "Ennen listausta (käyttäjän profiili)"
+
+msgid "Explore"
+msgstr "Selaa"
+
+msgid "Invalid website name"
+msgstr "Virheellinen verkkosivuston nimi"
+
+msgid "Invalid language"
+msgstr "Virheellinen kieli"
+
+msgid "Invalid timezone"
+msgstr "Virheellinen aikavyöhyke"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "Virheellinen arvo: %s"
+
+msgid "Invalid upload storage mode"
+msgstr "Virheellinen lähetysten tallennustila"
+
+msgid "Invalid upload filenaming"
+msgstr "Virheellinen tiedostojen nimeämistapa"
+
+msgid "Invalid thumb width"
+msgstr "Virheellinen kuvakkeen leveys"
+
+msgid "Invalid thumb height"
+msgstr "Virheellinen kuvakkeen korkeus"
+
+msgid "Invalid medium size"
+msgstr "Virheellinen keskikokoisen koko"
+
+msgid "Invalid watermark percentage"
+msgstr "Virheellinen vesileiman prosentti"
+
+msgid "Invalid watermark opacity"
+msgstr "Virheellinen vesileiman läpinäkyvyys"
+
+msgid "Invalid theme"
+msgstr "Virheellinen teema"
+
+msgid "Invalid value"
+msgstr "Virheellinen arvo"
+
+msgid "Invalid theme image listing size"
+msgstr "Virheellinen teeman kuvalistauksen koko"
+
+msgid "Invalid user id"
+msgstr "Virheellinen käyttäjätunnus"
+
+msgid "Invalid email mode"
+msgstr "Virheellinen sähköposti-tila"
+
+msgid "Invalid SMTP port"
+msgstr "Virheellinen SMTP-portti"
+
+msgid "Invalid SMTP security"
+msgstr "Virheellinen SMTP-turvallisuus"
+
+msgid "Invalid website mode"
+msgstr "Virheellinen verkkosivuston tila"
+
+msgid "Invalid personal mode user ID"
+msgstr "Virheellinen henkilökohtaisen tilan käyttäjä ID"
+
+msgid "Invalid or reserved route"
+msgstr "Virheellinen tai varattu ohjaus"
+
+msgid "Invalid website privacy mode"
+msgstr "Virheellinen verkkosivun yksityinen tila"
+
+msgid "Invalid website content privacy mode"
+msgstr "Virheellinen verkkosivun sisällön salaus tila"
+
+msgid "Invalid homepage style"
+msgstr "Virheellinen etusivun tyyli"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Virheellinen etusivun painikkeen väri"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Virheellinen kotisivun toiminnallisuus"
+
+msgid "Invalid title"
+msgstr "Virheellinen otsikko"
+
+msgid "Invalid status"
+msgstr "Virheellinen tila"
+
+msgid "Invalid type"
+msgstr "Virheellinen tyyppi"
+
+msgid "Invalid visibility"
+msgstr "Virheellinen näkyvyys"
+
+msgid "Invalid internal type"
+msgstr "Virheellinen sisäinen tyyppi"
+
+msgid "Invalid target attribute"
+msgstr "Virheellinen kohdemääritys"
+
+msgid "Invalid rel attribute"
+msgstr "Virheellinen suhteellinen määritys"
+
+msgid "Invalid icon"
+msgstr "Virheellinen ikoni"
+
+msgid "Invalid URL key"
+msgstr "Virheellinen URL avain"
+
+msgid "Invalid file path"
+msgstr "Virheellinen tiedostopolku"
+
+msgid "Invalid link URL"
+msgstr "Virheellinen linkin URL"
+
+msgid "Invalid user minimum age"
+msgstr "Virheellinen käyttäjän minimi ikä"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "Vain aakkosnumeerisia, tavuviiva ja alaviivat ovat sallittuja"
+
+msgid "Invalid URL"
+msgstr "Virheellinen osoite"
+
+msgid "Invalid key"
+msgstr "Virheellinen avain"
+
+msgid "Routes can't be the same"
+msgstr "Ohjaukset ei voi olla samoja"
+
+msgid "Invalid upload image path"
+msgstr "Virheellinen kuvan lähetyskansio"
+
+msgid "Invalid call to action URL"
+msgstr "Virheellinen call to action -osoite"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Suurin sallittu %s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "Ei voida uudelleenohjata %m olemassa olevaan kansioon (%f)"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "Ei voida uudelleenohjata %m olemassa olevaan ohjaukseen (%r)"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "%m ei voida uudelleenohjata %r (käyttäjätunnuksen törmäys)"
+
+msgid "Invalid SMTP server"
+msgstr "Virheellinen SMTP-palvelin"
+
+msgid "Invalid SMTP username"
+msgstr "Virheellinen SMTP:n käyttäjänimi"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "URL avain on jo käytössä toisella sivulla (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Tiedostopolku on jo käytössä toisella sivulla (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Sivun %s sisältöä ei voida tallentaa."
+
+msgid "Dashboard"
+msgstr "Hallintapaneeli"
+
+msgid "Following"
+msgstr "Seurataan"
+
+msgid "About"
+msgstr "Tietoa"
+
+msgid "Image ID"
+msgstr "Kuvan tunniste"
+
+msgid "Upload date"
+msgstr "Lähetetty"
+
+msgid "Image %i in %a album"
+msgstr "Kuva %i albumissa %a"
+
+msgid "Image %i in %c category"
+msgstr "Kuva %i kategoriassa %c"
+
+msgid "Image %i hosted in %w"
+msgstr "Kuva %i yläpidetty %w"
+
+msgid "Direct links"
+msgstr "Suorat linkit"
+
+msgid "Image link"
+msgstr "Kuvan linkki"
+
+msgid "Image URL"
+msgstr "Kuvan osoite"
+
+msgid "Thumbnail URL"
+msgstr "Kuvakkeen osoite"
+
+msgid "Medium URL"
+msgstr "Keskikoon osoite"
+
+msgid "Full image"
+msgstr "Koko kuva"
+
+msgid "Full image (linked)"
+msgstr "Koko kuva (linkitetty)"
+
+msgid "Medium image (linked)"
+msgstr "Keskikokoinen kuva (linkitetty)"
+
+msgid "Thumbnail image (linked)"
+msgstr "Kuvakkeen kuva (linkitetty)"
+
+msgid "Start uploading"
+msgstr "Aloita lataaminen"
+
+msgid "Login needed"
+msgstr "Vaaditaan kirjautumista"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Kuva"
+msgstr[1] "Kuvat"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "IP address already banned"
+msgstr "IP-osoite on jo estetty"
+
+msgid "Missing values"
+msgstr "Puuttuva tieto"
+
+msgid "Invalid username"
+msgstr "Virheellinen käyttäjänimi"
+
+msgid "Invalid role"
+msgstr "Virheellinen rooli"
+
+msgid "Username already being used"
+msgstr "Käyttäjätunnus jo käytössä"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "Anna salasana tai muu sosiaalisen verkoston yhteys ennen %s poistamista"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "Anna sähköpostiosoite tai muu sosiaalisen verkoston yhteys ennen %s poistamista"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s yhteys on katkastu."
+
+msgid "Test email from %s @ %t"
+msgstr "Testisähköposti %s @ %t"
+
+msgid "This is just a test"
+msgstr "Tämä on vain testi"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Testisähköposti lähetetty osoitteeseen %s."
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "Ladataan %s tietoja"
+
+msgid "Content liked"
+msgstr "Tykätty sisällöstä"
+
+msgid "Content disliked"
+msgstr "Ei tykätty sisällöstä"
+
+msgid "%u liked your %t %c"
+msgstr "%u tykkäsi sinun %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u seuraa sinua"
+
+msgid "A private user"
+msgstr "Yksityinen käyttäjä"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Väärä käyttäjätunnus tai salasana"
+
+msgid "Sign in"
+msgstr "Kirjaudu sisään"
+
+msgid "Upload images"
+msgstr "Lataa kuvia"
+
+msgid "Search"
+msgstr "Etsi"
+
+msgid "Account"
+msgstr "Käyttäjätunnus"
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Powered by"
+msgstr "Voimanlähteenä"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "Virheellinen kuvan vanheneminen: %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Sähköposti lähetetty osoitteeseen %s aktivointi-ohjeiden kera"
+
+msgid "Invalid name"
+msgstr "Virheellinen nimi"
+
+msgid "Invalid website"
+msgstr "Virheellinen verkkosivu"
+
+msgid "Spam detected"
+msgstr "Spammia havaittu"
+
+msgid "Wrong password"
+msgstr "Väärä salasana"
+
+msgid "Use a new password"
+msgstr "Käytä uutta salasanaa"
+
+msgid "Changes have been saved."
+msgstr "Muutokset tallennettu"
+
+msgid "Password has been changed"
+msgstr "Salasana vaihdettu"
+
+msgid "Password has been created."
+msgstr "Salasana on luotu."
+
+msgid "Wrong Username/Email values"
+msgstr "Väärä käyttäjätunnus/sähköposti"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Asetukset käyttäjälle %s"
+
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+msgid "Delete user"
+msgstr "Poista käyttäjä"
+
+msgid "User ID"
+msgstr "Käyttäjän tunniste"
+
+msgid "Register date"
+msgstr "Liittynyt"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "Sinun on hyväksyttävä ehdot ja tietosuojakäytäntö"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "Sinun tulee olla vähintään %s vuotta vanha käyttääksesi sivustoa."
+
+msgid "Create account"
+msgstr "Rekisteröidy"
+
+msgid "Upload"
+msgstr "Lähetä"
+
+msgid "Albums"
+msgstr "Albumit"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "%s tykännyt"
+
+msgid "Liked"
+msgstr "Tykätty"
+
+msgid "Followers"
+msgstr "Seuraajat"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) albumia %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "albumi"
+msgstr[1] "albumia"
+
+msgid "Flooding detected. You can only upload %limit% %content% per %time%"
+msgstr "Översvämning upptäckt. Du kan bara ladda upp per %limit% %content% per %time%"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Huomio: Tämä sisältö on salainen, mutta kaikki linkin tietävät pääsevät katsomaan sitä."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Huomio: Tämä sisältö on salasanalla suojattu. Jaa myös salasana jakaaksesi sisältöä muiden kanssa."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Huomio: Tämä materiaali on yksityinen. Vaihda yksityisyysasetus \"julkinen\" jakaaksesi."
+
+msgid "Private"
+msgstr "Yksityinen"
+
+msgid "Public"
+msgstr "Julkinen"
+
+msgid "Me"
+msgstr "Minä"
+
+msgid "Link"
+msgstr "Linkki"
+
+msgid "After %n %t"
+msgstr "Jälkeen %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuutti"
+msgstr[1] "minuuttia"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "tunti"
+msgstr[1] "tuntia"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "päivä"
+msgstr[1] "päivää"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "viikko"
+msgstr[1] "viikkoa"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "kuukausi"
+msgstr[1] "kuukautta"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "vuosi"
+msgstr[1] "vuotta"
+
+msgid "Don't autodelete"
+msgstr "Älä poista automaattisesti"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "%s ei voida avata kirjoittaakseen sinne"
+
+msgid "Duplicated upload"
+msgstr "Kaksinkertainen lataus"
+
+msgid "Private upload"
+msgstr "Yksityinen lähetys"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "näyttökerta"
+msgstr[1] "näyttökertaa"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "tykkäys"
+msgstr[1] "tykkäystä"
+
+msgid "Most recent"
+msgstr "Viimeisimmät"
+
+msgid "Oldest"
+msgstr "Vanhimmat"
+
+msgid "Most viewed"
+msgstr "Katsotuimmat"
+
+msgid "Most liked"
+msgstr "Suosituimmat"
+
+msgid "People"
+msgstr "Ihmiset"
+
+msgid "adult"
+msgstr "aikuinen"
+
+msgid "teen"
+msgstr "nuori"
+
+#, php-format
+msgid "Content of type %s is forbidden"
+msgstr "Sisältö tyypiltään %s on kiellettyä"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Kohde hakemistoa %s ei voida luoda"
+
+msgid "Internal"
+msgstr "Sisäinen"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Tallennustila ei voi olla matalampi kuin se nykyinen käyttö (%s)."
+
+msgid "Unlimited"
+msgstr "Rajoittamaton"
+
+msgid "used"
+msgstr "käytetty"
+
+msgid "Private profile"
+msgstr "Yksityinen profiili"
+
+msgid "Share"
+msgstr "Jaa"
+
+#, php-format
+msgid "view on %s"
+msgstr "näyttöä %s"
+
+msgid "cookie policy"
+msgstr "Evästekäytäntö"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "Käytämme omia ja kolmannen osapuolen evästeitä parantaaksemme selainkokemustasi ja palveluitamme. Jos jatkat verkkosivustomme käyttöä, ymmärrät, että hyväksyt tämän %cookie_policy_link."
+
+msgid "I understand"
+msgstr "Ymmärrän"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekunti"
+msgstr[1] "sekuntia"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s sitten"
+
+msgid "moments ago"
+msgstr "hetki sitten"
+
+msgid "Discovery"
+msgstr "Löytö"
+
+msgid "Random"
+msgstr "Satunnainen"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Advanced search"
+msgstr "Tarkennettu haku"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Ilmoitukset (%s)"
+
+msgid "Notifications"
+msgstr "Ilmoitukset"
+
+msgid "loading"
+msgstr "ladataan"
+
+msgid "You don't have notifications"
+msgstr "Sinulla ei ole yhtään ilmoituksia"
+
+msgid "My Profile"
+msgstr "Profiilini"
+
+msgid "Administrator"
+msgstr "Ylläpitäjä"
+
+msgid "Manager"
+msgstr "manageri"
+
+msgid "Sign out"
+msgstr "Kirjaudu ulos"
+
+msgid "You must enter the album name."
+msgstr "Sinun täytyy antaa albumille nimi."
+
+msgid "Confirm"
+msgstr "Hyväksy"
+
+msgid "The content has been approved."
+msgstr "Sisältö on hyväksytty."
+
+msgid "Select existing album"
+msgstr "Valitse olemassa oleva albumi"
+
+msgid "An error occurred. Please try again later."
+msgstr "Virhe havaittu. Yritä myöhemmin uudelleen."
+
+msgid "Please select a valid image file type."
+msgstr "Valitsethan oikean tyyppisen kuvan."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Valitse kuva, joka on enintään %s kokoinen."
+
+msgid "Profile image updated."
+msgstr "Profiilin kuva päivitetty."
+
+msgid "Profile background image updated."
+msgstr "Profiilin taustakuva päivitetty."
+
+msgid "Profile background image deleted."
+msgstr "Profiilin taustakuva poistettu."
+
+msgid "Error deleting profile background image."
+msgstr "Virhe poistaessa profiilin taustakuvaa."
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "Päivitys saatavilla v%s"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "Sivusto käyttää viimeisintä %s versiota"
+
+msgid "Toggle select"
+msgstr "Vaihda valinta"
+
+msgid "Like"
+msgstr "Tykkäys"
+
+msgid "Create album"
+msgstr "Luo albumi"
+
+msgid "Toggle flag"
+msgstr "Vaihda lippu"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Approve"
+msgstr "Hyväksy"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "File too big."
+msgstr "Tiedosto on liian suuri."
+
+msgid "Invalid or unsupported file format."
+msgstr "Virheellinen tai ei tuettu tiedostomuoto."
+
+msgid "Some files couldn't be added"
+msgstr "Joitakin tiedostoja ei voitu lisätä"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "Käyttäjän %s albumit"
+
+msgid "Image edited successfully."
+msgstr "Kuva muokattu onnistuneesti."
+
+msgid "private"
+msgstr "yksityinen"
+
+msgid "The content has been edited."
+msgstr "Sisältö muokattu"
+
+msgid "Invalid URL key."
+msgstr "Virheellinen osoite avain."
+
+msgid "Category URL key already being used."
+msgstr "Kategoria osoite avain jo käytössä."
+
+msgid "Category successfully deleted."
+msgstr "Kategoria onnistuneesti poistettu."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "%s kategoria lisätty."
+
+msgid "Invalid expiration date."
+msgstr "Virheellinen päättymispäivä."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP-osoite %s on jo estetty."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP-osoite %s estetty."
+
+msgid "IP ban successfully deleted."
+msgstr "IP esto onnistuneesti poistettu."
+
+msgid "Please fill all the required fields."
+msgstr "Täytä kaikki vaadittavat kentät."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Virheellinen tallennustilan kapasiteettiarvo. Tarkista, että arvo on oikeassa muodossa."
+
+msgid "Invalid URL."
+msgstr "Virheellinen osoite."
+
+msgid "Storage successfully edited."
+msgstr "Talennustilan muokkaaminen onnistunut."
+
+msgid "The content has been deleted."
+msgstr "Sisältö poistettu"
+
+msgid "The content has been moved."
+msgstr "Sisältö siirretty"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Unselect"
+msgstr "Poista valinta"
+
+#, javascript-format
+msgid "Import ID %s removed"
+msgstr "Tuontityö ID %s poistettiin"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Kaikki muutoksesi menetetään, jos jatkat."
+
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+msgid "Submit"
+msgstr "Lähetä"
+
+msgid "Changes saved successfully."
+msgstr "Muutokset tallennettu onnistuneesti."
+
+msgid "Go back to form"
+msgstr "Siirry takaisin lomakkeeseen"
+
+msgid "or"
+msgstr "tai"
+
+msgid "continue anyway"
+msgstr "jatka silti"
+
+msgid "cancel"
+msgstr "peruuta"
+
+msgid "Saving"
+msgstr "Tallennetaan"
+
+msgid "Sending"
+msgstr "Lähetetään"
+
+msgid "Confirm action"
+msgstr "Hyväksy toiminto"
+
+msgid "information"
+msgstr "tiedot"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Olemme vastaanottanut pyynnön muuttaa sähköpostiosoite  <a href=\"%u\">%n</a> käyttäjätunnukselle %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Viedäksesi prosessin loppuun, sinun täytyy <a href=\"%s\">aktivoida sähköpostisi</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Vaihtoehtoisesti voit kopioida ja sijoittaa seuraavan linkin selaimeen: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Jos et tehnyt tätä, jätä viesti huomioimatta."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Tämä pyyntö on tehty IP-osoitteesta: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Saimme pyynnön rekisteröidä %n käyttäjätunnus %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Viedäksesi prosessin loppuun, sinun täytyy <a href=\"%s\">aktivoida käyttäjätunnuksesi</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Saimme pyynnön nollata salasanasi käyttäjätunnukselle <a href=\"%u\">%n</a>."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Nollataksesi salasanasi <a href=\"%s\">klikkaa tästä</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Hei %n, tervetuloa palveluun %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Käyttäjätunnuksesi on nyt valmis ja voit siirtää kuvia, luoda albumeja sekä asettaa sisältöäsi yksityiseksi. Tutki myös muita mahtavia ominaisuuksia."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Muuten, täältä löytyy sinun upea profiilisivu: <a href=\"%u\">%n</a>. Anna mennä ja muokkaa sitä, se on sinun!"
+
+msgid "Thank you for joining"
+msgstr "Kiitos liittymisestäsi"
+
+msgid "This email was sent from %w %u"
+msgstr "Tämä sähköposti lähettiin sinulle palvelusta %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "Raahaa ja tiputa tai liitä kuva tähän lähettääksesi sen"
+
+msgid "Select the images to upload"
+msgstr "Valitse kuvat lähetettäväksi"
+
+msgid "You can also %i or %u."
+msgstr "Voit myös %i tai %u."
+
+#, php-format
+msgid "You can also %s."
+msgstr "Du kan också prova %s."
+
+msgid "browse from your computer"
+msgstr "Selaa tietokoneeltasi"
+
+msgid "add image URLs"
+msgstr "lisää kuvan osoite"
+
+msgid "You can also %i, %c or %u."
+msgstr "Voit myös %i, %c tai %u."
+
+msgid "browse from your device"
+msgstr "selaa laitteesta"
+
+msgid "take a picture"
+msgstr "ota kuva"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "Rekisteröidy saadaksesi %s"
+
+msgid "Uploading %q %o"
+msgstr "Ladataan %q %o"
+
+msgid "complete"
+msgstr "valmis"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "Ladataan kuvia, kestää vielä hetken."
+
+msgid "Upload complete"
+msgstr "Lähettäminen valmis"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "Ladattu sisältö lisätty %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "Voi %c juuri ladatun sisällön tai %m."
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "Voit %c juuri ladatun sisällön."
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "Du måste %s eller %l för att spara innehållet i ditt konto."
+
+msgid "create an account"
+msgstr "luo uusi käyttäjätunnus"
+
+msgid "sign in"
+msgstr "kirjaudu sisään"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "Yhtään %s ei ladattu"
+
+msgid "Sign up"
+msgstr "Kirjaudu"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s muokataksesi tai poistaaksesi automaattinen kuvien poisto käytöstä."
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Merkise tämä, jos lataus on sopimatonta"
+
+msgid "Not family safe upload"
+msgstr "Sopimaton lataus"
+
+msgid "Uploading"
+msgstr "Lähetetään"
+
+msgid "cancel remaining"
+msgstr "peruuta jäljellä olevat"
+
+msgid "learn more"
+msgstr "lue lisää"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Katso <a data-modal=\"simple\" data-target=\"failed-upload-result\">virheraportti</a> saadaksesi lisätietoja."
+
+msgid "reset"
+msgstr "nollaa"
+
+msgid "Note"
+msgstr "Muistiinpano"
+
+msgid "We must approve the uploaded content before being able to share."
+msgstr "Meidän on hyväksyttävä ladattu sisältö ennen kuin voit jakaa."
+
+msgid "copy"
+msgstr "kopioi"
+
+msgid "insert"
+msgstr "lisää"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "upload"
+msgstr "Lataa"
+
+msgid "Title"
+msgstr "Otsikko"
+
+msgid "optional"
+msgstr "valinnainen"
+
+msgid "Resize image"
+msgstr "Muokkaa kuvan kokoa"
+
+msgid "Width"
+msgstr "Leveys"
+
+msgid "Height"
+msgstr "Korkeus"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "Huom: Animoitujen GIF kuvien koko ei muutu."
+
+msgid "Mark this if the image is not family safe"
+msgstr "Merkitse kuva sopimattomaksi"
+
+msgid "Flag as unsafe"
+msgstr "Liputa sopimattomaksi"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Add image URLs"
+msgstr "Lisää kuvien osoitteet"
+
+msgid "Add the image URLs here"
+msgstr "Lisää kuvien osoitteet tähän"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "Ladattu sisältö siirretään tähän äskettäin luotuun albumiin."
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "Du måste %s eller %l om du vill redigera detta album senare."
+
+msgid "Error report"
+msgstr "Virheraportti"
+
+msgid "Links"
+msgstr "Linkit"
+
+msgid "Direct"
+msgstr "Suora"
+
+msgid "HTML Codes"
+msgstr "HTML-koodit"
+
+msgid "HTML image"
+msgstr "HTML kuva"
+
+msgid "HTML full linked"
+msgstr "HTML kokonainen linkki"
+
+msgid "HTML medium linked"
+msgstr "HTML-linkki keskikokoiseen"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML-kuvake linkillä"
+
+msgid "BBCodes"
+msgstr "BBkoodit"
+
+msgid "BBCode full"
+msgstr "BBCode kokonainen"
+
+msgid "BBCode full linked"
+msgstr "BBCOde kokonainen linkki"
+
+msgid "BBCode medium linked"
+msgstr "BBCode keskikokoisen linkki"
+
+msgid "BBCode thumbnail linked"
+msgstr "BBCode-kuvake linkillä"
+
+msgid "Markdown full"
+msgstr "Markdown täysi"
+
+msgid "Markdown full linked"
+msgstr "Markdown täysi linkitetty"
+
+msgid "Markdown medium linked"
+msgstr "Markdown keskikokoinen linkitetty"
+
+msgid "Markdown thumbnail linked"
+msgstr "Markdown kuvake linkitetty"
+
+msgid "Viewer links"
+msgstr "Katselijan linkit"
+
+msgid "All these words"
+msgstr "Kaikilla näillä sanoilla"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Kirjoita tärkeät sanat: kolmivärinen rottaterrieri"
+
+msgid "This exact word or phrase"
+msgstr "Juuri tällä sanalla tai ilmauksella"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Kirjoita tarkat sanat lainausmerkkien sisään:  \"kolmivärinen rottaterrieri\""
+
+msgid "None of these words"
+msgstr "Ei millään näistä sanoista"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Lisää miinusmerkki niiden sanojen eteen, joilla et halua hakea: -nainen, -\"elin\""
+
+msgid "Storage"
+msgstr "Tallennustila"
+
+msgid "IP address"
+msgstr "IP-osoite"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Privacy"
+msgstr "Yksityisyys"
+
+msgid "Who can view this content"
+msgstr "Kuka voi nähdä tämän sisällön"
+
+msgid "Private (just me)"
+msgstr "Yksityinen (vain minä)"
+
+msgid "Private (anyone with the link)"
+msgstr "Yksityinen (vain linkin tietäville)"
+
+msgid "Private (password protected)"
+msgstr "Yksityinen (salasanalla suojattu)"
+
+msgid "URL key"
+msgstr "Osoite avain"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Vain kirjaimia, numeroita ja väliviivoja"
+
+msgid "Mark this if the image is not safe for work"
+msgstr "Merkitse tämä, jos kuva ei ole turvallinen töissä katseltavaksi"
+
+msgid "Flag not safe"
+msgstr "Liputa ei turvalliseksi"
+
+msgid "Path"
+msgstr "Polku"
+
+msgid "Local path (absolute)"
+msgstr "Paikallinen polku (absoluuttinen)"
+
+msgid "Directory structure"
+msgstr "Hakemistorakenne"
+
+msgid "Parse top level folders as users (username)"
+msgstr "Jäsennä ylätason kansiot käyttäjinä (käyttäjänimi)"
+
+msgid "Parse top level folders as albums"
+msgstr "Jäsennä ylätason kansiot albumeina"
+
+msgid "Don't parse folders"
+msgstr "Älä jäsennä kansioita"
+
+msgid "When parsing top level folders as users, second level folders will be parsed as user albums. Parsing top level folders as albums adds these as guest albums."
+msgstr "Kun jäsennetään ylätason kansioita käyttäjinä, toisen tason kansiot jäsennetään käyttäjän albumeina. Jäsennys ylätason kansioista albumeina lisää nämä vierasalbumeiksi."
+
+msgid "Threads"
+msgstr "Langat"
+
+msgid "Select number of threads"
+msgstr "Valitse ketjujen määrä"
+
+#, php-format
+msgid "This determines how intensive and fast will be the import process. Don't use more than %s threads on a shared server."
+msgstr "Tämä määrittää kuinka intensiivinen ja nopea tuontiprosessi on. Älä käytä enempää kuin %s säiettä jaetulla palvelimella."
+
+msgid "You can use wildcard * characters."
+msgstr "Voit käyttää jokerimerkkejä *."
+
+msgid "Expiration date"
+msgstr "Päättymispäivä"
+
+msgid "Example"
+msgstr "Esimerkki"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Mihin päivämäärään asti IP-osoite on estetty? Jätä tyhjäksi, jos ei päättymispäivää."
+
+msgid "Message"
+msgstr "Viesti"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Viesti, HTML tai osoitteetn uudelleenohjaus"
+
+msgid "Storage name"
+msgstr "Tallennustilan nimi"
+
+msgid "Region"
+msgstr "Alue"
+
+msgid "Storage region"
+msgstr "Tallennustilan alue"
+
+msgid "Storage bucket"
+msgstr "Varastoämpäri"
+
+msgid "Key"
+msgstr "Avain"
+
+msgid "Storage key"
+msgstr "Tallennustilan avain"
+
+msgid "Secret"
+msgstr "Salaisuus"
+
+msgid "Storage secret"
+msgstr "Tallennustilan salaisuus"
+
+msgid "Private key"
+msgstr "Yksityinen avain"
+
+msgid "Google Cloud JSON key"
+msgstr "Google Cloud JSON avain"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Tarvitset <a %s>palvelun käyttäjätunnuksen</a> tätä varten."
+
+msgid "Service name"
+msgstr "Palvelun nimi"
+
+msgid "Identity URL"
+msgstr "Identiteetti osoite"
+
+msgid "Identity API endpoint"
+msgstr "Identiteetti API päätepiste"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "API päätepiste OpenStack identiteetille"
+
+msgid "Container"
+msgstr "Säilö"
+
+msgid "Storage container"
+msgstr "Säilytystila"
+
+msgid "Tenant id"
+msgstr "Vuokralaisen id"
+
+msgid "Tenant id (account id)"
+msgstr "Vuokralaisen id (käyttäjä id)"
+
+msgid "Tenant name"
+msgstr "Vuokralaisen nimi"
+
+msgid "Tenant name (account name)"
+msgstr "Vuokralaisen nimi (käyttäjänimi)"
+
+msgid "Storage endpoint"
+msgstr "Tallennuksen päätepiste"
+
+msgid "Server address"
+msgstr "Palvelimen osoite"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Tallennustilapalvelimen Isäntänimi tai IP-osoite"
+
+msgid "Server path"
+msgstr "Palvelimen polku"
+
+msgid "Absolute path where the files will be stored in the context of the %p login. Use %s for root path."
+msgstr "Absolut sökväg där filerna sparas i samband med %p inloggning. Använd %s för rotsökvägen."
+
+msgid "Server login"
+msgstr "Palvelimen sisäänkirjautuminen"
+
+msgid "Server password"
+msgstr "Palvelimen salasana"
+
+msgid "Local path"
+msgstr "Paikallinen polku"
+
+msgid "Local path where the files will be stored"
+msgstr "Paikallinen polku, johon tiedostot tallennetaan"
+
+msgid "Storage capacity"
+msgstr "Tallennustilan kapasiteetti"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Esimerkiksi: 20 GB, 1TB, jne."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "Tämä tallennustila otetaan pois käytöstä, kun sen kapasiteetti loppuu. Jätä se tyhjäksi tai nollaksi, jos et halua rajoitusta."
+
+msgid "Storage URL"
+msgstr "Tallennustilan osoite"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "Järjestelmä uudelleen ohjaa tämän tallennustilan kuvat tähän osoitteeseen."
+
+msgid "view more"
+msgstr "näytä lisää"
+
+msgid "Load more"
+msgstr "Lataa lisää"
+
+msgid "Actions"
+msgstr "Toiminnot"
+
+msgid "Get embed codes"
+msgstr "Hae upotuskoodit"
+
+msgid "Flag as safe"
+msgstr "Liputa turvalliseksi"
+
+msgid "Select all"
+msgstr "Valitse kaikki"
+
+msgid "Clear selection"
+msgstr "Poista valinta"
+
+msgid "Sign in with another account"
+msgstr "Kirjaudu tilillä"
+
+msgid "Home"
+msgstr "Etusivu"
+
+msgid "There's nothing to show here."
+msgstr "Täällä ei ole mitään nähtävää."
+
+msgid "There is no categories."
+msgstr "Ei yhtään kategoriaa."
+
+msgid "Confirm flag content as safe"
+msgstr "Liputa sisältö turvalliseksi"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Haluatko varmasti vahvistaa tämän sisällön turvalliseksi?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Liputa sisältö sopimattomaksi"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Haluatko varmasti vahvistaa tämän sisällön sopimattomaksi?"
+
+msgid "Confirm approval"
+msgstr "Vahvista hyväksyntä"
+
+msgid "Confirm deletion"
+msgstr "Varmista poisto"
+
+msgid "Guest"
+msgstr "Vieras"
+
+msgid "Keyboard shortcuts"
+msgstr "Pikanäppäimet"
+
+msgid "Private album"
+msgstr "Yksityinen albumi"
+
+msgid "Password protected"
+msgstr "Salasana suojattu"
+
+msgid "Uploaded by guest"
+msgstr "Ladannut vieras"
+
+msgid "Uploaded by private"
+msgstr "Ladannut yksityinen"
+
+#, php-format
+msgid "by %u"
+msgstr "%u"
+
+msgid "Toggle unsafe flag"
+msgstr "Ota käyttöön sopimattoman sisällön lippu"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Sinulla ei ole oikeutta tälle sivulle tai linkkisi on vanhentunut."
+
+msgid "Go to homepage"
+msgstr "Siirry etusivulle"
+
+msgid "The requested page was not found."
+msgstr "Pyydettyä sivua ei löydy"
+
+msgid "The user has been deleted"
+msgstr "Käyttäjätunnus poistettu"
+
+msgid "Your account is almost ready"
+msgstr "Käyttäjätunnuksesi on melkein valmis"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Teille on lähetetty sähköpostiviesti osoitteeseen %s josta löydätte tarkemmat ohjeet käyttäjätunnuksen vahvistamiseen. Käyttäjätunnuksen vahvistamislinkki on voimassa 48 tuntia. Jos et saanut sähköpostiviestiä, tarkista roskapostit. "
+
+msgid "Resend activation"
+msgstr "Lähetä aktivointi uudelleen"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Sähköpostiosoite vaihdettu onnistuneesti osoitteeseen %s"
+
+msgid "Go to my profile"
+msgstr "Siirry profiiliini"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Vahvistuslinkki lähetetään syöttämääsi sähköpostiosoitteeseen käyttäjätunnuksen aktivointia varten."
+
+msgid "Your email address"
+msgstr "Sinun sähköpostiosoitteesi"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Teille on lähetetty sähköpostiviesti josta löydätte tarkemmat ohjeet salasanan vaihtamiseen. Jos et saanut sähköpostiviestiä, tarkista roskapostit."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "Teille on lähetetty sähköpostiviesti josta löydätte tarkemmat ohjeet salasanan vaihtamiseen. Jos et saanut sähköpostiviestiä, tarkista roskapostit."
+
+msgid "Resend instructions"
+msgstr "Lähetä ohjeet uudelleen"
+
+#, php-format
+msgid "Enter your username or email address to continue. You may need to check your spam folder or whitelist %s"
+msgstr "Syötä käyttäjänimesi tai sähköpostiosoitteesi jatkaaksesi. Saatat joutua tarkistamaan roskapostikansiosi tai sallittujen luettelosi %s"
+
+msgid "Username or Email address"
+msgstr "Käyttäjänimi tai sähköpostiosoite"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Salasanasi on nyt vaihdettu. Voit kokeilla kirjautua käyttämällä uutta salasanaasi."
+
+msgid "Login now"
+msgstr "Kirjaudu nyt sisään"
+
+msgid "Enter your new password"
+msgstr "Kirjoita uusi salasana"
+
+#, php-format
+msgid "%d characters min"
+msgstr "vähintään %d merkkiä"
+
+msgid "Password strength"
+msgstr "Salasanan vahvuus"
+
+msgid "Re-enter your new password"
+msgstr "Kirjoita uusi salasanasi uudelleen"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Sähköposti lähetetty osoitteeseen %s aktivointi-ohjeiden kera. Jos et saanut sähköpostiviestiä, tarkista roskapostit."
+
+msgid "Upload to album"
+msgstr "Lataa albumiin"
+
+msgid "You like this"
+msgstr "Tykkäsit tästä"
+
+msgid "This content is private"
+msgstr "Tämä sisältö on yksityistä"
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "Lue ja täytä seuraavat ehdot ennen jatkamista:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "Tämä sivusto sisältää tietoa, linkkejä ja kuvia seksuaalisesta materiaalista. Jos olet alle %s-vuotias, koet tällaisen materiaalin loukkaavaksi tai jos se on laitonta katsella tällaista materiaalia paikkakunnallasi, älä jatka.\n\nOlen vähintään %s-vuotias ja uskon, että aikuisena minulla on oikeus saada/katsella seksuaalista materiaalia. Haluan saada/katsella seksuaalista materiaalia.\n\nUskon, että aikuisten välinen seksuaalinen toiminta on vapaaehtoista ja ei ole loukkaavaa eikä säädytöntä. Seksuaalisen materiaalin katselu, lukeminen ja lataaminen ei riko paikkakuntani, kaupungin tai maani lakia.\n\nKatselemani seksuaalinen materiaali on vain omaan käyttööni ja en näytä sitä alaikäisille.\n\nOlen yksin vastuussa kaikista vääristä tiedoista tai oikeudellisista seurauksista liittyen materiaalin katseluun, lukemiseen tai lataamiseen tällä sivustolla. Lisäksi tämä sivusto tai sen konserniyhtiöt eivät ole vastuussa mistään oikeudellisista seurauksista, jotka johtuvat petollisen tulon saamisesta tai näiden verkkosivujen käytöstä.\n\nTämä ehtojen hyväksyminen muodostaa laillisen sopimuksen tämän sivuston ja sinun ja/tai yrityksen, jossa sinulla on laillinen tai tasapuolinen osuus. Jos jokin osan tästä sopimuksesta toimivaltainen tuomioistuin katsoo täytäntöönpanokelvottomaksi, se ei vaikuta muihin sopimuksen osiin."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "Klikkaamalla \"Hyväksyn\" ilmoitat, että olet lukenut ja ymmärtänyt kaikki edellä mainitut edellytykset."
+
+msgid "I Agree"
+msgstr "Hyväksyn"
+
+msgid "documentation"
+msgstr "dokumentit"
+
+msgid "Check the errors to proceed."
+msgstr "Tarkista virheet jatkaaksesi."
+
+msgid "Queued"
+msgstr "Jonossa"
+
+msgid "Working"
+msgstr "Työskentelee"
+
+msgid "Paused"
+msgstr "Tauolla"
+
+msgid "Canceled"
+msgstr "Peruutettu"
+
+msgid "Completed"
+msgstr "Suoritettu"
+
+#, php-format
+msgid "Top level folders as %s"
+msgstr "Ylätason kansiot muodossa %s"
+
+msgid "Process"
+msgstr "Prosessi"
+
+msgid "Pause"
+msgstr "Tauko"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Process log"
+msgstr "Prosessiloki"
+
+msgid "Errors"
+msgstr "Virheet"
+
+#, php-format
+msgid "Do you really want to remove the import ID %s?"
+msgstr "Peruuta Haluatko todella poistaa tuontitunnuksen %s?"
+
+msgid "Reset"
+msgstr "Resetoi"
+
+msgid "Resume"
+msgstr "Palauta"
+
+msgid "Status"
+msgstr "Tila"
+
+msgid "Dashboard > Settings > Website"
+msgstr "Hallintapaneeli > Asetukset > Verkkosivu"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "Näytä ehtojen hyväksymisikkuna ennen sivustolle siirtymistä. Hyödyllinen aikuisille tarkoitetun sisällön sivustoille, joihin alaikäisiä ei sallita."
+
+msgid "Enable consent screen"
+msgstr "Ota käyttöön ehtojen hyväksymisikkuna"
+
+msgid "Consent screen cover image"
+msgstr "Ehtojen hyväksymisikkunan taustakuva"
+
+msgid "Show not safe content in listings"
+msgstr "Näytä sopimatonta sisältöä listauksessa"
+
+msgid "Blur NSFW content in listings"
+msgstr "Sumenna NSFW sisältö listauksessa"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "Ota käyttöön sopimattoman sisällön sumennus kuvien listauksessa."
+
+msgid "Show not safe content in random mode"
+msgstr "Näytä ei turvallista sisältöä satunnaisessa tilassa"
+
+msgid "Show banners in not safe content"
+msgstr "Näytä lippu sopimattomasta sisällöstä"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "Valitse tämä, jos haluat näyttää lipun sopimattomasta sisälällöstä."
+
+#, php-format
+msgid "Lock %s editing"
+msgstr "lås %s redigering"
+
+msgid "Enable this to prevent users from changing the NSFW flag. When enabled, only admin and managers will have this permission."
+msgstr "Aktivera detta för att hindra användare från att ändra NSFW flaggan. När den är aktiverad endast admin och chefer kommer att ha detta tillstånd."
+
+msgid "Cookie law compliance"
+msgstr "Evästeiden lakiteksti"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Ota käyttöön evästeisiin liittyvä EU:n lakiteksti-ilmoitus. Huomautus: Tarvitset tämän vain, jos verkkosivusi sijaitsee EU:ssa ja jos otat käyttöön seurantaevästeet."
+
+msgid "From name"
+msgstr "Nimellä"
+
+msgid "Sender name for emails sent to users."
+msgstr "Sähköpostin lähettäjän nimi"
+
+msgid "From email address"
+msgstr "Sähköpostiosoitteesta"
+
+msgid "Sender email for emails sent to users."
+msgstr "Käyttäjille viestejä lähettävän sähköpostin osoite"
+
+msgid "Incoming email address"
+msgstr "Sisääntulevan postin sähköpostiosoite"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Vastaanottaja yhteydenottolomakkeelle ja järjestelmähälytyksille."
+
+msgid "Email mode"
+msgstr "Sähköpostitila"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Kuinka sähköpostit lähetetään? SMTP on suositeltu."
+
+msgid "SMTP server and port"
+msgstr "SMTP-palvelin osoite ja portti"
+
+msgid "SMTP server"
+msgstr "SMTP-palvlein"
+
+msgid "SMTP username"
+msgstr "SMTP-käyttäjänimi"
+
+msgid "SMTP password"
+msgstr "SMTP-salasana"
+
+msgid "SMTP security"
+msgstr "SMTP-suojaustyyppi"
+
+msgid "Unsecured"
+msgstr "Suojaamaton"
+
+msgid "Comments API"
+msgstr "Kommentointi API"
+
+#, php-format
+msgid "Disqus API works with %s."
+msgstr "Disqus API toimii %s kanssa."
+
+msgid "Disqus shortname"
+msgstr "Disqus lyhytnimi"
+
+#, php-format
+msgid "%s secret key"
+msgstr "%s salainen avain"
+
+#, php-format
+msgid "%s public key"
+msgstr "%s julkinen avain"
+
+msgid "Comment code"
+msgstr "Kommenttikoodi"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook tai mitä ikinä käytätkin. Tätä käytetään kuvan katselutilassa."
+
+msgid "Analytics code"
+msgstr "Analytics-koodi"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics tai mitä ikinä käytätkin. Tämä koodi lisätään teemaan footeriin."
+
+#, php-format
+msgid "%s spam protection"
+msgstr "%s roskapostisuojaus"
+
+msgid "user generated content"
+msgstr "käyttäjän luomaa sisältöä"
+
+msgid "Enable this to use %l to block spam on %c."
+msgstr "Aktivera detta för att använda %l för att blockera skräppost på %c."
+
+#, php-format
+msgid "%s API key"
+msgstr "%s API avain"
+
+msgid "user signup"
+msgstr "käyttäjän rekisteröityminen"
+
+#, php-format
+msgid "%s site key"
+msgstr "%s sivuston avain"
+
+#, php-format
+msgid "Force %s on contact page"
+msgstr "Pakota %s yhteydenotto sivulle"
+
+#, php-format
+msgid "Enable this to always show %s on contact page."
+msgstr "Aktivera detta för att alltid visa %s på kontaktsidan."
+
+#, php-format
+msgid "Automatically moderate the content using the %s service."
+msgstr "Automatiskt måttliga bilder med %s tjänsten."
+
+msgid "Automatic approve"
+msgstr "Hyväksy automaattisesti"
+
+msgid "Enable this to automatically approve content moderated by this service."
+msgstr "Ota tämä käyttöön, jos haluat hyväksyä tämän palvelun valvoman sisällön automaattisesti."
+
+msgid "Block content"
+msgstr "Estä sisältö"
+
+msgid "Adult"
+msgstr "Aikuinen"
+
+msgid "Teen and adult"
+msgstr "Nuori ja aikuinen"
+
+msgid "Flag NSFW"
+msgstr "Liputa NSFW"
+
+msgid "Twitter account"
+msgstr "Twitter-käyttäjätili"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Laita HTTPS päälle tai pois"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "Laita tallennustila päälle tai pois"
+
+msgid "Quota"
+msgstr "Kiintiö"
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Storage method"
+msgstr "Säilytysmuoto"
+
+msgid "Disk used"
+msgstr "Käytetty levytila"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Paikallista tallennustilaa käytetään oletuksena tai jos ulkoinen tallennustila ei ole aktiivinen."
+
+msgid "Notify to email"
+msgstr "Ilmoita sähköpostilla"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "Salli järjestelmän lähettää sähköpostia spämmieston aktivoituessa."
+
+msgid "Minute limit"
+msgstr "Minuutin rajoitus"
+
+msgid "Hourly limit"
+msgstr "Tunnin rajoitus"
+
+msgid "Daily limit"
+msgstr "Päivän rajoitus"
+
+msgid "Weekly limit"
+msgstr "Viikon rajoitus"
+
+msgid "Monthly limit"
+msgstr "Kuukauden rajoitus"
+
+msgid "Style"
+msgstr "Tyyli"
+
+msgid "Landing page"
+msgstr "Aloitussivu"
+
+msgid "Split landing + images"
+msgstr "Aloitussivu + kuvia"
+
+msgid "explore"
+msgstr "Selaus"
+
+#, php-format
+msgid "Route %s"
+msgstr "Reitti %s"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "Valitse etusivun tyyli. Muokataksesi lisää, mene app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "Kannen kuva"
+
+msgid "Add new cover image"
+msgstr "Lisää uusi kansikuva"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "Tämä lisätään etusivulle %s tagin sisään. Jätä se tyhjäksi käyttääksesi oletussisältöä."
+
+msgid "Paragraph"
+msgstr "Kappale"
+
+msgid "Call to action button color"
+msgstr "Toimintapainikkeen väri"
+
+msgid "Blue"
+msgstr "Sininen"
+
+msgid "Green"
+msgstr "Vihreä"
+
+msgid "Orange"
+msgstr "Oranssi"
+
+msgid "Red"
+msgstr "Punainen"
+
+msgid "Grey"
+msgstr "Harmaa"
+
+msgid "Black"
+msgstr "Musta"
+
+msgid "White"
+msgstr "Valkoinen"
+
+msgid "Default"
+msgstr "Oletus"
+
+msgid "Color of the homepage call to action button."
+msgstr "Etusivun toimintapainikkeen väri"
+
+msgid "Call to action outline style button"
+msgstr "Toimintapainikkeen ääriviivan tyyli"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "Ota käyttöön toimintapainikkeen ääriviivojen tyyli etusivulla."
+
+msgid "Call to action functionality"
+msgstr "Toiminnalisuus"
+
+msgid "Trigger uploader"
+msgstr "Latauksen laukaisija"
+
+msgid "Open URL"
+msgstr "Avaa osoite"
+
+msgid "Call to action URL"
+msgstr "Osoite toiminnallisuus"
+
+msgid "Enter an absolute or relative URL"
+msgstr "Anna absoluuttinen tai suhteellinen osoite"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "Suhteellinen osoite %r osoittaa %l"
+
+msgid "Call to action HTML"
+msgstr "HTML toiminnallisuus"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "Tämä lisätään toiminnallisuuden <a> tagin sisään. Jätä se tyhjäksi käyttääksesi oletussisältöä."
+
+msgid "User IDs"
+msgstr "Käyttäjä ID:t"
+
+msgid "Empty"
+msgstr "Tyhjä"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Sinun käyttäjäid on: %s"
+
+msgid "Comma-separated list of target user IDs (integers) to show most recent images on homepage. Leave it empty to display trending images."
+msgstr "Pilkuilla erotettu luettelo kohdekäyttäjätunnuksista kuvien näyttämiseksi kotisivulla. Jätä se tyhjäksi tai nollaksi nähdäksesi kaikki viimeisimmät kuvat."
+
+msgid "Enabled image formats"
+msgstr "Käytössäolevat kuvamuodot"
+
+msgid "Enable uploads"
+msgstr "Salli kuvien lataus"
+
+msgid "Upload user interface"
+msgstr "Lataa käyttöliittymä"
+
+msgid "On-page container"
+msgstr "Sivusäiliö"
+
+msgid "route"
+msgstr "Reitti"
+
+msgid "Guest uploads"
+msgstr "Vieraiden kuvien lataus"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Salli vieraiden ladata kuvia."
+
+msgid "Moderate uploads"
+msgstr "Kohtuullinen lataus"
+
+msgid "Enable this to moderate incoming uploads. Target content will require moderation for approval."
+msgstr "Ota tämä käyttöön, kun haluat valvoa saapuvia latauksia. Kohdesisältö edellyttää valvontaa hyväksynnän saamiseksi."
+
+msgid "Enable embed codes (uploader)"
+msgstr "Ota käyttöön upotuskoodit (lataus)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Ota upotuskoodit käyttöön, kun lataus on valmis."
+
+msgid "Upload threads"
+msgstr "Lähetyksen säikeet"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "Yhtäaikaisten latausten määrä (rinnakkaiset lataukset)"
+
+msgid "Redirect on single upload"
+msgstr "Uudelleenohjaa yksittäiseen lataukseen"
+
+msgid "Enable this if you want to redirect to image page on single upload."
+msgstr "Salli uudelleenohjaus kuvan sivulta yksittäiseen lataukseen."
+
+msgid "Enable duplicate uploads"
+msgstr "Salli kaksoiskappaleiden lähetys"
+
+msgid "Enable expirable uploads"
+msgstr "Ota käyttöön vanhentuvat lataukset"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Ota tämä käyttöön mikäli haluat sallia automaattisesti poistuvat kuvat."
+
+msgid "Auto delete guest uploads"
+msgstr "Automaattisesti poista vieraiden lataukset"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "Ota käyttöön vieraiden latausten automaattinen poisto tietyn ajan kuluttua."
+
+msgid "Maximum image size"
+msgstr "Kuvan enimmäiskoko"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "Tätä suuremmat kuvat pienennetään automaattisesti. Käytä arvoa nolla (0) ellet halua asettaa rajaa."
+
+msgid "Image Exif data"
+msgstr "Kuvan Exif tiedot"
+
+msgid "Keep"
+msgstr "Pidä"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Valitse oletusarvo kuvien <a %s>Exif tiedoille</a> latauksissa."
+
+msgid "Image Exif data (user setting)"
+msgstr "Kuvan Exif tiedot (käyttäjän asetus)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Salli käyttäjien valita miten kuvien Exif tietoja näytetään."
+
+msgid "Maximum upload file size"
+msgstr "Lähetettävän kuvatiedoston maksimikoko."
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "Palvelimen sallima maksimikoko on %s. Ylärajan asettavat %u ja %p (%f arvot)."
+
+msgid "guests"
+msgstr "vieraat"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "Samma som \"%s\", men för gäster."
+
+msgid "Image path"
+msgstr "Kuvien sijainti"
+
+msgid "Relative to Chevereto root"
+msgstr "Suhteessa Chevereton juureen"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Minne kuvat tallennetaan? Riippuvainen Chevereton juuresta."
+
+msgid "Storage mode"
+msgstr "Tallennustila"
+
+msgid "Datefolders"
+msgstr "Päiväkansiot"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Päiväkansiot luovat %s rakenteen."
+
+msgid "File naming method"
+msgstr "Tiedoston nimeämistapa"
+
+msgid "Original"
+msgstr "Alkuperäinen"
+
+msgid "Mix original + random"
+msgstr "Sekoita alkuperäinen + arvottu"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "\"Alkuperäinen\" yrittää pitää kuvan alkuperäisen nimen. \"Arvottu\" generoi satunnaisen nimen. \"ID\" nimeää kuvan ID mukaan."
+
+msgid "Thumb size"
+msgstr "Kuvakkeen koko"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Kuvake muutetaan tämän kokoiseksi"
+
+msgid "Medium image fixed dimension"
+msgstr "Keskikokoisen kuvan kiinteä koko"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "Keskikokoisen kuvan kiinteä koko. Esimerkiksi, jos valitset \"leveys\", tämä tulee olemaan kuvan leveys ja kuvan korkeus lasketaan automaattisesti."
+
+msgid "Medium image fixed size"
+msgstr "Keskikokoisen kuvan kiinteä koko"
+
+msgid "Width or height will be automatically calculated."
+msgstr "Leveys tai korkeus lasketaan automaattisesti."
+
+msgid "Expires"
+msgstr "Vanhentuu"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "Estetyillä IP-osoitteilla ei ole pääsyä koko sivustolle."
+
+msgid "Default language"
+msgstr "Oletuskieli"
+
+msgid "Default base language to use."
+msgstr "Oletuskieli käyttöä varten"
+
+msgid "Auto language"
+msgstr "Automaattinen kielenvalinta"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "Ota käyttöön automaattinen kielenvalinta käyttäjille."
+
+msgid "Language chooser"
+msgstr "Sivuston kielenvalinta"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "Ota käyttöön kielenvalinta"
+
+msgid "Enabled languages"
+msgstr "Sivustolla käytössä olevat kielet"
+
+msgid "List items per page"
+msgstr "Kohteita sivulla"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Kuinka monta kohdetta näytetään sivua kohden."
+
+msgid "List pagination mode"
+msgstr "Listauksen tyyli"
+
+msgid "Endless scrolling"
+msgstr "Loputon vieritys"
+
+msgid "Classic pagination"
+msgstr "Tavallinen sivutus"
+
+msgid "What pagination method should be used."
+msgstr "Mitä sivunumerointitapaa käytetään."
+
+msgid "Listing viewer"
+msgstr "Listvisare"
+
+msgid "Enable this to use the listing viewer when clicking on an image."
+msgstr "Aktivera detta för att använda listvisaren när du klickar på en bild."
+
+msgid "Image listing size"
+msgstr "Kuvan koko"
+
+msgid "Fluid"
+msgstr "Joustava"
+
+msgid "Fixed"
+msgstr "Kiinteä"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "Kummatkin käyttävät kiinteää leveyttä, mutta joustava käyttää automaattista korkeutta."
+
+msgid "Listing columns number"
+msgstr "Listauksen sarakkeiden määrä"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Määrittele näytettävien sarakkeiden määrä laitekohtaisesti."
+
+msgid "Phone"
+msgstr "Puhelin"
+
+msgid "Phablet"
+msgstr "Phabletti"
+
+msgid "Tablet"
+msgstr "Tabletti"
+
+msgid "Laptop"
+msgstr "Kannettava"
+
+msgid "Desktop"
+msgstr "Työpöytä"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "Vektori versio verkkosivun logosta SVG-muodossa."
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "Bitmap versio verkkosivun logosta. PNG-formaatti suositeltu."
+
+msgid "Logo height"
+msgstr "Logon korkeus"
+
+msgid "No value"
+msgstr "Ei arvoa"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Määrittele tarvittaessa logon korkeus tästä."
+
+msgid "Favicon image"
+msgstr "Favicon kuva"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Favicon kuva. Kuvan tulee olla yhtä korkea kuin leveä."
+
+msgid "Page title"
+msgstr "Sivun otsikko"
+
+msgid "Page status"
+msgstr "Sivun tila"
+
+msgid "Active page"
+msgstr "Aktiivinen sivu"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Toimeton sivu (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "Vain aktiiviset sivut on saatavilla."
+
+msgid "Type"
+msgstr "Tyyppi"
+
+msgid "Terms of service"
+msgstr "Käyttöehdot"
+
+msgid "Contact"
+msgstr "Ota yhteyttä"
+
+msgid "Extra page"
+msgstr "Lisäsivu"
+
+msgid "Internal page type"
+msgstr "Sisäinen sivutyyppi"
+
+msgid "You can have multiple extra pages, but only one of the other special internal types."
+msgstr "Sinulla voi olla useita ylimääräisiä sivuja, mutta vain yksi muista sisäisistä erityistyypeistä."
+
+msgid "Page visibility"
+msgstr "Sivun näkyvyys"
+
+msgid "Visible page"
+msgstr "Näkyvä sivu"
+
+msgid "Hidden page"
+msgstr "Piilotettu sivu"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "Piilotetut sivut eivät näy järjestelmän valikoissa, mutta kuka tahansa linkin tietävä voi vierailla niillä."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Vain kirjaimia, väliviivoja ja vinoviiva"
+
+msgid "File path"
+msgstr "Tiedostopolku"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "Tiedosto %f suhteessa %s tiedostoon"
+
+msgid "Meta keywords"
+msgstr "Meta avainsanat"
+
+msgid "Meta description"
+msgstr "Meta kuvaus"
+
+msgid "Source code"
+msgstr "Lähdekoodi"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Ei kirjoitusoikeutta %s polkuun. Joudut lisäämään tämän tiedoston käyttäen ulkoista editoria."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Ei kirjoitusoikeutta kohteeseen %s. Joudut muokkaamaan tämän tiedoston sisältöä käyttäen ulkoista editoria."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Sivun sisältö: %s"
+
+msgid "Link URL"
+msgstr "Linkin URL"
+
+msgid "Link target attribute"
+msgstr "Linkin kohde määritys"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Valitse %s avataksesi sivun tai linkin uuteen ikkunaan."
+
+msgid "Link rel attribute"
+msgstr "Linkin suhteellinen määritys"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Vain kirjaimia, väliviivoja ja välilyöntejä"
+
+msgid "Link icon"
+msgstr "Linkin ikoni"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Katso <a %s>ikoniviittauksista</a> täydellinen listaus tuetuista ikoneista."
+
+msgid "Sort order display"
+msgstr "Lajittelujärjestys"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "Sivun lajittelujärjestys valikoissa ja listoissa. Käytä \"1\" ensisijaisesti."
+
+#, php-format
+msgid "Routing for %s"
+msgstr "%s ohjaus"
+
+#, php-format
+msgid "SEO %s URLs"
+msgstr "SEO %s URL-osoitteet"
+
+#, php-format
+msgid "Enable this if you want to use SEO %s URLs."
+msgstr "Kytke tämä päälle, jos tahdot käyttää SEO %s osoitteita."
+
+msgid "Automatic updates check"
+msgstr "Automaattinen päivitysten tarkistus"
+
+msgid "When enabled the system will automatically check for new updates."
+msgstr "Kun otettu käyttöön, järjestelmä tarkistaa automaattisesti uudet päivitykset."
+
+msgid "Display available updates notification"
+msgstr "Näytä ilmoitus päivityksistä"
+
+msgid "Enable this to show a notice on top warning you about new available system updates."
+msgstr "Ota käyttöön ilmoitus uusista päivityksistä järjestelmään."
+
+msgid "Dump update query"
+msgstr "Tyhjennä päivityskysely"
+
+msgid "Enable this if you want to dump the update query to run it manually."
+msgstr "Ota tämä käyttöön, jos haluat tunnistaa ja asettaa oikean kielen automaattisesti jokaiselle käyttäjälle."
+
+msgid "Maintenance"
+msgstr "Huolto"
+
+msgid "Crypt salt"
+msgstr "Kryptauksen avain"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "Tätä suolaa käytetään muuntamaan numerollisesta tunnisteesta aakkosnumeerinen. Se luotiin asennuksen aikana."
+
+msgid "Debug level"
+msgstr "Debug taso"
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "Error log"
+msgstr "Virheen kirjaus"
+
+msgid "Print errors without error log"
+msgstr "Näytö virheet ilman virheen kirjausta"
+
+msgid "Print and log errors"
+msgstr "Näytä ja kirjaa virheet"
+
+msgid "Image load max. filesize"
+msgstr "Kuvan lähetyksen maksimi tiedostokoko."
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "Tätä kokoa suuremmissa kuvissa näytetään painike, jolla täyskokoisen kuvatiedoston voi ladata."
+
+msgid "Enable download button"
+msgstr "Ota Lataa kuva -painike käyttöön"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Tästä voit ottaa Lataa kuva -painikkeen käyttöön."
+
+msgid "Enable right click on image"
+msgstr "Salli oikean klikkaus kuvassa"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Haluatko  sallia hiiren oikean napin klikkausen kuvankatselusivulla."
+
+msgid "Enable show Exif data"
+msgstr "Näytä Exif-tiedot"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Ota käyttöön Exif-tietojen näyttö."
+
+msgid "Enable social share"
+msgstr "Salli sosiaalinen jako"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Ota käyttöön sosiaalisten palveluiden jakopainikkeet."
+
+msgid "Enable embed codes (content)"
+msgstr "Ota käyttöön upotuskoodit (sisältö)"
+
+msgid "Everybody"
+msgstr "Kaikki"
+
+msgid "Users only"
+msgstr "Vain käyttäjät"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Ota upotuskoodit käyttöön sisällölle."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "Sopimatonta sisältöä -valintaruutu latauksessa"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Valitse tämä, jos haluat näyttää sopimatonta sisältöä -valintaruudun."
+
+msgid "Custom CSS code"
+msgstr "Mukautettu CSS-koodi"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Kirjoita mukautettu CSS-koodi tähän. Se tulee <style> -elementtiin juuri ennen </head> -elementtiä."
+
+msgid "Custom JS code"
+msgstr "Mukautettu JS-koodi"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Kirjoita mukautettu JS-koodi tähän. Se tulee <script> -elementtiin juuri ennen </head> -elementtiä."
+
+#, php-format
+msgid "Do not use %s markup here. This is for plain JS code, not for HTML script tags. If you use script tags here you will break your website."
+msgstr "Älä käytä %s -merkintää täällä. Tämä koskee tavallista JS-koodia, ei HTML-komentotunnisteita. Jos käytät komentotunnisteita täällä, rikot verkkosivustosi."
+
+msgid "Decode ID"
+msgstr "Dekoodaus ID"
+
+msgid "Encode ID"
+msgstr "Enkoodaus ID"
+
+msgid "Send test email"
+msgstr "Lähetä testisähköposti"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Käytä tätä nähdäksesi kuinka sähköpostit lähetetään. Suosittelemme käyttämään %s."
+
+msgid "Export a user"
+msgstr "Vie käyttäjä"
+
+msgid "Export user"
+msgstr "Vie käyttäjä"
+
+msgid "This will allow you to download a user's standard personal information in JSON format."
+msgstr "Tämän avulla voit ladata käyttäjän vakiotiedot JSON-muodossa."
+
+msgid "Regenerate external storage stats"
+msgstr "Luo ulkoisen tallennustilan tilastot uudelleen"
+
+msgid "Storage id"
+msgstr "Tallennustunnus"
+
+msgid "Regenerate"
+msgstr "Luo uudelleen"
+
+msgid "This will re-calculate the sum of all the image records associated to the target external storage."
+msgstr "Tämä laskee uudelleen kaikkien kohdetietovälineeseen liittyvien kuvatietueiden summan."
+
+msgid "Source storage id"
+msgstr "Lähteen tallennustilan tunnus"
+
+msgid "Target storage id"
+msgstr "Kohteen tallennustilan tunnus"
+
+msgid "Migrate"
+msgstr "Siirrä"
+
+msgid "This only updates the database. You must transfer the actual files to target storage container on your own. URL rewriting is strongly recommended. Use zero (0) for local storage."
+msgstr "Tämä vain päivittää tietokannan. Sinun on siirrettävä todelliset tiedostot omaan kohdesäilöön. URL-osoitteiden uudelleenkirjoittaminen on erittäin suositeltavaa. Käytä nollaa (0) paikalliseen tallennustilaan."
+
+msgid "Additional settings"
+msgstr "Lisäasetukset"
+
+msgid "Plugin route"
+msgstr "Liitännäisen ohjaus"
+
+msgid "Use this to set a custom URL for %p. Please note that you need to manually replicate %s in this URL."
+msgstr "Aseta kustomoitu URL %p. Huomioi, että sinun tulee käsin kopioida se %s URL:iin."
+
+msgid "Enable signups"
+msgstr "Salli rekisteröitymiset"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Salli käyttäjien rekisteröityä palveluun."
+
+msgid "Enable user content delete"
+msgstr "Salli käyttäjien poistaa sisältöä"
+
+msgid "Minimum age required"
+msgstr "Vähimmäisikä vaaditaan"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "Jätä tyhjäksi, jos vähimmäikää ei vaadita sivuston käyttöön."
+
+msgid "Notify on user signup"
+msgstr "Ilmoita käyttäjän rekisteröitymisen yhteydessä"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "Ota tämä käyttöön, jos haluat saada sähköposti-ilmoituksen jokaisesta uudesta rekisteröitymisestä."
+
+msgid "Require email confirmation"
+msgstr "Vaadi sähköpostivarmistus"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Ota käyttöön käyttäjien sähköpostivarmistus rekisteröinnissä."
+
+msgid "Require email for social signup"
+msgstr "Vaadi sähköpostiosoite rekisteröitäessä sosiaalisen verkoston tileillä"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Vaadi sähköpostiosoite, kun käyttäjä rekisteröityy käyttäen sosiaalisen verkoston tilejä."
+
+msgid "User avatar max. filesize"
+msgstr "Käyttäjän profiilikuvan maksimikoko"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "Maksimi tiedostokoko käyttäjän profiilikuvalle. (Palvelimen hyväksymä maksimikoko on %s)"
+
+msgid "User background max. filesize"
+msgstr "Käyttäjän taustakuvan maksimikoko"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "Maksimi tiedostokoko käyttäjän taustakuvalle. (Palvelimen hyväksymä maksimikoko on %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Ota käyttöön vesileima kuvien latauksessa. Se voi olla logo tai muu kuva."
+
+msgid "Watermark user toggles"
+msgstr "Käyttäjien vesileimat"
+
+msgid "Enable watermark on guest uploads"
+msgstr "Ota vesileima käyttöön vieraiden latauksissa"
+
+msgid "Enable watermark on user uploads"
+msgstr "Ota vesileima käyttöön käyttäjien latauksissa"
+
+msgid "Enable watermark on admin uploads"
+msgstr "Ota vesileima käyttöön ylläpidon latauksissa"
+
+msgid "Watermark file toggles"
+msgstr "Tiedostojen vesileimat"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Ota vesileima käyttöön GIF kuvien latauksissa"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "Kuvan vähimmäiskoko tarvitaan vesileiman käyttöön"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Kuva, jotka on tätä pienempiä, ei vesileimata. Käytä nolla (0), jos et halua asettaa vähimmäiskokoa."
+
+msgid "Watermark image"
+msgstr "Vesileima"
+
+msgid "Watermark position"
+msgstr "Vesileiman sijainti"
+
+msgid "left top"
+msgstr "Vasemmalla ylhäällä"
+
+msgid "left center"
+msgstr "Vasemmalla keskellä"
+
+msgid "left bottom"
+msgstr "Vasemmalla alhaalla"
+
+msgid "center top"
+msgstr "Keskellä ylhäällä"
+
+msgid "center center"
+msgstr "Keskellä keskellä"
+
+msgid "center bottom"
+msgstr "Keskellä alhaalla"
+
+msgid "right top"
+msgstr "Oikealla ylhäällä"
+
+msgid "right center"
+msgstr "Oikealla keskellä"
+
+msgid "right bottom"
+msgstr "Oikealla alhaalla"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Suhteellinen sijainti vesileimalle. Ensiksi horisontaalinen ja sitten vertikaalinen kohdistus."
+
+msgid "Watermark percentage"
+msgstr "Vesileiman prosentti"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "Vesileiman prosentuaalinen koko verrattuna kohde kuvaan. Arvo 1-100."
+
+msgid "Watermark margin"
+msgstr "Vesileiman marginaali"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Marginaalit vesileiman reunoilta."
+
+msgid "Watermark opacity"
+msgstr "Vesileiman läpinäkyvyys"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "Vesileiman läpinäkyvyys lopullisessa vesileimatussa kuvassa. Arvot 0-100."
+
+msgid "Website name"
+msgstr "Verkkosivuston nimi"
+
+msgid "Website doctitle"
+msgstr "Verkkosivuston otsake"
+
+msgid "Website description"
+msgstr "Verkkosivuston kuvaus"
+
+msgid "Default time zone"
+msgstr "Oletusaikavyöhyke"
+
+msgid "Select region"
+msgstr "Valitse alue"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "Sallii kuvien, albumien ja käyttäjien etsimisen tietyllä hakulausekkeella."
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "Salli julkisesti ladattujen kuvien katselu. Tämä sallii myös kategoriat."
+
+msgid "Enables to browse images randomly."
+msgstr "Salli kuvien satunnaisen katselun."
+
+msgid "Likes"
+msgstr "Tykkäykset"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "Salli käyttäjien tykätä sisällöstä ja vaikuttaa \"Tykätyimmät\" listaukseen."
+
+msgid "Followers allows users to follow each other."
+msgstr "Salli seuraajien seurata toisiaan."
+
+msgid "Website mode"
+msgstr "Verkkosivusto"
+
+msgid "You can switch the website mode anytime."
+msgstr "Voit vaihtaa verkkosivun tilaa koska vain."
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "Mukautettu ohjaus /käyttäjänimi /jonnekin. Käytä \"/\" ohjataksesi etusivulle."
+
+msgid "Website privacy mode"
+msgstr "Verkkosivun yksityinen tila"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "Yksityinen näyttää verkkosivun vain rekisteröityneille käyttäjille"
+
+msgid "Content privacy mode"
+msgstr "Yksityinen sisältö"
+
+msgid "Force private (self)"
+msgstr "Pakota yksityiseksi (itselle)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Pakota yksityiseksi (kaikille linkin tietäville)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "Pakotettu yksityisyys ylikirjoittaa käyttäjän valitseman yksityisyysasetuksen."
+
+msgid "Make sure that you address this issue as the system relies on accurate IP detections to provide basic functionalities and to protect against spam, flooding, and brute force attacks."
+msgstr "Varmista, että käsittelet tätä ongelmaa, koska järjestelmä luottaa tarkkoihin IP-havaintoihin perustoimintojen tarjoamiseksi ja suojaamiseksi roskapostilta, tulvilta ja hyökkäyksiltä."
+
+msgid "Role"
+msgstr "Rooli"
+
+msgid "Email address"
+msgstr "Sähköpostiosoite"
+
+msgid "Play GIF"
+msgstr "Toista GIF"
+
+msgid "Do you really want to approve this image? The image will go public if you approve it."
+msgstr "Haluatko todella poistaa kaiken valitun sisällön? Tätä ei voi kumota."
+
+#, php-format
+msgid "Added to %s"
+msgstr "Lisätty kohteeseen %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Lähetetty %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Lähetetty %s"
+
+msgid "Less Exif data"
+msgstr "Vähemmän Efix tietoja"
+
+msgid "More Exif data"
+msgstr "Enemmän Exif-tietoja"
+
+msgid "Add IP ban"
+msgstr "Lisää IP esto"
+
+msgid "Upload and share your images."
+msgstr "Lähetä ja jaa kuviasi."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Vedä ja pudota minne tahansa aloittaaksesi kuvien lataamisen. %s rajoitus. Suorat kuvalinkit, BBCode- ja HTML-kuvakkeet."
+
+msgid "Sign up to unlock all the features"
+msgstr "Rekisteröidy saadaksesi käyttöön kaikki huikeat ominaisuudet"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Hallitse sisältöäsi, luo yksityisiä albumeja, muokkaa profiiliasi ja paljon muuta."
+
+msgid "Sign in with your account"
+msgstr "Kirjaudu sisään tililläsi"
+
+msgid "Logged out"
+msgstr "Kirjauduttu ulos"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Olet kirjautunut ulos palvelusta %s. Toivottavasti näemme pian uudelleen."
+
+msgid "Website under maintenance"
+msgstr "Sivusto huollossa"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Suoritamme suunnitteltuja huoltotoimenpiteitä sivustolla. Tule takaisin muutaman minuutin päästä."
+
+msgid "This content is password protected."
+msgstr "Tämä sisältö on salasanalla suojattu."
+
+msgid "Please enter your password to continue."
+msgstr "Anna salasana jatkaaksesi."
+
+msgid "Add image uploading to your website, blog or forum by installing our upload plugin. It provides image uploading to any website by placing a button that will allow your users to directly upload images to our service and it will automatically handle the codes needed for insertion. All features included like drag and drop, remote upload, image resizing and more."
+msgstr "Lisää kuvien lataus mahdollisuus verkkosivuille, blogiin tai foorumille asentamalla liitännäinen. Tämä lisää painikkeen sivuille mahdollistaen kuvien lataamisen palvelimelle ja hoitaa automaattisesti kaiken taustalla. Kaikki toiminnot saatavilla mm. kuvien lataaminen raahaamalla ja tiputtamalla, etälataus sekä kuvien kokojen automaattinen muuttaminen."
+
+msgid "Supported software"
+msgstr "Tuetut alustat"
+
+msgid "supported software"
+msgstr "tuetut alustat"
+
+#, php-format
+msgid "The plugin works in any website with user-editable content and for %sv, it will place an upload button that will match the target editor toolbar so no extra customization is needed."
+msgstr "Tämä liitännäinen toimii millä tahansa verkkosivulla, jolla käyttäjä voi muokata sisältöä. %sv latauspainike tulee näkymään automaattisesti työkalupalkissa ja ylimääräisiä muokkauksia ei siis tarvitse tehdä."
+
+msgid "Add it to your website"
+msgstr "Asentaminen"
+
+msgid "options"
+msgstr "asetuksia"
+
+#, php-format
+msgid "Copy and paste the plugin code into your website HTML code (preferably inside the head section). There are plenty %o to make it fit better to your needs."
+msgstr "Sijoita liitännäisen koodi verkkosivun HTML-koodiin (mieluiten head-osion sisään). Liitännäiseen löytyy paljon %o, joilla voit muokata sen paremmin tarpeisiisi."
+
+msgid "Basic options"
+msgstr "Asetukset"
+
+msgid "Color palette"
+msgstr "Väripaletti"
+
+msgid "Button color scheme"
+msgstr "Painikkeiden väriteema"
+
+msgid "Embed codes that will be auto-inserted in editor box"
+msgstr "Upotuskoodit, jotka tulevat automaattisesti muokkauslaatikkoon"
+
+msgid "Sibling selector"
+msgstr "Sisarvalikko"
+
+msgid "Sibling element selector where to place the button next to"
+msgstr "Sisarelementin valitsin, johon sijoitetaan vieressä oleva painike"
+
+msgid "Sibling position"
+msgstr "Sisarelementin sijainti"
+
+msgid "After"
+msgstr "Jälkeen"
+
+msgid "Before"
+msgstr "Ennen"
+
+msgid "Position relative to sibling element"
+msgstr "Asema sisarelementtiin nähden"
+
+msgid "Advanced options"
+msgstr "Edistyneet asetukset"
+
+#, php-format
+msgid "The plugin has a large set of additional options that allow full customization. You can use custom HTML, CSS, own color palette, set observers and more. Check the %d and the plugin source to get a better idea of these advanced options."
+msgstr "Tähän liitännäiseen on paljon edistyneitä muokkausasetuksia. Voit muokata mm. HTML, CSS, värejä, asettaa tarkkailijoita yms. Lue liitännäisen %d saadaksesi paremman käsityksen edistyneistä asetuksista."
+
+msgid "Valid"
+msgstr "Aktiivinen"
+
+msgid "Banned"
+msgstr "Estetty"
+
+msgid "Awaiting email"
+msgstr "Odottaa sähköpostia"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "merkkejä %i-%f<br>Kirjaimia, numeroita ja \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Latausten automaattinen poisto"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "Tämä on oletusasetus kaikkiin kuvien lataukseen. Voit muuttaa tämän asetuksen latauksen yhteydessä."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "Pidä <a %s>Exif tiedot</a> kuvan latauksessa"
+
+msgid "Newsletter"
+msgstr "Uutiskirje"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Lähetä minulle uutissähköposteja %s aiheesta"
+
+msgid "Content settings"
+msgstr "Sisältöasetukset"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Näytä (muiden käyttäjien) sopimatonta sisältöä listauksissa"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Timezone"
+msgstr "Aikavyöhyke"
+
+msgid "User has no connections."
+msgstr "Käyttäjällä ei ole yhteyksiä."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Haluatko varmasti katkaista yhteyden %s käyttäjätunnukselta?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Tämä käyttäjätunnus on yhdistetty palveluun %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Haluatko varmasti katkaista yhteyden %s käyttäjätunnuksella?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Sinut kirjataan ulos etkä voi enää kirjautua sisään %s käyttäjätunnuksella."
+
+msgid "Button"
+msgstr "Painike"
+
+msgid "Current password"
+msgstr "Nykyinen salasana"
+
+msgid "Enter your current password"
+msgstr "Kirjoita nykyinen salasanasi"
+
+msgid "New password"
+msgstr "Uusi salasana"
+
+msgid "Confirm new password"
+msgstr "Varmista uusi salasana"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Lisää salasana, jotta voit kirjautua myös käyttäjänimelläsi tai sähköpostillasi."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Tällä käyttäjällä ei ole salasanaa. Lisää sellainen käyttäen tätä lomaketta."
+
+msgid "Enter your password"
+msgstr "Syötä salasanasi"
+
+msgid "Confirm password"
+msgstr "Salasana uudelleen"
+
+msgid "Re-enter your password"
+msgstr "Kirjoita salasanasi uudelleen"
+
+msgid "Make my profile and identity totally private"
+msgstr "Tee profiilistani ja identiteetistäni täysin yksityinen"
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "Ota tämä käyttöön, jos haluat näkyä kuin anonyymi käyttäjä"
+
+msgid "This is your real name, not your username."
+msgstr "Tämä on oikea nimesi, ei käyttäjänimesi."
+
+msgid "Tell us a little bit about you"
+msgstr "Kerro meille hieman sinusta"
+
+msgid "Login"
+msgstr "Kirjaudu"
+
+#, php-format
+msgid "Already have an account? %s now."
+msgstr "Onko sinulla jo tunnus? %s nyt."
+
+msgid "resend account activation"
+msgstr "Lähetä uudelleen aktivointiviesti"
+
+#, php-format
+msgid "If you have already signed up maybe you need to request to %s to activate your account."
+msgstr "Om du redan har registrerat dig måste du kanske begära %s för att aktivera ditt konto."
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "Olen vähintään %s vuotta vanha"
+
+msgid "Upload profile background"
+msgstr "Lähetä profiilin taustakuva"
+
+msgid "Change background"
+msgstr "Vaihda taustakuva"
+
+msgid "Upload new image"
+msgstr "Lähetä uusi kuva"
+
+msgid "Delete background"
+msgstr "Poista taustakuva"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Seuraaja"
+msgstr[1] "Seuraajaa"
+
+msgid "Follow"
+msgstr "Seuraa"
+
+msgid "General questions/comments"
+msgstr "Yleiset kysymykset/kommentit"
+
+msgid "DMCA complaint"
+msgstr "Tekijänoikeusrikkomus"
+
+msgid "Invalid message"
+msgstr "Virheellinen viesti"
+
+msgid "Invalid subject"
+msgstr "Virheellinen aihe"
+
+msgid "Message sent"
+msgstr "Viesti lähetetty"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Viesti lähetetty. Olemme sinuun yhteydessä pian."
+
+msgid "If you want to send a message fill the form below."
+msgstr "Ota yhteyttä alla olevan lomakkeen kautta."
+
+msgid "Your name"
+msgstr "Nimi"
+
+msgid "Subject"
+msgstr "Aihe"
+
+msgid "Send"
+msgstr "Lähetä"
+

@@ -1,0 +1,2840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Anda telah diblokir dari website ini."
+
+msgid "View all my images"
+msgstr "Tampilkan semua gambarku"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Silahkan mencari dan menemukan semua gambar dan album yang saya bagikan."
+
+msgid "Recent"
+msgstr "Baru-baru ini"
+
+msgid "Trending"
+msgstr "Tren"
+
+msgid "Popular"
+msgstr "Populer"
+
+msgid "Animated"
+msgstr "Beranimasi"
+
+msgid "Request denied"
+msgstr "Permintaan ditolak"
+
+msgid "terms"
+msgstr "ketentuan"
+
+msgid "privacy policy"
+msgstr "kebijakan privasi"
+
+msgid "That page doesn't exist"
+msgstr "Halaman tersebut tidak tersedia."
+
+#, php-format
+msgid "Page %s"
+msgstr "Laman %s"
+
+msgid "Forgot password?"
+msgstr "Lupa password anda?"
+
+msgid "Reset password"
+msgstr "atur ulang password"
+
+msgid "Resend account activation"
+msgstr "Kirim kembali kode aktivasi"
+
+msgid "Add your email address"
+msgstr "Masukkan alamat email anda"
+
+msgid "Awaiting confirmation"
+msgstr "Menunggu konfirmasi"
+
+msgid "Email changed"
+msgstr "Email telah berubah"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s bilang kamu adalah robot"
+
+msgid "Invalid Username/Email"
+msgstr "Username/Email tidak sah"
+
+msgid "User doesn't have an email."
+msgstr "Pengguna tidak memiliki email"
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Akun perlu untuk diaktivasi agar bisa menggunakan fitur ini"
+
+msgid "Account already activated"
+msgstr "Akun telah diaktivasi"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Tunggu sampai 15 menit untuk email. Anda bisa mencoba lagi nanti."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Reset password anda di %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Konfirmasi diperlukan di %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Selamat datang di %s"
+
+msgid "Invalid password"
+msgstr "Password salah"
+
+msgid "Passwords don't match"
+msgstr "Password tidak cocok"
+
+msgid "Invalid email"
+msgstr "Email tidak benar"
+
+msgid "Email already being used"
+msgstr "Email telah digunakan"
+
+msgid "Check the errors in the form to continue."
+msgstr "Periksa kesalahan pada kotak isian untuk melanjutkan"
+
+msgid "Password required"
+msgstr "Kata sandi diperlukan"
+
+msgid "Embed codes"
+msgstr "Kode cantumkan"
+
+msgid "%a album hosted in %w"
+msgstr "%a album disimpan di %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "gambar"
+
+msgid "Stats"
+msgstr "Status"
+
+msgid "Images"
+msgstr "Foto"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Pengguna"
+
+msgid "Bulk importer"
+msgstr "Import massal"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Content"
+msgstr "Isi"
+
+msgid "Listings"
+msgstr "Daftar"
+
+msgid "Image upload"
+msgstr "Foto diunggah"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "System"
+msgstr "sistem"
+
+msgid "Languages"
+msgstr "Bahasa"
+
+msgid "Email"
+msgstr "Surel"
+
+msgid "Tools"
+msgstr "Alat-alat"
+
+msgid "External storage"
+msgstr "Penyimpanan tambahan"
+
+msgid "Homepage"
+msgstr "Halaman muka"
+
+msgid "Pages"
+msgstr "Laman"
+
+msgid "Routing"
+msgstr "Pengarahan"
+
+msgid "External services"
+msgstr "Layanan tambahan"
+
+msgid "Upload plugin"
+msgstr "Unggah plugin"
+
+msgid "Consent screen"
+msgstr "Layar kesepakatan"
+
+msgid "Flood protection"
+msgstr "Anti penggembosan"
+
+msgid "Banners"
+msgstr "banner"
+
+msgid "IP bans"
+msgstr "Blokir IP"
+
+msgid "Watermarks"
+msgstr "Tanda air"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "Support"
+msgstr "Dukungan"
+
+msgid "Community"
+msgstr "Komunitas"
+
+msgid "install update"
+msgstr "Pasang pembaharuan"
+
+msgid "Max. upload file size"
+msgstr "Ukuran unggah berkas maks."
+
+msgid "Rebuild stats"
+msgstr "Bangun kembali statistik"
+
+msgid "Connecting IP"
+msgstr "Menghubungkan IP"
+
+msgid "Not your IP?"
+msgstr "Bukan IP Anda?"
+
+msgid "PHP version"
+msgstr "Versi PHP"
+
+msgid "MySQL version"
+msgstr "Versi MySQL"
+
+msgid "MySQL server info"
+msgstr "Informasi server MySQL"
+
+msgid "File uploads"
+msgstr "Mengunggah berkas"
+
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+msgid "Disabled"
+msgstr "Dinonaktifkan"
+
+msgid "Max. execution time"
+msgstr "Waktu maks. eksekusi"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d detik"
+
+msgid "Memory limit"
+msgstr "Batas memori"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Tidak dapat menghapus semua gambar sampul halaman muka."
+
+msgid "Homepage cover image deleted"
+msgstr "Gambar halaman muka dihapus"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "External"
+msgstr "Tambahan"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "search content"
+msgstr "cari konten"
+
+msgid "Add page"
+msgstr "Tambah laman"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Ubah halaman ID %s"
+
+msgid "The page has been added successfully."
+msgstr "Halaman telah berhasil ditambahkan."
+
+msgid "The page has been deleted."
+msgstr "Halaman telah dihapus."
+
+msgid "homepage"
+msgstr "beranda"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "Sebelum judul utama (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "Setelah panggilan untuk melakukan (%s)"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "Setelah sampul (%s)"
+
+#, php-format
+msgid "After listing (%s)"
+msgstr "Setelah pendaftaran (%s)"
+
+msgid "Before pagination"
+msgstr "Sebelum nomor halaman"
+
+msgid "After pagination"
+msgstr "Setelah nomor halaman"
+
+msgid "Content (image and album)"
+msgstr "Konten (gambar dan album)"
+
+msgid "Tab about column"
+msgstr "Kolom tab tentang"
+
+msgid "Before comments"
+msgstr "Sebelum komentar"
+
+msgid "Image page"
+msgstr "Halaman gambar"
+
+msgid "Inside viewer top (image page)"
+msgstr "Didalam atas penonton (halaman gambar)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "Didalam kaki penonton (halaman gambar)"
+
+msgid "After image viewer (image page)"
+msgstr "Setelah penampil gambar (halaman gambar)"
+
+msgid "Before header (image page)"
+msgstr "Sebelum judul (halaman gambar)"
+
+msgid "After header (image page)"
+msgstr "Setelah judul (halaman gambar)"
+
+msgid "Footer (image page)"
+msgstr "Kaki (halaman gambar)"
+
+msgid "User profile page"
+msgstr "Halaman profil pengguna"
+
+msgid "After top (user profile)"
+msgstr "Setelah teratas (profil pengguna)"
+
+msgid "Before listing (user profile)"
+msgstr "Sebelum pendaftaran (profil pengguna)"
+
+msgid "Explore"
+msgstr "Jelajahi"
+
+msgid "Invalid website name"
+msgstr "Nama website tidak sah"
+
+msgid "Invalid language"
+msgstr "Bahasa tidak sah"
+
+msgid "Invalid timezone"
+msgstr "Zona waktu tidak sah"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "Nilai tidak valid: %s"
+
+msgid "Invalid upload storage mode"
+msgstr "Mode penyimpanan upload tidak valid"
+
+msgid "Invalid upload filenaming"
+msgstr "Unggah penamaan tidak valid"
+
+msgid "Invalid thumb width"
+msgstr "lebar gambar kecil tidak valid"
+
+msgid "Invalid thumb height"
+msgstr "Tinggi gambar kecil tidak valid"
+
+msgid "Invalid medium size"
+msgstr "Ukuran medium tidak valid"
+
+msgid "Invalid watermark percentage"
+msgstr "Presentasi tanda air tidak valid"
+
+msgid "Invalid watermark opacity"
+msgstr "Kegelapan tanda air tidak valid"
+
+msgid "Invalid theme"
+msgstr "Tema tidak sah"
+
+msgid "Invalid value"
+msgstr "Isi tidak sah"
+
+msgid "Invalid theme image listing size"
+msgstr "Ukuran tema pendaftaran gambar tidak valid"
+
+msgid "Invalid user id"
+msgstr "Id user salah"
+
+msgid "Invalid email mode"
+msgstr "Mode email tidak benar"
+
+msgid "Invalid SMTP port"
+msgstr "Port SMTP salah"
+
+msgid "Invalid SMTP security"
+msgstr "Pengaman SMTP salah"
+
+msgid "Invalid website mode"
+msgstr "Mode website salah"
+
+msgid "Invalid personal mode user ID"
+msgstr "Mode pribadi ID pengguna tidak valid"
+
+msgid "Invalid or reserved route"
+msgstr "Tidak valid atau dilindungi"
+
+msgid "Invalid website privacy mode"
+msgstr "mode privasi website tidak valid"
+
+msgid "Invalid website content privacy mode"
+msgstr "Mode privasi konten website tidak valid"
+
+msgid "Invalid homepage style"
+msgstr "gaya beranda tidak valid"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Panggilan beranda untuk warna tombol aksi tidak valid"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Fungsionalitas panggilan ke tindakan beranda tidak valid"
+
+msgid "Invalid title"
+msgstr "Judul tidak valid"
+
+msgid "Invalid status"
+msgstr "Status tidak valid"
+
+msgid "Invalid type"
+msgstr "Tipe tidak valid"
+
+msgid "Invalid visibility"
+msgstr "Visibilitas tidak valid"
+
+msgid "Invalid internal type"
+msgstr "Jenis internal tidak valid"
+
+msgid "Invalid target attribute"
+msgstr "Atribut sasaran tidak valid"
+
+msgid "Invalid rel attribute"
+msgstr "Atribut rel tidak valid"
+
+msgid "Invalid icon"
+msgstr "Ikon tidak valid"
+
+msgid "Invalid URL key"
+msgstr "Kunci URL tidak valid"
+
+msgid "Invalid file path"
+msgstr "Jalur file tidak valid"
+
+msgid "Invalid link URL"
+msgstr "URL tautan tidak valid"
+
+msgid "Invalid user minimum age"
+msgstr "Usia minimal pengguna tidak valid"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "Hanya karakter alfanumerik, tanda hubung dan garis bawah yang diperbolehkan"
+
+msgid "Invalid URL"
+msgstr "URL tidak valid"
+
+msgid "Invalid key"
+msgstr "Kunci tidak sesuai"
+
+msgid "Routes can't be the same"
+msgstr "Pengarahan tidak boleh sama"
+
+msgid "Invalid upload image path"
+msgstr "Jalur upload gambar tidak valid"
+
+msgid "Invalid call to action URL"
+msgstr "Panggilan tidak valid untuk aksi URL"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Maks. diperbolehkan %s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "Tidak dapat memetakan %m ke folder yang telah ada (%f)"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "Tidak dapat memetakan %m ke rute yang telah ada (%r)"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "Tidak dapat memetakan %m ke %r (tubrukan nama pengguna)"
+
+msgid "Invalid SMTP server"
+msgstr "Server SMTP tidak valid"
+
+msgid "Invalid SMTP username"
+msgstr "username SMTP tidak valid"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "Kunci URL ini telah digunakan oleh halaman lainnya (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Jalur file ini telah digunakan oleh halaman lainnya (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Tidak dapat menyimpan isi halaman: %s"
+
+msgid "Dashboard"
+msgstr "Beranda"
+
+msgid "Following"
+msgstr "Mengikuti"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "Image ID"
+msgstr "ID Gambar"
+
+msgid "Upload date"
+msgstr "Tanggal upload"
+
+msgid "Image %i in %a album"
+msgstr "Gambar %i di album %a"
+
+msgid "Image %i in %c category"
+msgstr "Gambar %i di Kategori %c"
+
+msgid "Image %i hosted in %w"
+msgstr "Gambar %i tersimpan di %w"
+
+msgid "Direct links"
+msgstr "Tautan langsung"
+
+msgid "Image link"
+msgstr "Tautan gambar"
+
+msgid "Image URL"
+msgstr "URL gambar"
+
+msgid "Thumbnail URL"
+msgstr "URL sketsa"
+
+msgid "Medium URL"
+msgstr "URL sedang"
+
+msgid "Full image"
+msgstr "Gambar penuh"
+
+msgid "Full image (linked)"
+msgstr "Gambar penuh (terhubung)"
+
+msgid "Medium image (linked)"
+msgstr "Gambar medium (terhubung)"
+
+msgid "Thumbnail image (linked)"
+msgstr "Gambar kecil (terhubung)"
+
+msgid "Start uploading"
+msgstr "Mulai mengunggah"
+
+msgid "Login needed"
+msgstr "Login dibutuhkan"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Gambar"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "IP address already banned"
+msgstr "Alamat IP telah di blokir"
+
+msgid "Missing values"
+msgstr "Nilai yang hilang"
+
+msgid "Invalid username"
+msgstr "Username tidak benar"
+
+msgid "Invalid role"
+msgstr "Peran tidak valid"
+
+msgid "Username already being used"
+msgstr "Username talah digunakan"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "Tambahkan sebuah kata sandi atau sambungan sosial lainnya sebelum menghapus %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "Tambakan sebuah email atau atau sambungan sosial lainnya sebelum menghapus %s"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s telah terputus."
+
+msgid "Test email from %s @ %t"
+msgstr "Email percobaan dari %s @%t"
+
+msgid "This is just a test"
+msgstr "Ini hanya sebuah percobaan"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Email percobaan telah terkirim ke %s."
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "Mengunduh data %s"
+
+msgid "Content liked"
+msgstr "Konten disukai"
+
+msgid "Content disliked"
+msgstr "Konten tidak disukai"
+
+msgid "%u liked your %t %c"
+msgstr "%u menyukai %t %c anda"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u kini mengikuti anda"
+
+msgid "A private user"
+msgstr "Pengguna pribadi"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Kombinasi Username/password email salah"
+
+msgid "Sign in"
+msgstr "Masuk"
+
+msgid "Upload images"
+msgstr "Unggah gambar"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Account"
+msgstr "Akun"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Kata sandi"
+
+msgid "Powered by"
+msgstr "Dipersembahkan oleh"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "Kadaluarsa gambar tidak valid: %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "Sebuah email telah terrkirim ke %s dengan instruksi untuk mengaktifkan email ini"
+
+msgid "Invalid name"
+msgstr "Nama tidak valid"
+
+msgid "Invalid website"
+msgstr "Website tidak valid"
+
+msgid "Spam detected"
+msgstr "Spam terdeteksi"
+
+msgid "Wrong password"
+msgstr "Kata sandi salah"
+
+msgid "Use a new password"
+msgstr "Gunakan password baru"
+
+msgid "Changes have been saved."
+msgstr "Perubahan telah disimpan."
+
+msgid "Password has been changed"
+msgstr "Kata sandi telah diubah"
+
+msgid "Password has been created."
+msgstr "Password telah dibuat"
+
+msgid "Wrong Username/Email values"
+msgstr "Nilai Nama pengguna/Email salah"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Pengaturan untuk %s"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "Delete user"
+msgstr "Menghapus pengguna"
+
+msgid "User ID"
+msgstr "ID pengguna"
+
+msgid "Register date"
+msgstr "Tanggal pendaftaran"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "Anda harus menyetujui persyaratan dan kebijakan privasi"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "Anda paling tidak harus berumur %s tahun untuk bisa menggunakan website ini."
+
+msgid "Create account"
+msgstr "Buat akun"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "Albums"
+msgstr "Album"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "Disukai oleh %s"
+
+msgid "Liked"
+msgstr "Disukai"
+
+msgid "Followers"
+msgstr "Pengikut"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) album pada %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) pada %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album"
+
+msgid "Flooding detected. You can only upload %limit% %content% per %time%"
+msgstr "Flooding terdeteksi. Anda hanya dapat mengunggah %limit% %content% per %time%"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Catatan: Konten ini bersifat pribadi namun siapapun yang memiliki tautan dapat melihat ini."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Catatan: Konten ini dilindungi kata sandi.\nIngat untuk melewati konten dengan kata sandi untuk dibagikan."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "Catatan: Ini konten pribadi. Ubah privasi ke \"Umum\" untuk membagikan."
+
+msgid "Private"
+msgstr "Pribadi"
+
+msgid "Public"
+msgstr "Umum"
+
+msgid "Me"
+msgstr "Aku"
+
+msgid "Link"
+msgstr "Tautan"
+
+msgid "After %n %t"
+msgstr "Setelah %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "menit"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "jam"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "hari"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "minggu"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "bulan"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "tahun"
+
+msgid "Don't autodelete"
+msgstr "Jangan hapus otomatis"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "Tidak dapat membuka %s untuk ditulis"
+
+msgid "Duplicated upload"
+msgstr "Gandakan unggahan"
+
+msgid "Private upload"
+msgstr "Unggahan pribadi"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "dilihat"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "suka"
+
+msgid "Most recent"
+msgstr "Terbaru"
+
+msgid "Oldest"
+msgstr "Terlama"
+
+msgid "Most viewed"
+msgstr "Paling dilihat"
+
+msgid "Most liked"
+msgstr "Paling disukai"
+
+msgid "People"
+msgstr "Orang"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Tidak dapat membuat direktori tujuan %s"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Kapasitas penyimpanan tidak bisa lebih rendah dari penggunaan sekarang (%s)."
+
+msgid "Unlimited"
+msgstr "Tanpa batasan"
+
+msgid "used"
+msgstr "digunakan"
+
+msgid "Private profile"
+msgstr "Profil pribadi"
+
+msgid "Share"
+msgstr "Bagikan"
+
+#, php-format
+msgid "view on %s"
+msgstr "Ditampilkan pad %s"
+
+msgid "cookie policy"
+msgstr "kebijakan cookie"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "Kami menggunakan cookie kami sendiri dan pihak ketiga untuk meningkatkan pengalaman menjelajah Anda dan layanan kami. Jika Anda terus menggunakan situs web kami, dipahami bahwa Anda menerima ini %cookie_policy_link."
+
+msgid "I understand"
+msgstr "Saya mengerti"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "detik"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+msgid "moments ago"
+msgstr "beberapa waktu lalu"
+
+msgid "Discovery"
+msgstr "Penemuan"
+
+msgid "Random"
+msgstr "Acak"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Advanced search"
+msgstr "Pencarian lanjutan"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Pemberitahuan (%s)"
+
+msgid "Notifications"
+msgstr "Notifikasi"
+
+msgid "loading"
+msgstr "menunggu"
+
+msgid "You don't have notifications"
+msgstr "Anda tidak memiliki notifikasi"
+
+msgid "My Profile"
+msgstr "Profil ku"
+
+msgid "Manager"
+msgstr "Pengelola"
+
+msgid "Sign out"
+msgstr "Keluar"
+
+msgid "You must enter the album name."
+msgstr "Anada harus mengisi nama album."
+
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+msgid "Select existing album"
+msgstr "Pilih album yang telah ada"
+
+msgid "An error occurred. Please try again later."
+msgstr "Terjadi sebuah kesalahan. Harap coba lagi lain kali."
+
+msgid "Please select a valid image file type."
+msgstr "Silakan pilih tipe berkas yang benar."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Silakan pilih gambar dengan ukuran %s ."
+
+msgid "Profile image updated."
+msgstr "Gambar profil baru saja diperbaharui."
+
+msgid "Profile background image updated."
+msgstr "Gambar latar belakang baru saja diperbaharui."
+
+msgid "Profile background image deleted."
+msgstr "Gambar latar belakang baru saja dihapus."
+
+msgid "Error deleting profile background image."
+msgstr "Gagal menghapus gambar latar belakang di profil."
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "Pembaruan yang tersedia v%s"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "Situs web ini menjalankan versi %s terbaru"
+
+msgid "Like"
+msgstr "Suka"
+
+msgid "Create album"
+msgstr "Buat album"
+
+msgid "Approve"
+msgstr "Diterima"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Previous"
+msgstr "Sebelumnya"
+
+msgid "Next"
+msgstr "Berikutnya"
+
+msgid "File too big."
+msgstr "Berkas terlalu besar."
+
+msgid "Invalid or unsupported file format."
+msgstr "Format berkas tidak valid atau tidak didukung."
+
+msgid "Some files couldn't be added"
+msgstr "Beberapa berkas tidak dapat ditambahkan."
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "Album %s"
+
+msgid "Image edited successfully."
+msgstr "Gambar berhasil diubah."
+
+msgid "private"
+msgstr "pribadi"
+
+msgid "The content has been edited."
+msgstr "Isi telah diubah."
+
+msgid "Invalid URL key."
+msgstr "URL key tidak benar."
+
+msgid "Category URL key already being used."
+msgstr "Kategori URL key telah digunakan."
+
+msgid "Category successfully deleted."
+msgstr "Kategori berhasil dihapus."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "Kategori %s telah ditambahkan."
+
+msgid "Invalid expiration date."
+msgstr "Tanggal kadaluarsa tidak benar."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP %s telah diblokir."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP %s diblokir."
+
+msgid "IP ban successfully deleted."
+msgstr "Larangan terhadap IP telah dihapus dari daftar."
+
+msgid "Please fill all the required fields."
+msgstr "Silakan isi semua kolom yang dibutuhkan."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Kapasitas penyimpanan tidak benar. Pastikan menggunakan bentuk yang baku."
+
+msgid "Invalid URL."
+msgstr "URL tidak benar."
+
+msgid "Storage successfully edited."
+msgstr "Kapasitas penyimpanan berhasil diubah."
+
+msgid "The content has been deleted."
+msgstr "Konten telah dihapus."
+
+msgid "The content has been moved."
+msgstr "Isi telah dipindahkan."
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Unselect"
+msgstr "Buang seleksi"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Semua perubahan yang dibuat akan hilang jika anda teruskan tindakan ini"
+
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+msgid "Submit"
+msgstr "Kirimkan"
+
+msgid "Changes saved successfully."
+msgstr "Perubahan telah disimpan"
+
+msgid "Go back to form"
+msgstr "Kembali ke formulir"
+
+msgid "or"
+msgstr "atau"
+
+msgid "continue anyway"
+msgstr "lanjutkan saja"
+
+msgid "cancel"
+msgstr "batal"
+
+msgid "Saving"
+msgstr "Sedang menyimpan"
+
+msgid "Sending"
+msgstr "Sedang mengirim"
+
+msgid "Confirm action"
+msgstr "Konfirmasi tindakan"
+
+msgid "information"
+msgstr "informasi"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Kami menerima sebuah permintaan untuk mengganti email dari <a href=\"%u\">%n</a> akun pada %w"
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "Untuk menyelesaikan langkah anda harus  <a href=\"%s\">mengaktivasi email anda</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Atau anda dapat menyalin dan menempel URL ke browser anda: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Jika anda tidak melakukan hal ini abaikan pesan ini."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Permintaan ini diminta dari IP: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Kami menerima sebuah permintaan pendaftaran akun %n pada %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "Untuk menyelesaikan langkah anda harus  <a href=\"%s\">mengaktivasi email anda</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Kami menerima sebuah permintaan untuk mengganti kata sandi untuk <a href=\"%u\">%n</a> akun anda."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "Untuk mengganti kata sandi  <a href=\"%s\">ikuti tautan ini</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Hi %n, Selamat datang ke %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Akun anda kini telah siap anda dapat mengunggah gambar, membuat album tan mengatur privasi dari akun anda sebaik banyak hal yang akan ada temukan."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Ngomong-ngomong, ini merupakan halaman profil anda yang mengagumkan: <a href=\"%u\">%n</a>. Lanjutkan dan sesuaikan, Itu milik anda!."
+
+msgid "Thank you for joining"
+msgstr "Terima kasih telah bergaung"
+
+msgid "This email was sent from %w %u"
+msgstr "Email ini dikirm dari %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "Tarik dan lepas atau tempel gambar disini untuk mengunggah"
+
+msgid "Select the images to upload"
+msgstr "Pilih gambar untuk mengunggah"
+
+msgid "You can also %i or %u."
+msgstr "Anda dapat %i atau %u."
+
+#, php-format
+msgid "You can also %s."
+msgstr "Anda juga dapat %s."
+
+msgid "browse from your computer"
+msgstr "cari dari komputer anda"
+
+msgid "add image URLs"
+msgstr "tambah URL gambar"
+
+msgid "You can also %i, %c or %u."
+msgstr "Anda juga dapat %i, %c atau %u."
+
+msgid "browse from your device"
+msgstr "telusuri dari perangkat Anda"
+
+msgid "take a picture"
+msgstr "ambil sebuah gambar"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "Daftar untuk mendapatkan %s"
+
+msgid "Uploading %q %o"
+msgstr "Mengunggah %q %o"
+
+msgid "complete"
+msgstr "selesai"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "Antrian sedang diunggah, hal ini harusnya berlangsung beberapa saat untuk selesai."
+
+msgid "Upload complete"
+msgstr "Upload selesai"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "Konten terunggah ditambahkan ke %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "Anda dapat %c dengan konten yang baru saja terunggah atau %m."
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "Anda dapat %c dengan konten yang baru saja terunggah."
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "Anda harus %s atau %l untuk menyimpan konten ini ke akun Anda."
+
+msgid "create an account"
+msgstr "buat sebuah akun"
+
+msgid "sign in"
+msgstr "masuk"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "tidak ada %s yang barus saja terunggah"
+
+msgid "Sign up"
+msgstr "Mendaftar"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s tidak dapat mengkostumisasi atau mematikan hapus gambar otomatis."
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Tandai ini jika upload tidak aman untuk keluarga"
+
+msgid "Not family safe upload"
+msgstr "Upload tidak aman untuk keluarga"
+
+msgid "Uploading"
+msgstr "mengunggah"
+
+msgid "cancel remaining"
+msgstr "batalkan sisanya"
+
+msgid "learn more"
+msgstr "pelajari lebih banyak"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Periksa <a data-modal=\"simple\" data-target=\"failed-upload-result\">laporan kesalahan</a> untuk informasi lebih lanjut."
+
+msgid "reset"
+msgstr "atur ulang"
+
+msgid "copy"
+msgstr "salin"
+
+msgid "insert"
+msgstr "memasukkan"
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "optional"
+msgstr "pilihan"
+
+msgid "Resize image"
+msgstr "Ubah ukuran gambar"
+
+msgid "Width"
+msgstr "Lebar"
+
+msgid "Height"
+msgstr "Tinggi"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "Catatan: Gambar animasi GIF tidak bisa di ubah ukuran."
+
+msgid "Mark this if the image is not family safe"
+msgstr "Tandai ini jika gambar tidak aman untuk keluarga"
+
+msgid "Flag as unsafe"
+msgstr "Tandai sebagai tidak aman"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Add image URLs"
+msgstr "Tambahkan URL gambar"
+
+msgid "Add the image URLs here"
+msgstr "Tambahkan URL gambar disini"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "Konten yang diunggah akan dipindahkan ke album yang baru dibuat ini."
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "Anda harus %s atau %l jika ingin mengedit album ini nanti."
+
+msgid "Error report"
+msgstr "Laporan error"
+
+msgid "Links"
+msgstr "Tautan"
+
+msgid "Direct"
+msgstr "Langsung"
+
+msgid "HTML Codes"
+msgstr "Kode HTML"
+
+msgid "HTML image"
+msgstr "Gambar HTML"
+
+msgid "HTML full linked"
+msgstr "Tautan penuh HTML"
+
+msgid "HTML medium linked"
+msgstr "Tautan medium HTML"
+
+msgid "HTML thumbnail linked"
+msgstr "Tautan gambar kecil HTML"
+
+msgid "BBCodes"
+msgstr "BBcode"
+
+msgid "BBCode full"
+msgstr "BBcode penuh"
+
+msgid "BBCode full linked"
+msgstr "Tautan BBcode penuh"
+
+msgid "BBCode medium linked"
+msgstr "Tautan BBcode sedang"
+
+msgid "BBCode thumbnail linked"
+msgstr "Tautan BBcode gambar kecil"
+
+msgid "Markdown full"
+msgstr "Markdown penuh"
+
+msgid "Markdown full linked"
+msgstr "Markdown penuh terhubung"
+
+msgid "Markdown medium linked"
+msgstr "Markdown sedang terhubung"
+
+msgid "Markdown thumbnail linked"
+msgstr "Thumbnail Markdown ditambahkan"
+
+msgid "Viewer links"
+msgstr "Penonton tautan"
+
+msgid "All these words"
+msgstr "Semua kata ini"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Ketik kata-kata penting: tri-warna tikus terrier"
+
+msgid "This exact word or phrase"
+msgstr "Kata atau farsa tertentu ini"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Berikan kata yang tepat dalam tanda kutip: \"sejenis tikus\""
+
+msgid "None of these words"
+msgstr "Tak satu pun dari kata-kata ini"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Berikan tanda minus sebelum kata yang tidak anda inginkan: -hewan pengerat -\"Jack Russell\""
+
+msgid "Storage"
+msgstr "Penyimpanan"
+
+msgid "IP address"
+msgstr "Alamat IP"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Privacy"
+msgstr "Privasi"
+
+msgid "Who can view this content"
+msgstr "Siapa yang bisa melihat konten ini"
+
+msgid "Private (just me)"
+msgstr "Pribadi (hanya saya)"
+
+msgid "Private (anyone with the link)"
+msgstr "Pribadi (siapapun yang memiliki tautan)"
+
+msgid "Private (password protected)"
+msgstr "Privat (dilindungi kata sandi)"
+
+msgid "URL key"
+msgstr "Kunci URL"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "hanya huruf, nomor dan tanda hubung"
+
+msgid "Path"
+msgstr "Jalur"
+
+msgid "Local path (absolute)"
+msgstr "Jalur lokal (absolut)"
+
+msgid "Directory structure"
+msgstr "Struktur direktori"
+
+msgid "Parse top level folders as users (username)"
+msgstr "Parse folder tingkat atas sebagai pengguna (nama pengguna)"
+
+msgid "Parse top level folders as albums"
+msgstr "Parse folder tingkat atas sebagai album"
+
+msgid "Don't parse folders"
+msgstr "Jangan parse folder"
+
+msgid "When parsing top level folders as users, second level folders will be parsed as user albums. Parsing top level folders as albums adds these as guest albums."
+msgstr "Saat mem-parsing folder tingkat atas sebagai pengguna, folder tingkat kedua akan diurai sebagai album pengguna. Memilah folder tingkat atas saat album menambahkan ini sebagai album tamu."
+
+msgid "You can use wildcard * characters."
+msgstr "Anda dapat menggunakan karakter wildcard *."
+
+msgid "Expiration date"
+msgstr "Tanggal kadaluarsa"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "TTTT-BB-HH JJ-MM-DD"
+
+msgid "Example"
+msgstr "Contoh"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Sampai kapan alamat IP ini diblokir? Biarkon kosong jika tidak ada kadaluarsa"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Pesan teks, HTML atau sebuah URL pengarahan"
+
+msgid "Storage name"
+msgstr "Nama penyimpanan"
+
+msgid "Storage region"
+msgstr "Region Penyimpanan"
+
+msgid "Storage bucket"
+msgstr "Keranjang penyimpanan"
+
+msgid "Key"
+msgstr "Kunci"
+
+msgid "Storage key"
+msgstr "Kunci penyimpanan"
+
+msgid "Secret"
+msgstr "Rahasia"
+
+msgid "Storage secret"
+msgstr "Rahasia Penyimpanan"
+
+msgid "Private key"
+msgstr "Kunci pribadi"
+
+msgid "Google Cloud JSON key"
+msgstr "Kunci JSON Google Cloud"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Anda memerlukan sebuah <a %s>layanan akun</a> untuk hal ini."
+
+msgid "Service name"
+msgstr "Nama layanan"
+
+msgid "Identity URL"
+msgstr "Identitas URL"
+
+msgid "Container"
+msgstr "Isi"
+
+msgid "Storage container"
+msgstr "Isi penyimpanan"
+
+msgid "Tenant id"
+msgstr "ID Penyewa"
+
+msgid "Tenant id (account id)"
+msgstr "ID Penyewa (id akun)"
+
+msgid "Tenant name"
+msgstr "Nama Penyewa"
+
+msgid "Tenant name (account name)"
+msgstr "Nama Penyewa (nama akun)"
+
+msgid "Storage endpoint"
+msgstr "Titik akhir penyimpanan"
+
+msgid "Server address"
+msgstr "Alamat server"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Hostname atau IP server penyimpanan"
+
+msgid "Server path"
+msgstr "Jalur server"
+
+msgid "Server login"
+msgstr "Login server"
+
+msgid "Server password"
+msgstr "Kata sandi Server"
+
+msgid "Local path"
+msgstr "Jalur lokal"
+
+msgid "Storage capacity"
+msgstr "Ukuran penyimpanan"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Contoh: 20 GB, 1 TB, dll."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "Penyimpanan ini akan dinonaktifkan ketika telah menyampai kapasitas ini. Biarkan kosong atau nol untuk tidak membatasi."
+
+msgid "Storage URL"
+msgstr "URL penyimpanan"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "Sistem akan memetakan gambar ke penyimnanan ini untuk URL ini."
+
+msgid "view more"
+msgstr "tampilkan lebih banyak"
+
+msgid "Load more"
+msgstr "Muat lebih banyak"
+
+msgid "Actions"
+msgstr "Tindakan"
+
+msgid "Get embed codes"
+msgstr "Dapatkan kode sematkan"
+
+msgid "Flag as safe"
+msgstr "Tandai aman"
+
+msgid "Select all"
+msgstr "Pilih Semua"
+
+msgid "Clear selection"
+msgstr "Hapus pilihan"
+
+msgid "Sign in with another account"
+msgstr "Masuk dengan akun lain"
+
+msgid "Home"
+msgstr "Beranda"
+
+msgid "There's nothing to show here."
+msgstr "Tidak ada yang ditampilkan disini."
+
+msgid "There is no categories."
+msgstr "Tidak ada kategori."
+
+msgid "Confirm flag content as safe"
+msgstr "Konfirmasi penandaan konten sebagai aman"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Apakah anda yakin menandai konten ini aman?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Konfirmasi penandaan tidak aman"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Apakah anda yakin menandai konten ini tidak aman?"
+
+msgid "Confirm deletion"
+msgstr "Konfirmasi penghapusan"
+
+msgid "Guest"
+msgstr "Tamu"
+
+msgid "Keyboard shortcuts"
+msgstr "Pintasan keyboard"
+
+msgid "Private album"
+msgstr "Album pribadi"
+
+msgid "Password protected"
+msgstr "Dilindungi kata sandi"
+
+msgid "Uploaded by guest"
+msgstr "Diunggah oleh pengunjung"
+
+msgid "Uploaded by private"
+msgstr "Diunggah oleh pribadi"
+
+#, php-format
+msgid "by %u"
+msgstr "oleh %u"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Anda tidak diperkenankan memasuki halaman ini atau tautan telah tidak berlaku."
+
+msgid "Go to homepage"
+msgstr "Pergi ke beranda"
+
+msgid "The requested page was not found."
+msgstr "Halaman yang diminta tidak ditemukan"
+
+msgid "The user has been deleted"
+msgstr "Pengguna telah dihapus"
+
+msgid "Your account is almost ready"
+msgstr "Akun anda hampir siap"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Sebuah email ke %s telah dikirim dengan instruksi untuk mengaktifkan akun. Tautan aktivasi hanya berlaku untuk 48 jam. Jika anda tidak menerima instruksi coba periksa sampah atau penyaring spam anda."
+
+msgid "Resend activation"
+msgstr "Kirim ulang aktivasi"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Anda telah berhasil mengubah email aktivasi anda ke %s"
+
+msgid "Go to my profile"
+msgstr "Pergi ke profil ku"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "Sebuah tautan konfirmasi akan dikirim ke email ini dengan detail untuk mengaktifkan akun anda."
+
+msgid "Your email address"
+msgstr "Alamat email anda"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Sebuah email dengan instruksi mengatur ulang kata sandi anda telah dikirim ke email yang terdaftar. Jika anda tidak menerima instruksi cobalah periksa sampah atau penyaring spam."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "Email sebelumnya telah dikirim dengan instruksi untuk mengubah kata sandi anda. Jika anda tidak menerima instruksi cobalah periksa sampah atau penyaring spam."
+
+msgid "Resend instructions"
+msgstr "Kirim ulang instruksi"
+
+msgid "Username or Email address"
+msgstr "Username atau alamat email"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Kata sandi anda telah diubah. Kini anda dapat mencoba masuk dengan kata sandi baru anda."
+
+msgid "Login now"
+msgstr "Masuk sekarang"
+
+msgid "Enter your new password"
+msgstr "Masukkan kata sandi baru anda"
+
+#, php-format
+msgid "%d characters min"
+msgstr "Min. %d karakter"
+
+msgid "Password strength"
+msgstr "Kekuatan kata sandi"
+
+msgid "Re-enter your new password"
+msgstr "Masukkan kembali kata sandi baru anda"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "Sebuah email ke %s telah dikirimkan dengan instruksi untuk mengaktifkan akun. Jika anda tidak menerima instruksi cobalah periksa sampah atau penyaring spam anda."
+
+msgid "Upload to album"
+msgstr "Unggah ke album"
+
+msgid "You like this"
+msgstr "Anda menyukai ini"
+
+msgid "This content is private"
+msgstr "Ini konten pribadi"
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "Harap baca dan patuhi kondisi berikut ini sebelum anda melanjutkan:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "Situs web ini berisi informasi, tautan, dan gambar materi yang eksplisit secara seksual. Jika Anda berusia di bawah %s, jika materi tersebut menyinggung Anda atau jika ilegal melihat materi tersebut di komunitas Anda, jangan lanjutkan.\n\nSaya setidaknya %s tahun dan saya percaya bahwa sebagai orang dewasa itu adalah hak saya yang tidak dapat dicabut untuk menerima / melihat materi yang eksplisit secara seksual. Saya ingin menerima / melihat materi yang eksplisit secara seksual.\n\nSaya percaya bahwa tindakan seksual antara orang dewasa yang menyetujui tidak menyinggung atau tidak senonoh. Melihat, membaca, dan mengunduh materi yang eksplisit secara seksual tidak melanggar standar komunitas saya, kota, kota, negara bagian atau negara.\n\nMateri yang eksplisit secara seksual yang saya lihat adalah untuk penggunaan pribadi saya dan saya tidak akan mengekspos anak di bawah umur untuk materi tersebut.\n\nSaya bertanggung jawab penuh atas segala pengungkapan palsu atau konsekuensi hukum dari melihat, membaca, atau mengunduh materi apa pun di situs ini. Lebih lanjut, situs web ini atau afiliasinya tidak akan bertanggung jawab atas konsekuensi hukum yang timbul dari penipuan yang masuk ke dalam atau penggunaan situs web ini.\n\nLayar persetujuan ini merupakan perjanjian hukum antara situs web ini dan Anda dan / atau bisnis di mana Anda memiliki kepentingan hukum atau kepentingan yang adil. Jika ada bagian dari perjanjian ini yang dianggap tidak dapat diberlakukan oleh pengadilan dengan yurisdiksi yang kompeten, maka tidak akan mempengaruhi keberlakuan bagian-bagian lain dari perjanjian."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "Dengan mengklik di \"Saya Setuju\" nda menyatakan bahwa Anda telah membaca dan memahami semua kondisi yang disebutkan di atas."
+
+msgid "I Agree"
+msgstr "Saya Setuju"
+
+msgid "documentation"
+msgstr "dokumentasi"
+
+msgid "Check the errors to proceed."
+msgstr "Periksa kesalahan untuk meneruskan proses."
+
+msgid "Queued"
+msgstr "Antri"
+
+msgid "Working"
+msgstr "Kerja"
+
+msgid "Paused"
+msgstr "Dijeda"
+
+msgid "Canceled"
+msgstr "Dibatalkan"
+
+msgid "Completed"
+msgstr "Selesai"
+
+#, php-format
+msgid "Top level folders as %s"
+msgstr "Folder tingkat atas sebagai %s"
+
+msgid "Process"
+msgstr "Proses"
+
+msgid "Pause"
+msgstr "Jeda"
+
+msgid "Cancel"
+msgstr "Membatalkan"
+
+msgid "Process log"
+msgstr "Log proses"
+
+msgid "Errors"
+msgstr "Kesalahan"
+
+msgid "Reset"
+msgstr "Setel ulang"
+
+msgid "Resume"
+msgstr "Lanjut"
+
+msgid "Dashboard > Settings > Website"
+msgstr "Dasbor > Pengaturan > Situs Web"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "Menampilkan sebuah layar persetujuan sebelum mengakses website. Sangat berguna untuk website konten dewasa dimana anak dibawah umur harusnya tidak diperbolehkan."
+
+msgid "Enable consent screen"
+msgstr "Aktifkan layar persetujuan"
+
+msgid "Show not safe content in listings"
+msgstr "Perlihatkan isi yang tidak aman"
+
+msgid "Blur NSFW content in listings"
+msgstr "Kaburkan konten NSFW dalam daftar"
+
+msgid "Show not safe content in random mode"
+msgstr "Perlihatkan konten tidak aman di mode acak"
+
+msgid "Show banners in not safe content"
+msgstr "Tampilkan spanduk dalam konten yang tidak aman"
+
+msgid "Cookie law compliance"
+msgstr "Kesesuaian aturan kuki"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Aktifkan ini untuk menampilkan sebuah pesan yang sesuai dengan persyaratan hukum kuki Uni Eropa. Catatan: Anda hanya memerlukan hal ini jika website anda tersimpan di Uni Eropa dan jika anda menambahkan kuki pelacakan."
+
+msgid "From name"
+msgstr "Nama dari"
+
+msgid "Sender name for emails sent to users."
+msgstr "Nama pengirim untuk email yang dikirim kepada pengguna."
+
+msgid "From email address"
+msgstr "Alamat email pengirim"
+
+msgid "Sender email for emails sent to users."
+msgstr "Alamat pengirim untuk email yang dikirim ke user."
+
+msgid "Incoming email address"
+msgstr "Alamat email masuk"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Penerima untuk halaman kontak dan notifikasi sistem."
+
+msgid "Email mode"
+msgstr "Mode email"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Bagaimana cara pengiriman email? SMTP direkomendasikan."
+
+msgid "SMTP server and port"
+msgstr "Server dan port SMTP"
+
+msgid "SMTP server"
+msgstr "Server SMTP"
+
+msgid "SMTP username"
+msgstr "Username SMTP"
+
+msgid "SMTP password"
+msgstr "Password SMTP"
+
+msgid "SMTP security"
+msgstr "Keamanan SMTP"
+
+msgid "Unsecured"
+msgstr "Tidak aman"
+
+msgid "Comments API"
+msgstr "API Komentar"
+
+#, php-format
+msgid "Disqus API works with %s."
+msgstr "API Disqus bekerja dengan %s"
+
+msgid "Disqus shortname"
+msgstr "Nama pendek Disqus"
+
+#, php-format
+msgid "%s secret key"
+msgstr "Kunci rahasia %s"
+
+#, php-format
+msgid "%s public key"
+msgstr "Kunci publik %s"
+
+msgid "Comment code"
+msgstr "Kode komentar"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook atau apa pun yang Anda inginkan. Ini akan digunakan dalam tampilan gambar."
+
+msgid "Analytics code"
+msgstr "Kode analitik"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics atau apa pun yang Anda inginkan. Ini akan ditambahkan dengan tema footer."
+
+#, php-format
+msgid "%s spam protection"
+msgstr "%s perlindungan spam"
+
+msgid "user generated content"
+msgstr "konten yang dibuat pengguna"
+
+msgid "Enable this to use %l to block spam on %c."
+msgstr "Aktifkan ini untuk menggunakan %l untuk memblokir spam di %c."
+
+#, php-format
+msgid "%s API key"
+msgstr "Kunci %s API"
+
+msgid "user signup"
+msgstr "pendaftaran pengguna"
+
+#, php-format
+msgid "%s site key"
+msgstr "Kunci situs %s"
+
+#, php-format
+msgid "Force %s on contact page"
+msgstr "Paksa %s di halaman kontak"
+
+#, php-format
+msgid "Enable this to always show %s on contact page."
+msgstr "Aktifkan ini untuk selalu menampilkan %s di halaman kontak."
+
+msgid "Twitter account"
+msgstr "Akun Twitter"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Alihkan ini untuk mengaktifkan atau menonaktifkan HTTPS"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "Alihkan ini jika ingin mengaktifkan atau menonaktifkan penyimpanan ini"
+
+msgid "Quota"
+msgstr "Kuota"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Storage method"
+msgstr "Metode penyimpanan"
+
+msgid "Disk used"
+msgstr "Ruang disk digunakan"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Penyimpanan lokal akan digunakan secara default atau ketika tidak ada penyimpanan eksternal yang aktif."
+
+msgid "Notify to email"
+msgstr "Beritahu lewat surel"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "Jika diaktifkan sistem akan mengirim sebuah email pada insiden pembanjiran."
+
+msgid "Minute limit"
+msgstr "Batas menitan"
+
+msgid "Hourly limit"
+msgstr "Batas jam-jam an"
+
+msgid "Daily limit"
+msgstr "Batas harian"
+
+msgid "Weekly limit"
+msgstr "Batas mingguan"
+
+msgid "Monthly limit"
+msgstr "Batas bulanan"
+
+msgid "Style"
+msgstr "Gaya"
+
+msgid "Landing page"
+msgstr "Halaman arahan"
+
+msgid "Split landing + images"
+msgstr "Halaman arahan + gambar"
+
+msgid "explore"
+msgstr "jelajahi"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "Pilih gaya halaman muka. Untuk menyesuaikannya lanjut ubah app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "Gambar sampul"
+
+msgid "Add new cover image"
+msgstr "Tambah sebuah gambar sampul baru"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "ini akan ditambahkan kedalam tag halaman depan %s. Biarkan kosong untuk mengunakan konten default."
+
+msgid "Paragraph"
+msgstr "Paragraf"
+
+msgid "Call to action button color"
+msgstr "Warna tombol ajakan bertindak"
+
+msgid "Blue"
+msgstr "Biru"
+
+msgid "Green"
+msgstr "Hijau"
+
+msgid "Orange"
+msgstr "Oranye"
+
+msgid "Red"
+msgstr "Merah"
+
+msgid "Grey"
+msgstr "Abu-abu"
+
+msgid "Black"
+msgstr "Hitam"
+
+msgid "White"
+msgstr "Putih"
+
+msgid "Color of the homepage call to action button."
+msgstr "Warna tombol ajakan bertindak beranda."
+
+msgid "Call to action outline style button"
+msgstr "Tombol gaya garis besar ajakan untuk bertindak"
+
+msgid "Call to action functionality"
+msgstr "Fungsi ajakan bertindak"
+
+msgid "Open URL"
+msgstr "Buka URL"
+
+msgid "Call to action URL"
+msgstr "URL ajakan untuk bertindak"
+
+msgid "Enter an absolute or relative URL"
+msgstr "Masukkan sebuah URL absolut atau relatif"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "Sebuah URL relatif seperti %r akan dipetakan ke %l"
+
+msgid "Call to action HTML"
+msgstr "Ajakan untuk bertindak HTML"
+
+msgid "User IDs"
+msgstr "ID Pengguna"
+
+msgid "Empty"
+msgstr "Kosong"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Id pengguna anda adalah: %s"
+
+msgid "Enabled image formats"
+msgstr "Format gambar yang diaktifkan"
+
+msgid "Enable uploads"
+msgstr "Aktifkan upload"
+
+msgid "route"
+msgstr "rute"
+
+msgid "Guest uploads"
+msgstr "Unggahan pengunjung"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Aktifkan ini jika anda mengizinkan pengguna tidak terdaftar menunggah."
+
+msgid "Enable embed codes (uploader)"
+msgstr "Aktifkan kode semat (pengunggah)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Aktifkan ini jika anda ingin menampilkan kode sematkan ketika unggahan akan selesai."
+
+msgid "Upload threads"
+msgstr "Rangkaian unduhan"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "Jumlah rangkaian unggahan bersasamaan (unggahan pararel)"
+
+msgid "Redirect on single upload"
+msgstr "Arahkan pada unggahan tunggal"
+
+msgid "Enable this if you want to redirect to image page on single upload."
+msgstr "Aktifkan ini jika anda ingin mengarahkan kembali ke halaman gambar pada unggahan tunggal."
+
+msgid "Enable duplicate uploads"
+msgstr "Nyalakan unggahan duplikat"
+
+msgid "Enable expirable uploads"
+msgstr "Aktifkan upload berkadaluarsa"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Nyalakan ini jika anda ingin memperbolehkan unggahan dengan sebuah opsi hapus otomatis."
+
+msgid "Auto delete guest uploads"
+msgstr "Hapus otomatis unggahan pengunjung"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "Nyalakan ini jika anda ingin memaksa unggahan pengunjung untuk dihapus otomatis setelah waktu tertentu."
+
+msgid "Maximum image size"
+msgstr "Ukuran maksimum gambar"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "Gambar lebih besar dari ukuran ini akan secara otomatis diturunkan ukurannya. Gunakan Nol (0) untuk tidak menetapkan batas."
+
+msgid "Image Exif data"
+msgstr "Data Exif gambar"
+
+msgid "Keep"
+msgstr "Biarkan"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Pilih pengaturan default untuk gambar <a %s>Exif data</a> pada ungguhan."
+
+msgid "Image Exif data (user setting)"
+msgstr "Data Exif gambar (pengaturan pengguna)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Aktifkan ini jika anda ingin membolehkan setiap pengguna mengatur bagaimana data Exif gambar akan ditangani."
+
+msgid "Maximum upload file size"
+msgstr "Ukuran unggah berkas maksimum"
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "Ukuran maksumum yang diperbolehkan serever adalah %s. Ukuran ini dibatasi oleh %u dan %p (nilai %f)."
+
+msgid "guests"
+msgstr "tamu"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "Sama seperti \"%s\" tetapi untuk tamu."
+
+msgid "Image path"
+msgstr "Jalur gambar"
+
+msgid "Relative to Chevereto root"
+msgstr "Berhubungan ke akar Chevereto"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Dimana harus menyimpan gambar? Tergantung pada akar Chevereto."
+
+msgid "Storage mode"
+msgstr "Mode penyimpanan"
+
+msgid "Datefolders"
+msgstr "Tanggalfolder"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Tanggalfolder membuat struktur %s"
+
+msgid "File naming method"
+msgstr "Metode penamaan berkas"
+
+msgid "Original"
+msgstr "Asli"
+
+msgid "Mix original + random"
+msgstr "Campur asli + acak"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "\"Asli\" akan mencoba menjaga nama sumber gambar sedangkan \"Acak\" akan menghasilkan sebuah nama acak. \"ID\" akan menamakan gambar seperti halnya ID gambar."
+
+msgid "Thumb size"
+msgstr "Ukuran Thumb"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Thumbnails akan ditentukan menurut ukuran ini."
+
+msgid "Medium image fixed dimension"
+msgstr "Dimensi gambar tetap sedang"
+
+msgid "Width or height will be automatically calculated."
+msgstr "Lebar atau tinggi akan secara otomatis terhitung."
+
+msgid "Expires"
+msgstr "Kadaluarsa"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "Alamat IP yang diblokir akan melarang penggunaan ke seluruh website."
+
+msgid "Default language"
+msgstr "Bahasa default"
+
+msgid "Default base language to use."
+msgstr "Bahasa dasar yang ingin digunakan."
+
+msgid "Auto language"
+msgstr "Bahasa otomatis"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "Aktifkan jika anda ingin secara otomatis mendeteksi dan mengatur bahasa yang tepat untuk setiap pengguna."
+
+msgid "Language chooser"
+msgstr "Pemilih bahasa"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "Mengatifkan ini jika anda ingin memperbolehkan pemilihan bahasa."
+
+msgid "Enabled languages"
+msgstr "Bahasa diaktifkan"
+
+msgid "List items per page"
+msgstr "Daftar item per halaman"
+
+msgid "Classic pagination"
+msgstr "Penomoran halaman klasik"
+
+msgid "What pagination method should be used."
+msgstr "Metode penomoran apa yang harusnya digunakan."
+
+msgid "Listing viewer"
+msgstr "Penampil daftar"
+
+msgid "Image listing size"
+msgstr "Ukuran pendaftaran gambar"
+
+msgid "Fixed"
+msgstr "Tetap"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "kedua metode menggunakan lebar tetap tapi metode tidak pasti menggunakan tinggi otomatis."
+
+msgid "Listing columns number"
+msgstr "Jumlah kolom pendaftaran"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Disini anda dapat mengatur berapa banyak kolom yang digunakan berdasarkan masing-masing target perangkat."
+
+msgid "Phone"
+msgstr "Selular"
+
+msgid "Phablet"
+msgstr "Phapblet"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "Versi vektor atau logo website dalam format SVG."
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "Versi bitmap atau logo situs web anda. Disarankan berformat PNG."
+
+msgid "Logo height"
+msgstr "Tinggi logo"
+
+msgid "No value"
+msgstr "Tidak ada nilai"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Gunakan ini untuk mengatur ketinggian logo jika diperlukan."
+
+msgid "Favicon image"
+msgstr "Gambar favicon"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Gambar favicon. Gambar harus memiliki lebar dan tinggi yang sama."
+
+msgid "Page title"
+msgstr "Judul halaman"
+
+msgid "Page status"
+msgstr "Status halaman"
+
+msgid "Active page"
+msgstr "Halaman aktif"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Halaman tidak aktif (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "Hanya halaman aktif yang dapat diakses."
+
+msgid "Type"
+msgstr "Tipe"
+
+msgid "Terms of service"
+msgstr "Ketentuan layanan"
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Extra page"
+msgstr "Halaman tambahan"
+
+msgid "Internal page type"
+msgstr "Jenis halaman internal"
+
+msgid "Page visibility"
+msgstr "Keterlihatan halaman"
+
+msgid "Visible page"
+msgstr "Halaman terlihat"
+
+msgid "Hidden page"
+msgstr "Halaman tersembunyi"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "Halaman tersembunyi tidak akan ditampilkan di menu sistem, tetapi semua orang dapat mengakses nya melalui tautan."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Hanya alfanumerik, tanda hubung dan garis miring"
+
+msgid "File path"
+msgstr "Jalur berkas"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "Sebuah berkas %f berhubungan dengan %s"
+
+msgid "Meta keywords"
+msgstr "Kata kunci meta"
+
+msgid "Meta description"
+msgstr "Deskripsi meta"
+
+msgid "Source code"
+msgstr "Kode sumber"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Tidak ada izin menulis di jalur %s anda perlu menambahkan berkas ini menggunakan editor eksternal."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Tidak ada izin menulis di jalur %s anda perlu mengedit konten dari berkas ini menggunakan editor eksternal."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Diambil dari: %s"
+
+msgid "Link URL"
+msgstr "Tautan URL"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Pilih %s untuk membuka halaman atau tautan di jendela baru."
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Hanya alfanumerik, tanda hubung dan spasi"
+
+msgid "Link icon"
+msgstr "Ikon tautan"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Periksa <a %s>referensi ikon</a> untuk daftar lengkap ikon yang didukung."
+
+msgid "Sort order display"
+msgstr "Urutan tampilan"
+
+#, php-format
+msgid "Routing for %s"
+msgstr "Pengarahan untuk %s"
+
+#, php-format
+msgid "SEO %s URLs"
+msgstr "SEO %s URL"
+
+#, php-format
+msgid "Enable this if you want to use SEO %s URLs."
+msgstr "Aktifkan ini jika Anda ingin menggunakan URL SEO %s."
+
+msgid "Automatic updates check"
+msgstr "Pemeriksaan pembaruan otomatis"
+
+msgid "When enabled the system will automatically check for new updates."
+msgstr "ketika diaktifkan sistem akan secara otomatis memeriksa pembaruan yang ada."
+
+msgid "Display available updates notification"
+msgstr "Tampilkan notifikasi pembaruan yang tersedia"
+
+msgid "Enable this to show a notice on top warning you about new available system updates."
+msgstr "Aktifkan untuk menampilkan sebuah pemberitahuan memperingatkan anda tentang pembaruan sistem yang ada."
+
+msgid "Maintenance"
+msgstr "Perawatan"
+
+msgid "Debug level"
+msgstr "Tingkat debug"
+
+msgid "None"
+msgstr "Tidaka ada"
+
+msgid "Error log"
+msgstr "log kesalahan"
+
+msgid "Print errors without error log"
+msgstr "Cetak kesalahan tanpa log kesalahan"
+
+msgid "Print and log errors"
+msgstr "Cetak dan log kesalahan"
+
+msgid "Image load max. filesize"
+msgstr "Maksimal ukuran file untuk memuat gambar."
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "Gambar lebih besar dari ukuran ini akan ditampilkan sebagai sebuah tombol untuk ditampilkan dalam resolusi penuh."
+
+msgid "Enable download button"
+msgstr "Aktifkan tombol unduh"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Aktifkan ini jika anda ingin menampilkan gambar dengan tombol unduh."
+
+msgid "Enable right click on image"
+msgstr "Aktifkan klik kanan pada gambar"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Aktifkan ini jika anda ingin membolehkan klik kanan pada halaman penampil gambar."
+
+msgid "Enable show Exif data"
+msgstr "Aktifkan untuk menampilkan data Exif"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Aktifkan ini jika anda ingin menampilkan data Exif gambar."
+
+msgid "Enable social share"
+msgstr "Aktifkan berbagi sosial"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Aktifkan ini jika anda ingin menampilkan tombol jaringan sosial untuk membagikan konten."
+
+msgid "Enable embed codes (content)"
+msgstr "Aktifkan kode sematkan (konten)"
+
+msgid "Everybody"
+msgstr "Semua orang"
+
+msgid "Users only"
+msgstr "Hanya pengguna"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Aktifkan ini jika anda ingin menampilkan kode sematkan untuk konten."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "Kotak centang konten tidak aman di pengunggah"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Nyalakan ini jika anda ingin menampilkan sebuah kotak centang untuk mengindikasikan unggahan konten tidak aman."
+
+msgid "Custom CSS code"
+msgstr "Kode CSS kustom"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Letakkan kode CSS kustom disini. Ini akan ditempatkan sebagai <style> tepat sebelum tag penutup </head>."
+
+msgid "Custom JS code"
+msgstr "Kode JS kustom"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Letakkan kode JS kustom disini. Ini akan ditempatkan sebagai <style> tepat sebelum tag penutup </head>."
+
+msgid "Decode ID"
+msgstr "ID decode"
+
+msgid "Encode ID"
+msgstr "ID Encode"
+
+msgid "Send test email"
+msgstr "Kirim email percobaan"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Gunakan ini untuk memeriksa apakan email sedang dikirimkan. Kami merekomendasikan anda untuk menggunakan %s."
+
+msgid "Export a user"
+msgstr "Ekspor pengguna"
+
+msgid "Export user"
+msgstr "Ekspor pengguna"
+
+msgid "Storage id"
+msgstr "Id penyimpanan"
+
+msgid "Regenerate"
+msgstr "Diperbaiki"
+
+msgid "Source storage id"
+msgstr "ID penyimpanan sumber"
+
+msgid "Target storage id"
+msgstr "Target id penyimpanan"
+
+msgid "Migrate"
+msgstr "Migrasi"
+
+msgid "Additional settings"
+msgstr "Pengaturan tambahan"
+
+msgid "Plugin route"
+msgstr "Rute plugin"
+
+msgid "Enable signups"
+msgstr "Aktifkan mendaftar"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Aktifkan ini jika anda ingin membolehkan pengguna untuk mendaftar."
+
+msgid "Enable user content delete"
+msgstr "Aktifkan penghapusan konten pengguna"
+
+msgid "Minimum age required"
+msgstr "Usia minimum dibutuhkan"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "Biarkan kosong jika anda tidak memerlukan usia minimum untuk bisa menggunakan website."
+
+msgid "Notify on user signup"
+msgstr "Beri tahu saat mendaftar"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "Aktifkan ini jika Anda ingin mendapatkan pemberitahuan email untuk setiap pendaftaran pengguna baru."
+
+msgid "Require email confirmation"
+msgstr "Konfirmasi email dibutuhkan"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Aktifkan ini jika pengguna harus memvalidasi alamat email mereka untuk mendaftar."
+
+msgid "Require email for social signup"
+msgstr "Memerlukan email untuk pendaftaran sosial"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Aktifkan ini jika pengguna menggunakan jaringan sosial untuk mendaftar harus menyertakan sebuah alamat email."
+
+msgid "User avatar max. filesize"
+msgstr "Avatar pengguna maks. ukuran file"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "ukuran berkas maks. yang diperbolehkan untuk gambar avatar pengguna. (Maks. yang diperbolehkan server adalah %s)"
+
+msgid "User background max. filesize"
+msgstr "ukuran berkas maks. latar belakang pengguna"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Aktifkan ini untuk menempatkan sebuah logo atau apapun yang anda inginkan di upload gambar."
+
+msgid "Enable watermark on admin uploads"
+msgstr "Aktifkan tanda air di unggahan admin"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Aktifkan tanda air di unggahan gambar GIF"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "Ukuran gambar minimum dibutuhkan untuk menerapkan tanda air"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Gambar lebih kecil dari ini tidak akan diberikan tanda air. Gunakan nol (0) agar jangan menetapkan batas minimum ukuran gambar."
+
+msgid "Watermark image"
+msgstr "Gambar stempel"
+
+msgid "Watermark position"
+msgstr "Posisi stempel"
+
+msgid "left top"
+msgstr "kiri atas"
+
+msgid "left center"
+msgstr "kiri ke tengah"
+
+msgid "left bottom"
+msgstr "kiri bawah"
+
+msgid "center top"
+msgstr "tengah atas"
+
+msgid "center center"
+msgstr "pas tengah"
+
+msgid "center bottom"
+msgstr "tengah bawah"
+
+msgid "right top"
+msgstr "kanan atas"
+
+msgid "right center"
+msgstr "kanan tengah"
+
+msgid "right bottom"
+msgstr "kanan bawah"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Penyesuaian posisi stempel. Pertama mendatar selanjutnya tegak lurus."
+
+msgid "Watermark percentage"
+msgstr "Presentasi Tanda air"
+
+msgid "Watermark margin"
+msgstr "Jarak stempel"
+
+msgid "Watermark opacity"
+msgstr "Kegelapan tanda air"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "kegelapan tanda air di gambar akhir yang diberi tanda air. Nilai antara 0 sampai 100."
+
+msgid "Website name"
+msgstr "Nama website"
+
+msgid "Website doctitle"
+msgstr "Doctitle website"
+
+msgid "Website description"
+msgstr "Deskripsi website"
+
+msgid "Default time zone"
+msgstr "Zona waktu default"
+
+msgid "Select region"
+msgstr "Pilih region"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "Bolehkan pencarian gambar, album dan pengguna berdasarkan permintaan pencarian yang diberikan."
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "Memungkinkan untuk menelusuri gambar yang diunggah publik. Ini juga memungkinkan kategori."
+
+msgid "Enables to browse images randomly."
+msgstr "Aktifkan mencari gambar secara acak."
+
+msgid "Likes"
+msgstr "Suka"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "Memungkinkan pengguna menyukai konten dan mengisi daftar \"Paling disukai\"."
+
+msgid "Followers allows users to follow each other."
+msgstr "Pengikut membolehkan pengguna untuk saling mengikuti."
+
+msgid "Website mode"
+msgstr "Mode website"
+
+msgid "You can switch the website mode anytime."
+msgstr "Ada dapat mengubah mode website kapanpun."
+
+msgid "Website privacy mode"
+msgstr "Mode privasi website"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "Mode pribadi akan menjadikan website hanya tersedia untuk pengguna terdaftar."
+
+msgid "Content privacy mode"
+msgstr "Mode privasi konten"
+
+msgid "Force private (self)"
+msgstr "Paksa pribadi (sendiri)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Paksa pribadi (semua orang dengan tautan)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "Mode privasi dipaksakan akan mengembalikan privasi pengguna terpilih."
+
+msgid "Role"
+msgstr "Peran"
+
+msgid "Email address"
+msgstr "Alamat surel"
+
+msgid "Play GIF"
+msgstr "Mainkan GIF"
+
+#, php-format
+msgid "Added to %s"
+msgstr "Ditambahkan ke %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Diunggah ke %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Terunggah %s"
+
+msgid "Less Exif data"
+msgstr "Lihat sedikit data Exif"
+
+msgid "More Exif data"
+msgstr "Lihat banyak data Exif"
+
+msgid "Add IP ban"
+msgstr "Tambah IP di blokir"
+
+msgid "Upload and share your images."
+msgstr "Unggah dan bagikan gambar anda."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Tarik dan taruh dimanapun dan mulai unggah gambar anda sekarang. %s tersisa. Tautan gambar langsung, BBCode and sketsa HTML."
+
+msgid "Sign up to unlock all the features"
+msgstr "Daftarlah untuk mendapatkan semua kelebihan yang ada"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Mengelola konten Anda, membuat album pribadi, menyesuaikan profil Anda dan banyak lagi."
+
+msgid "Sign in with your account"
+msgstr "Masuk dengan akun Anda"
+
+msgid "Logged out"
+msgstr "Keluar"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Anda telah keluar %s. Sampai bertemu kembali."
+
+msgid "Website under maintenance"
+msgstr "Website dalam perbaikan"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Kami sedang melakukan perawatan rutin. Silakan kembali dalam beberapa menit lagi."
+
+msgid "This content is password protected."
+msgstr "Konten ini dilindungi kata sandi."
+
+msgid "Please enter your password to continue."
+msgstr "harap masukkan kata sandi anda untuk melanjutkan"
+
+msgid "Supported software"
+msgstr "Perangkat lunak yang didukung"
+
+msgid "supported software"
+msgstr "perangkat lunak yang didukung"
+
+msgid "Add it to your website"
+msgstr "Tambahkan ke situs web Anda"
+
+msgid "options"
+msgstr "pilihan"
+
+msgid "Basic options"
+msgstr "Pilihan dasar"
+
+msgid "After"
+msgstr "Setelah"
+
+msgid "Before"
+msgstr "Sebelum"
+
+msgid "Advanced options"
+msgstr "Opsi lanjutan"
+
+msgid "Valid"
+msgstr "Sah"
+
+msgid "Banned"
+msgstr "Diblokir"
+
+msgid "Awaiting email"
+msgstr "Menunggu email"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i sampai %f karankter<br>Huruf, angka dan \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Hapus otomatis unggahan"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "Pengaturan ini akan diterapkan ke semua gambar yang telah anda unggah secara default. Anda dapat mengubah pengaturan ini di setiap unggahan."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "Biarkan <a %s>Exif data</a> gambar ketika upload"
+
+msgid "Newsletter"
+msgstr "Langganan berita"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Kirimi saya email berita tentang %s"
+
+msgid "Content settings"
+msgstr "Pengaturan isi"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Perlihatkan berkas dewasa di daftar (dari yang lain)"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Timezone"
+msgstr "Zona waktu"
+
+msgid "User has no connections."
+msgstr "Pengguna tidak mempunyai koneksi."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Apakah anda yakin ingin diskonek %s dari akun ini?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Akun ini terhubung dengan %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Apakah anda yakin ingin memutuskan hubungan dengan akun %s ?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Anda akan keluar dan tidak dapat masuk kembali ke akun anda menggunakan akun %s ini."
+
+msgid "Button"
+msgstr "Tombol"
+
+msgid "Current password"
+msgstr "Password saat ini"
+
+msgid "Enter your current password"
+msgstr "Masukkan password saat ini"
+
+msgid "New password"
+msgstr "Password baru"
+
+msgid "Confirm new password"
+msgstr "Konfirmasi password baru"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Ketik password untuk masuk menggunakan username atau email."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Pengguna ini tidak memiliki password. Tambahkan melalui form berikut."
+
+msgid "Enter your password"
+msgstr "Masukkan password anda"
+
+msgid "Confirm password"
+msgstr "Konfirmasi kata sandi"
+
+msgid "Re-enter your password"
+msgstr "Ketik ulang password"
+
+msgid "Make my profile and identity totally private"
+msgstr "Buat profil dan identitas saya sepenuhnya pribadi."
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "Aktifkan jika anda ingin menjadi seperti pengguna anonim."
+
+msgid "This is your real name, not your username."
+msgstr "Ini adalah nama anda bukan username."
+
+msgid "Tell us a little bit about you"
+msgstr "Ceritakan sedikit mengenai anda"
+
+msgid "Login"
+msgstr "Masuk"
+
+#, php-format
+msgid "Already have an account? %s now."
+msgstr "Sudah memiliki akun? %s sekarang."
+
+msgid "resend account activation"
+msgstr "Kirim ulang aktivasi akun"
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "Saya telah berumur %s tahun"
+
+msgid "Upload profile background"
+msgstr "Unggah latar belakang untuk profil anda"
+
+msgid "Change background"
+msgstr "Ubah latar belakang"
+
+msgid "Upload new image"
+msgstr "Unggah gambar baru"
+
+msgid "Delete background"
+msgstr "Menghapus latar belakang"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Pengikut"
+
+msgid "Follow"
+msgstr "Ikuti"
+
+msgid "General questions/comments"
+msgstr "Pertanyaan/komentar umum"
+
+msgid "DMCA complaint"
+msgstr "Pengaduan DCMA"
+
+msgid "Invalid message"
+msgstr "Pesan tidak valid"
+
+msgid "Invalid subject"
+msgstr "Judul tidak valid"
+
+msgid "Message sent"
+msgstr "Pesan terkirim"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Pesan terkirim. Kami akan menghubungi segera."
+
+msgid "If you want to send a message fill the form below."
+msgstr "Jika anda ingin mengirim sebuah pesan isi form dibawah ini."
+
+msgid "Your name"
+msgstr "Nama anda"
+
+msgid "Subject"
+msgstr "Judul"
+
+msgid "Send"
+msgstr "Terkirim"
+

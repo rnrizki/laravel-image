@@ -1,0 +1,13 @@
+parameters:
+	level: 5
+	bootstrapFiles:
+		- phpstan-bootstrap.php
+	paths:
+		- bin
+		- legacy
+		- src/Legacy
+		- src/Encryption
+		- ../content/
+	excludePaths:
+		- src/Legacy/Classes/Akismet.php
+		- src/Legacy/G/Gettext.php

@@ -1,0 +1,2851 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "คุณถูกห้ามการใช้งานเว็บไซต์นี้"
+
+msgid "View all my images"
+msgstr "ดูภาพทั้งหมดของฉัน"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "อย่าลังเลที่จะเรียกดูและค้นพบภาพร่วมกันทั้งหมดของภาพและอัลบั้มฉัน"
+
+msgid "Recent"
+msgstr "เมื่อเร็ว ๆ นี้"
+
+msgid "Trending"
+msgstr "ได้รับความนิยม"
+
+msgid "Popular"
+msgstr "เป็นที่นิยม"
+
+msgid "Animated"
+msgstr "เคลื่อนไหว"
+
+msgid "Plugin"
+msgstr "ปลั๊กอิน"
+
+msgid "Request denied"
+msgstr "คำขอไม่สามารถเข้าถึงได้"
+
+msgid "terms"
+msgstr "เงื่อนไข"
+
+msgid "privacy policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "ฉันยอมรับ %terms_link และ %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "ไม่สามารถใช้งานหน้าเว็บไซต์นี้ได้"
+
+msgid "Forgot password?"
+msgstr "ลืมรหัสผ่าน?"
+
+msgid "Reset password"
+msgstr "ตั้งรหัสผ่านใหม่"
+
+msgid "Resend account activation"
+msgstr "ส่งรหัสปลดล็อคใหม่"
+
+msgid "Add your email address"
+msgstr "เพิ่มที่อยู่อีเมลของคุณ"
+
+msgid "Awaiting confirmation"
+msgstr "รอการยืนยัน"
+
+msgid "Email changed"
+msgstr "เปลี่ยนอีเมลแล้ว"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s บอกว่าคุณเป็นเป็นโรบอท"
+
+msgid "Invalid Username/Email"
+msgstr "ยูสเซอร์หรือพาสเวิร์ดผิด"
+
+msgid "User doesn't have an email."
+msgstr "ผู้ใช้ไม่ได้อีเมล"
+
+msgid "Account needs to be activated to use this feature"
+msgstr "บัญชีผู้ใช้ต้องทำการปลดล็อคเพื่อใช้งานส่วนนี้"
+
+msgid "Account already activated"
+msgstr "บัญชีได้ถูกทำการปลดล็อคไปแล้ว"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "อนุญาตให้ถึง 15 นาทีสำหรับอีเมล คุณสามารถลองอีกครั้งในภายหลัง"
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "ตั้งรหัสผ่านใหม่ %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "ยืนยันจำเป็นต้องใช้ %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "ยินดีต้อนรับ %s"
+
+msgid "Invalid password"
+msgstr "พาสเวิร์ดผิดพลาด"
+
+msgid "Passwords don't match"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+msgid "Invalid email"
+msgstr "อีเมลผิดพลาด"
+
+msgid "Email already being used"
+msgstr "อีเมลโดนใช้ไปแล้ว"
+
+msgid "Check the errors in the form to continue."
+msgstr "เช็คคำผิดในฟอร์มและทำอีกครั้ง"
+
+msgid "Password required"
+msgstr "ต้องใช้รหัสผ่าน"
+
+msgid "Embed codes"
+msgstr "แนบโค๊ด"
+
+msgid "%a album hosted in %w"
+msgstr "%a อัลบั้มที่โฮสต์อยู่ใน %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "รูป"
+
+msgid "Stats"
+msgstr "สถิติ"
+
+msgid "Images"
+msgstr "รูป"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "อัลบั้ม"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "ผู้ใช้งาน"
+
+msgid "Bulk importer"
+msgstr "คุณนำเข้ามากเกินไป"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "Website"
+msgstr "เว็บไซด์"
+
+msgid "Content"
+msgstr "เนื่้อหา"
+
+msgid "Listings"
+msgstr "รายการ"
+
+msgid "Image upload"
+msgstr "อัพโหลดรูป"
+
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+msgid "Theme"
+msgstr "ธีม"
+
+msgid "System"
+msgstr "ระบบ"
+
+msgid "Languages"
+msgstr "ภาษา"
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+msgid "External storage"
+msgstr "หน่วยความจำภายนอก"
+
+msgid "Homepage"
+msgstr "หน้าแรก"
+
+msgid "Pages"
+msgstr "หน้า"
+
+msgid "Routing"
+msgstr "กำหนดเส้นทาง"
+
+msgid "External services"
+msgstr "บริการภายนอก"
+
+msgid "Upload plugin"
+msgstr "อัพโหลดปลั๊กอิน"
+
+msgid "Consent screen"
+msgstr "หน้าจอได้รับความยินยอม"
+
+msgid "Flood protection"
+msgstr "ป้องกันการฟลัด"
+
+msgid "Banners"
+msgstr "แบนเนอร์"
+
+msgid "IP bans"
+msgstr "ไอพี แบน"
+
+msgid "Watermarks"
+msgstr "ลายน้ำ"
+
+msgid "Documentation"
+msgstr "เอกสาร"
+
+msgid "Support"
+msgstr "สนับสนุน"
+
+msgid "Community"
+msgstr "ชุมชน"
+
+msgid "install update"
+msgstr "ติดตั้งโปรแกรมปรับปรุง"
+
+msgid "Max. upload file size"
+msgstr "อัพโหลดขนาดไฟล์สูงสุด"
+
+msgid "PHP version"
+msgstr "PHP เวอร์ชั่น"
+
+msgid "Server"
+msgstr "เซิฟเวอร์"
+
+msgid "MySQL version"
+msgstr "MySQL เวอร์ชั่น"
+
+msgid "MySQL server info"
+msgstr "ข้อมูลของ MySQL เซิฟเวอร์"
+
+msgid "File uploads"
+msgstr "ไฟล์สำหรับอัพโหลด"
+
+msgid "Enabled"
+msgstr "เปิดใช้งาน"
+
+msgid "Disabled"
+msgstr "ไม่เปิดใช้งาน"
+
+msgid "Max. execution time"
+msgstr "เวลาดำเนินการ มากที่สุด"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d วินาที"
+
+msgid "Memory limit"
+msgstr "ขีดจำกัดของหน่วยความจำ"
+
+msgid "Can't delete all homepage cover images"
+msgstr "ไม่สามารถลบภาพหน้าปกหน้าแรก"
+
+msgid "Homepage cover image deleted"
+msgstr "ลบภาพปกหน้าแรก"
+
+msgid "Local"
+msgstr "ภายใน"
+
+msgid "External"
+msgstr "ภายนอก"
+
+msgid "All"
+msgstr "ทั้งหมด"
+
+msgid "search content"
+msgstr "ค้นหา เนื้อหา"
+
+msgid "Add page"
+msgstr "เพิ่มหน้า"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "แก้ไขหน้าไอดี %s"
+
+msgid "The page has been added successfully."
+msgstr "หน้านี้ถูกเพิ่มเรียบร้อยแล้ว"
+
+msgid "The page has been deleted."
+msgstr "หน้านี้ถูกลบเรียบร้อยแล้ว"
+
+msgid "homepage"
+msgstr "หน้าแรก"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "ก่อนชื่อเรื่องหลัก (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "หลังจากเรียกร้องให้ดำเนินการ (%s)"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "หลังจากหน้าปก (%s)"
+
+#, php-format
+msgid "After listing (%s)"
+msgstr "หลังจากรายการ (%s)"
+
+msgid "Before pagination"
+msgstr "ก่อนเลขหน้า"
+
+msgid "After pagination"
+msgstr "หลังเลขหน้า"
+
+msgid "Content (image and album)"
+msgstr "เนื้อหา (ภาพและอัลบั้ม)"
+
+msgid "Tab about column"
+msgstr "แท็บเกี่ยวกับคอลัมน์"
+
+msgid "Before comments"
+msgstr "ก่อนแสดงความคิดเห็น"
+
+msgid "Image page"
+msgstr "หน้าภาพ"
+
+msgid "Inside viewer top (image page)"
+msgstr "ด้านบนภายใน (หน้าภาพ)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "ด้านท้ายของผู้ชมภายใน (หน้าภาพ)"
+
+msgid "After image viewer (image page)"
+msgstr "หลังจากดูภาพ (หน้าภาพ)"
+
+msgid "Before header (image page)"
+msgstr "ก่อนส่วนหัว (หน้าภาพ)"
+
+msgid "After header (image page)"
+msgstr "หลังจากที่ส่วนหัว (หน้าภาพ)"
+
+msgid "Footer (image page)"
+msgstr "ส่วนท้าย (หน้าภาพ)"
+
+msgid "User profile page"
+msgstr "หน้าโปรไฟล์ของผู้ใช้"
+
+msgid "After top (user profile)"
+msgstr "หลังจากด้านบน (หน้าโปรไฟล์)"
+
+msgid "Before listing (user profile)"
+msgstr "ก่อนที่รายการ (หน้าโปรไฟล์)"
+
+msgid "Explore"
+msgstr "รวมภาพ"
+
+msgid "NSFW"
+msgstr "ไม่ปลอดภัย/ไม่เหมาะสม อาจมีเนื้อหาที่ลามกอนาจาร"
+
+msgid "Invalid website name"
+msgstr "ชื่อเว็บไซด์ผิดพลาด"
+
+msgid "Invalid language"
+msgstr "ภาษาผิดพลาด"
+
+msgid "Invalid timezone"
+msgstr "ไทม์โซนเวลาผิดพลาด"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "ค่าไม่ถูกต้อง: %s"
+
+msgid "Invalid upload storage mode"
+msgstr "โหมดอัพโหลดข้อมูลไม่ถูกต้อง"
+
+msgid "Invalid upload filenaming"
+msgstr "อัพโหลชื่อไฟล์ไม่ถูกต้อง"
+
+msgid "Invalid thumb width"
+msgstr "ความกว้างของภาพขนาดย่อไม่ถูกต้อง"
+
+msgid "Invalid thumb height"
+msgstr "ความสูงของภาพขนาดย่อไม่ถูกต้อง"
+
+msgid "Invalid medium size"
+msgstr "ขนาดกลางไม่ถูกต้อง"
+
+msgid "Invalid watermark percentage"
+msgstr "เปอร์เซ็นต์ลายน้ำไม่ถูกต้อง"
+
+msgid "Invalid watermark opacity"
+msgstr "ความทึบของลายน้ำไม่ถูกต้อง"
+
+msgid "Invalid theme"
+msgstr "ธีมผิดพลาด"
+
+msgid "Invalid value"
+msgstr "ค่าไม่ถูกต้อง"
+
+msgid "Invalid theme image listing size"
+msgstr "รูปแบบขนาดรายการภาพไม่ถูกต้อง"
+
+msgid "Invalid user id"
+msgstr "ชื่อผู้ใช้งานผิดพลาด"
+
+msgid "Invalid email mode"
+msgstr "โหมดอีเมลผิดพลาด"
+
+msgid "Invalid SMTP port"
+msgstr "SMTP port ไม่ถูกต้อง"
+
+msgid "Invalid SMTP security"
+msgstr "SMTP security ไม่ถูกต้อง"
+
+msgid "Invalid website mode"
+msgstr "โหมดของเว็บไซด์ผิดพลาด"
+
+msgid "Invalid personal mode user ID"
+msgstr "ID ผู้ใช้โหมดส่วนบุคคลที่ไม่ถูกต้อง"
+
+msgid "Invalid or reserved route"
+msgstr "ห้ามใช้หรือเส้นทางไม่ถูกต้อง"
+
+msgid "Invalid website privacy mode"
+msgstr "ความเป็นส่วนตัว"
+
+msgid "Invalid website content privacy mode"
+msgstr "ความเป็นส่วนตัวเนื้อหา"
+
+msgid "Invalid homepage style"
+msgstr "สไตล์หน้าแรกไม่ถูกต้อง"
+
+msgid "Invalid homepage call to action button color"
+msgstr "การกระทำสีปุ่มเรียกหน้าแรกไม่ถูกต้อง"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "การกระทำเรียกหน้าแรกของฟังก์ชั่นไม่ถูกต้อง"
+
+msgid "Invalid title"
+msgstr "ชื่อเรื่องไม่ถูกต้อง"
+
+msgid "Invalid status"
+msgstr "สถานะที่ไม่ถูกต้อง"
+
+msgid "Invalid type"
+msgstr "ประเภทไม่ถูกต้อง"
+
+msgid "Invalid visibility"
+msgstr "การแสดงผลที่ไม่ถูกต้อง"
+
+msgid "Invalid internal type"
+msgstr "ไฟล์ไม่ถูกกับประเภทที่ต้องการ"
+
+msgid "Invalid target attribute"
+msgstr "แอตทริบิวต์เป้าหมายไม่ถูกต้อง"
+
+msgid "Invalid rel attribute"
+msgstr "แอตทริบิวต์ rel ไม่ถูกต้อง"
+
+msgid "Invalid icon"
+msgstr "ไอคอนไม่ถูกต้อง"
+
+msgid "Invalid URL key"
+msgstr "คีย์ URL ไม่ถูกต้อง"
+
+msgid "Invalid file path"
+msgstr "เส้นทางของไฟล์ไม่ถูกต้อง"
+
+msgid "Invalid link URL"
+msgstr "URL ของลิงก์ไม่ถูกต้อง"
+
+msgid "Invalid user minimum age"
+msgstr "อายุขั้นต่ำของผู้ใช้ไม่ถูกต้อง"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "อนุญาตเฉพาะตัวอักษรผสมตัวเลขและ( _ )เท่านั้น"
+
+msgid "Invalid URL"
+msgstr "ลิงค์ผู้ใช้งานผิดพลาด"
+
+msgid "Routes can't be the same"
+msgstr "เส้นทางต้องไม่เหมือนกัน"
+
+msgid "Invalid upload image path"
+msgstr "พาร์ทของรูปที่อัพโหลดผิดพลาด"
+
+msgid "Invalid call to action URL"
+msgstr "การดำเนินการเรียก URL ไม่ถูกต้อง"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "ที่ได้รับอนุญาตมากสุด %s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "ไม่สามารถแม็ป %m ไปยังโฟลเดอร์ (%f) ที่มีอยู่"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "ไม่สามารถแม็ป %m ไปยังเส้นทาง (%r) ที่มีอยู่ได้"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "ไม่สามารถแม็ป %m ไปยัง %r (username ซ้ำ)"
+
+msgid "Invalid SMTP server"
+msgstr "SMTP server ไม่ถูกต้อง"
+
+msgid "Invalid SMTP username"
+msgstr "SMTP username ไม่ถูกต้อง"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "คีย์ URL นี้ถูกใช้โดยหน้าอื่น (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "พาธของไฟล์นี้ถูกใช้โดยหน้าอื่นอยู่แล้ว (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "ไม่สามารถบันทึกเนื้อหาของหน้า: %s."
+
+msgid "Dashboard"
+msgstr "แผงควบคุม"
+
+msgid "Following"
+msgstr "ที่เราติดตาม"
+
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+msgid "Image ID"
+msgstr "ไอดีรูปภาพ"
+
+msgid "Upload date"
+msgstr "วันที่อัพโหลด"
+
+msgid "Image %i in %a album"
+msgstr "รูป %i ในอัลบั้ม %a"
+
+msgid "Image %i in %c category"
+msgstr "รูปภาพ %i ในหมวดหมู่ %c"
+
+msgid "Image %i hosted in %w"
+msgstr "รูปภาพ %i ของ %w"
+
+msgid "Direct links"
+msgstr "ลิงค์ตรง"
+
+msgid "Image link"
+msgstr "ลิงก์รูปภาพ"
+
+msgid "Image URL"
+msgstr "URL รูปภาพ"
+
+msgid "Thumbnail URL"
+msgstr "URL ขนาดย่อ"
+
+msgid "Medium URL"
+msgstr "URL ขนาดกลาง"
+
+msgid "Full image"
+msgstr "ภาพเต็ม"
+
+msgid "Full image (linked)"
+msgstr "ภาพเต็ม (ลิงก์)"
+
+msgid "Medium image (linked)"
+msgstr "รูปภาพขนาดกลาง (ลิงก์)"
+
+msgid "Thumbnail image (linked)"
+msgstr "ภาพขนาดย่อ (ลิงก์)"
+
+msgid "Start uploading"
+msgstr "เริ่มการอัพโหลด"
+
+msgid "Login needed"
+msgstr "ต้องการการล็อคอิน"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "รูป"
+
+msgid "Category"
+msgstr "หมวดหมู่"
+
+msgid "IP address already banned"
+msgstr "ไอพีนี้โดนแบนแล้ว"
+
+msgid "Missing values"
+msgstr "ไม่มีค่า"
+
+msgid "Invalid username"
+msgstr "ยูสเซอร์เนมผิดพลาด"
+
+msgid "Invalid role"
+msgstr "หน้าที่ไม่ถูกต้อง"
+
+msgid "Username already being used"
+msgstr "ชื่อผู้ใช้งานนี้ได้โดนใช้งานไปแล้ว"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "เพิ่มรหัสผ่านหรือการเชื่อมต่อทางสังคมอื่นก่อนที่จะลบ %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "เพิ่มอีเมลหรือการเชื่อมต่อทางสังคมอื่นก่อนที่จะลบ %s"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s ถูกตัดการเชื่อมต่อแล้ว"
+
+msgid "Test email from %s @ %t"
+msgstr "ทดสอบอีเมลจาก %s @ %t"
+
+msgid "This is just a test"
+msgstr "นี่เป็นเพียงการทดสอบเท่านั้น"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "ทดสอบอีเมลที่ส่งไปยัง %s."
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "กำลังดาวน์โหลดข้อมูล %s"
+
+msgid "Content liked"
+msgstr "เนื้อหาที่ถูกใจ"
+
+msgid "Content disliked"
+msgstr "เนื้อหาที่ไม่ถูกใจ"
+
+msgid "%u liked your %t %c"
+msgstr "%u ที่คุณถูกใจ %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u ตอนนี้ติดตามคุณอยู่"
+
+msgid "A private user"
+msgstr "ผู้ใช้ส่วนตัว"
+
+msgid "Wrong Username/Email password combination"
+msgstr "ชื่อผู้ใช้ที่ไม่ถูกต้อง / รหัสผ่านอีเมล์ไม่ถูกต้อง"
+
+msgid "Sign in"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Upload images"
+msgstr "อัพโหลดรูปภาพ"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "Account"
+msgstr "บัญชี"
+
+msgid "Profile"
+msgstr "ข้อมูลส่วนตัว"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "การหมดอายุของรูปภาพไม่ถูกต้อง: %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "อีเมลถูกส่งไปยัง %s พร้อมด้วยคำแนะนำเพื่อเปิดใช้อีเมลนี้"
+
+msgid "Invalid name"
+msgstr "ชื่อไม่ถูกต้อง"
+
+msgid "Invalid website"
+msgstr "เว็บไซต์ไม่ถูกต้อง"
+
+msgid "Wrong password"
+msgstr "รหัสผ่านที่ไม่ถูกต้อง"
+
+msgid "Use a new password"
+msgstr "โปรดใช้รหัสผ่านใหม่"
+
+msgid "Changes have been saved."
+msgstr "การเปลี่ยนแปลงได้ถูกบันทึกแล้ว"
+
+msgid "Password has been changed"
+msgstr "เปลี่ยนแปลง Password เรียบร้อย"
+
+msgid "Password has been created."
+msgstr "รหัสผ่านได้ถูกตั้งแล้ว"
+
+msgid "Wrong Username/Email values"
+msgstr "Username หรือ Email ไม่ถูกต้อง"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "การตั้งค่าสำหรับ %s"
+
+msgid "Username"
+msgstr "ผู้ใช้งาน"
+
+msgid "Delete user"
+msgstr "ลบผู้ใช้"
+
+msgid "User ID"
+msgstr "ID ผู้ใช้งาน"
+
+msgid "Register date"
+msgstr "วันที่ลงทะเบียน"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "คุณต้องยอมรับข้อกำหนดและนโยบายความเป็นส่วน"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "คุณต้องมีอายุอย่างน้อย %s ปีจึงจะสามารถใช้งานเว็บไซต์นี้ได้"
+
+msgid "Create account"
+msgstr "สมัครสมาชิก"
+
+msgid "Upload"
+msgstr "อัพโหลด"
+
+msgid "Albums"
+msgstr "อัลบั้ม"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "ถูกใจโดย %s"
+
+msgid "Liked"
+msgstr "ถูกใจ"
+
+msgid "Followers"
+msgstr "ผู้ติดตาม"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) อัลบั้มใน %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) ใน %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "อัลบั้ม"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "หมายเหตุ: เนื้อหานี้เป็นส่วนตัว แต่ทุกคนที่มีการเชื่อมโยงจะสามารถเห็นได้"
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "หมายเหตุ: เนื้อหานี้มีรหัสผ่านป้องกัน อย่าลืมส่งรหัสผ่านเนื้อหาที่จะแบ่งปัน"
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "หมายเหตุ: เนื้อหานี้มีความเป็นส่วนตัว เปลี่ยนความเป็นส่วนตัวเป็น \"สาธารณะ\" เพื่อที่จะแบ่งปัน"
+
+msgid "Private"
+msgstr "ส่วนตัว"
+
+msgid "Public"
+msgstr "สาธารณะ"
+
+msgid "Me"
+msgstr "ฉัน"
+
+msgid "Link"
+msgstr "ลิงก์"
+
+msgid "After %n %t"
+msgstr "หลังจาก %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "นาที"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ชั่วโมง"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "วัน"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "อาทิตย์"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "เดือน"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "ปี"
+
+msgid "Don't autodelete"
+msgstr "ไม่ต้องลบออโต้"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "เปิด %s สำหรับการเขียนไม่ได้"
+
+msgid "Duplicated upload"
+msgstr "การอัพโหลดซ้ำ"
+
+msgid "Private upload"
+msgstr "อัพโหลดแบบ ส่วนตัว"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "จำนวนคนดู"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "ถูกใจ"
+
+msgid "Most recent"
+msgstr "ผู้ชมเพิ่งเข้ามากที่สุด"
+
+msgid "Oldest"
+msgstr "เก่าที่สุด"
+
+msgid "Most viewed"
+msgstr "ผู้ชมมากที่สุด"
+
+msgid "Most liked"
+msgstr "ถูกใจมากที่สุด"
+
+msgid "People"
+msgstr "คน"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "สร้างโฟลเดอร์ %s ปลายทางไม่ได้"
+
+msgid "Internal"
+msgstr "ภายใน"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "พื้นที่จัดเก็บไม่สามารถกำหนดให้ต่ำกว่า การใช้งานในปัจจุบันได้ (%s)"
+
+msgid "Unlimited"
+msgstr "ไม่จำกัด"
+
+msgid "used"
+msgstr "ใช้แล้ว"
+
+msgid "Private profile"
+msgstr "รายละเอียดส่วนตัว"
+
+msgid "Share"
+msgstr "แชร์"
+
+#, php-format
+msgid "view on %s"
+msgstr "ดูได้ที่ %s"
+
+msgid "cookie policy"
+msgstr "นโยบายคุกกี้"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "เราใช้คุกกี้ของเราเองและของบุคคลที่สามเพื่อปรับปรุงประสบการณ์การท่องเว็บและบริการของเรา หากคุณใช้เว็บไซต์ของเราต่อไปถือว่าคุณยอมรับสิ่งนี้ %cookie_policy_link"
+
+msgid "I understand"
+msgstr "ฉันเข้าใจ"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "วินาที"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s ก่อนหน้านี้"
+
+msgid "moments ago"
+msgstr "เดือนที่แล้ว"
+
+msgid "Discovery"
+msgstr "สิ่งที่ค้นพบ"
+
+msgid "Random"
+msgstr "สุ่ม"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Advanced search"
+msgstr "การค้นหาแบบละเอียด"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "คำชี้แจง %s"
+
+msgid "Notifications"
+msgstr "การแจ้งเตือน"
+
+msgid "loading"
+msgstr "โหลด"
+
+msgid "You don't have notifications"
+msgstr "คุณไม่มีการแจ้งเตือน"
+
+msgid "My Profile"
+msgstr "โปรไฟล์ของฉัน"
+
+msgid "Administrator"
+msgstr "ผู้ดูแล"
+
+msgid "Sign out"
+msgstr "ออกจากระบบ"
+
+msgid "You must enter the album name."
+msgstr "คุณต้องป้อนชื่ออัลบั้ม"
+
+msgid "Confirm"
+msgstr "ยืนยัน"
+
+msgid "Select existing album"
+msgstr "เลือกอัลบั้มที่มีอยู่"
+
+msgid "An error occurred. Please try again later."
+msgstr "เกิดข้อผิดพลาด. กรุณาลองใหม่อีกครั้งในภายหลัง."
+
+msgid "Please select a valid image file type."
+msgstr "กรุณาเลือกประเภทของไฟล์ภาพที่ถูกต้อง"
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "โปรดเลือกรูปภาพขนาดไม่ใหญ่กว่า %s"
+
+msgid "Profile image updated."
+msgstr "เปลี่ยนภาพโปรไฟล์"
+
+msgid "Profile background image updated."
+msgstr "อัปเดตภาพพื้นหลังของโปรไฟล์แล้ว"
+
+msgid "Profile background image deleted."
+msgstr "ลบภาพพื้นหลังโปรไฟล์แล้ว"
+
+msgid "Error deleting profile background image."
+msgstr "เกิดข้อผิดพลาดในการลบภาพพื้นหลังโปรไฟล์"
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "อัปเดต v%s ที่พร้อมใช้งาน"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "เว็บไซต์นี้กำลังเรียกใช้เวอร์ชัน %s ล่าสุด"
+
+msgid "Toggle select"
+msgstr "สลับการเลือก"
+
+msgid "Like"
+msgstr "ถูกใจ"
+
+msgid "Create album"
+msgstr "สร้างอัลบั้ม"
+
+msgid "Toggle flag"
+msgstr "สลับสถานะ"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+msgid "Next"
+msgstr "ถัดไป"
+
+msgid "File too big."
+msgstr "ไฟล์ใหญ่เกินไป"
+
+msgid "Invalid or unsupported file format."
+msgstr "รูปแบบไฟล์ที่ไม่ถูกต้องหรือไม่สนับสนุน"
+
+msgid "Some files couldn't be added"
+msgstr "ไฟล์บางไฟล์ไม่สามารถเพิ่มได้"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "อัลบั้มของ %s"
+
+msgid "Image edited successfully."
+msgstr "แก้ไขภาพที่ประสบความสำเร็จ"
+
+msgid "private"
+msgstr "ส่วนตัว"
+
+msgid "The content has been edited."
+msgstr "เนื้อหาที่ได้รับการแก้ไข"
+
+msgid "Invalid URL key."
+msgstr "คีย์ URL ไม่ถูกต้อง"
+
+msgid "Category URL key already being used."
+msgstr "มีการใช้คีย์ URL นี้อยู่แล้ว"
+
+msgid "Category successfully deleted."
+msgstr "ลบหมวดหมู่สำเร็จแล้ว"
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "เพิ่มประเภท %s แล้ว"
+
+msgid "Invalid expiration date."
+msgstr "วันหมดอายุไม่ถูกต้อง"
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "ไอพี %s นี้โดนแบนอยู่แล้ว"
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "ไอพี %s โดนแบน"
+
+msgid "IP ban successfully deleted."
+msgstr "ลบ IP เรียบร้อยแล้ว"
+
+msgid "Please fill all the required fields."
+msgstr "โปรดกรอกข้อมูลในฟิลด์ที่จำเป็นทั้งหมด"
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "ค่าความสามารถจัดเก็บไม่ถูกต้อง ให้แน่ใจว่าจะใช้รูปแบบที่ถูกต้อง"
+
+msgid "Invalid URL."
+msgstr "URL ไม่ถูกต้อง."
+
+msgid "Storage successfully edited."
+msgstr "ประสบความสำเร็จในการจัดเก็บข้อมูลการแก้ไข"
+
+msgid "The content has been deleted."
+msgstr "ลบเนื้อหาแล้ว"
+
+msgid "The content has been moved."
+msgstr "ย้ายเนื้อหาไปแล้ว"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "Unselect"
+msgstr "ยกเลิกการเลือก"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "การเปลี่ยนแปลงทั้งหมดที่คุณทำจะหายไปหากคุณดำเนินการต่อ"
+
+msgid "Save changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "Submit"
+msgstr "ยืนยัน"
+
+msgid "Changes saved successfully."
+msgstr "บันทึกการเปลี่ยนแปลงเรียบร้อยแล้ว"
+
+msgid "Go back to form"
+msgstr "กลับไปที่แบบฟอร์ม"
+
+msgid "or"
+msgstr "หรือ"
+
+msgid "continue anyway"
+msgstr "ดำเนินการต่อ"
+
+msgid "cancel"
+msgstr "ยกเลิก"
+
+msgid "Saving"
+msgstr "กำลังบันทึก"
+
+msgid "Sending"
+msgstr "กำลังส่ง"
+
+msgid "Confirm action"
+msgstr "ยืนยันการดำเนินการ"
+
+msgid "information"
+msgstr "ข้อมูล"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "เราได้รับคำขอที่จะเปลี่ยนอีเมลของคุณ <a href=\"%u\">%n</a> บัญชีของคุณ %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "ถ้าจะให้เสร็จสิ้นกระบวนการคุณต้อง <a href=\"%s\">ยืนยันอีเมล์ของท่าน</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "หรือคุณสามารถคัดลอกและวาง URL ลงในเบราว์เซอร์ของคุณ: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "ถ้าคุณไม่ได้ตั้งไม่ต้องสนใจข้อความนี้"
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "คำขอนี้ถูกสร้างขึ้นจาก IP: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "เราได้รับการร้องขอในการลงทะเบียน %n บัญชีที่ %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "ให้เสร็จสิ้นกระบวนการที่คุณต้อง <a href=\"%s\"> เปิดใช้งานบัญชีของคุณ </a>"
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "เราได้รับคำขอเพื่อรีเซ็ตรหัสผ่านสำหรับ <a href=\"%u\">%n</a> บัญชีของคุณ."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "ถ้าต้องการรีเซ็ตรหัสผ่านของคุณ <a href=\"%s\">โปรดคลิกที่ลิ้งค์นี้</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "สวัสดี %n, ยินดีต้อนรับสู่ %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "ตอนนี้บัญชีคุณพร้อมแล้ว คุณสามารถเพลิดเพลินกับการอัพโหลดรูปของคุณ สร้างอัลบั้ม และ ตั้งค่าความเป็นส่วนตัวของเนื้อหาของคุณ และอีกมากมายที่เจ๋งๆที่คุณจะสามารถสำรวจได้จากที่นี่ !"
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "ยังไงซะ, นี่คือหน้าโปรไฟล์ที่น่าสนใจของตัวเองมาก: <a href=\"%u\">%n</a>. ไปข้างหน้าและปรับแต่ง, มันเป็นของคุณ!"
+
+msgid "Thank you for joining"
+msgstr "ขอบคุณสำหรับการเข้าร่วม"
+
+msgid "This email was sent from %w %u"
+msgstr "อีเมลนี้จะถูกส่งมาจาก %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "ลากและวางภาพที่นี่เพื่ออัพโหลด"
+
+msgid "Select the images to upload"
+msgstr "เลือกรูปภาพเพื่ออัพโหลด"
+
+msgid "You can also %i or %u."
+msgstr "นอกจากนี้คุณยังสามารถ %i หรือ %u."
+
+msgid "browse from your computer"
+msgstr "เรียกดูจากคอมพิวเตอร์ของคุณ"
+
+msgid "add image URLs"
+msgstr "เพิ่ม URL ภาพ"
+
+msgid "You can also %i, %c or %u."
+msgstr "นอกจากนี้คุณยังสามารถ %i, %c หรือ %u."
+
+msgid "browse from your device"
+msgstr "เรียกดูจากอุปกรณ์ของคุณ"
+
+msgid "take a picture"
+msgstr "ถ่ายภาพ"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "ลงทะเบียนเพื่อรับ %s"
+
+msgid "Uploading %q %o"
+msgstr "อัพโหลด %q %o"
+
+msgid "complete"
+msgstr "สมบูรณ์"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "คิวกำลังถูกอัพโหลดจะใช้เวลาเพียงไม่กี่วินาทีในการดำเนินการ"
+
+msgid "Upload complete"
+msgstr "อัพโหลดเสร็จสิ้น"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "อัพโหลดเนื้อหาไปที่ %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "คุณสามารถ %c ได้ด้วยเนื้อหาที่เพิ่งอัพโหลดหรือ %m"
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "คุณสามารถ %c ได้ด้วยเนื้อหาที่เพิ่งอัพโหลด"
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "คุณต้อง %s หรือ %l เพื่อบันทึกเนื้อหานี้ไว้ในบัญชีของคุณ"
+
+msgid "create an account"
+msgstr "สร้างบัญชี"
+
+msgid "sign in"
+msgstr "ลงชื่อเข้าใช้"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "ไม่มี %s ถูกอัพโหลด"
+
+msgid "Sign up"
+msgstr "รับสมัคร"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s เพื่อให้สามารถปรับแต่งหรือปิดใช้งานการลบภาพอัตโนมัติ"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "เลือก ถ้าอัพโหลดนี้ไม่ปลอดภัยสำหรับครอบครัว"
+
+msgid "Not family safe upload"
+msgstr "ไม่ปลอดภัยสำหรับครอบครัว"
+
+msgid "Uploading"
+msgstr "กำลังอัพโหลด..."
+
+msgid "cancel remaining"
+msgstr "ยกเลิกที่เหลือ"
+
+msgid "learn more"
+msgstr "เรียนรู้เพิ่ม"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "ตรวจสอบ <a data-modal=\"simple\" data-target=\"failed-upload-result\">การรายงานข้อผิดพลาด</a> สำหรับข้อมูลเพิ่มเติม"
+
+msgid "reset"
+msgstr "รีเซ็ต"
+
+msgid "copy"
+msgstr "คัดลอก"
+
+msgid "insert"
+msgstr "แทรก"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Title"
+msgstr "หัวข้อ"
+
+msgid "optional"
+msgstr "ทางเลือก"
+
+msgid "Resize image"
+msgstr "ปรับขนาดรูปภาพ"
+
+msgid "Width"
+msgstr "ความกว้าง"
+
+msgid "Height"
+msgstr "ความสูง"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "หมายเหตุ: ภาพ .GIF เคลื่อนไหวจะไม่ได้รับการปรับขนาด"
+
+msgid "Mark this if the image is not family safe"
+msgstr "เลือกว่ารูปนี้ไม่เหมาะสำหรับครอบครัว"
+
+msgid "Flag as unsafe"
+msgstr "ปักหมุดว่าไม่ปลอดภัย"
+
+msgid "Description"
+msgstr "รายละเอียด"
+
+msgid "Add image URLs"
+msgstr "เพิ่ม URLs ของรูป"
+
+msgid "Add the image URLs here"
+msgstr "ใส่ URLs  ของรูปตรงนี้"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "เนื้อหาที่อัปโหลดจะถูกย้ายไปที่อัลบั้มที่สร้างขึ้นใหม่"
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "คุณต้อง %s หรือ %l ถ้าคุณต้องการแก้ไขอัลบั้มนี้ในภายหลัง"
+
+msgid "Error report"
+msgstr "รายงานข้อผิดพลาด"
+
+msgid "Links"
+msgstr "ลิงค์"
+
+msgid "Direct"
+msgstr "โดยตรง"
+
+msgid "HTML Codes"
+msgstr "รหัส html"
+
+msgid "HTML image"
+msgstr "HTML ภาพ"
+
+msgid "HTML full linked"
+msgstr "HTML ลิงก์ภาพขนาดเต็ม"
+
+msgid "HTML medium linked"
+msgstr "HTML ลิงก์ภาพขนาดกลาง"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML ลิงก์ภาพขนาดย่อ"
+
+msgid "BBCodes"
+msgstr "บีบีโค้ด"
+
+msgid "BBCode full"
+msgstr "บีบีโค้ด เต็ม"
+
+msgid "BBCode full linked"
+msgstr "บีบีโค้ด ภาพขนาดเต็ม"
+
+msgid "BBCode medium linked"
+msgstr "บีบีโค้ด ภาพขนาดกลาง"
+
+msgid "BBCode thumbnail linked"
+msgstr "บีบีโค้ด ภาพขนาดย่อ"
+
+msgid "Markdown full"
+msgstr "Markdown เต็ม"
+
+msgid "Markdown full linked"
+msgstr "Markdown ภาพขนาดเต็ม"
+
+msgid "Markdown medium linked"
+msgstr "Markdown ภาพขนาดกลาง"
+
+msgid "Markdown thumbnail linked"
+msgstr "Markdown ภาพขนาดย่อ"
+
+msgid "Viewer links"
+msgstr "ผู้ชมลิ้งค์"
+
+msgid "All these words"
+msgstr "คำเหล่านี้ทั้งหมด"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "พิมพ์คำที่สำคัญ: แจ็ค รัสเซลล์ เทอร์เรีย สามสี"
+
+msgid "This exact word or phrase"
+msgstr "คำนี้หรือวลี"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "ใส่คำที่แน่นอนในเครื่องหมายคำพูด: \"หนู Terrier\""
+
+msgid "None of these words"
+msgstr "ไม่มีคำพูดเหล่านี้"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "ใส่เครื่องหมายลบก่อนคำที่คุณไม่ต้องการ: -สัตว์ฟันแทะ- \"แจ๊ครัสเซล\""
+
+msgid "Storage"
+msgstr "เนื้อที่"
+
+msgid "IP address"
+msgstr "ที่อยู่ของ IP"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Privacy"
+msgstr "ความเป็นส่วนตัว"
+
+msgid "Who can view this content"
+msgstr "ใครสามารถดูเนื้อหานี้ได้บ้าง"
+
+msgid "Private (just me)"
+msgstr "ส่วนตัว"
+
+msgid "Private (anyone with the link)"
+msgstr "ส่วนตัว (สำหรับผู้มีลิงค์)"
+
+msgid "Private (password protected)"
+msgstr "ส่วนตัว (ป้องกันด้วยรหัสผ่าน)"
+
+msgid "URL key"
+msgstr "คีย์ URL"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "ตัวอักษร ตัวเลขและอักขระพิเศษ"
+
+msgid "Path"
+msgstr "เส้นทาง"
+
+msgid "Local path (absolute)"
+msgstr "ตำแหน่งที่แน้นอน"
+
+msgid "Directory structure"
+msgstr "โครงสร้างไดเรกทอรี"
+
+msgid "Parse top level folders as users (username)"
+msgstr "แยกโฟลเดอร์ในระดับผู้ใช้"
+
+msgid "You can use wildcard * characters."
+msgstr "คุณสามารถใช้อักขระตัว * ได้"
+
+msgid "Expiration date"
+msgstr "วันหมดอายุ"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "ปี-เดือน-วัน ชั่วโมง:นาที:วินาที"
+
+msgid "Example"
+msgstr "ตัวอย่าง"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "IP นี้จะถูกห้ามจนกว่าจะถึงวันที่? ปล่อยให้มันว่างเปล่าไม่มีวันหมดอายุ"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "ข้อความ, HTML หรือ URL การเปลี่ยนเส้นทาง"
+
+msgid "Storage name"
+msgstr "ชื่อของพื้นที่เก็บข้อมูล"
+
+msgid "API"
+msgstr "เอพีไอ"
+
+msgid "Region"
+msgstr "สัญชาติ"
+
+msgid "Storage region"
+msgstr "พื้นที่จัดเก็บของภูมิภาค"
+
+msgid "Storage bucket"
+msgstr "ขนาดพื้นที่จัดเก็บ"
+
+msgid "Key"
+msgstr "คีย์"
+
+msgid "Storage key"
+msgstr "คีย์ที่เก็บข้อมูล"
+
+msgid "Secret"
+msgstr "ลับสุดยอด"
+
+msgid "Storage secret"
+msgstr "การเก็บรักษาความลับ"
+
+msgid "Private key"
+msgstr "คีย์ส่วนตัว"
+
+msgid "Google Cloud JSON key"
+msgstr "คีย์ Google Cloud JSON"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "คุณต้องมี <a %s>บัญชีบริการ</a> สำหรับข้อมูลนี้"
+
+msgid "Service name"
+msgstr "ชื่อบริการ"
+
+msgid "Identity URL"
+msgstr "URL ข้อมูลประจำตัว"
+
+msgid "Identity API endpoint"
+msgstr "API ข้อมูลประจำตัวปลายทาง"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "API ปลายทางข้อมูลประจำตัว OpenStack"
+
+msgid "Container"
+msgstr "ที่จัดเก็บ"
+
+msgid "Storage container"
+msgstr "พื้นที่จัดเก็บ"
+
+msgid "Tenant id"
+msgstr "Id ผู้เช่า"
+
+msgid "Tenant id (account id)"
+msgstr "Id ผู้เช่า (Id บัญชี)"
+
+msgid "Tenant name"
+msgstr "ชื่อผู้เช่า"
+
+msgid "Tenant name (account name)"
+msgstr "ชื่อผู้เช่า (ชื่อบัญชี)"
+
+msgid "Hostname or IP of the storage server"
+msgstr "ชื่อโฮสต์หรือ IP ของเซิร์ฟเวอร์ที่เก็บข้อมูล"
+
+msgid "Server path"
+msgstr "เส้นทางของเซิร์ฟเวอร์"
+
+msgid "Server password"
+msgstr "รหัสผ่านของเซิร์ฟเวอร์"
+
+msgid "Local path"
+msgstr "ตำแหน่งที่ตั้งภายใน"
+
+msgid "Local path where the files will be stored"
+msgstr "ตำแหน่งที่ตั้งภายในที่จะเก็บไฟล์ไว้"
+
+msgid "Storage capacity"
+msgstr "ความจุ"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "ตัวอย่าง: 20 GB, 1 TB เป็นต้น"
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "พื้นที่เก็บข้อมูลนี้จะถูกปิดใช้งานเมื่อถึงขีดความสามารถนี้ ปล่อยให้ว่างหรือศูนย์ไม่จำกัด"
+
+msgid "Storage URL"
+msgstr "URL ที่จัดเก็บ"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "ระบบจะแม็ปภาพของที่เก็บข้อมูลนี้กับ URL นี้"
+
+msgid "view more"
+msgstr "ดูเพิ่มเติม"
+
+msgid "Load more"
+msgstr "โหลดเพิ่มเติม"
+
+msgid "Get embed codes"
+msgstr "รับรหัสโค๊ด"
+
+msgid "Flag as safe"
+msgstr "ตั้งค่าสถานะให้ปลอดภัย"
+
+msgid "Select all"
+msgstr "เลือกทั้งหมด"
+
+msgid "Clear selection"
+msgstr "ล้างทั้งหมด"
+
+msgid "Sign in with another account"
+msgstr "ล็อคอินโดยใช้บัญชีอื่น"
+
+msgid "Home"
+msgstr "หน้าแรก"
+
+msgid "There's nothing to show here."
+msgstr "ไม่มีอะไรที่จะแสดงที่นี่"
+
+msgid "There is no categories."
+msgstr "ไม่มีหมวดหมู่"
+
+msgid "Confirm flag content as safe"
+msgstr "ยืนยันป้ายชื่อของเนื้อหาว่าปลอดภัย"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "คุณต้องการติดป้ายชื่อทำเครื่องหมายเนื้อหานี้ว่าปลอดภัยหรือไม่?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "ยืนยันป้ายชื่อของเนื้อหาว่าไม่ปลอดภัย"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "คุณต้องการติดป้ายชื่อทำเครื่องหมายเนื้อหานี้ว่าไม่ปลอดภัยหรือไม่?"
+
+msgid "Confirm deletion"
+msgstr "ยืนยันการลบ"
+
+msgid "Guest"
+msgstr "บุคคลทั่วไป"
+
+msgid "Keyboard shortcuts"
+msgstr "แป้นพิมพ์ลัด"
+
+msgid "Uploaded by guest"
+msgstr "อัปโหลดโดย บุคคลทั่วไป"
+
+msgid "Uploaded by private"
+msgstr "อัพโหลดแบบส่วนตัว"
+
+#, php-format
+msgid "by %u"
+msgstr "โดย %u"
+
+msgid "Toggle unsafe flag"
+msgstr "สลับสถานะที่ไม่ปลอดภัย"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "คุณไม่มีสิทธิ์เข้าถึงหน้านี้หรือลิงก์หมดอายุแล้ว"
+
+msgid "Go to homepage"
+msgstr "ไปที่หน้าแรก"
+
+msgid "The requested page was not found."
+msgstr "ไม่พบหน้าที่คุณค้นหา"
+
+msgid "The user has been deleted"
+msgstr "บัญชีผู้ใช้ถูกลบออกจากระบบ"
+
+msgid "Your account is almost ready"
+msgstr "บัญชีของคุณเกือบจะพร้อมแล้ว"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "ส่งอีเมลไปยัง %s ได้รับการส่งไปพร้อมกับคำแนะนำในการเปิดใช้งานบัญชีของคุณ การเชื่อมโยงการเปิดใช้งานจะใช้ได้เฉพาะสำหรับ 48 ชั่วโมง ถ้าคุณไม่ได้รับคำแนะนำให้ลองตรวจสอบขยะหรือสแปมตัวกรองของคุณ"
+
+msgid "Resend activation"
+msgstr "ยืนยันการใช้งานอีกครั้ง"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "คุณได้เปลี่ยนอีเมลบัญชีของคุณไปที่ %s"
+
+msgid "Go to my profile"
+msgstr "ไปที่หน้าโปรไฟล์"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "ลิงค์ยืนยันจะถูกส่งไปยังอีเมลนี้มีรายละเอียดเพื่อเปิดใช้งานบัญชีของคุณ"
+
+msgid "Your email address"
+msgstr "ที่อยู่อีเมลของคุณ"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "อีเมลที่มีคำแนะนำในการรีเซ็ตรหัสผ่านของคุณได้ถูกส่งไปยังที่อยู่อีเมลที่ลงทะเบียน ถ้าคุณไม่ได้รับคำแนะนำลองตรวจสอบตัวกรองขยะหรือสแปมของคุณ"
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "อีเมลก่อนหน้านี้ได้รับการส่งไปพร้อมกับคำแนะนำในการรีเซ็ตรหัสผ่านของคุณ หากคุณไม่ได้รับคำแนะนำลองตรวจสอบตัวกรองขยะหรือสแปมของคุณ"
+
+msgid "Resend instructions"
+msgstr "ส่งคำแนะนำใหม่"
+
+#, php-format
+msgid "Enter your username or email address to continue. You may need to check your spam folder or whitelist %s"
+msgstr "กรอกชื่อผู้ใช้หรืออีเมลของคุณเพื่อดำเนินการต่อ คุณอาจต้องตรวจสอบโฟลเดอร์สแปมหรือรายการที่อนุญาต %s ของคุณ"
+
+msgid "Username or Email address"
+msgstr "บัญชีผู้ใช้หรือที่อยู่อีเมล"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "รหัสผ่านของคุณมีการเปลี่ยนแปลง ตอนนี้คุณสามารถลองเข้าสู่ระบบโดยใช้รหัสผ่านใหม่"
+
+msgid "Login now"
+msgstr "เข้าสู่ระบบเดี๋ยวนี้"
+
+msgid "Enter your new password"
+msgstr "กรอกรหัสผ่านใหม่ของคุณ"
+
+#, php-format
+msgid "%d characters min"
+msgstr "ตัวอักษรอย่างน้อย %d ตัว"
+
+msgid "Password strength"
+msgstr "ความปลอดภัยรหัสผ่าน"
+
+msgid "Re-enter your new password"
+msgstr "ป้อนรหัสผ่านใหม่"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "ส่งอีเมลไปยัง %s พร้อมคำแนะนำเพื่อเปิดใช้งานบัญชีของคุณ หากคุณไม่ได้รับคำแนะนำลองตรวจสอบตัวกรองขยะหรือสแปมของคุณ"
+
+msgid "Upload to album"
+msgstr "อัพโหลดไปยังอัลบั้ม"
+
+msgid "You like this"
+msgstr "คุณถูกใจสิ่งนี้"
+
+msgid "This content is private"
+msgstr "นี่เป็นเนื้อหาส่วนตัว"
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "โปรดอ่านและปฏิบัติตามเงื่อนไขดังต่อไปนี้ก่อนที่คุณจะดำเนินการต่อ:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "เว็บไซต์นี้มีอาจมีข้อมูลการเชื่อมโยงและภาพของเนื้อหาทางเพศที่โจ่งแจ้ง ถ้าคุณอายุต่ำกว่า %s, ถ้าเนื้อหาดังกล่าวขัดต่อคุณหรือหากดูเนื้อหาดังกล่าวในชุมชนของคุณอย่างผิดกฎหมายโปรดอย่าดำเนินการต่อ.\n\nฉัน %s ปีและฉันเชื่อว่าในฐานะที่เป็นผู้ใหญ่มันเป็นสิทธิที่จะได้รับ / ดูเนื้อหาที่ไม่เหมาะสมทางเพศ ฉันต้องการรับ / ดูเนื้อหาที่มีเนื้อหาทางเพศที่โจ่งแจ้ง.\n\nผมเชื่อว่าการกระทำทางเพศระหว่างผู้ใหญ่ที่ยินยอมจะไม่เป็นที่รังเกียจและหยาบคาย การดูการอ่านและการดาวน์โหลดเนื้อหาที่มีเนื้อหาทางเพศไม่เป็นการละเมิดมาตรฐานของชุมชนเมืองเมืองรัฐหรือประเทศของฉัน.\n\nเนื้อหาที่โจ่งแจ้งทางเพศที่ฉันดูคือการใช้ส่วนตัวของฉันเองและฉันจะไม่เปิดเผยเนื้อหาดังกล่าวแก่ผู้เยาว์.\n\nฉันเป็นผู้รับผิดชอบต่อการเปิดเผยข้อมูลที่ผิดพลาดหรือข้อ จำกัด ทางกฎหมายในการดูอ่านหรือดาวน์โหลดเนื้อหาใด ๆ ในไซต์นี้ นอกจากนี้เว็บไซต์นี้หรือ บริษัท ในเครือจะไม่รับผิดชอบต่อผลกระทบทางกฎหมายใด ๆ ที่เกิดจากการเข้าหรือใช้งานเว็บไซต์นี้โดยฉ้อฉล.\n\nหน้าจอความยินยอมนี้ถือเป็นข้อตกลงทางกฎหมายระหว่างเว็บไซต์นี้กับคุณและ / หรือธุรกิจใด ๆ ที่คุณมีส่วนได้เสียตามกฎหมายหรือเป็นธรรม หากส่วนใดส่วนหนึ่งของข้อตกลงนี้ถือว่าไม่สามารถบังคับได้โดยศาลที่มีเขตอำนาจศาลจะไม่ส่งผลกระทบต่อการบังคับใช้ส่วนอื่น ๆ ของข้อตกลง."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "เมื่อคลิกที่ \"ฉันยอมรับ\" คุณได้ประกาศว่าคุณได้อ่านและเข้าใจเงื่อนไขทั้งหมดที่กล่าวมาแล้วข้างต้น"
+
+msgid "I Agree"
+msgstr "ฉันเห็นด้วย"
+
+msgid "documentation"
+msgstr "เอกสาร"
+
+msgid "Check the errors to proceed."
+msgstr "ตรวจสอบข้อผิดพลาดเพื่อดำเนินการต่อ"
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Dashboard > Settings > Website"
+msgstr "หน้าแดชบอร์ด> การตั้งค่า> เว็บไซต์"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "แสดงหน้าจอความยินยอมก่อนเข้าถึงเว็บไซต์ เป็นประโยชน์สำหรับเว็บไซต์เนื้อหาสำหรับผู้ใหญ่ที่ผู้เยาว์ไม่ควรได้รับอนุญาต"
+
+msgid "Enable consent screen"
+msgstr "เปิดใช้งานหน้าจอความยินยอม"
+
+msgid "Consent screen cover image"
+msgstr "ภาพปกหน้าจอความยินยอม"
+
+msgid "Show not safe content in listings"
+msgstr "แสดงเนื้อหาที่ไม่ปลอดภัยในรายชื่อ"
+
+msgid "Blur NSFW content in listings"
+msgstr "เบลอเนื้อหา NSFW ในรายการ"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการใช้เอฟเฟ็กต์ภาพเบลอบนภาพ NSFW ในรายการ"
+
+msgid "Show not safe content in random mode"
+msgstr "แสดงเนื้อหาที่ไม่ปลอดภัยในโหมดสุ่ม"
+
+msgid "Show banners in not safe content"
+msgstr "แสดงแบนเนอร์ด้วยเนื้อหาที่ไม่ปลอดภัย"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการแสดงแบนเนอร์ในหน้าเนื้อหาที่ไม่ปลอดภัย"
+
+msgid "Cookie law compliance"
+msgstr "การปฏิบัติตามกฎหมายคุกกี้"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "เปิดใช้งานคุณลักษณะนี้เพื่อแสดงข้อความที่สอดคล้องกับข้อกำหนดของกฎหมายคุกกี้ของสหภาพยุโรป หมายเหตุ: คุณจำเป็นต้องทำเช่นนี้หากเว็บไซต์ของคุณเป็นโฮสต์ในสหภาพยุโรปและหากคุณเพิ่มคุกกี้ติดตาม"
+
+msgid "From name"
+msgstr "จากชื่อ"
+
+msgid "Sender name for emails sent to users."
+msgstr "ชื่อผู้ส่งสำหรับอีเมลที่ส่งถึงผู้ใช้"
+
+msgid "From email address"
+msgstr "จากอีเมล"
+
+msgid "Sender email for emails sent to users."
+msgstr "อีเมลของผู้ส่ง สำหรับส่งไปยังผู้ใช้"
+
+msgid "Incoming email address"
+msgstr "อีเมลขาเข้า"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "ผู้รับแบบฟอร์มการติดต่อและระบบจะแจ้งเตือน"
+
+msgid "Email mode"
+msgstr "โหมดอีเมล"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "วิธีการส่งอีเมล? แนะนำ SMTP"
+
+msgid "SMTP server and port"
+msgstr "เซิร์ฟเวอร์ SMTP และพอร์ต"
+
+msgid "SMTP server"
+msgstr "เซิร์ฟเวอร์ SMTP"
+
+msgid "SMTP username"
+msgstr "ชื่อผู้ใช้ SMTP"
+
+msgid "SMTP password"
+msgstr "รหัสผ่าน SMTP"
+
+msgid "SMTP security"
+msgstr "การรักษาความปลอดภัย SMTP"
+
+msgid "Unsecured"
+msgstr "ไม่มั่นคง"
+
+#, php-format
+msgid "%s public key"
+msgstr "รหัสการเข้าถึง | %s "
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "ไม่อนุญาต, Facebook หรือสิ่งที่คุณต้องการ จะใช้ในมุมมองภาพ"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics หรือสิ่งที่คุณต้องการ จะถูกเพิ่มลงในส่วนท้ายของรูปแบบ"
+
+msgid "Twitter account"
+msgstr "บัญชี Twitter"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "เปิดใช้งานเพื่อเปิดหรือปิดใช้งาน HTTPS"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "สลับเพื่อเปิดหรือปิดการจัดเก็บข้อมูลนี้"
+
+msgid "Quota"
+msgstr "อ้างอิง"
+
+msgid "Active"
+msgstr "ใช้งาน"
+
+msgid "Storage method"
+msgstr "วิธีการเก็บข้อมูล"
+
+msgid "Disk used"
+msgstr "พื้นที่ใช้ไป"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "พื้นที่จัดเก็บข้อมูลภายในจะถูกใช้เป็นค่าเริ่มต้นหรือเมื่อไม่มีการใช้ที่เก็บข้อมูลภายนอก."
+
+msgid "Notify to email"
+msgstr "แจ้งไปยังอีเมล"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "หากเปิดใช้งานระบบจะส่งอีเมลในเหตุการณ์ฟลัด"
+
+msgid "Minute limit"
+msgstr "ขีดจำกัด นาที"
+
+msgid "Hourly limit"
+msgstr "ขีดจำกัด รายชั่วโมง"
+
+msgid "Daily limit"
+msgstr "ขีดจำกัด รายวัน"
+
+msgid "Weekly limit"
+msgstr "ขีดจำกัด รายสัปดาห์"
+
+msgid "Monthly limit"
+msgstr "ขีดจำกัด รายเดือน"
+
+msgid "Landing page"
+msgstr "หน้า Landing Page"
+
+msgid "Split landing + images"
+msgstr "แบ่งภาพ + ภาพ"
+
+msgid "explore"
+msgstr "สำรวจ"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "เลือกรูปแบบหน้าแรก หากต้องการปรับแต่งเพิ่มเติมให้แก้ไข app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "ภาพหน้าปก"
+
+msgid "Add new cover image"
+msgstr "เพิ่มภาพหน้าปกใหม่"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "ซึ่งจะถูกเพิ่มลงในแท็ก %s ของหน้าแรก เว้นว่างไว้เพื่อใช้เนื้อหาเริ่มต้น"
+
+msgid "Paragraph"
+msgstr "ย่อหน้า"
+
+msgid "Call to action button color"
+msgstr "สีของปุ่มเรียกร้องให้ดำเนินการ"
+
+msgid "Blue"
+msgstr "สีน้ำเงิน"
+
+msgid "Green"
+msgstr "สีเขียว"
+
+msgid "Orange"
+msgstr "ส้ม"
+
+msgid "Red"
+msgstr "สีแดง"
+
+msgid "Grey"
+msgstr "สีเทา"
+
+msgid "Black"
+msgstr "ดำ"
+
+msgid "White"
+msgstr "สีขาว"
+
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+msgid "Color of the homepage call to action button."
+msgstr "สีของปุ่มเรียกร้องให้ดำเนินการในหน้าแรก"
+
+msgid "Call to action outline style button"
+msgstr "ปุ่มสไตล์การเรียกร้องให้ดำเนินการ"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "เปิดใช้งานรูปแบบนี้เพื่อใช้สไตล์เค้าร่างสำหรับปุ่มเรียกร้องให้ดำเนินการในหน้าแรก"
+
+msgid "Call to action functionality"
+msgstr "ฟังก์ชันการเรียกร้องให้ดำเนินการ"
+
+msgid "Trigger uploader"
+msgstr "เรียกใช้โปรแกรมอัพโหลด"
+
+msgid "Open URL"
+msgstr "เปิด URL"
+
+msgid "Call to action URL"
+msgstr "URL เรียกร้องให้ดำเนินการ"
+
+msgid "Enter an absolute or relative URL"
+msgstr "ป้อน URL แบบสัมบูรณ์หรือสัมพัทธ์"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "URL ที่คนรู้จักถูกใจ %r จะถูกแมปไปยัง %l"
+
+msgid "Call to action HTML"
+msgstr "HTML เรียกร้องให้ดำเนินการ"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "ซึ่งจะถูกเพิ่มลงในแท็ก <a> การเรียกร้องให้ดำเนินการ เว้นว่างไว้เพื่อใช้เนื้อหาเริ่มต้น"
+
+msgid "User IDs"
+msgstr "ผู้ใช้งาน IDs"
+
+msgid "Empty"
+msgstr "ว่างเปล่า"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "ไอดีผู้ใช้ของคุณ: %s"
+
+msgid "Enable uploads"
+msgstr "เปิดใช้งานการอัพโหลด"
+
+msgid "Guest uploads"
+msgstr "บุคคลทั่วไป อัพโหลด"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะอนุญาตให้ผู้ที่ไม่ได้ลงทะเบียนในการอัพโหลด"
+
+msgid "Enable embed codes (uploader)"
+msgstr "เปิดใช้โค้ดสำหรับฝัง (ผู้อัพโหลด)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "เปิดใช้งานนี้หากคุณต้องการแสดงรหัสฝังเมื่ออัพโหลดเสร็จสิ้น"
+
+msgid "Upload threads"
+msgstr "อัพโหลดหัวข้อ"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "จำนวนเธรดการอัพโหลดพร้อมกัน (การอัพโหลดแบบขนาน)"
+
+msgid "Redirect on single upload"
+msgstr "เปลี่ยนเส้นทางในการอัพโหลดเดียว"
+
+msgid "Enable this if you want to redirect to image page on single upload."
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะเปลี่ยนเส้นทางไปยังหน้าภาพอัพโหลดเดียว"
+
+msgid "Enable duplicate uploads"
+msgstr "เปิดใช้งานอัพโหลดที่ซ้ำกัน"
+
+msgid "Enable expirable uploads"
+msgstr "เปิดใช้งานอัพโหลด หมดอายุ"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะอนุญาตให้อัพโหลดที่มีตัวเลือกลบอัตโนมัติ"
+
+msgid "Auto delete guest uploads"
+msgstr "ลบผู้เข้าชมที่อัพโหลดโดยอัตโนมัติ"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการบังคับให้การอัพโหลดจากผู้เข้าชมจะถูกลบโดยอัตโนมัติหลังจากผ่านไประยะเวลาหนึ่ง"
+
+msgid "Maximum image size"
+msgstr "ขนาดภาพสูงสุด"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "รูปภาพที่ใหญ่กว่าขนาดนี้จะถูกลดขนาดลงโดยอัตโนมัติ ใช้ศูนย์ (0) เพื่อไม่กำหนดลิมิต"
+
+msgid "Image Exif data"
+msgstr "ข้อมูลภาพ EXIF"
+
+msgid "Keep"
+msgstr "เก็บ"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "เลือกการตั้งค่าเริ่มต้นสำหรับภาพ  <a %s>ค่าต่างๆ ของรูปภาพ</a> อัพโหลด"
+
+msgid "Image Exif data (user setting)"
+msgstr "ข้อมูลภาพ Exif (การตั้งค่าของผู้ใช้)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะอนุญาตให้ผู้ใช้แต่ละคนในการกำหนดค่าว่าภาพข้อมูล EXIF จะถูกจัดการ"
+
+msgid "Maximum upload file size"
+msgstr "ขนาดไฟล์อัพโหลดสูงสุด"
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "ขนาดสูงสุดที่อนุญาตโดยเซิร์ฟเวอร์คือ %s ขีดจำกัดนี้ จำกัดโดย %u และ %p (ค่า %f )"
+
+msgid "guests"
+msgstr "ผู้มาเยือน"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "เช่นเดียวกับ \"%s\" แต่สำหรับผู้เข้าชม"
+
+msgid "Image path"
+msgstr "เส้นทางภาพ"
+
+msgid "Relative to Chevereto root"
+msgstr "เทียบกับราก Chevereto"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "เก็บภาพไว้ที่ไหน? เทียบกับราก Chevereto"
+
+msgid "Storage mode"
+msgstr "โหมดที่เก็บข้อมูล"
+
+msgid "Datefolders"
+msgstr "วันที่โฟลเดอร์"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "วันที่โฟลเดอร์สร้างโครงสร้าง %s"
+
+msgid "File naming method"
+msgstr "วิธีตั้งชื่อไฟล์"
+
+msgid "Original"
+msgstr "ดั้งเดิม"
+
+msgid "Mix original + random"
+msgstr "ผสมต้นฉบับ + สุ่ม"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "\"ต้นฉบับ\" จะพยายามที่จะให้ชื่อแหล่งภาพขณะที่ \"สุ่ม\" จะสร้างชื่อแบบสุ่ม \"id\" จะตั้งชื่อภาพเช่นเดียวกับรหัสภาพ"
+
+msgid "Thumb size"
+msgstr "ขนาด Thumb"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "ภาพขนาดย่อจะคงที่ขนาดนี้"
+
+msgid "Medium image fixed dimension"
+msgstr "ขนาดคงที่ของภาพขนาดกลาง"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "รูปภาพขนาดกลางจะถูกกำหนดไว้ในมิติข้อมูลนี้ ตัวอย่างเช่นหากคุณเลือก \"width\" มิติข้อมูลจะได้รับการแก้ไขและความสูงของภาพจะได้รับการคำนวณโดยอัตโนมัติ"
+
+msgid "Medium image fixed size"
+msgstr "ขนาดภาพปานกลาง"
+
+msgid "Width or height will be automatically calculated."
+msgstr "ความกว้างหรือความสูงจะถูกคำนวณโดยอัตโนมัติ"
+
+msgid "Expires"
+msgstr "หมดอายุ"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "ที่อยู่ IP โดนแบนจะถูกห้ามไม่ให้ใช้เว็บไซต์ทั้งหมด .."
+
+msgid "Default language"
+msgstr "ภาษาเริ่มต้น"
+
+msgid "Default base language to use."
+msgstr "ภาษาพื้นฐานที่จะใช้"
+
+msgid "Auto language"
+msgstr "เลือกภาษาอัตโนมัติ"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการตรวจหาและตั้งค่าภาษาที่ถูกต้องสำหรับผู้ใช้แต่ละรายโดยอัตโนมัติ"
+
+msgid "Language chooser"
+msgstr "ตัวเลือกภาษา"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "เปิดใช้งานนี้หากคุณต้องการอนุญาตการเลือกภาษา"
+
+msgid "Enabled languages"
+msgstr "เปิดใช้งานภาษา"
+
+msgid "List items per page"
+msgstr "รายการต่อหนึ่งหน้า"
+
+msgid "How many items should be displayed per page listing."
+msgstr "จำนวนรายการที่ควรจะแสดงรายชื่อหน้าต่อ"
+
+msgid "List pagination mode"
+msgstr "โหมดการแบ่งหน้ารายการ"
+
+msgid "Endless scrolling"
+msgstr "เลื่อนไม่สิ้นสุด"
+
+msgid "Classic pagination"
+msgstr "การแบ่งลำดับแบบคลาสสิก"
+
+msgid "What pagination method should be used."
+msgstr "การแบ่งหน้าควรจะใช้อะไร"
+
+msgid "Listing viewer"
+msgstr "ผู้ดูรายการ"
+
+msgid "Enable this to use the listing viewer when clicking on an image."
+msgstr "เปิดใช้งานคุณลักษณะนี้เพื่อใช้โปรแกรมดูรายชื่อเมื่อคลิกที่รูปภาพ"
+
+msgid "Image listing size"
+msgstr "ขนาดรายการภาพ"
+
+msgid "Fluid"
+msgstr "ที่ไหลได้"
+
+msgid "Fixed"
+msgstr "ปรับปรุงแล้ว"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "ทั้งสองวิธีใช้ความกว้างคงที่ แต่ความสูงอัตโนมัติ"
+
+msgid "Listing columns number"
+msgstr "จำนวนรายการคอลัมน์"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "ที่นี่คุณสามารถกำหนดจำนวนคอลัมน์ที่มีการใช้ขึ้นอยู่กับอุปกรณ์เป้าหมาย"
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "Phablet"
+msgstr "แฟบเล็ต"
+
+msgid "Tablet"
+msgstr "แท็บเล็ต"
+
+msgid "Laptop"
+msgstr "แล็ปท็อป"
+
+msgid "Desktop"
+msgstr "เดสก์ทอป"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "รุ่นเวกเตอร์หรือโลโก้เว็บไซต์ของคุณในรูปแบบ SVG"
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "รุ่นของ Bitmap หรือโลโก้เว็บไซต์ของคุณ ขอแนะนำรูปแบบ PNG"
+
+msgid "Logo height"
+msgstr "ความสูงของโลโก้"
+
+msgid "No value"
+msgstr "ไม่มีค่า"
+
+msgid "Use this to set the logo height if needed."
+msgstr "ใช้ตัวเลือกนี้เพื่อกำหนดความสูงของโลโก้หากจำเป็น"
+
+msgid "Favicon image"
+msgstr "ภาพ Favicon"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "ภาพ Favicon รูปภาพต้องมีความกว้างและความสูงเท่ากัน"
+
+msgid "Page title"
+msgstr "ชื่อหน้า"
+
+msgid "Page status"
+msgstr "หน้าสถานะ"
+
+msgid "Active page"
+msgstr "หน้าเว็บที่ใช้งานอยู่"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "หน้าเว็บที่ไม่ใช้งาน (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "คุณสามารถเข้าถึงหน้าเว็บที่ใช้งานได้เท่านั้น"
+
+msgid "Type"
+msgstr "ชนิด"
+
+msgid "Contact"
+msgstr "ติดต่อ"
+
+msgid "Page visibility"
+msgstr "การเปิดเผยหน้าเว็บ"
+
+msgid "Visible page"
+msgstr "หน้าเว็บที่มองเห็นได้"
+
+msgid "Hidden page"
+msgstr "หน้าซ่อน"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "หน้าเว็บที่ซ่อนจะไม่แสดงในเมนูระบบ แต่ทุกคนสามารถเข้าถึงได้โดยใช้ลิงก์"
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "เฉพาะตัวอักขระทั้งหมด, (-) และ (/)"
+
+msgid "File path"
+msgstr "เส้นทางของไฟล์"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "ไฟล์ %f เทียบกับ %s"
+
+msgid "Meta keywords"
+msgstr "คำหลัก Meta"
+
+msgid "Meta description"
+msgstr "รายละเอียด Meta"
+
+msgid "Source code"
+msgstr "คำสั่งหรือโค๊ด"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "ไม่มีสิทธิ์ในการเขียนในเส้นทาง %s ที่คุณจะต้องเพิ่มไฟล์นี้โดยใช้ตัวแก้ไขภายนอก"
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "ไม่มีสิทธิ์เขียนใน %s คุณจะต้องแก้ไขเนื้อหาของไฟล์นี้โดยใช้ตัวแก้ไขภายนอก"
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "นำมาจาก:%s"
+
+msgid "Link URL"
+msgstr "ลิงก์ URL"
+
+msgid "Link target attribute"
+msgstr "ลิงก์แอตทริบิวต์เป้าหมาย"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "เลือก %s เพื่อเปิดเพจหรือลิงค์ในหน้าต่างใหม่"
+
+msgid "Link rel attribute"
+msgstr "ลิงก์แอตทริบิวต์ rel"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "เฉพาะตัวอักขระทั้งหมด, (-) และ (เว้นว่าง)"
+
+msgid "Link icon"
+msgstr "ลิงก์ไอคอน"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "ตรวจสอบ <a %s>การอ้างอิงไอคอน</a> สำหรับรายการไอคอนที่สนับสนุนทั้งหมด"
+
+msgid "Sort order display"
+msgstr "เรียงลำดับการแสดงผล"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "การเรียงลำดับหน้าเว็บสำหรับเมนูและรายชื่อ ใช้ \"1\" สำหรับความสำคัญสูงสุด"
+
+#, php-format
+msgid "Routing for %s"
+msgstr "กำหนดเส้นทางสำหรับ %s"
+
+#, php-format
+msgid "Enable this if you want to use SEO %s URLs."
+msgstr "เปิดใช้งานนี้ หากคุณต้องการใช้ SEO %s URLs"
+
+msgid "Automatic updates check"
+msgstr "ตรวจสอบการอัปเดตอัตโนมัติ"
+
+msgid "When enabled the system will automatically check for new updates."
+msgstr "เมื่อเปิดใช้งานระบบจะตรวจหาการอัปเดตใหม่โดยอัตโนมัติ"
+
+msgid "Display available updates notification"
+msgstr "แสดงการแจ้งเตือนการอัปเดตที่พร้อมใช้งาน"
+
+msgid "Enable this to show a notice on top warning you about new available system updates."
+msgstr "เปิดใช้งานคุณลักษณะนี้เพื่อแสดงการแจ้งเตือนด้านบนเพื่อเตือนคุณเกี่ยวกับการอัปเดตระบบใหม่ที่พร้อมใช้งาน"
+
+msgid "Maintenance"
+msgstr "ซ่อมบำรุง"
+
+msgid "Crypt salt"
+msgstr "เข้ารหัส salt"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "นี่คือเครื่องมือที่ใช้ในการแปลงรหัสตัวเลขเป็นตัวอักษรและตัวเลข มันถูกสร้างขึ้นเมื่อติดตั้ง"
+
+msgid "Debug level"
+msgstr "ระดับดีบัก"
+
+msgid "None"
+msgstr "ไม่มี"
+
+msgid "Error log"
+msgstr "บันทึกข้อผิดพลาด"
+
+msgid "Print errors without error log"
+msgstr "พิมพ์ข้อผิดพลาดโดยไม่บันทึกข้อผิดพลาด"
+
+msgid "Print and log errors"
+msgstr "ข้อผิดพลาดในการพิมพ์และบันทึก"
+
+msgid "Image load max. filesize"
+msgstr "รูปภาพโหลดสูงสุด ขนาดไฟล์"
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "รูปภาพที่ใหญ่กว่าขนาดนี้จะแสดงปุ่มเพื่อโหลดภาพความละเอียดเต็มรูปแบบ"
+
+msgid "Enable download button"
+msgstr "เปิดใช้ปุ่มดาวน์โหลด"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการแสดงปุ่มดาวน์โหลดรูปภาพ"
+
+msgid "Enable right click on image"
+msgstr "เปิดใช้งานคลิกขวาที่รูปภาพ"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการให้คลิกขวาที่หน้าโปรแกรมดูรูปภาพ"
+
+msgid "Enable show Exif data"
+msgstr "เปิดใช้งานข้อมูล Exif ที่แสดง"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะแสดงภาพข้อมูล EXIF"
+
+msgid "Enable social share"
+msgstr "เปิดใช้งานการแบ่งปันทางสังคม"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการแสดงปุ่มเครือข่ายสังคมเพื่อแชร์เนื้อหา"
+
+msgid "Enable embed codes (content)"
+msgstr "เปิดใช้โค้ดสำหรับฝัง (เนื้อหา)"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "เปิดใช้งานนี้หากคุณต้องการแสดงโค้ดฝังสำหรับเนื้อหา"
+
+msgid "Not safe content checkbox in uploader"
+msgstr "ช่องทำเครื่องหมายเนื้อหาที่ไม่ปลอดภัยในโปรแกรมอัพโหลด"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการแสดงช่องทำเครื่องหมายเพื่อระบุว่าไม่อัปโหลดเนื้อหาที่ปลอดภัย"
+
+msgid "Custom CSS code"
+msgstr "โค้ด CSS ที่กำหนดเอง"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "ใส่โค้ด CSS ที่กำหนดเองของคุณที่นี่ มันจะถูกวางไว้เป็น <style> ก่อนปิด </head>"
+
+msgid "Custom JS code"
+msgstr "โค้ด JS แบบกำหนดเอง"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "ใส่รหัส JS ที่กำหนดเองของคุณที่นี่ มันจะถูกวางไว้เป็น <script> ก่อนปิด </head>"
+
+msgid "Decode ID"
+msgstr "ถอดรหัส ID"
+
+msgid "Encode ID"
+msgstr "เข้ารหัส ID"
+
+msgid "Send test email"
+msgstr "ทดสอบส่งเมล"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "ใช้วิธีนี้เพื่อทดสอบว่ามีการส่งอีเมลของคุณอย่างไร เราขอแนะนำให้คุณใช้ %s"
+
+msgid "Export a user"
+msgstr "ส่งออกผู้ใช้"
+
+msgid "Export user"
+msgstr "ส่งออกผู้ใช้"
+
+msgid "This will allow you to download a user's standard personal information in JSON format."
+msgstr "ซึ่งจะช่วยให้คุณสามารถดาวน์โหลดข้อมูลส่วนบุคคลมาตรฐานของผู้ใช้ในรูปแบบ JSON ได้"
+
+msgid "Regenerate external storage stats"
+msgstr "สร้างสถิติการจัดเก็บข้อมูลภายนอกใหม่"
+
+msgid "Storage id"
+msgstr "ไอดีที่เก็บข้อมูล"
+
+msgid "Regenerate"
+msgstr "สร้างใหม่"
+
+msgid "This will re-calculate the sum of all the image records associated to the target external storage."
+msgstr "การคำนวณนี้จะเป็นการคำนวณผลรวมของรูปภาพทั้งหมดที่ได้เชื่อมโยงกับเป้าหมายพื้นที่เก็บข้อมูลภายนอก"
+
+msgid "Source storage id"
+msgstr "ต้นทางไอดีที่เก็บข้อมูล"
+
+msgid "Target storage id"
+msgstr "ปลายทางไอดีที่เก็บข้อมูล"
+
+msgid "Additional settings"
+msgstr "ตั้งค่าเพิ่มเติม"
+
+msgid "Plugin route"
+msgstr "เส้นทางปลั๊กอิน"
+
+msgid "Use this to set a custom URL for %p. Please note that you need to manually replicate %s in this URL."
+msgstr "ใช้ตัวเลือกนี้เพื่อกำหนด URL ที่กำหนดเองสำหรับ %p. โปรดทราบว่าคุณต้องจำลอง %s ใน URL นี้ด้วยตนเอง"
+
+msgid "Enable signups"
+msgstr "เปิดใช้งานการลงชื่อสมัครเข้าใช้"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะช่วยให้ผู้ใช้การลงชื่อสมัครใช้"
+
+msgid "Enable user content delete"
+msgstr "เปิดใช้การลบเนื้อหาผู้ใช้"
+
+msgid "Minimum age required"
+msgstr "อายุขั้นต่ำที่จำเป็น"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "ปล่อยให้มันว่างเปล่าเพื่อไม่จำเป็นต้องมีอายุขั้นต่ำในการใช้เว็บไซต์"
+
+msgid "Notify on user signup"
+msgstr "แจ้งเมื่อลงชื่อสมัครใช้ของผู้ใช้"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "เปิดใช้งานคุณลักษณะนี้หากคุณต้องการรับการแจ้งเตือนทางอีเมลสำหรับการลงทะเบียนผู้ใช้ใหม่แต่ละราย"
+
+msgid "Require email confirmation"
+msgstr "จำเป็นต้องมีการยืนยันทางอีเมล"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "เปิดใช้งานนี้หากผู้ใช้จะต้องตรวจสอบที่อยู่อีเมลของพวกเขาที่ลงทะเบียน"
+
+msgid "Require email for social signup"
+msgstr "ต้องใช้อีเมลสำหรับ social signup"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "เปิดใช้งานหากผู้ใช้ที่ใช้เครือข่ายสังคมในการลงทะเบียนต้องระบุที่อยู่อีเมล"
+
+msgid "User avatar max. filesize"
+msgstr "จำนวนมากสุดของขนาดไฟล์ Avatar ผู้ใช้"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "แม็กซ์. อนุญาตให้มีขนาดไฟล์สำหรับอวาตาร์ของผู้ใช้ (สูงสุดที่อนุญาตโดยเซิร์ฟเวอร์คือ %s)"
+
+msgid "User background max. filesize"
+msgstr "พื้นหลังของผู้ใช้สูงสุด. ขนาดไฟล์"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "แม็กซ์. อนุญาตให้มีขนาดไฟล์สำหรับภาพพื้นหลังของผู้ใช้ (สูงสุดที่อนุญาตโดยเซิร์ฟเวอร์คือ %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "เปิดใช้งานได้โดยใส่โลโก้หรือสิ่งที่คุณต้องการในการอัพโหลดภาพ"
+
+msgid "Watermark user toggles"
+msgstr "สลับการใช้ลายน้ำ"
+
+msgid "Enable watermark on guest uploads"
+msgstr "เปิดใช้งานลายน้ำอัพโหลดภาพของบุคคลทั่วไป"
+
+msgid "Enable watermark on user uploads"
+msgstr "เปิดใช้งาน watermark สำหรับสมาชิก"
+
+msgid "Enable watermark on admin uploads"
+msgstr "เปิดใช้งาน watermark ในโหมดผู้ดูแล"
+
+msgid "Watermark file toggles"
+msgstr "สลับการใช้ลายน้ำ"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "เปิดใช้งานลายน้ำบนภาพเคลื่อนไหว"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "ขนาดของภาพขั้นต่ำที่จำเป็นในการใช้ลายน้ำ"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "ภาพที่มีขนาดเล็กกว่านี้จะไม่ถูกใส่ลายน้ำดิจิตอล ใส่ศูนย์ (0) จะไม่กำหนดขั้นต่ำขนาดภาพ"
+
+msgid "Watermark image"
+msgstr "รูปลายน้ำ"
+
+msgid "Watermark position"
+msgstr "ตำแหน่งลายน้ำ"
+
+msgid "left top"
+msgstr "ด้านบนซ้าย"
+
+msgid "left center"
+msgstr "ซ้ายตรงกลาง"
+
+msgid "left bottom"
+msgstr "ด้านล่างซ้าย"
+
+msgid "center top"
+msgstr "กลางด้านบน"
+
+msgid "center center"
+msgstr "ศูนย์กลาง"
+
+msgid "center bottom"
+msgstr "กลางล่าง"
+
+msgid "right top"
+msgstr "ด้านบนขวา"
+
+msgid "right center"
+msgstr "ขวากลาง"
+
+msgid "right bottom"
+msgstr "ล่างขวา"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "ตำแหน่งสัมพัทธ์ของภาพลายน้ำ จัดแนวแนวนอนครั้งแรกในแนวตั้ง"
+
+msgid "Watermark percentage"
+msgstr "เปอร์เซ็นต์ลายน้ำ"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "ขนาดลายน้ำที่เกี่ยวข้องกับพื้นที่เป้าหมาย ค่า 1 ถึง 100"
+
+msgid "Watermark margin"
+msgstr "ขอบของลายน้ำ"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "ขอบจากเส้นขอบของภาพไปยังรูปลายน้ำ"
+
+msgid "Watermark opacity"
+msgstr "ความทึบของลายน้ำ"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "ความทึบของลายน้ำในภาพลายน้ำสุดท้าย ค่า 0 ถึง 100"
+
+msgid "Website name"
+msgstr "ชื่อเว็บไซต์"
+
+msgid "Website doctitle"
+msgstr "ชื่อสารบรรณ เว็บไซต์"
+
+msgid "Website description"
+msgstr "คำอธิบายเว็บไซต์"
+
+msgid "Default time zone"
+msgstr "เขตเวลาเริ่มต้น"
+
+msgid "Select region"
+msgstr "เลือกภูมิภาค"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "จะช่วยให้การค้นหาภาพอัลบั้มและผู้ใช้ตามคำค้นหาที่กำหนด"
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "เปิดการค้นหาภาพที่อัพโหลดแบบสาธารณะ รวมถึงในในหมวดหมู่"
+
+msgid "Enables to browse images randomly."
+msgstr "ช่วยให้การเรียกดูภาพแบบสุ่ม"
+
+msgid "Likes"
+msgstr "ถูกใจ"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "ช่วยให้ผู้ใช้ชอบเนื้อหาและเติม \"ส่วนใหญ่ถูกใจ\" รายการ"
+
+msgid "Followers allows users to follow each other."
+msgstr "ช่วยให้ผู้ติดตามปฏิบัติตามคนอื่น ๆ"
+
+msgid "Website mode"
+msgstr "โหมดเว็บไซต์"
+
+msgid "You can switch the website mode anytime."
+msgstr "คุณสามารถสลับไปยังโหมดเว็บไซต์ได้ตลอดเวลา"
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "เส้นทางที่กำหนดเองเพื่อ map / ชื่อผู้ใช้ไปยัง / บางสิ่งบางอย่าง ใช้ \"/\" เพื่อทำแผนที่ไว้ในหน้าแรก"
+
+msgid "Website privacy mode"
+msgstr "ความเป็นส่วนตัวของเว็บไซต์"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "โหมดส่วนตัวจะทำให้เว็บไซต์ที่มีเฉพาะสำหรับผู้ใช้ที่ลงทะเบียน"
+
+msgid "Content privacy mode"
+msgstr "ความเป็นส่วนตัวเนื้อหา"
+
+msgid "Force private (self)"
+msgstr "บังคับให้ส่วนตัว (ตัวเอง)"
+
+msgid "Force private (anyone with the link)"
+msgstr "บังคับให้ส่วนตัว (ทุกคนที่มีการเชื่อมโยง)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "โหมดบังคับความเป็นส่วนตัวจะแทนที่ความเป็นส่วนตัวของผู้ใช้ที่เลือก"
+
+msgid "Role"
+msgstr "หน้าที่"
+
+msgid "Email address"
+msgstr "ที่อยู่อีเมล"
+
+msgid "Play GIF"
+msgstr "เล่น GIF"
+
+#, php-format
+msgid "Added to %s"
+msgstr "เพิ่มไปยัง %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "อัพโหลดไปยัง %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "อัปโหลดแล้ว %s"
+
+msgid "Less Exif data"
+msgstr "Exif ข้อมูลน้อยลง"
+
+msgid "More Exif data"
+msgstr "ข้อมูล Exif เพิ่มเติม"
+
+msgid "Add IP ban"
+msgstr "เพิ่มไอพีที่ต้องการระงับ"
+
+msgid "Upload and share your images."
+msgstr "อัพโหลดและแชร์รูปภาพของคุณ"
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "ลากหรือวางเพื่อเริ่มต้นการอัพโหลด.ขนาดขีดจำกัด %s . การเชื่อมโยงภาพโดยตรง BBCode และภาพขนาดย่อของ HTML."
+
+msgid "Sign up to unlock all the features"
+msgstr "ลงชื่อสมัครใช้เพื่อปลดล็อกคุณลักษณะทั้งหมด"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "จัดการเนื้อหาของคุณสร้างอัลบั้มส่วนตัว, ปรับแต่งโปรไฟล์ของคุณและอื่น ๆ อีกมากมาย"
+
+msgid "Sign in with your account"
+msgstr "เข้าสู่ระบบด้วยบัญชีของคุณ"
+
+msgid "Logged out"
+msgstr "ออกจากระบบ"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "คุณได้ออกจากระบบ %s หวังว่าจะได้พบคุณเร็ว ๆ นี้."
+
+msgid "Website under maintenance"
+msgstr "เว็บไซต์ภายใต้การบำรุงรักษา"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "เรากำลังดำเนินการบำรุงรักษาตามกำหนดเวลาในเว็บไซต์ โปรดกลับมาในอีกสักครู่"
+
+msgid "This content is password protected."
+msgstr "เนื้อหานี้ได้รับการป้องกันด้วยรหัสผ่าน"
+
+msgid "Please enter your password to continue."
+msgstr "โปรดป้อนรหัสผ่านของคุณเพื่อดำเนินการต่อ"
+
+msgid "Add image uploading to your website, blog or forum by installing our upload plugin. It provides image uploading to any website by placing a button that will allow your users to directly upload images to our service and it will automatically handle the codes needed for insertion. All features included like drag and drop, remote upload, image resizing and more."
+msgstr "เพิ่มการอัพโหลดรูปภาพไปยังเว็บไซต์บล็อกหรือฟอรัมโดยการติดตั้งปลั๊กอินอัพโหลดของเรา ให้ภาพอัพโหลดไปยังเว็บไซต์ใด ๆ โดยการวางปุ่มที่จะช่วยให้ผู้ใช้ของคุณโดยตรงอัพโหลดภาพไปยังบริการของเราและมันจะจัดการกับรหัสที่จำเป็นสำหรับการแทรก คุณลักษณะทั้งหมดที่รวมไว้เช่นการลากและวางการอัพโหลดระยะไกลการปรับขนาดภาพและอื่น ๆ"
+
+msgid "Supported software"
+msgstr "ซอฟต์แวร์ที่สนับสนุน"
+
+msgid "supported software"
+msgstr "ซอฟต์แวร์ที่สนับสนุน"
+
+#, php-format
+msgid "The plugin works in any website with user-editable content and for %sv, it will place an upload button that will match the target editor toolbar so no extra customization is needed."
+msgstr "ปลั๊กอินทำงานได้ในเว็บไซต์ใด ๆ ที่มีเนื้อหาที่ผู้ใช้สามารถแก้ไขได้และสำหรับ %sv, จะวางปุ่มอัปโหลดที่จะตรงกับแถบเครื่องมือตัวแก้ไขเป้าหมายเพื่อไม่จำเป็นต้องปรับแต่งเป็นพิเศษ"
+
+msgid "Add it to your website"
+msgstr "เพิ่มเว็บไซต์ของคุณ"
+
+msgid "options"
+msgstr "ตัวเลือก"
+
+#, php-format
+msgid "Copy and paste the plugin code into your website HTML code (preferably inside the head section). There are plenty %o to make it fit better to your needs."
+msgstr "คัดลอกและวางโค้ดปลั๊กอินลงในโค้ด HTML ของเว็บไซต์ของคุณ (โดยเฉพาะภายในส่วนหัว) มีมากมาย %o เพื่อให้พอดีกับความต้องการของคุณ"
+
+msgid "Basic options"
+msgstr "ตัวเลือกพื้นฐาน"
+
+msgid "Color palette"
+msgstr "จานสี"
+
+msgid "Button color scheme"
+msgstr "โทนสีของปุ่ม"
+
+msgid "Embed codes that will be auto-inserted in editor box"
+msgstr "ฝังโค้ดที่จะแทรกอัตโนมัติในกล่องแก้ไข"
+
+msgid "Sibling selector"
+msgstr "ตัวเลือกพี่น้อง"
+
+msgid "Sibling element selector where to place the button next to"
+msgstr "ตัวเลือกองค์ประกอบพี่น้องที่จะวางปุ่มไว้ข้างๆ"
+
+msgid "Sibling position"
+msgstr "ตำแหน่งพี่น้อง"
+
+msgid "After"
+msgstr "หลัง"
+
+msgid "Before"
+msgstr "ก่อน"
+
+msgid "Position relative to sibling element"
+msgstr "ตำแหน่งเทียบกับองค์ประกอบพี่น้อง"
+
+msgid "Advanced options"
+msgstr "ตัวเลือกขั้นสูง"
+
+#, php-format
+msgid "The plugin has a large set of additional options that allow full customization. You can use custom HTML, CSS, own color palette, set observers and more. Check the %d and the plugin source to get a better idea of these advanced options."
+msgstr "ปลั๊กอินมีชุดตัวเลือกเพิ่มเติมมากมายที่อนุญาตให้มีการปรับแต่งแบบเต็มรูปแบบได้ คุณสามารถใช้ HTML, CSS, จานสีของผู้สังเกตการณ์และอื่น ๆ ตรวจสอบ %d และแหล่งของปลั๊กอินเพื่อให้ทราบถึงตัวเลือกขั้นสูงเหล่านี้"
+
+msgid "Valid"
+msgstr "ยินยอม"
+
+msgid "Banned"
+msgstr "ห้าม"
+
+msgid "Awaiting email"
+msgstr "รออีเมล"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i ถึง %f ตัวอักษร<br>ตัวอักษร, ตัวเลขและ \"_\""
+
+msgid "Auto delete uploads"
+msgstr "ลบอัตโนมัติการอัพโหลด"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "ตั้งค่านี้จะนำไปใช้กับการอัปโหลดภาพของคุณโดยค่าเริ่มต้น คุณสามารถแทนที่การตั้งค่านี้ในแต่ละอัปโหลด"
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "เก็บภาพ <a %s>ข้อมูล EXIF</a> ในอัปโหลด"
+
+msgid "Newsletter"
+msgstr "จดหมายข่าว"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "ส่งอีเมลหาฉันถ้ามีข่าวใหม่ๆ %s"
+
+msgid "Content settings"
+msgstr "การตั้งค่าเนื้อหา"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "แสดงเนื้อหาที่ไม่ปลอดภัยในรายการ (จากคนอื่น ๆ )"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "Timezone"
+msgstr "เขตเวลา"
+
+msgid "User has no connections."
+msgstr "ผู้ใช้ไม่มีการเชื่อมต่อ"
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "คุณต้องการตัดการเชื่อมต่อ %s จากบัญชีนี้หรือไม่?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "บัญชีนี้เชื่อมต่อกับ %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "คุณต้องการยกเลิกการเชื่อมต่อบัญชี %s ของคุณหรือไม่?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "คุณจะออกจากระบบและคุณจะไม่สามารถเข้าสู่บัญชีของคุณโดยใช้บัญชี %s นี้ได้"
+
+msgid "Button"
+msgstr "ปุ่ม"
+
+msgid "Current password"
+msgstr "รหัสผ่านปัจจุบัน"
+
+msgid "Enter your current password"
+msgstr "ป้อนรหัสผ่านปัจจุบันของคุณ"
+
+msgid "New password"
+msgstr "รหัสผ่านใหม่"
+
+msgid "Confirm new password"
+msgstr "ยืนยันรหัสผ่านใหม่"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "เพิ่มรหัสผ่านเพื่อให้สามารถเข้าสู่ระบบได้โดยใช้ชื่อผู้ใช้หรืออีเมลของคุณ"
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "ผู้ใช้รายนี้ไม่มีรหัสผ่าน. เพิ่มข้อมูลโดยใช้แบบฟอร์มนี้"
+
+msgid "Enter your password"
+msgstr "ป้อนรหัสผ่านของคุณ"
+
+msgid "Confirm password"
+msgstr "ยืนยันรหัสผ่านใหม่ของคุณ"
+
+msgid "Re-enter your password"
+msgstr "ป้อนรหัสผ่านของคุณอีกครั้ง"
+
+msgid "Make my profile and identity totally private"
+msgstr "ให้รายละเอียดและตัวตนของฉันส่วนตัวทั้งหมด"
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "เปิดใช้งานนี้ถ้าคุณต้องการที่จะทำหน้าที่เหมือนเป็นผู้ใช้ที่ไม่ระบุชื่อ"
+
+msgid "This is your real name, not your username."
+msgstr "นี่คือชื่อจริงของคุณ"
+
+msgid "Bio"
+msgstr "คำอธิบาย"
+
+msgid "Tell us a little bit about you"
+msgstr "บอกเรานิด ๆ หน่อย ๆ เกี่ยวกับคุณ"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "resend account activation"
+msgstr "ส่งการเปิดใช้งานบัญชี"
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "อายุอย่างน้อยที่สุดฉัน %s ปี"
+
+msgid "Upload profile background"
+msgstr "อัพโหลดรูปภาพพื้นหลังโปรไฟล์ของคุณ"
+
+msgid "Change background"
+msgstr "เปลี่ยนพื้นหลัง"
+
+msgid "Upload new image"
+msgstr "อัพโหลดรูปภาพ"
+
+msgid "Delete background"
+msgstr "ลบพื้นหลัง"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "ผู้ติดตาม"
+
+msgid "Follow"
+msgstr "ติดตาม"
+
+msgid "General questions/comments"
+msgstr "คำถามทั่วไป/แสดงความคิดเห็น"
+
+msgid "DMCA complaint"
+msgstr "ร้องเรียน DMCA"
+
+msgid "Invalid message"
+msgstr "ข้อความผิดพลาด"
+
+msgid "Invalid subject"
+msgstr "หัวข้อผิดพลาด"
+
+msgid "Message sent"
+msgstr "ส่งข้อความ"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "ส่งข้อความแล้ว. เราจะติดต่อกลับในเร็ว ๆ นี้"
+
+msgid "If you want to send a message fill the form below."
+msgstr "หากคุณต้องการที่จะส่งข้อความกรอกแบบฟอร์มด้านล่าง"
+
+msgid "Your name"
+msgstr "ชื่อของคุณ"
+
+msgid "Subject"
+msgstr "เรื่อง"
+
+msgid "Send"
+msgstr "ส่ง"
+

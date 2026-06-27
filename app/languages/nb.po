@@ -1,0 +1,3089 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-22 15:49+0000\n"
+"PO-Revision-Date: 2023-05-22 15:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "Du har blitt sperret fra å benytte denne siden."
+
+msgid "Moderate"
+msgstr "Moderat"
+
+msgid "View all my images"
+msgstr "Vis alle mine bilder"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "Føl deg fri til å bla gjennom og oppdage alle mine delte bilder og album."
+
+msgid "Recent"
+msgstr "Nylig"
+
+msgid "Trending"
+msgstr "Trender"
+
+msgid "Popular"
+msgstr "Populært"
+
+msgid "Animated"
+msgstr "Animert"
+
+msgid "Plugin"
+msgstr "Utvidelse"
+
+msgid "Request denied"
+msgstr "Forespørsel avslått"
+
+msgid "terms"
+msgstr "betingelser"
+
+msgid "privacy policy"
+msgstr "behandling av personopplysninger"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "Jeg aksepterer %terms_link og %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "Denne siden eksisterer ikke"
+
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+msgid "Forgot password?"
+msgstr "Glemt passord?"
+
+msgid "Reset password"
+msgstr "Nullstill passord"
+
+msgid "Resend account activation"
+msgstr "Send kontoaktivering på nytt"
+
+msgid "Add your email address"
+msgstr "Legg inn din e-postadresse"
+
+msgid "Awaiting confirmation"
+msgstr "Venter på bekreftelse"
+
+msgid "Email changed"
+msgstr "E-post endret"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s sier du er en robot"
+
+msgid "Invalid Username/Email"
+msgstr "Ugyldig brukernavn/e-postadresse"
+
+msgid "User doesn't have an email."
+msgstr "Brukeren har ikke registrert e-postadresse."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "Kontoen må aktiveres for å benytte denne funksjonen"
+
+msgid "Account already activated"
+msgstr "Konto er allerede aktivert"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "Vent inntil 15 minutter på e-posten. Du kan forsøke igjen senere."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "Nullstill ditt passord på %s"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "Bekreftelse kreves på %s"
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "Velkommen til %s"
+
+msgid "Invalid password"
+msgstr "Ugyldig passord"
+
+msgid "Passwords don't match"
+msgstr "Passordene er ikke like"
+
+msgid "Invalid email"
+msgstr "Ugyldig e-post"
+
+msgid "Email already being used"
+msgstr "E-postadressen er allerede i bruk"
+
+msgid "Check the errors in the form to continue."
+msgstr "Sjekk feil i skjemaet for å fortsette."
+
+msgid "Password required"
+msgstr "Passord kreves"
+
+msgid "Embed codes"
+msgstr "Integrasjonskoder"
+
+msgid "%a album hosted in %w"
+msgstr "%a album lagres hos %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "bilde"
+msgstr[1] "bilder"
+
+msgid "Stats"
+msgstr "Statistikk"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Album"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Bruker"
+msgstr[1] "Brukere"
+
+msgid "Bulk importer"
+msgstr "Masseimportering"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Website"
+msgstr "Nettside"
+
+msgid "Content"
+msgstr "Innhold"
+
+msgid "Listings"
+msgstr "Oppføringer"
+
+msgid "Image upload"
+msgstr "Bildeopplastning"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Theme"
+msgstr "Utseende"
+
+msgid "Languages"
+msgstr "Språk"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Tools"
+msgstr "Verktøy"
+
+msgid "External storage"
+msgstr "Ekstern lagring"
+
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+msgid "Pages"
+msgstr "Sider"
+
+msgid "Routing"
+msgstr "Ruting"
+
+msgid "External services"
+msgstr "Eksterne tjenester"
+
+msgid "Upload plugin"
+msgstr "Last opp utvidelse"
+
+msgid "Consent screen"
+msgstr "Samtykkeskjema"
+
+msgid "Flood protection"
+msgstr "Spambeskyttelse"
+
+msgid "Banners"
+msgstr "Bannere"
+
+msgid "IP bans"
+msgstr "IP-blokkeringer"
+
+msgid "Watermarks"
+msgstr "Vannmerke"
+
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+msgid "Support"
+msgstr "Brukerstøtte"
+
+msgid "Community"
+msgstr "Samfunn"
+
+msgid "install update"
+msgstr "installer oppdatering"
+
+msgid "Max. upload file size"
+msgstr "Maks opplastingsstørrelse"
+
+msgid "PHP version"
+msgstr "PHP-versjon"
+
+msgid "MySQL version"
+msgstr "MySQL-versjon"
+
+msgid "MySQL server info"
+msgstr "MySQL-serverinformasjon"
+
+msgid "File uploads"
+msgstr "Filopplastinger"
+
+msgid "Enabled"
+msgstr "Aktivert"
+
+msgid "Disabled"
+msgstr "Deaktivert"
+
+msgid "Max. execution time"
+msgstr "Maks kjøretid"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekund"
+msgstr[1] "%d sekunder"
+
+msgid "Memory limit"
+msgstr "Minnebegrensning"
+
+msgid "Can't delete all homepage cover images"
+msgstr "Kan ikke slette alle forsidebilder"
+
+msgid "Homepage cover image deleted"
+msgstr "Forsidebilde slettet"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "External"
+msgstr "Ekstern"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "search content"
+msgstr "Søk i innhold"
+
+msgid "Add page"
+msgstr "Legg til side"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "Rediger side %s"
+
+msgid "The page has been added successfully."
+msgstr "Siden har blitt lagt til."
+
+msgid "The page has been deleted."
+msgstr "Siden har blitt slettet."
+
+msgid "homepage"
+msgstr "hjemmeside"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "Før hovedtittel (%s)"
+
+#, php-format
+msgid "After call to action (%s)"
+msgstr "Etter forespørsel om handling (%s)"
+
+#, php-format
+msgid "After cover (%s)"
+msgstr "Etter cover (%s)"
+
+#, php-format
+msgid "After listing (%s)"
+msgstr "Etter oppføring (%s)"
+
+msgid "Before pagination"
+msgstr "Før sideinndeling"
+
+msgid "After pagination"
+msgstr "Etter sideinndeling"
+
+msgid "Content (image and album)"
+msgstr "Innhold (bilde og album)"
+
+msgid "Tab about column"
+msgstr "Tab om kolonne"
+
+msgid "Before comments"
+msgstr "Før kommentarer"
+
+msgid "Image page"
+msgstr "Bildeside"
+
+msgid "Inside viewer top (image page)"
+msgstr "Innvendig visning topp (bildeside)"
+
+msgid "Inside viewer foot (image page)"
+msgstr "Innvendig visning  bunn (bildeside)"
+
+msgid "After image viewer (image page)"
+msgstr "Etter bildeviser (bildeside)"
+
+msgid "Before header (image page)"
+msgstr "Før header (bildeside)"
+
+msgid "After header (image page)"
+msgstr "Etter header (bildeside)"
+
+msgid "Footer (image page)"
+msgstr "Bunn (bildeside)"
+
+msgid "User profile page"
+msgstr "Brukerprofilside"
+
+msgid "After top (user profile)"
+msgstr "Etter toppen (brukerprofil)"
+
+msgid "Before listing (user profile)"
+msgstr "Før oppføring (brukerprofil)"
+
+msgid "Explore"
+msgstr "Utforsk"
+
+msgid "NSFW"
+msgstr "ITPJ"
+
+msgid "Invalid website name"
+msgstr "Ugyldig navn på nettsted"
+
+msgid "Invalid language"
+msgstr "Ugyldig språk"
+
+msgid "Invalid timezone"
+msgstr "Ugyldig tidssone"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "Ugyldig verdi: %s"
+
+msgid "Invalid upload storage mode"
+msgstr "Ugyldig lagringsmetode"
+
+msgid "Invalid upload filenaming"
+msgstr "Ugyldig filnavngiving på opplasting"
+
+msgid "Invalid thumb width"
+msgstr "Ugyldig bredde på miniatyrbilde"
+
+msgid "Invalid thumb height"
+msgstr "Ugyldig høyde på miniatyrbilde"
+
+msgid "Invalid medium size"
+msgstr "Ugyldig middels-størrelse"
+
+msgid "Invalid watermark percentage"
+msgstr "Ugyldig vannmerkeprosent"
+
+msgid "Invalid watermark opacity"
+msgstr "Ugyldig gjennomsiktighet på vannmerke"
+
+msgid "Invalid theme"
+msgstr "Ugyldig tema"
+
+msgid "Invalid value"
+msgstr "Ugyldig verdi"
+
+msgid "Invalid theme image listing size"
+msgstr "Ugyldig størrelse på temaets bildeoppføring"
+
+msgid "Invalid user id"
+msgstr "Ugyldig brukerID"
+
+msgid "Invalid email mode"
+msgstr "Ugyldig e-post-modus"
+
+msgid "Invalid SMTP port"
+msgstr "Ugyldig SMTP-port"
+
+msgid "Invalid SMTP security"
+msgstr "Ugyldig SMTP-sikkerhet"
+
+msgid "Invalid website mode"
+msgstr "Ugyldig modus"
+
+msgid "Invalid personal mode user ID"
+msgstr "Ugyldig personlig modus brukerID"
+
+msgid "Invalid or reserved route"
+msgstr "Ugyldig eller reservert rute"
+
+msgid "Invalid website privacy mode"
+msgstr "Ugyldig personvernmodus for nettstedet"
+
+msgid "Invalid website content privacy mode"
+msgstr "Ugyldig personvernmodus for innhold på nettstedet"
+
+msgid "Invalid homepage style"
+msgstr "Ugyldig stil for nettstedet"
+
+msgid "Invalid homepage call to action button color"
+msgstr "Ugyldig farge på hjemmesidens handlingsknapp"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "Ugyldig funksjonalitet på hjemmesidens handlingsknapp"
+
+msgid "Invalid title"
+msgstr "Ugyldig tittel"
+
+msgid "Invalid status"
+msgstr "Ugyldig status"
+
+msgid "Invalid type"
+msgstr "Ugyldig type"
+
+msgid "Invalid visibility"
+msgstr "Ugyldig synlighet"
+
+msgid "Invalid internal type"
+msgstr "Ugyldig intern type"
+
+msgid "Invalid target attribute"
+msgstr "Ugyldig målattributt"
+
+msgid "Invalid rel attribute"
+msgstr "Ugyldig rel-attributt"
+
+msgid "Invalid icon"
+msgstr "Ugyldig ikon"
+
+msgid "Invalid URL key"
+msgstr "Ugyldig URL-nøkkel"
+
+msgid "Invalid file path"
+msgstr "Ugyldig filbane"
+
+msgid "Invalid link URL"
+msgstr "Ugyldig lenke-URL"
+
+msgid "Invalid user minimum age"
+msgstr "Ugyldig minstealder"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "Bare alfanumeriske, bindestrek og understrek-tegn er tillatte"
+
+msgid "Invalid URL"
+msgstr "Ugyldig URL"
+
+msgid "Invalid key"
+msgstr "Ugyldig nøkkel"
+
+msgid "Routes can't be the same"
+msgstr "Rutene kan ikke være like"
+
+msgid "Invalid upload image path"
+msgstr "Ugyldig opplastningssti"
+
+msgid "Invalid call to action URL"
+msgstr "Ugyldig oppfordring til handling-URL"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "Maks tillatt %s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "Kan ikke tilordne %m til en eksisterende mappe (%f)"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "Kan ikke tilordne %m til en eksisterende rute (%r)"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "Kan ikke tilordne %m til %r (brukernavnkollisjon)"
+
+msgid "Invalid SMTP server"
+msgstr "Ugyldig SMTP-server"
+
+msgid "Invalid SMTP username"
+msgstr "Ugyldig SMTP-brukernavn"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "Denne URL-nøkkelen brukes allerede av en annen side  (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "Denne filbanen er allerede i bruk av en annen side (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "Kan ikke lagre sideinnholdet: %s."
+
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+msgid "Following"
+msgstr "Følger"
+
+msgid "About"
+msgstr "Om oss"
+
+msgid "Image ID"
+msgstr "Bilde-ID"
+
+msgid "Upload date"
+msgstr "Opplastningsdato"
+
+msgid "Image %i in %a album"
+msgstr "Bilde %i i %a album"
+
+msgid "Image %i in %c category"
+msgstr "Bilde %i i kategorien %c"
+
+msgid "Image %i hosted in %w"
+msgstr "Bilde %i lagret i %w"
+
+msgid "Direct links"
+msgstr "Direktelenker"
+
+msgid "Image link"
+msgstr "Bildelenke"
+
+msgid "Image URL"
+msgstr "Bildeadresse"
+
+msgid "Thumbnail URL"
+msgstr "Miniatyrbilde"
+
+msgid "Full image"
+msgstr "Bildet i fullstørrelse"
+
+msgid "Full image (linked)"
+msgstr "Bilde i fullstørelse (lenke)"
+
+msgid "Medium image (linked)"
+msgstr "Medium størrelse (1024px bredde) (lenke)"
+
+msgid "Thumbnail image (linked)"
+msgstr "Miniatyrbilde (lenke)"
+
+msgid "Start uploading"
+msgstr "Start opplasting"
+
+msgid "Login needed"
+msgstr "Login kreves"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Bilde"
+msgstr[1] "Bilder"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "IP address already banned"
+msgstr "IP-adressen er allerede blokkert"
+
+msgid "Missing values"
+msgstr "Mangler verdier"
+
+msgid "Invalid username"
+msgstr "Ugyldig brukernavn"
+
+msgid "Invalid role"
+msgstr "Ugyldig rolle"
+
+msgid "Username already being used"
+msgstr "Brukernavnet er allerede i bruk"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "Legg inn et passord eller en annen sosial tilkobling før du sletter %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "Legg til en e-post eller annen sosial tilkobling før %s slettes."
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s har blitt koblet fra."
+
+msgid "Test email from %s @ %t"
+msgstr "Test e-post fra %s @ %t"
+
+msgid "This is just a test"
+msgstr "Dette er bare en test"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Test e-post sendt til %s."
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "Laster ned %s data"
+
+msgid "Content liked"
+msgstr "Innhold likt"
+
+msgid "Content disliked"
+msgstr "Innhold mislikt"
+
+msgid "%u liked your %t %c"
+msgstr "%u liker ditt %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u har begynt å følge deg"
+
+msgid "A private user"
+msgstr "En privat bruker"
+
+msgid "Wrong Username/Email password combination"
+msgstr "Feil kombinasjon av brukernavn/e-postadresse og passord"
+
+msgid "Sign in"
+msgstr "Logg inn"
+
+msgid "Upload images"
+msgstr "Last opp bilder"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Powered by"
+msgstr "Drevet av"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "Ugyldig utløpsdato for bilde: %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "En e-post har blitt sent til %s med instruksjoner om hvordan man aktiverer denne e-posten."
+
+msgid "Invalid name"
+msgstr "Ugyldig navn"
+
+msgid "Invalid website"
+msgstr "Ugyldig nettadresse"
+
+msgid "Spam detected"
+msgstr "Spam oppdaget"
+
+msgid "Wrong password"
+msgstr "Feil passord"
+
+msgid "Use a new password"
+msgstr "Bruk et nytt passord"
+
+msgid "Changes have been saved."
+msgstr "Endringene ble lagret."
+
+msgid "Password has been changed"
+msgstr "Passordet har blitt endret"
+
+msgid "Password has been created."
+msgstr "Passord har blitt opprettet."
+
+msgid "Wrong Username/Email values"
+msgstr "Ugyldige verdier for brukernavn/e-postadresse"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "Innstillinger for %s"
+
+msgid "Username"
+msgstr "Brukernavn"
+
+msgid "Delete user"
+msgstr "Slett bruker"
+
+msgid "User ID"
+msgstr "Bruker-ID"
+
+msgid "Register date"
+msgstr "Registreringsdato"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "Du må akseptere retningslinjene for bruk"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "Du må være minst %s år for å benytte denne websiden."
+
+msgid "Create account"
+msgstr "Opprett konto"
+
+msgid "Upload"
+msgstr "Last opp bilde"
+
+msgid "Albums"
+msgstr "Album"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "Likt av %s"
+
+msgid "Liked"
+msgstr "Mine liker"
+
+msgid "Followers"
+msgstr "Følgere"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) album på %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) på %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "album"
+msgstr[1] "album"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "Merk: Dette innholdet er privat, men alle som har linken vil være i stand til å se dette."
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "Merk: Dette innholdet er passordbeskyttet. Husk å levere passord for å dele."
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "PS: Dette innlegget er privat. Endre personvern til \"offentlig\" for å dele."
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Public"
+msgstr "Offentlig"
+
+msgid "Me"
+msgstr "Meg"
+
+msgid "Link"
+msgstr "Lenke"
+
+msgid "After %n %t"
+msgstr "Etter %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minutt"
+msgstr[1] "minutter"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "time"
+msgstr[1] "timer"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dager"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "uke"
+msgstr[1] "uker"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "måned"
+msgstr[1] "måneder"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "år"
+msgstr[1] "år"
+
+msgid "Don't autodelete"
+msgstr "Ikke slett automatisk"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "Kan ikke åpne %s for skriving"
+
+msgid "Duplicated upload"
+msgstr "Duplikat lastet opp"
+
+msgid "Private upload"
+msgstr "Privat opplasting"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "visning"
+msgstr[1] "visninger"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "Liker"
+msgstr[1] "Liker"
+
+msgid "Most recent"
+msgstr "Nylige"
+
+msgid "Oldest"
+msgstr "Eldste"
+
+msgid "Most viewed"
+msgstr "Mest vist"
+
+msgid "Most liked"
+msgstr "Mest likt"
+
+msgid "People"
+msgstr "Folk"
+
+msgid "adult"
+msgstr "voksen"
+
+msgid "teen"
+msgstr "tenåring"
+
+#, php-format
+msgid "Content of type %s is forbidden"
+msgstr "Innholdet av typen %s er forbudt"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "Kan ikke opprette %s mappe målet"
+
+msgid "Internal"
+msgstr "Lokalt"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "Lagringskapasiteten kan ikke være lavere enn dagens bruk (%s)."
+
+msgid "Unlimited"
+msgstr "Ubegrenset"
+
+msgid "used"
+msgstr "brukt"
+
+msgid "Private profile"
+msgstr "Privat profil"
+
+msgid "Share"
+msgstr "Del"
+
+#, php-format
+msgid "view on %s"
+msgstr "sett på %s"
+
+msgid "cookie policy"
+msgstr "retningslinjer for informasjonskapsler"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "Vi bruker våre egne samt tredjeparts informasjonskapsler for å forbedre din opplevelse av nettstedet og tjenestene våre. Hvis du fortsetter å bruke nettstedet betyr det at du aksepterer våre %cookie_policy_link."
+
+msgid "I understand"
+msgstr "Jeg forstår"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekund"
+msgstr[1] "sekunder"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s siden"
+
+msgid "moments ago"
+msgstr "for kort tid siden"
+
+msgid "Discovery"
+msgstr "Oppdagelse"
+
+msgid "Random"
+msgstr "Tilfeldig"
+
+msgid "Close"
+msgstr "Lukk"
+
+msgid "Advanced search"
+msgstr "Avansert søk"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "Notiser (%s)"
+
+msgid "Notifications"
+msgstr "Varsler"
+
+msgid "loading"
+msgstr "Laster inn"
+
+msgid "You don't have notifications"
+msgstr "Du har ingen varsler"
+
+msgid "My Profile"
+msgstr "Min profil"
+
+msgid "Manager"
+msgstr "Håndterer"
+
+msgid "Sign out"
+msgstr "Logg ut"
+
+msgid "You must enter the album name."
+msgstr "Du må skrive inn et albumnavn."
+
+msgid "Confirm"
+msgstr "Bekreft"
+
+msgid "The content has been approved."
+msgstr "Innholdet har blitt godkjent."
+
+msgid "Select existing album"
+msgstr "Velg eksisterende album"
+
+msgid "An error occurred. Please try again later."
+msgstr "En feil oppsto. Vennligst forsøk senere."
+
+msgid "Please select a valid image file type."
+msgstr "Velg en gyldig bildefil."
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "Velg et bilde på maksimalt %s størrelse."
+
+msgid "Profile image updated."
+msgstr "Profilbilde oppdatert."
+
+msgid "Profile background image updated."
+msgstr "Profilbakgrunnsbilde oppdatert."
+
+msgid "Profile background image deleted."
+msgstr "Profilbakgrunnsbilde slettet."
+
+msgid "Error deleting profile background image."
+msgstr "Feil ved sletting av profilbakgrunnsbilde."
+
+#, javascript-format
+msgid "Update available v%s"
+msgstr "Oppdatering tilgjengelig v%s"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "Nettstedet kjører siste %s versjon."
+
+msgid "Toggle select"
+msgstr "Merk valg"
+
+msgid "Create album"
+msgstr "Opprett album"
+
+msgid "Toggle flag"
+msgstr "Merk flagg"
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Approve"
+msgstr "Godkjenn"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Previous"
+msgstr "Forrige"
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "File too big."
+msgstr "Fil for stor."
+
+msgid "Invalid or unsupported file format."
+msgstr "Ugyldig eller ikke støttet filformat."
+
+msgid "Some files couldn't be added"
+msgstr "Noen filer kunne ikke legges til"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%ss album"
+
+msgid "Image edited successfully."
+msgstr "Bilderedigering fullført."
+
+msgid "private"
+msgstr "privat"
+
+msgid "The content has been edited."
+msgstr "Innholdet har blitt redigert."
+
+msgid "Invalid URL key."
+msgstr "Ugyldig URL-nøkkel."
+
+msgid "Category URL key already being used."
+msgstr "Kategori-URL-nøkkel er allerede i bruk."
+
+msgid "Category successfully deleted."
+msgstr "Kategorien er slettet."
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "Kategori %s lagt til."
+
+msgid "Invalid expiration date."
+msgstr "Ugyldig utløpsdato."
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP %s er allerede blokkert."
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "IP %s blokkert."
+
+msgid "IP ban successfully deleted."
+msgstr "IP-blokkering slettet."
+
+msgid "Please fill all the required fields."
+msgstr "Vennligst fyll ut alle de påkrevde feltene."
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "Ugyldig verdi for lagringskapasitet. Sørg for å bruke et gyldig format."
+
+msgid "Invalid URL."
+msgstr "Ugyldig URL."
+
+msgid "Storage successfully edited."
+msgstr "Lagring er vellykket redigert."
+
+msgid "The content has been deleted."
+msgstr "Innholdet er slettet."
+
+msgid "The content has been moved."
+msgstr "Innholdet har blitt flyttet."
+
+msgid "Select"
+msgstr "Velg"
+
+msgid "Unselect"
+msgstr "Fjern merking"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "Alle endringene du har gjort vil gå tapt hvis du fortsetter."
+
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+msgid "Submit"
+msgstr "Utfør"
+
+msgid "Changes saved successfully."
+msgstr "Endringer vellykket lagret."
+
+msgid "Go back to form"
+msgstr "Gå tilbake til skjemaet"
+
+msgid "or"
+msgstr "eller"
+
+msgid "continue anyway"
+msgstr "fortsett likevel"
+
+msgid "cancel"
+msgstr "avbryt"
+
+msgid "Saving"
+msgstr "lagrer"
+
+msgid "Sending"
+msgstr "Sender"
+
+msgid "Confirm action"
+msgstr "Bekreft handling"
+
+msgid "information"
+msgstr "Informasjon"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "Vi har mottatt en forespørsel om å endre e-postadressen for konto <a href=\"%u\">%n</a> på %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "For å fullføre registreringen må du <a href=\"%s\">aktivere din konto</a>."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "Alternativt kan du kopiere og lime inn denne linken i din nettleser: <a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "Hvis du ikke har bedt om dette kan du ignorere denne e-posten."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "Denne forespørselen ble sendt fra IP: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "Vi har mottatt en forespørsel for registrering av konto med brukernavn %n på %w."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "For å fullføre registreringen må du <a href=\"%s\">aktivere din konto</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "Vi har mottatt en forespørsel om å endre passord på konto <a href=\"%u\">%n</a>"
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "For å nullstille passordet ditt, <a href=\"%s\">trykk på denne lenken</a>."
+
+msgid "Hi %n, welcome to %w"
+msgstr "Hei %n. Velkommen til %w"
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "Nå som kontoen din er klar kan du kose deg med alle fordelene. Lage album, laste opp bilder, dele med venner og mye mer du vil oppdage."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "Forresten, vi har også gitt deg din egen profil: <a href=\"%u\">%n</a>. Tilpass den og gjør som du vil!"
+
+msgid "Thank you for joining"
+msgstr "Takk for at du registrerte deg"
+
+msgid "This email was sent from %w %u"
+msgstr "Denne e-posten er sendt fra %w %u"
+
+msgid "Drag and drop or paste images here to upload"
+msgstr "Dra bildene du ønsker å laste opp, hit"
+
+msgid "Select the images to upload"
+msgstr "Velg bilde(r) som skal lastes opp"
+
+msgid "You can also %i or %u."
+msgstr "Du kan også %i eller %u."
+
+#, php-format
+msgid "You can also %s."
+msgstr "Du kan også %s."
+
+msgid "browse from your computer"
+msgstr "finn filer på din datamaskin"
+
+msgid "add image URLs"
+msgstr "legg til bilde-URLer"
+
+msgid "You can also %i, %c or %u."
+msgstr "Du kan også %i, %c eller %u."
+
+msgid "browse from your device"
+msgstr "se gjennom fra din enhet"
+
+msgid "take a picture"
+msgstr "ta et bilde"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "Registrer deg for å få %s"
+
+msgid "Uploading %q %o"
+msgstr "Laster opp %q %o"
+
+msgid "complete"
+msgstr "fullført"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "Køen lastes opp. Dette burde bare ta noen få sekunder å fullføre."
+
+msgid "Upload complete"
+msgstr "Opplasting fullført"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "Opplastet innhold lagt til i %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "Du kan %c med innholdet du nettopp lastet opp, eller %m."
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "Du kan %c med innholdet du nettopp lastet opp."
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "Du må %s eller %l for å lagre dette innholdet til kontoen din."
+
+msgid "create an account"
+msgstr "opprett konto"
+
+msgid "sign in"
+msgstr "logg inn"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "Ingen %s ble lastet opp."
+
+msgid "Sign up"
+msgstr "Registrer deg"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s for å kunne tilpasse eller deaktivere automatisk sletting av bilder."
+
+msgid "Mark this if the upload is not family safe"
+msgstr "Trykk her dersom bildet er uegnet for personer under 18 år"
+
+msgid "Not family safe upload"
+msgstr "Ikke egnet for barn"
+
+msgid "Uploading"
+msgstr "Laster opp"
+
+msgid "cancel remaining"
+msgstr "avbryt gjenstående"
+
+msgid "learn more"
+msgstr "Lær mer"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "Sjekk <a data-modal=\"simple\" data-target=\"failed-upload-result\">feilmeldingen</a> for mer informasjon."
+
+msgid "reset"
+msgstr "nullstill"
+
+msgid "Note"
+msgstr "Merk"
+
+msgid "We must approve the uploaded content before being able to share."
+msgstr "Vi må godkjenne det opplastede innholdet før det kan deles."
+
+msgid "copy"
+msgstr "kopier"
+
+msgid "insert"
+msgstr "sett inn"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "upload"
+msgstr "Opplasting"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "optional"
+msgstr "valgfritt"
+
+msgid "Resize image"
+msgstr "Endre størrelse på bilde"
+
+msgid "Width"
+msgstr "Bredde"
+
+msgid "Height"
+msgstr "Høyde"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "NB: Animerte GIF-bilder vil ikke få endret størrelse."
+
+msgid "Mark this if the image is not family safe"
+msgstr "Trykk her dersom bildet er uegnet for barn"
+
+msgid "Flag as unsafe"
+msgstr "Marker som uegnet"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Add image URLs"
+msgstr "Legg inn bildeadresse"
+
+msgid "Add the image URLs here"
+msgstr "Lim inn bildeadressen her"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "Det opplastede innholdet vil bli flyttet til det nylig opprettede albumet."
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "Du må %s eller %l hvis du ønsker å endre dette albumet senere."
+
+msgid "Error report"
+msgstr "Feilmelding"
+
+msgid "Links"
+msgstr "Lenker"
+
+msgid "Direct"
+msgstr "Direkte"
+
+msgid "HTML Codes"
+msgstr "HTML-koder"
+
+msgid "HTML image"
+msgstr "HTML-bilde"
+
+msgid "HTML full linked"
+msgstr "HTML full link"
+
+msgid "HTML medium linked"
+msgstr "HTML medium link"
+
+msgid "HTML thumbnail linked"
+msgstr "HTML minibilde-link"
+
+msgid "BBCodes"
+msgstr "BBkoder:"
+
+msgid "BBCode full"
+msgstr "BBkode (full):"
+
+msgid "BBCode full linked"
+msgstr "BBkode (fullstørrelse med lenke)"
+
+msgid "BBCode medium linked"
+msgstr "BBkode (mediumstørrelse med lenke)"
+
+msgid "BBCode thumbnail linked"
+msgstr "BBkode (miniatyrbilde med lenke)"
+
+msgid "Markdown full"
+msgstr "Full markdown"
+
+msgid "Markdown full linked"
+msgstr "Markdown full linket"
+
+msgid "Markdown medium linked"
+msgstr "Markdown medium linket"
+
+msgid "Markdown thumbnail linked"
+msgstr "Markdown thumbnail linket"
+
+msgid "Viewer links"
+msgstr "Visningslenker"
+
+msgid "All these words"
+msgstr "Alle disse ordene"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "Skriv inn søkeord"
+
+msgid "This exact word or phrase"
+msgstr "Eksakt ord eller frase"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "Skriv inn eksakte ord i anførselstegn: \"20kg lange\""
+
+msgid "None of these words"
+msgstr "Ingen av disse ordene"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "Sett et minustegn foran ord du ikke vil ha : -lange -\"20kg\""
+
+msgid "Storage"
+msgstr "Lagring"
+
+msgid "IP address"
+msgstr "IP-adresse"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Privacy"
+msgstr "Personvern"
+
+msgid "Who can view this content"
+msgstr "Hvem kan se dette innholdet"
+
+msgid "Private (just me)"
+msgstr "Privat (bare meg)"
+
+msgid "Private (anyone with the link)"
+msgstr "Privat (alle med link)"
+
+msgid "Private (password protected)"
+msgstr "Privat (passordbeskyttet)"
+
+msgid "URL key"
+msgstr "URL-nøkkel"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "Bare bokstaver, tall og bindestrek"
+
+msgid "Mark this if the image is not safe for work"
+msgstr "Trykk her dersom bildet er ikke trygt for arbeid"
+
+msgid "Flag not safe"
+msgstr "Merk som utrygt"
+
+msgid "Path"
+msgstr "Sti"
+
+msgid "Local path (absolute)"
+msgstr "Lokal sti (absolutt)"
+
+msgid "Directory structure"
+msgstr "Mappestruktur"
+
+msgid "Parse top level folders as users (username)"
+msgstr "Tolk toppnivåmapper som brukere (brukernavn)"
+
+msgid "Parse top level folders as albums"
+msgstr "Tolk toppnivåmapper som album"
+
+msgid "Don't parse folders"
+msgstr "Ikke tolk mapper"
+
+msgid "When parsing top level folders as users, second level folders will be parsed as user albums. Parsing top level folders as albums adds these as guest albums."
+msgstr "Når toppnivåmapper tolkes som brukere, vil andrenivåmapper bli tolket som brukeralbum. Tolking av toppnivåmapper som album legger disse til som gjestealbum."
+
+msgid "Threads"
+msgstr "Tråder"
+
+msgid "Select number of threads"
+msgstr "Velg antall tråder"
+
+#, php-format
+msgid "This determines how intensive and fast will be the import process. Don't use more than %s threads on a shared server."
+msgstr "Dette avgjør hvor intensiv og rask importeringsprosessen vil være. Ikke bruk flere enn %s tråder på en delt server."
+
+msgid "You can use wildcard * characters."
+msgstr "Du kan bruke jokertegn (*)."
+
+msgid "Expiration date"
+msgstr "Utløpsdato"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "ÅÅÅÅ-MM-DD TT:MM:SS"
+
+msgid "Example"
+msgstr "Eksempel"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "Frem til hvilken dato skal IP-adressen blokkeres? La stå blank om du ikke ønsker utløpsdato."
+
+msgid "Message"
+msgstr "Melding"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "Tekstmelding, HTML eller en nettadresse for viderekobling"
+
+msgid "Storage name"
+msgstr "Lagringsnavn"
+
+msgid "Storage region"
+msgstr "lagringsregion"
+
+msgid "Storage bucket"
+msgstr "Lagringsplass"
+
+msgid "Key"
+msgstr "Nøkkel"
+
+msgid "Storage key"
+msgstr "Lagringsnøkkel"
+
+msgid "Secret"
+msgstr "Hemmelig"
+
+msgid "Storage secret"
+msgstr "Lagringshemmelighet"
+
+msgid "Private key"
+msgstr "Privatnøkkel"
+
+msgid "Google Cloud JSON key"
+msgstr "Google Cloud JSON-nøkkel"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "Du trenger en <a %s>tjenestekonto</a> for dette."
+
+msgid "Service name"
+msgstr "tjenestenavn"
+
+msgid "Identity URL"
+msgstr "Identitets-URL"
+
+msgid "Identity API endpoint"
+msgstr "Identitet API-endepunkt"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "API-endepunkt for Openstack-identitet"
+
+msgid "Container"
+msgstr "Beholder"
+
+msgid "Storage container"
+msgstr "Lagerbeholder"
+
+msgid "Tenant id"
+msgstr "Leietaker-ID"
+
+msgid "Tenant id (account id)"
+msgstr "Leietaker-ID (konto-ID)"
+
+msgid "Tenant name"
+msgstr "Leietakers navn"
+
+msgid "Tenant name (account name)"
+msgstr "Leietakers navn (brukernavn)"
+
+msgid "Storage endpoint"
+msgstr "Endepunkt for lagring"
+
+msgid "Server address"
+msgstr "Serveradresse"
+
+msgid "Hostname or IP of the storage server"
+msgstr "Hostnavn eller IP-adresse til lagringsserveren"
+
+msgid "Server path"
+msgstr "Serversti"
+
+msgid "Absolute path where the files will be stored in the context of the %p login. Use %s for root path."
+msgstr "Absolutt sti hvor filene vil lagres i kontekst av %p-innloggingen. Bruk %s for rotsti."
+
+msgid "Server login"
+msgstr "Serverinnlogging"
+
+msgid "Server password"
+msgstr "Serverpassord"
+
+msgid "Local path"
+msgstr "Lokal sti"
+
+msgid "Local path where the files will be stored"
+msgstr "Lokal sti hvor filene vil bli lagret"
+
+msgid "Storage capacity"
+msgstr "Lagringskapasitet"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "Eksempel: 20 GB, 1 TB, etc."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "Denne lagringsplassen vil bli deaktivert når brukt plass når denne grensen. La stå tom eller skriv inn null for ubegrenset."
+
+msgid "Storage URL"
+msgstr "lagrings-URL"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "Systemet vil koble bildene mot lagringen på denne adressen."
+
+msgid "view more"
+msgstr "Se mer"
+
+msgid "Load more"
+msgstr "Last inn mer"
+
+msgid "Actions"
+msgstr "Handlinger"
+
+msgid "Get embed codes"
+msgstr "Hent integrasjonskoder"
+
+msgid "Flag as safe"
+msgstr "Merk som trygt"
+
+msgid "Select all"
+msgstr "Velg alle"
+
+msgid "Clear selection"
+msgstr "Velg ingen"
+
+msgid "Sign in with another account"
+msgstr "Logg inn med en annen konto"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "There's nothing to show here."
+msgstr "Ingenting å vise her."
+
+msgid "There is no categories."
+msgstr "Det finnes ingen kategorier."
+
+msgid "Confirm flag content as safe"
+msgstr "Flagget bekrefter innhold som trygt"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "Er du sikker på du vil flagge dette innholdet som trygt?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "Flagg dette innholdet som utrygt?"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "Er du sikker på at du ønsker å flagge dette innholdet som utrygt?"
+
+msgid "Confirm approval"
+msgstr "Bekreft godkjenning"
+
+msgid "Confirm deletion"
+msgstr "Bekreft sletting"
+
+msgid "Guest"
+msgstr "Gjest"
+
+msgid "Keyboard shortcuts"
+msgstr "Tastatursnarveier"
+
+msgid "Private album"
+msgstr "Privat album"
+
+msgid "Password protected"
+msgstr "Passordbeskyttet"
+
+msgid "Uploaded by guest"
+msgstr "Lastet opp av gjest"
+
+msgid "Uploaded by private"
+msgstr "Lastet opp av privat"
+
+#, php-format
+msgid "by %u"
+msgstr "av %u"
+
+msgid "Toggle unsafe flag"
+msgstr "Merk som utrygt innhold"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "Enten har du ikke tillatelse til denne siden eller linken er utløpt."
+
+msgid "Go to homepage"
+msgstr "Tilbake til startsiden"
+
+msgid "The requested page was not found."
+msgstr "Den etterspurte siden ble ikke funnet."
+
+msgid "The user has been deleted"
+msgstr "Denne brukeren har blitt slettet"
+
+msgid "Your account is almost ready"
+msgstr "Kontoen din er nesten klar"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "En e-post har har blitt sendt til %s med instruksjoner for aktivering av konto. Aktiveringslinken er gyldig i 48 timer. Hvis du ikke har mottatt e-posten, sjekk spamfilteret ditt."
+
+msgid "Resend activation"
+msgstr "Send e-post med aktiveringslink på nytt"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "Du har endret kontoe-post til %s"
+
+msgid "Go to my profile"
+msgstr "Gå til min profil"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "En bekreftelseslenke vil bli sendt til denne e-posten med detaljer for å aktivere kontoen din."
+
+msgid "Your email address"
+msgstr "Din e-postadresse"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "En e-post med instruksjoner for å nullstille passordet ditt har blitt sendt til e-postadressen du har registrert. Hvis du ikke mottar instruksjonene, sjekk spamfilteret ditt."
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "Det har allerede blitt sendt en e-post for å nullstille ditt passord. Hvis du ikke har mottatt e-posten, sjekk spamfilteret ditt."
+
+msgid "Resend instructions"
+msgstr "Send på nytt"
+
+#, php-format
+msgid "Enter your username or email address to continue. You may need to check your spam folder or whitelist %s"
+msgstr "Angi brukernavn eller epostadresse for å fortsette. Du kan måtte sjekke søppelpostmappen din eller legge til %s på en klareringsliste (whitelist)"
+
+msgid "Username or Email address"
+msgstr "Brukernavn eller e-postadresse"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "Passordet ditt er endret. Du kan nå logge inn med det nye passordet."
+
+msgid "Login now"
+msgstr "Logg inn nå"
+
+msgid "Enter your new password"
+msgstr "Skriv inn ditt nye passord"
+
+#, php-format
+msgid "%d characters min"
+msgstr "minst %d tegn"
+
+msgid "Password strength"
+msgstr "Passordstyrke"
+
+msgid "Re-enter your new password"
+msgstr "Skriv inn ditt nye passord igjen"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "En e-post til %s er sendt med instruksjoner for å aktivere kontoen din. Hvis du ikke mottar instruksjonene prøve å sjekke søppelpost eller spam-filtre."
+
+msgid "Upload to album"
+msgstr "Last opp til album"
+
+msgid "You like this"
+msgstr "Du liker dette"
+
+msgid "This content is private"
+msgstr "Dette innholdet er privat"
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "Vennligst les og aksepter følgende betingelser før du fortsetter:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "Dette nettstedet kan inneholde informasjon, linker og bilder av eksplisitt seksuell natur. Hvis du er under %s år, blir støtt av slikt materiale eller om lokal lovgivning forbyr visning av slikt materiale, bør du ikke fortsette registreringen.\n\nJeg bekrefter at jeg er minst %s år, og at det som voksen er min umistelige rett til å motta/vise materiale av eksplisitt seksuell natur. Jeg bekrefter med dette at jeg ønsker å motta/vise materiale av eksplisitt seksuell natur.\n\nJeg synes ikke at seksuelle omgang mellom samtykkende voksne er verken støtende eller obskønt. Visning, lesing og nedlasting av materiale av eksplisitt seksuell natur bryter ikke normer eller regler for mitt lokalsamfunn, by, fylke eller land.\n\nDet materialet  av eksplisitt seksuell natur jeg ser på er for mitt eget personlig bruk, og jeg vil ikke tillate mindreårige å se dette materialet.\n\nJeg er selv ansvarlig for eventuelle uriktige opplysninger eller juridiske konsekvenser av visning, lese eller laste ned materiale av eksplisitt seksuell natur fra dette nettstedet .\n\nDette samtykket på skjerm utgjør en juridisk bindende avtale mellom denne nettsiden og deg, og/eller enhver virksomhet som du har noen juridisk eller likeverdig interessei. Hvis noen del av denne avtalen anses ugjennomførlig av en kompetent domstol, skal det ikke påvirke gyldigheten av de andre deler av avtalen."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "Ved å klikke på \"Jeg aksepterer\" erklærer du at du har lest og forstått alle vilkårene nevnt ovenfor."
+
+msgid "I Agree"
+msgstr "Jeg aksepterer"
+
+msgid "documentation"
+msgstr "dokumentasjon"
+
+msgid "Check the errors to proceed."
+msgstr "Se gjennom feilene for å fortsette."
+
+msgid "Queued"
+msgstr "I kø"
+
+msgid "Working"
+msgstr "Jobber"
+
+msgid "Paused"
+msgstr "Pauset"
+
+msgid "Canceled"
+msgstr "Avbrutt"
+
+msgid "Completed"
+msgstr "Fullført"
+
+#, php-format
+msgid "Top level folders as %s"
+msgstr "Toppnivåmapper som %s"
+
+msgid "Process"
+msgstr "Prosessér"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Process log"
+msgstr "Progresjonslogg"
+
+msgid "Errors"
+msgstr "Feil"
+
+#, php-format
+msgid "Do you really want to remove the import ID %s?"
+msgstr "Vil du virkelig fjerne import-IDen %s?"
+
+msgid "Reset"
+msgstr "Nullstill"
+
+msgid "Resume"
+msgstr "Gjenoppta"
+
+msgid "Dashboard > Settings > Website"
+msgstr "Kontrollpanel > Innstillinger > Webside"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "Vis en samtykke-side før man kommer inn på siden. Benyttes f.eks. for nettsteder med seksuelt innhold."
+
+msgid "Enable consent screen"
+msgstr "Aktiver samtykke-side"
+
+msgid "Consent screen cover image"
+msgstr "Bilde for samtykke-side"
+
+msgid "Show not safe content in listings"
+msgstr "Viser utrygt innhold i lister"
+
+msgid "Blur NSFW content in listings"
+msgstr "Gjør NSFW-innhold i lister uskarpt"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "Aktiver dette alternativet hvis du vil bruke en dimmeeffekt på NSFW-bilder i lister."
+
+msgid "Show not safe content in random mode"
+msgstr "Vis utrygt innhold i tilfeldig modus"
+
+msgid "Show banners in not safe content"
+msgstr "Vis bannere i utrygt innhold"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "Aktiver dette alternativet hvis du ønsker å vise bannere på utrygge innholdssider."
+
+msgid "Cookie law compliance"
+msgstr "Lovgivningssamsvar for bruk av cookies"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "Aktiver dette for å vise en melding som er i samsvar med EUs lovmessige krav angående cookies.  Du trenger bare dette alternativet hvis nettstedet ditt er lokalisert i EU, eller hvis du legger til sporing av informasjonskapsler ."
+
+msgid "From name"
+msgstr "Fra navn"
+
+msgid "Sender name for emails sent to users."
+msgstr "Visningsnavn for e-post sendt til brukere"
+
+msgid "From email address"
+msgstr "Avsenders e-postadresse"
+
+msgid "Sender email for emails sent to users."
+msgstr "Avsenders adresse for e-post til brukere."
+
+msgid "Incoming email address"
+msgstr "Innkommende e-postadresse"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "Mottaker for kontaktskjema og systemvarsler."
+
+msgid "Email mode"
+msgstr "E-postmodus"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "Hvordan skal e-post sendes? SMTP anbefales."
+
+msgid "SMTP server and port"
+msgstr "SMTP-server og -port"
+
+msgid "SMTP server"
+msgstr "SMTP-server"
+
+msgid "SMTP username"
+msgstr "SMTP-brukernavn"
+
+msgid "SMTP password"
+msgstr "SMTP-passord"
+
+msgid "SMTP security"
+msgstr "SMTP-sikkerhet"
+
+msgid "Unsecured"
+msgstr "Usikret"
+
+msgid "Comments API"
+msgstr "Kommentar-API"
+
+#, php-format
+msgid "Disqus API works with %s."
+msgstr "Disqus-API virker med %s."
+
+msgid "Disqus shortname"
+msgstr "Disqus kort navn"
+
+#, php-format
+msgid "%s secret key"
+msgstr "%s hemmelig nøkkel"
+
+#, php-format
+msgid "%s public key"
+msgstr "%s offentlig nøkkel"
+
+msgid "Comment code"
+msgstr "kommentarkode"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "Disqus, Facebook eller noe du ønsker vil bli brukt i bildevisningen ."
+
+msgid "Analytics code"
+msgstr "Analytics-kode"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "Google Analytics eller hva du vil. Det vil bli lagt til temaets bunntekst."
+
+msgid "user generated content"
+msgstr "brukergenerert innhold"
+
+#, php-format
+msgid "%s API key"
+msgstr "%s API nøkkel"
+
+msgid "user signup"
+msgstr "brukerregistrering"
+
+#, php-format
+msgid "%s site key"
+msgstr "%s sidenøkkel"
+
+msgid "Automatic approve"
+msgstr "Automatisk godkjenning"
+
+msgid "Block content"
+msgstr "Blokker innholdet"
+
+msgid "Adult"
+msgstr "Voksen"
+
+msgid "Teen and adult"
+msgstr "Tenåring og voksen"
+
+msgid "Flag NSFW"
+msgstr "Flagg ITPJ"
+
+msgid "Twitter account"
+msgstr "Twitter-konto"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "Aktiver for å aktivere eller deaktivere HTTPS"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "Aktiver denne for å aktivere eller deaktivere denne lagringsenheten"
+
+msgid "Quota"
+msgstr "Kvote"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Storage method"
+msgstr "Lagringsmetode"
+
+msgid "Disk used"
+msgstr "Diskplass brukt"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "Lokal lagring brukes som standard, eller når ingen ekstern lagring er aktivert."
+
+msgid "Notify to email"
+msgstr "Varsle til e-post"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "Hvis aktivert vil systemet sende en e-post når spamming skjer."
+
+msgid "Minute limit"
+msgstr "Minuttbegrensning"
+
+msgid "Hourly limit"
+msgstr "Timebegrensning"
+
+msgid "Daily limit"
+msgstr "Daglig begrensning"
+
+msgid "Weekly limit"
+msgstr "Ukentlig begrensning"
+
+msgid "Monthly limit"
+msgstr "Månedlig begrensning"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Landing page"
+msgstr "Landingsside"
+
+msgid "Split landing + images"
+msgstr "Delt landingsside + bilder"
+
+msgid "explore"
+msgstr "utforsk"
+
+#, php-format
+msgid "Route %s"
+msgstr "Rute %s"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "Velg stil for startsiden. For å tilpasse stilen ytterligere, rediger app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "Forsidebilde"
+
+msgid "Add new cover image"
+msgstr "Legg til nytt forsidebilde"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "Dette vil bli lagt inn på hjemmesiden %s som tag. La det stå tomt for å bruke standardinnholdet."
+
+msgid "Paragraph"
+msgstr "Avsnitt"
+
+msgid "Call to action button color"
+msgstr "Registreringsknappfarge"
+
+msgid "Blue"
+msgstr "Blå"
+
+msgid "Green"
+msgstr "Grønn"
+
+msgid "Orange"
+msgstr "Oransje"
+
+msgid "Red"
+msgstr "Rød"
+
+msgid "Grey"
+msgstr "Grå"
+
+msgid "Black"
+msgstr "Svart"
+
+msgid "White"
+msgstr "Hvit"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Color of the homepage call to action button."
+msgstr "Farge på registreringsknappen"
+
+msgid "Call to action outline style button"
+msgstr "konturstil på registreringsknappen, utvendige linjer"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "Aktiver denne for å bruke konturstil for registreringsknappen."
+
+msgid "Call to action functionality"
+msgstr "Registreringsknappens funksjon"
+
+msgid "Trigger uploader"
+msgstr "Trigger-opplasting"
+
+msgid "Open URL"
+msgstr "Åpne  URL"
+
+msgid "Call to action URL"
+msgstr "Oppfordring til handlings-URL"
+
+msgid "Enter an absolute or relative URL"
+msgstr "Skriv en absolutt eller relativ URL"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "En relativ URL som %r skal tilordnes %l"
+
+msgid "Call to action HTML"
+msgstr "HTML-tekst på forsiden"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "Dette vil bli lagt inn i handlingsknappens <a>-tag. La stå tomt for å bruke standardinnholdet."
+
+msgid "User IDs"
+msgstr "BrukerIDer"
+
+msgid "Empty"
+msgstr "Tom"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "Din bruker-ID er: %s"
+
+msgid "Comma-separated list of target user IDs (integers) to show most recent images on homepage. Leave it empty to display trending images."
+msgstr "Kommaseparert liste for målbruker-ID for å vise bilder på hjemmesiden. La stå tom eller null for å vise alle nylige bilder."
+
+msgid "Enabled image formats"
+msgstr "Aktiverte bildeformater"
+
+msgid "Enable uploads"
+msgstr "Aktiver opplastninger."
+
+msgid "Upload user interface"
+msgstr "Last opp brukergrensesnitt"
+
+msgid "On-page container"
+msgstr "På-side beholder"
+
+msgid "route"
+msgstr "rute"
+
+msgid "Guest uploads"
+msgstr "Gjesteopplastinger"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "Aktiver dersom du vil at uregistrerte brukere skal kunne laste opp."
+
+msgid "Moderate uploads"
+msgstr "Moderat opplasting"
+
+msgid "Enable embed codes (uploader)"
+msgstr "Aktiver integrasjonskoder (opplastning)"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "Aktiver denne hvis du vil vise integrasjonskoder når opplastningen er fullført."
+
+msgid "Upload threads"
+msgstr "Opplastingstråder"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "Antall samtidige opplastingstråder (parallelle opplastinger)"
+
+msgid "Redirect on single upload"
+msgstr "Omdirigere ved enkel opplasting"
+
+msgid "Enable this if you want to redirect to image page on single upload."
+msgstr "Aktiver dette alternativet hvis du vil viderekoble til bildesiden ved enkel opplasting."
+
+msgid "Enable duplicate uploads"
+msgstr "Aktiver duplikatopplastinger"
+
+msgid "Enable expirable uploads"
+msgstr "Aktiver utløpsdato på bilder"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "Aktiver dersom du vil tillate opplastninger med valg om automatisk sletting."
+
+msgid "Auto delete guest uploads"
+msgstr "Automatisk sletting av gjesteopplastinger"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "Aktiver dersom du ønsker å tvinge automatisk sletting av gjesteopplastinger etter en gitt tid."
+
+msgid "Maximum image size"
+msgstr "Maks bildestørrelse"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "Bilder som overskrider denne størrelsesbegrensningen vil automatisk bli nedskalert. Angi null (0) for å ikke ha noen begrensninger."
+
+msgid "Image Exif data"
+msgstr "Exif-data på bilder"
+
+msgid "Keep"
+msgstr "Beholde"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "Velg standardinnstilling for bilde <a %s>Exif-data</a> på opplasting."
+
+msgid "Image Exif data (user setting)"
+msgstr "Exif-data (brukerinnstilling)"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "Aktiver denne hvis du vil at brukere selv kan velge hvordan Exif-data behandles."
+
+msgid "Maximum upload file size"
+msgstr "Maks filstørrelse for opplasting."
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "Den maksimale størrelsen tillatt av serveren er %s. Denne begrensningen er avkortet av %u og %p (%f-verdier)."
+
+msgid "guests"
+msgstr "gjester"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "Samme som \"%s\", men for gjester."
+
+msgid "Image path"
+msgstr "Bildesti"
+
+msgid "Relative to Chevereto root"
+msgstr "Relativ til Cheveretos rotmappe"
+
+msgid "Where to store the images? Relative to Chevereto root."
+msgstr "Hvor skal bildene lagres? Relativ sti til Cheveretos rotmappe."
+
+msgid "Storage mode"
+msgstr "Lagringsmodus"
+
+msgid "Datefolders"
+msgstr "Datamapper"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "Datamapper opprettes i %s struktur"
+
+msgid "File naming method"
+msgstr "Filnavngivingsmetoden"
+
+msgid "Mix original + random"
+msgstr "Bland original + tilfeldig"
+
+msgid "\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"ID\" will name the image just like the image ID."
+msgstr "\"Original\" vil forsøke å beholde kildefilens navn mens \"Tilfeldig\" vil generere et tilfeldig navn. \"ID\" vil gi samme navnet som bilde-ID."
+
+msgid "Thumb size"
+msgstr "Miniatyrbildestørrelse"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "Miniatyrbilder vil bli endret til denne størrelsen."
+
+msgid "Medium image fixed dimension"
+msgstr "Mellomstore bilder, faste størrelser"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "Mellomstore bilder vil bli låst til denne dimensjonen. For eksempel, hvis du velger \"bredde\", vil den verdien bli låst, mens høyden på bildet blir automatisk beregnet."
+
+msgid "Medium image fixed size"
+msgstr "Mellomstore bilde med fast størrelse"
+
+msgid "Width or height will be automatically calculated."
+msgstr "Bredde eller høyde beregnes automatisk."
+
+msgid "Expires"
+msgstr "Utløper"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "IP-adresser som er svartelistet vil bli blokkert fra hele nettstedet."
+
+msgid "Default language"
+msgstr "Standardspråk"
+
+msgid "Default base language to use."
+msgstr "Bruk dette som standardspråk."
+
+msgid "Auto language"
+msgstr "Automatisk valg av språk"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "Aktiver denne hvis du vil at språk skal settes automatisk for hver bruker."
+
+msgid "Language chooser"
+msgstr "Språkvelger"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "Aktiver denne dersom du vil tillate valg av språk."
+
+msgid "Enabled languages"
+msgstr "Tilgjengelige språk"
+
+msgid "List items per page"
+msgstr "Bilder pr. side"
+
+msgid "How many items should be displayed per page listing."
+msgstr "Hvor mange bilder som skal vises pr. side."
+
+msgid "List pagination mode"
+msgstr "Sideinndelingsmodus"
+
+msgid "Endless scrolling"
+msgstr "Endeløs rulling"
+
+msgid "Classic pagination"
+msgstr "Klassisk sideinndeling"
+
+msgid "What pagination method should be used."
+msgstr "Hvilken sideinndelingsmodus som skal brukes."
+
+msgid "Listing viewer"
+msgstr "Listeviser"
+
+msgid "Enable this to use the listing viewer when clicking on an image."
+msgstr "Aktiver dette for å bruke listeviseren når et bilde klikkes."
+
+msgid "Image listing size"
+msgstr "Bildeoppføringsstørrelse"
+
+msgid "Fluid"
+msgstr "Flytende"
+
+msgid "Fixed"
+msgstr "Fast"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "Begge metodene bruker en fast bredde, men den flytende metoden regner automatisk ut høyden."
+
+msgid "Listing columns number"
+msgstr "Antall kolonner for oppføringer"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "Her kan du angi hvor mange kolonner som brukes basert på hver enhet."
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Tablet"
+msgstr "Nettbrett"
+
+msgid "Laptop"
+msgstr "Bærbar PC"
+
+msgid "Desktop"
+msgstr "Stasjonær PC"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "Logoen din i vektorformat (.svg)"
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "Logoen din i bitmapformat. PNG-format er anbefalt."
+
+msgid "Logo height"
+msgstr "logohøyde"
+
+msgid "No value"
+msgstr "Ingen verdi"
+
+msgid "Use this to set the logo height if needed."
+msgstr "Bruk denne for å sette logohøyde hvis nødvendig."
+
+msgid "Favicon image"
+msgstr "favicon-bilde"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "Favicon-bilde: Bildet må ha samme bredde og høyde."
+
+msgid "Page title"
+msgstr "Sidetittel"
+
+msgid "Page status"
+msgstr "Sidestatus"
+
+msgid "Active page"
+msgstr "Aktiv side"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "Inaktiv side (%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "bare aktive sider vil være tilgjengelige."
+
+msgid "Terms of service"
+msgstr "Betingelser for bruk"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Extra page"
+msgstr "Ekstra side"
+
+msgid "Internal page type"
+msgstr "Intern sidetype"
+
+msgid "You can have multiple extra pages, but only one of the other special internal types."
+msgstr "Du kan ha flere ekstra sider, men kun én av de andre spesielle interne typene."
+
+msgid "Page visibility"
+msgstr "Sidesynlighet"
+
+msgid "Visible page"
+msgstr "Synlig side"
+
+msgid "Hidden page"
+msgstr "Skjult side"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "Skjulte sider blir ikke vist i systemmenyer, men alle kan få tilgang til dem med direkte link."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "Bare alfanumeriske tegn, bindestrek og skråstrek"
+
+msgid "File path"
+msgstr "Filsti"
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "En %f fil i forhold til %s"
+
+msgid "Meta keywords"
+msgstr "Metasøkeord"
+
+msgid "Meta description"
+msgstr "Metabeskrivelse"
+
+msgid "Source code"
+msgstr "Kildekode"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "Ingen skrivetilgang i %s stien, du må legge til denne filen med et eksternt redigeringsprogram."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "Ingen skrivetilgang i %s, du må legge til denne filen med et eksternt redigeringsprogram."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "Tatt fra: %s"
+
+msgid "Link URL"
+msgstr "Link-URL"
+
+msgid "Link target attribute"
+msgstr "Link til målattributtet"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "Velg %s for å åpne siden eller lenke i et nytt vindu."
+
+msgid "Link rel attribute"
+msgstr "Link rel-attributt"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "Bare alfanumeriske tegn, bindestreker og mellomrom"
+
+msgid "Link icon"
+msgstr "Lenkeikon"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "Sjekk <a %s>ikon-oversikten</a> for en komplett liste over støttede ikoner."
+
+msgid "Sort order display"
+msgstr "Sorteringsrekkefølge"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "Side-sorteringsrekkefølge for menyer og oppføringer. Bruk \"1\" for høyeste prioritet."
+
+#, php-format
+msgid "Routing for %s"
+msgstr "Rute for %s"
+
+#, php-format
+msgid "SEO %s URLs"
+msgstr "SEO %s URLer"
+
+#, php-format
+msgid "Enable this if you want to use SEO %s URLs."
+msgstr "Aktiver dette hvis du ønsker å bruke SEO %s URLer."
+
+msgid "Automatic updates check"
+msgstr "Automatisk sjekk etter oppdateringer"
+
+msgid "When enabled the system will automatically check for new updates."
+msgstr "Når aktivert vil systemet automatisk se etter nye oppdateringer."
+
+msgid "Display available updates notification"
+msgstr "Vis varsler for tilgjengelige oppdateringer"
+
+msgid "Enable this to show a notice on top warning you about new available system updates."
+msgstr "Aktiver for å vise en melding på toppen med informasjon om tilgjengelige systemoppdateringer."
+
+msgid "Enable this if you want to dump the update query to run it manually."
+msgstr "Aktiver denne hvis du vil at språk skal settes automatisk for hver bruker."
+
+msgid "Maintenance"
+msgstr "Vedlikehold"
+
+msgid "Crypt salt"
+msgstr "kryptosalt"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "Dette kryptosalt som brukes til å konvertere numeriske IDer til alfanumeriske. Kryptosaltet ble automatisk generert ved installeringen av programmet."
+
+msgid "Debug level"
+msgstr "Feilsøkingsnivå"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Error log"
+msgstr "Feillogg"
+
+msgid "Print errors without error log"
+msgstr "Vis feil uten feilloggen"
+
+msgid "Print and log errors"
+msgstr "Vis og logg feil"
+
+msgid "Image load max. filesize"
+msgstr "Bildelasting maks filstørrelse"
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "Bilder større enn angitt grense vil vise en knapp for å laste inn bildet i full størrelse."
+
+msgid "Enable download button"
+msgstr "Aktiver nedlastingsknapp"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "Aktiver dette alternativet hvis du vil vise nedlastingsknappen."
+
+msgid "Enable right click on image"
+msgstr "Aktiver høyreklikk på bildet"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "Aktiver dette alternativet hvis du vil tillate høyreklikk på bilder."
+
+msgid "Enable show Exif data"
+msgstr "Aktiver visning av Exif-data"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "Aktiver denne hvis du vil vise Exif-data."
+
+msgid "Enable social share"
+msgstr "Aktiver sosial deling"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "Aktiver dette alternativet hvis du ønsker å vise knapper for sosiale nettverk for å dele innhold."
+
+msgid "Enable embed codes (content)"
+msgstr "Aktiver integrasjonskoder (innhold)"
+
+msgid "Everybody"
+msgstr "Alle"
+
+msgid "Users only"
+msgstr "Bare brukere"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "Aktiver denne hvis du vil vise integrasjonskoder for innholdet."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "\"Utrygt innhold\" avkryssingsboks i opplastningsvinduet"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "Aktiver dette alternativet hvis du vil vise en avkrysningsboks for å indikere utrygt innhold  ved opplasting."
+
+msgid "Custom CSS code"
+msgstr "Egendefinert CSS-kode"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "Legg inn din egendefinerte CSS-kode her. Den vil bli plassert som en <style>-tag rett før </head>-tagen."
+
+msgid "Custom JS code"
+msgstr "Egendefinert JS-kode"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "Legg inn din egendefinerte JS-kode her. Den vil bli plassert som en <script>-tag rett for </head>-tagen."
+
+#, php-format
+msgid "Do not use %s markup here. This is for plain JS code, not for HTML script tags. If you use script tags here you will break your website."
+msgstr "Ikke bruk %s-markup her. Dette er for ren JS-kode, ikke for HTML-tags. Hvis du bruker scripttags her vil det føre til at nettstedet slutter å fungere."
+
+msgid "Decode ID"
+msgstr "Dekodings-ID"
+
+msgid "Encode ID"
+msgstr "Kodings-ID"
+
+msgid "Send test email"
+msgstr "Send test-e-post"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "Bruk denne for å teste hvordan e-post blir levert. Vi anbefaler å bruke %s."
+
+msgid "Export a user"
+msgstr "Eksporter en bruker"
+
+msgid "Export user"
+msgstr "Eksporter bruker"
+
+msgid "This will allow you to download a user's standard personal information in JSON format."
+msgstr "Dette lar deg laste ned en brukers personlige standardinformasjon i JSON-format."
+
+msgid "Regenerate external storage stats"
+msgstr "Regenerer ekstern lagringsstatus"
+
+msgid "Storage id"
+msgstr "LagringsID"
+
+msgid "Regenerate"
+msgstr "Regenerer"
+
+msgid "This will re-calculate the sum of all the image records associated to the target external storage."
+msgstr "Dette vil rekalkulere summen av alle bildeoppføringer assosiert med den eksterne lagringen."
+
+msgid "Source storage id"
+msgstr "LagringsID for kilde"
+
+msgid "Target storage id"
+msgstr "LagringsID for mål"
+
+msgid "Migrate"
+msgstr "Migrer"
+
+msgid "This only updates the database. You must transfer the actual files to target storage container on your own. URL rewriting is strongly recommended. Use zero (0) for local storage."
+msgstr "Dette oppdaterer bare databasen. Du må overføre de faktiske filene til mållagringsområdet selv. URL-omskriving er sterkt anbefalt. Bruk null (0) for lokal lagring."
+
+msgid "Additional settings"
+msgstr "Andre innstillinger"
+
+msgid "Plugin route"
+msgstr "Utvidelsesrute"
+
+msgid "Use this to set a custom URL for %p. Please note that you need to manually replicate %s in this URL."
+msgstr "Bruk denne for å sette en egendefinert URL for %p. Påse at du manuelt må replikere %s i denne URLen."
+
+msgid "Enable signups"
+msgstr "Aktiver registrering"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "Aktiver hvis du vil tillate registrering av nye brukere."
+
+msgid "Enable user content delete"
+msgstr "Aktiver sletting av brukerinnhold"
+
+msgid "Minimum age required"
+msgstr "Minimum alder som kreves"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "La denne være blank dersom det ikke er noen aldersbegrensning for å benytte nettstedet."
+
+msgid "Notify on user signup"
+msgstr "Varsle ved brukerregistrering"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "Aktiver dette hvis du ønsker å få en epostvarsling for hver ny brukerregistrering."
+
+msgid "Require email confirmation"
+msgstr "Krev e-postbekreftelse"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "Aktiver for å kreve at brukere må bekrefte e-postadressen sin når de registrerer seg."
+
+msgid "Require email for social signup"
+msgstr "Krever e-post for sosial registrering"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "Aktiver hvis brukere som benytter sosial tilkobling må oppgi e-postadresse."
+
+msgid "User avatar max. filesize"
+msgstr "Brukeravatar maks filstørrelse"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "Maks tillatt størrelse for brukeravatar. (Maks tillatt av server er %s)"
+
+msgid "User background max. filesize"
+msgstr "Personlig bakgrunnsbilde maks størrelse"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "Maks tillatt filstørrelse for personlig bakgrunnsbilde. (Maks tillatt av server er %s)"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "Aktiver denne for å legge til logo eller det du ønsker på opplastninger."
+
+msgid "Watermark user toggles"
+msgstr "Vannmerke brukerveksler"
+
+msgid "Enable watermark on guest uploads"
+msgstr "Aktiver vannmerke på gjesteopplastninger"
+
+msgid "Enable watermark on user uploads"
+msgstr "Aktiver vannmerke på brukeropplastninger"
+
+msgid "Enable watermark on admin uploads"
+msgstr "Aktiver vannmerke på adminopplastninger"
+
+msgid "Watermark file toggles"
+msgstr "Vannmerke filveksler"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "Aktiver opplastninger på GIF-bildeopplastninger"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "Minimum bildestørrelse for å legge til vannmerke"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "Bilder mindre enn dette vil ikke bli vannmerket. Bruk null (0) for å ikke angi minimumsgrense for bildestørrelse."
+
+msgid "Watermark image"
+msgstr "Vannmerkebilde"
+
+msgid "Watermark position"
+msgstr "Vannmerkeposisjon"
+
+msgid "left top"
+msgstr "øverst til venstre"
+
+msgid "left center"
+msgstr "senter til venstre"
+
+msgid "left bottom"
+msgstr "nederst til venstre"
+
+msgid "center top"
+msgstr "øverst i midten"
+
+msgid "center center"
+msgstr "midt i bildet"
+
+msgid "center bottom"
+msgstr "nederst i midten"
+
+msgid "right top"
+msgstr "øverst til høyre"
+
+msgid "right center"
+msgstr "senter til høyre"
+
+msgid "right bottom"
+msgstr "nederst til høyre"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "Plassering av vannmerkebilde. Juster først horisontal plassering, deretter vertikal."
+
+msgid "Watermark percentage"
+msgstr "Vannmerkeprosent"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "Vannmerkets prosentvise størrelse i forhold til målets bildeområde. Verdier er 1-100."
+
+msgid "Watermark margin"
+msgstr "Vannmerkemargin"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "Margin fra kanten av bildet til vannmerkebildet."
+
+msgid "Watermark opacity"
+msgstr "Vannmerkets gjennomsiktighet"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "Gjennomsiktigheten av vannmerket i det endelige, vannmerkede bildet. Verdier er 0-100."
+
+msgid "Website name"
+msgstr "Navn på nettsted"
+
+msgid "Website doctitle"
+msgstr "Tittel på nettsted"
+
+msgid "Website description"
+msgstr "Beskrivelse av nettsted"
+
+msgid "Default time zone"
+msgstr "Standard tidssone"
+
+msgid "Select region"
+msgstr "Velg region"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "Tillat søk etter bilder, album og brukere basert på en egendefinert søkestreng."
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "Aktiverer visning av offentlige bilder. Det aktiverer også kategorier."
+
+msgid "Enables to browse images randomly."
+msgstr "Aktiverer mulighet for å bla tilfeldig i bilder"
+
+msgid "Likes"
+msgstr "Liker"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "Tillat brukere å like innhold"
+
+msgid "Followers allows users to follow each other."
+msgstr "Følgere tillater brukere å følge hverandre"
+
+msgid "Website mode"
+msgstr "Modus for nettsted"
+
+msgid "You can switch the website mode anytime."
+msgstr "Du kan bytte nettstedsmodus når som helst."
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "Tilpasset rute for å tilordne /brukernavn til /noe. Bruk \"/\" å tilordne til hjemmesiden."
+
+msgid "Website privacy mode"
+msgstr "Nettstedsmodus for personvern"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "Privatmodus vil gjøre siden tilgjengelig kun for registrerte brukere."
+
+msgid "Content privacy mode"
+msgstr "Innhold privatmodus"
+
+msgid "Force private (self)"
+msgstr "Tving privat (egen)"
+
+msgid "Force private (anyone with the link)"
+msgstr "Tvinge privat (alle med link)"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "Tvunget personvernmodus vil overstyre brukers valg av personvern."
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Email address"
+msgstr "E-postadresse"
+
+msgid "Play GIF"
+msgstr "Spill av GIF-animasjon"
+
+msgid "Do you really want to approve this image? The image will go public if you approve it."
+msgstr "Er du sikker på at du vil slette alt det merkede innholdet? Dette kan ikke angres."
+
+#, php-format
+msgid "Added to %s"
+msgstr "Lagt til i %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "Lastet opp til %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "Lastet opp %s"
+
+msgid "Less Exif data"
+msgstr "Skjul Exif-data"
+
+msgid "More Exif data"
+msgstr "Mer Exif-data"
+
+msgid "Add IP ban"
+msgstr "Legg til en IP-blokkering"
+
+msgid "Upload and share your images."
+msgstr "Last opp og del bildene dine."
+
+#, php-format
+msgid "Drag and drop anywhere you want and start uploading your images now. %s limit. Direct image links, BBCode and HTML thumbnails."
+msgstr "Dra og slipp bildene hvor som helst og start opplastning med en gang. Begrensning: %s. Direkte bildelink, BBCode for forum og HTML-miniatyrbilder."
+
+msgid "Sign up to unlock all the features"
+msgstr "Registrer deg for å låse opp alle funksjonene"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "Administrer ditt innhold, opprett private album, tilpass din profil og mer."
+
+msgid "Sign in with your account"
+msgstr "Logg inn med din konto"
+
+msgid "Logged out"
+msgstr "Logget ut"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "Du har blitt logget ut fra %s. Velkommen tilbake!"
+
+msgid "Website under maintenance"
+msgstr "Nettstedet er under vedlikehold"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "Vi utfører planlagt vedlikehold på nettstedet. Vennligst forsøk igjen senere."
+
+msgid "This content is password protected."
+msgstr "Dette innholdet er passordbeskyttet."
+
+msgid "Please enter your password to continue."
+msgstr "Vennligst skriv inn passordet ditt for å fortsette."
+
+msgid "Add image uploading to your website, blog or forum by installing our upload plugin. It provides image uploading to any website by placing a button that will allow your users to directly upload images to our service and it will automatically handle the codes needed for insertion. All features included like drag and drop, remote upload, image resizing and more."
+msgstr "Legg til bildeopplasting på nettsiden, bloggen eller forumet ditt ved å installere opplastingsutvidelsen vår. Den tilbyr bildeopplasting til en hvilken som helst nettside ved å legge til en knapp som lar brukerne dine laste opp bilder direkte til vår tjeneste, og håndterer automatisk kodene for å legge dem til. Alle funksjoner som dra-og-slipp, fjernopplasting, bildeskalering m.m. er tilgjengelige."
+
+msgid "Supported software"
+msgstr "Støttet programvare"
+
+msgid "supported software"
+msgstr "støttet programvare"
+
+#, php-format
+msgid "The plugin works in any website with user-editable content and for %sv, it will place an upload button that will match the target editor toolbar so no extra customization is needed."
+msgstr "Utvidelsen fungerer på alle nettsteder med bruker-redigerbart innhold, og for %sv vil den plassere en knapp som passer med målets redigeringsverktøylinje, slik at ingen ekstra tilpassing er nødvendig."
+
+msgid "Add it to your website"
+msgstr "Legg den til nettstedet ditt"
+
+msgid "options"
+msgstr "alternativer"
+
+#, php-format
+msgid "Copy and paste the plugin code into your website HTML code (preferably inside the head section). There are plenty %o to make it fit better to your needs."
+msgstr "Kopier og lim inn koden for utvidelsen direkte i HTML-kilden for nettstedet ditt (helst i HEAD-området). Det finnes mange %o for å la den bedre passe dine behov."
+
+msgid "Basic options"
+msgstr "Grunnleggende alternativer"
+
+msgid "Color palette"
+msgstr "Fargepalett"
+
+msgid "Button color scheme"
+msgstr "Fargetema for knapper"
+
+msgid "Embed codes that will be auto-inserted in editor box"
+msgstr "Innbyggingskoder som automatisk blir fylt ut i redigeringsfeltet"
+
+msgid "Sibling selector"
+msgstr "Valg for beslektet element"
+
+msgid "Sibling element selector where to place the button next to"
+msgstr "Beslektet element å plassere knappen ved siden av"
+
+msgid "Sibling position"
+msgstr "Plassering av beslektet element"
+
+msgid "After"
+msgstr "Etter"
+
+msgid "Before"
+msgstr "Før"
+
+msgid "Position relative to sibling element"
+msgstr "Plassering relativ til beslektet element"
+
+msgid "Advanced options"
+msgstr "Avanserte alternativer"
+
+#, php-format
+msgid "The plugin has a large set of additional options that allow full customization. You can use custom HTML, CSS, own color palette, set observers and more. Check the %d and the plugin source to get a better idea of these advanced options."
+msgstr "Utvidelsen har et stort utvalg utvidete alternativer som gir full tilpassingskontroll. Du kan bruke egen HTML, CSS, egen fargepalett, settobservatører og mer til. Sjekk ut %d og kildekoden for utvidelsen for å få en bedre forståelse av disse avanserte alternativene."
+
+msgid "Valid"
+msgstr "Gyldig"
+
+msgid "Banned"
+msgstr "Utestengt"
+
+msgid "Awaiting email"
+msgstr "Venter på e-post"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i til %f tegn<br>Bokstaver, nummer og \"_\""
+
+msgid "Auto delete uploads"
+msgstr "Slett opplastinger automatisk"
+
+msgid "This setting will apply to all your image uploads by default. You can override this setting on each upload."
+msgstr "Denne innstillingen vil gjelde for alle bilder du har lastet opp. Du kan overstyre denne innstillingen for hver enkelt opplasting."
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "Behold <a %s>Exif-data</a> ved opplasting"
+
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "Send meg e-poster med nyheter fra %s"
+
+msgid "Content settings"
+msgstr "Innholdsinnstillinger"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "Vis utrygt innhold fra andre brukere"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Timezone"
+msgstr "Tidssone"
+
+msgid "User has no connections."
+msgstr "Bruker har ingen forbindelser."
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "Vil du virkelig koble %s fra denne kontoen?"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "Denne kontoen er koblet til %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "Vil du virkelig koble fra %s kontoen?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "Du vil bli logget ut, og du vil ikke være i stand til å logge inn på kontoen din ved hjelp av denne %s kontoen."
+
+msgid "Button"
+msgstr "Knapp"
+
+msgid "Current password"
+msgstr "Nåværende passord"
+
+msgid "Enter your current password"
+msgstr "Skriv inn ditt nåværende passord"
+
+msgid "New password"
+msgstr "Nytt passord"
+
+msgid "Confirm new password"
+msgstr "Bekreft nytt passord"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "Skriv inn et passord for å kunne logge inn med ditt brukernavn eller e-postadresse"
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "Denne brukeren har ikke passord. Legg til et ved å bruke dette skjemaet."
+
+msgid "Enter your password"
+msgstr "Skriv inn ditt passord"
+
+msgid "Confirm password"
+msgstr "Bekreft passord"
+
+msgid "Re-enter your password"
+msgstr "Skriv inn ditt passord på nytt"
+
+msgid "Make my profile and identity totally private"
+msgstr "Gjør min profil og identitet fullstendig privat"
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "Aktiver dette hvis du ønsker å opptre som en anonym bruker"
+
+msgid "This is your real name, not your username."
+msgstr "Dette er ditt ekte navn, ikke brukernavnet ditt."
+
+msgid "Bio"
+msgstr "Biografi"
+
+msgid "Tell us a little bit about you"
+msgstr "Skriv litt om deg selv"
+
+msgid "Login"
+msgstr "Logg inn"
+
+#, php-format
+msgid "Already have an account? %s now."
+msgstr "Har du allerede en konto? %s nå."
+
+msgid "resend account activation"
+msgstr "send konto-aktivering på nytt"
+
+#, php-format
+msgid "If you have already signed up maybe you need to request to %s to activate your account."
+msgstr "Hvis du allerede har registrert deg, trenger du kanskje å be om %s for å aktivere kontoen din."
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "Jeg er minst %s år gammel"
+
+msgid "Upload profile background"
+msgstr "Last opp nytt profilbakgrunnsbilde"
+
+msgid "Change background"
+msgstr "Bytt bakgrunnsbilde"
+
+msgid "Upload new image"
+msgstr "Last opp nytt profilbilde"
+
+msgid "Delete background"
+msgstr "Slett bakgrunn"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "Følger"
+msgstr[1] "Følgere"
+
+msgid "Follow"
+msgstr "Følg"
+
+msgid "General questions/comments"
+msgstr "Generelle spørsmål/kommentarer"
+
+msgid "DMCA complaint"
+msgstr "Brudd på opphavsrettigheter"
+
+msgid "Invalid message"
+msgstr "Ugyldig melding"
+
+msgid "Invalid subject"
+msgstr "Ugyldig emne"
+
+msgid "Message sent"
+msgstr "Melding sendt"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "Meldingen er sendt. Vi vil svare deg så fort vi kan."
+
+msgid "If you want to send a message fill the form below."
+msgstr "Hvis du ønsker å sende en melding, fyll ut skjemaet under."
+
+msgid "Your name"
+msgstr "Ditt navn"
+
+msgid "Subject"
+msgstr "Emne"
+

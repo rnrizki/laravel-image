@@ -1,0 +1,111 @@
+<?php
+
+/*
+ * This file is part of Chevere.
+ *
+ * (c) Rodolfo Berrios <rodolfo@chevere.org>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+declare(strict_types=1);
+
+namespace Chevere\ThrowableHandler\Documents;
+
+use Chevere\ThrowableHandler\Formats\HtmlFormat;
+use Chevere\ThrowableHandler\Interfaces\FormatInterface;
+use Chevere\VarDump\Outputs\HtmlOutput;
+
+final class HtmlDocument extends Document
+{
+    public const NO_DEBUG_TITLE_PLAIN = 'Something went wrong';
+
+    public const NO_DEBUG_CONTENT_HTML = <<<HTML
+    <p>Please try again later. If the problem persists don't hesitate to contact the system administrator.</p>
+    HTML;
+
+    public const HTML_TEMPLATE = <<<HTML
+    <html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    %style%
+    </head>
+    <body class="%bodyClass%">%body%</body>
+    </html>
+    HTML;
+
+    public const NO_DEBUG_BODY_HTML = <<<HTML
+    <main><div>%content%</div></main>
+    HTML;
+
+    public const DEBUG_BODY_HTML = <<<HTML
+    <main class="main--stack"><div>%content%</div></main>
+    HTML;
+
+    public function getFormat(): FormatInterface
+    {
+        return new HtmlFormat();
+    }
+
+    public function getTemplate(): array
+    {
+        $template = parent::getTemplate();
+        if (! $this->handler->isDebug()) {
+            $template = [
+                self::SECTION_TITLE => $template[self::SECTION_TITLE],
+                static::SECTION_EXTRA => $this->getSectionExtra(),
+            ];
+        }
+
+        return $template;
+    }
+
+    public function getContent(string $content, string $handle = ''): string
+    {
+        $handle = preg_replace('/\W+/', '-', $handle) ?? '';
+        $handle = trim($handle, '-');
+        $handle = strtolower($handle);
+
+        return <<<HTML
+        <div class="{$handle}">{$content}</div>
+        HTML;
+    }
+
+    public function getSectionTitle(): string
+    {
+        if (! $this->handler->isDebug()) {
+            return $this->format->getWrapTitle(self::NO_DEBUG_TITLE_PLAIN)
+                . self::NO_DEBUG_CONTENT_HTML
+                . '<div><span class="user-select-all">'
+                . self::TAG_DATE_TIME_UTC_ATOM
+                . '</span> • <span class="user-select-all">'
+                . self::TAG_ID
+                . '</span></div>';
+        }
+
+        return $this->format->getWrapTitle(
+            self::TAG_TITLE
+            . ' <span>in&nbsp;'
+            . self::TAG_FILE_LINE
+            . '</span>'
+        );
+    }
+
+    protected function getPrepare(string $document): string
+    {
+        $css = file_get_contents(dirname(__DIR__) . '/src/template.css');
+        $css .= HtmlOutput::CSS;
+        $css = preg_replace('/\s+/', ' ', $css);
+        $preDocument = strtr(self::HTML_TEMPLATE, [
+            '%bodyClass%' => 'body--flex',
+            '%style%' => "<style>{$css}</style>",
+            '%body%' => $this->handler->isDebug()
+                ? self::DEBUG_BODY_HTML
+                : self::NO_DEBUG_BODY_HTML,
+        ]);
+
+        return str_replace('%content%', $document, $preDocument);
+    }
+}

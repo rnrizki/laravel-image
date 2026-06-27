@@ -1,0 +1,3940 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2024-05-13 17:28+0000\n"
+"PO-Revision-Date: 2024-05-13 17:28+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "You have been forbidden to use this website."
+msgstr "您已经被禁止使用本网站."
+
+msgid "Moderate"
+msgstr "审核"
+
+msgid "View all my images"
+msgstr "查看我的所有图片"
+
+msgid "Feel free to browse and discover all my shared images and albums."
+msgstr "随意浏览, 发现我所有的图片和相册共享."
+
+msgid "Recent"
+msgstr "最新"
+
+msgid "Trending"
+msgstr "热门"
+
+msgid "Popular"
+msgstr "最爱"
+
+msgid "Videos"
+msgstr "视频"
+
+msgid "Animated"
+msgstr "动图"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Request denied"
+msgstr "请求被拒绝"
+
+msgid "terms"
+msgstr "服务条款"
+
+msgid "privacy policy"
+msgstr "隐私政策"
+
+msgid "I agree to the %terms_link and %privacy_link"
+msgstr "我同意 %terms_link 和 %privacy_link"
+
+msgid "That page doesn't exist"
+msgstr "该页面不存在"
+
+#, php-format
+msgid "Page %s"
+msgstr "第 %s 页"
+
+msgid "Forgot password?"
+msgstr "忘记密码?"
+
+msgid "Reset password"
+msgstr "重置密码"
+
+msgid "Resend account activation"
+msgstr "重新激活帐户"
+
+msgid "Add your email address"
+msgstr "添加您的电子邮件地址"
+
+msgid "Awaiting confirmation"
+msgstr "等待确认"
+
+msgid "Two-factor authentication"
+msgstr "双重验证"
+
+msgid "Email changed"
+msgstr "该电子邮件已修改"
+
+#, php-format
+msgid "%s says you are a robot"
+msgstr "%s 说您是一个机器人"
+
+msgid "Invalid Username/Email"
+msgstr "无效的用户名或电子邮件"
+
+msgid "User doesn't have an email."
+msgstr "用户没有设置电子邮件."
+
+msgid "Account needs to be activated to use this feature"
+msgstr "帐号需要激活才能使用此功能"
+
+msgid "Account already activated"
+msgstr "帐户已经被激活"
+
+msgid "Account banned"
+msgstr "帐号被禁止"
+
+msgid "Allow up to 15 minutes for the email. You can try again later."
+msgstr "已超过15分钟内发送电子邮件次数. 您可以稍后再试."
+
+#, php-format
+msgid "Reset your password at %s"
+msgstr "在 %s 重置您的密码"
+
+#, php-format
+msgid "Confirmation required at %s"
+msgstr "您在 %s 注册的账号已经准备好, 激活后可立即使用."
+
+#, php-format
+msgid "Welcome to %s"
+msgstr "欢迎来到 %s"
+
+msgid "Invalid password"
+msgstr "无效的密码"
+
+msgid "Passwords don't match"
+msgstr "密码错误"
+
+msgid "Invalid email"
+msgstr "无效的电子邮箱"
+
+msgid "Email already being used"
+msgstr "该电子邮箱已经被使用"
+
+msgid "Invalid code"
+msgstr "无效的代码"
+
+msgid "Check the errors in the form to continue."
+msgstr "继续前请检查表单中的错误."
+
+msgid "Password required"
+msgstr "需要密码"
+
+msgid "Embed codes"
+msgstr "嵌入代码"
+
+msgid "albums"
+msgstr "相册"
+
+#, php-format
+msgid "Sub %s"
+msgstr "子 %s"
+
+msgid "Info"
+msgstr "详细"
+
+msgid "%a album hosted in %w"
+msgstr "%a 相册托管在 %w"
+
+msgid "image"
+msgid_plural "images"
+msgstr[0] "图片"
+
+msgid "Home"
+msgstr "首页"
+
+msgid "File"
+msgid_plural "Files"
+msgstr[0] "文件"
+
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "相册"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "用户"
+
+msgid "Bulk importer"
+msgstr "批量导入"
+
+msgid "Settings"
+msgstr "设置"
+
+#, php-format
+msgid "Run %s"
+msgstr "运行 %s"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Listings"
+msgstr "页面列表"
+
+msgid "File uploads"
+msgstr "文件上传"
+
+msgid "Semantics"
+msgstr "语义"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Homepage"
+msgstr "主页"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "Upload plugin"
+msgstr "上传插件"
+
+msgid "Consent screen"
+msgstr "内容警告"
+
+#, php-format
+msgid "Guests %s"
+msgstr "公共 %s"
+
+msgid "External storage"
+msgstr "外部存储"
+
+msgid "Routing"
+msgstr "路径"
+
+msgid "External services"
+msgstr "外部服务"
+
+msgid "Login providers"
+msgstr "登录提供商"
+
+msgid "Cookie compliance"
+msgstr "Cookie 合规性"
+
+msgid "Flood protection"
+msgstr "防洪保护"
+
+msgid "Banners"
+msgstr "横幅广告"
+
+msgid "IP bans"
+msgstr "IP屏蔽"
+
+msgid "Watermarks"
+msgstr "水印"
+
+msgid "Upgrade now"
+msgstr "立即升级"
+
+msgid "The latest release will be downloaded and extracted in the filesystem."
+msgstr "最新版本将被下载并解压到文件系统中。"
+
+msgid "License key"
+msgstr "许可证密钥"
+
+msgid "Support"
+msgstr "客服支持"
+
+msgid "install update"
+msgstr "安装更新"
+
+msgid "Check upgrades"
+msgstr "检查更新"
+
+msgid "not running"
+msgstr "未运行"
+
+#, php-format
+msgid "PHP function [%s] not available in this PHP installation"
+msgstr "PHP 函数 [%s] 在你安装的 PHP 中不可用"
+
+msgid "Max. upload file size"
+msgstr "最大上传文件大小"
+
+msgid "Graphics library"
+msgstr "图形库"
+
+msgid "Stats"
+msgstr "统计"
+
+msgid "Rebuild stats"
+msgstr "重建统计信息"
+
+msgid "Connecting IP"
+msgstr "正在连接的IP"
+
+msgid "Not your IP?"
+msgstr "这不是我的IP？"
+
+msgid "Encryption"
+msgstr "加密"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Meta"
+msgstr "相关链接"
+
+msgid "Blog"
+msgstr "博客"
+
+msgid "Docs"
+msgstr "文档"
+
+msgid "Releases"
+msgstr "发行版"
+
+msgid "Chat"
+msgstr "聊天室"
+
+msgid "Community"
+msgstr "社区"
+
+msgid "Links"
+msgstr "链接"
+
+msgid "Cron last ran"
+msgstr "Cron 上次运行"
+
+msgid "PHP version"
+msgstr "PHP版本"
+
+msgid "Server"
+msgstr "服务器"
+
+msgid "Max. execution time"
+msgstr "脚本最大执行时间"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d 秒"
+
+msgid "Memory limit"
+msgstr "内存限制"
+
+msgid "Can't delete all homepage cover images"
+msgstr "不能删除所有的首页封面图片"
+
+msgid "Homepage cover image deleted"
+msgstr "首页封面图片已删除"
+
+msgid "Local"
+msgstr "本地"
+
+msgid "External"
+msgstr "外部"
+
+msgid "All"
+msgstr "所有"
+
+msgid "search content"
+msgstr "搜索内容"
+
+msgid "Add page"
+msgstr "添加页面"
+
+#, php-format
+msgid "Edit page ID %s"
+msgstr "编辑页面ID %s"
+
+msgid "The page has been added successfully."
+msgstr "页面已添加成功。"
+
+msgid "The page has been deleted."
+msgstr "该页面已被删除。"
+
+msgid "homepage"
+msgstr "主页"
+
+#, php-format
+msgid "Before main title (%s)"
+msgstr "之前的主标题(%s)"
+
+msgid "Before pagination"
+msgstr "分页前"
+
+msgid "After pagination"
+msgstr "分页后"
+
+msgid "Content (image and album)"
+msgstr "内容（图像和相册）"
+
+msgid "Before comments"
+msgstr "评论前"
+
+msgid "Image page"
+msgstr "图像页面"
+
+msgid "Inside viewer top (image page)"
+msgstr "内部图像浏览器顶部（图像页）"
+
+msgid "Inside viewer foot (image page)"
+msgstr "内部图像浏览器底部（图像页）"
+
+msgid "After image viewer (image page)"
+msgstr "图像浏览器后（图像页）"
+
+msgid "Footer (image page)"
+msgstr "页脚（图像页）"
+
+msgid "User profile page"
+msgstr "用户个人资料页面"
+
+msgid "Explore"
+msgstr "探索"
+
+#, php-format
+msgid "After top (%s page)"
+msgstr "页顶后（%s 页）"
+
+msgid "NSFW"
+msgstr "不安全（NSFW）"
+
+msgid "Invalid website name"
+msgstr "无效的网站名称"
+
+msgid "Invalid language"
+msgstr "无效的语言"
+
+msgid "Invalid timezone"
+msgstr "无效的时区"
+
+#, php-format
+msgid "Invalid value: %s"
+msgstr "无效的值：%s"
+
+msgid "Invalid upload storage mode"
+msgstr "无效的上传存储模式"
+
+msgid "Invalid upload filenaming"
+msgstr "无效的上传文件名"
+
+msgid "Invalid thumb width"
+msgstr "无效的缩略图宽度"
+
+msgid "Invalid thumb height"
+msgstr "无效的缩略图高度"
+
+msgid "Invalid medium size"
+msgstr "无效的中等图片大小"
+
+msgid "Invalid watermark percentage"
+msgstr "无效的水印百分比"
+
+msgid "Invalid watermark opacity"
+msgstr "无效的水印不透明度"
+
+msgid "Invalid theme"
+msgstr "无效的主题"
+
+msgid "Invalid value"
+msgstr "无效的值"
+
+msgid "font"
+msgstr "字体"
+
+#, php-format
+msgid "Invalid %s"
+msgstr "无效的 %s"
+
+msgid "palette"
+msgstr "调色板"
+
+msgid "Invalid theme image listing size"
+msgstr "无效的主题图像尺寸"
+
+msgid "Invalid user id"
+msgstr "无效的用户 ID"
+
+msgid "Invalid email mode"
+msgstr "无效的邮件发送方式"
+
+msgid "Invalid SMTP port"
+msgstr "无效的 SMTP 端口"
+
+msgid "Invalid SMTP security"
+msgstr "无效的 SMTP 安全模式"
+
+msgid "Invalid website mode"
+msgstr "无效的网站模式"
+
+msgid "Invalid personal mode user ID"
+msgstr "无效的个人模式用户 ID"
+
+msgid "Invalid or reserved route"
+msgstr "无效路由或保留路由"
+
+msgid "Invalid website privacy mode"
+msgstr "无效的网站隐私模式"
+
+msgid "Invalid website content privacy mode"
+msgstr "无效的网站内容隐私模式"
+
+msgid "Invalid homepage style"
+msgstr "无效的主页样式"
+
+msgid "Invalid homepage call to action button color"
+msgstr "无效的按钮颜色"
+
+msgid "Invalid homepage call to action functionality"
+msgstr "无效的主页按钮功能"
+
+msgid "Invalid title"
+msgstr "无效的标题"
+
+msgid "Invalid status"
+msgstr "无效状态"
+
+msgid "Invalid type"
+msgstr "无效的文件类型"
+
+msgid "Invalid visibility"
+msgstr "无效的页面可见性"
+
+msgid "Invalid internal type"
+msgstr "无效的内部页面类型"
+
+msgid "Invalid target attribute"
+msgstr "无效的 target 属性"
+
+msgid "Invalid rel attribute"
+msgstr "无效的 rel 属性"
+
+msgid "Invalid icon"
+msgstr "无效的图标"
+
+msgid "Invalid URL key"
+msgstr "无效的 URL 关键字"
+
+msgid "Invalid file path"
+msgstr "无效的文件路径"
+
+msgid "Invalid link URL"
+msgstr "无效的链接 URL"
+
+msgid "Invalid user minimum age"
+msgstr "无效的用户最低年龄"
+
+msgid "Only alphanumeric, hyphen and underscore characters are allowed"
+msgstr "只允许使用字母数字、连字符和下划线字符"
+
+msgid "Invalid URL"
+msgstr "无效的 URL"
+
+msgid "Invalid key"
+msgstr "无效的值"
+
+msgid "Routes can't be the same"
+msgstr "路径不能是相同的"
+
+msgid "Invalid upload image path"
+msgstr "无效的图像上传路径"
+
+msgid "Invalid call to action URL"
+msgstr "无效的按钮 URL"
+
+#, php-format
+msgid "Max. allowed %s"
+msgstr "最大允许%s"
+
+msgid "Can't map %m to an existing folder (%f)"
+msgstr "无法将 %m 映射到现有文件夹 (%f)"
+
+msgid "Can't map %m to an existing route (%r)"
+msgstr "无法将 %m 映射到现有路由 (%r)"
+
+msgid "Can't map %m to %r (username collision)"
+msgstr "无法将 %m 映射到 %r（用户名冲突）"
+
+msgid "Invalid SMTP server"
+msgstr "无效的 SMTP 服务器地址"
+
+msgid "Invalid SMTP username"
+msgstr "无效的 SMTP 用户名"
+
+#, php-format
+msgid "This URL key is already being used by another page (ID %s)"
+msgstr "此 URL 关键字已被另一个页面使用 (ID %s)"
+
+#, php-format
+msgid "This file path is already being used by another page (ID %s)"
+msgstr "此文件路径已被其他页面使用 (ID %s)"
+
+#, php-format
+msgid "Can't save page contents: %s."
+msgstr "无法保存页面内容： %s。"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+msgid "Following"
+msgstr "已关注"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Image ID"
+msgstr "图片 ID"
+
+msgid "Upload date"
+msgstr "上传时间"
+
+msgid "Image %i in %a album"
+msgstr "图片 %i 在 %a 相册"
+
+msgid "Image %i in %c category"
+msgstr "图片 %i 在 %c 分类"
+
+msgid "Image %i hosted in %w"
+msgstr "图片 %i 托管在 %w"
+
+msgid "Start uploading"
+msgstr "开始上传"
+
+msgid "Login needed"
+msgstr "需要登录"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "图片"
+
+#, php-format
+msgid "%s doesn't exists"
+msgstr "%s 不存在"
+
+#, php-format
+msgid "%s edited"
+msgstr "%s 已编辑"
+
+msgid "Category"
+msgstr "分类"
+
+#, php-format
+msgid "%s URL key already being used."
+msgstr "%s URL已被使用"
+
+msgid "Missing values"
+msgstr "遗漏值"
+
+msgid "Invalid username"
+msgstr "无效的用户名"
+
+msgid "Invalid role"
+msgstr "无效的角色"
+
+msgid "Username already being used"
+msgstr "用户名已被使用"
+
+#, php-format
+msgid "%s added"
+msgstr "%s 已添加"
+
+msgid "IP address already banned"
+msgstr "IP地址已被禁止"
+
+#, php-format
+msgid "%s not found"
+msgstr "%s 未找到"
+
+#, php-format
+msgid "Add a password or another social connection before deleting %s"
+msgstr "添加一个密码或其他社交连接之前删除 %s"
+
+#, php-format
+msgid "Add an email or another social connection before deleting %s"
+msgstr "添加一个电子邮件或其他社交连接之前删除 %s"
+
+#, php-format
+msgid "%s has been disconnected."
+msgstr "%s 已断开."
+
+msgid "Test email from %s @ %t"
+msgstr "测试邮件来自 %s @ %t"
+
+msgid "This is just a test"
+msgstr "这只是一个测试"
+
+#, php-format
+msgid "Test email sent to %s."
+msgstr "测试邮件发送到 %s."
+
+#, php-format
+msgid "Downloading %s data"
+msgstr "正在下载 %s 数据"
+
+#, php-format
+msgid "%s %u followed"
+msgstr "%s %u 关注了"
+
+#, php-format
+msgid "%s %u unfollowed"
+msgstr "%s %u 取消关注"
+
+msgid "%s doesn't belong to this %t"
+msgstr "%s 不属于这个 %t"
+
+#, php-format
+msgid "%s cover updated"
+msgstr "%s 封面已更新"
+
+msgid "Content liked"
+msgstr "喜欢的内容"
+
+msgid "Content disliked"
+msgstr "不喜欢的内容"
+
+msgid "%u liked your %t %c"
+msgstr "%u 喜欢您的 %t %c"
+
+#, php-format
+msgid "%u is now following you"
+msgstr "%u 关注了您"
+
+msgid "A private user"
+msgstr "私人用户"
+
+msgid "Chevereto V%s license key used, required V%r or greater license key"
+msgstr "已使用 Chevereto V%s 许可证密钥，需要 V%r 或更高版本的许可证密钥"
+
+msgid "License key removed"
+msgstr "许可证密钥已删除"
+
+msgid "License key updated"
+msgstr "许可证密钥已更新"
+
+msgid "Wrong Username/Email password combination"
+msgstr "错误的用户名或密码"
+
+msgid "Sign in"
+msgstr "登录"
+
+msgid "Upload images"
+msgstr "上传图片"
+
+msgid "%t search results for %s"
+msgstr "%s 的 %t 个搜索结果"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Account"
+msgstr "账户"
+
+msgid "Profile"
+msgstr "个人资料"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Connections"
+msgstr "连接"
+
+msgid "Powered by"
+msgstr "致谢"
+
+#, php-format
+msgid "Invalid image expiration: %s"
+msgstr "无效的图片失效: %s"
+
+#, php-format
+msgid "An email has been sent to %s with instructions to activate this email"
+msgstr "一封电子邮件已发送至 %s，其中包含激活此电子邮件的说明"
+
+msgid "Invalid name"
+msgstr "无效的名称"
+
+msgid "Invalid website"
+msgstr "无效的网站"
+
+msgid "Spam detected"
+msgstr "垃圾邮件检测"
+
+msgid "Wrong password"
+msgstr "密码错误"
+
+msgid "Use a new password"
+msgstr "使用新的密码"
+
+msgid "Changes have been saved."
+msgstr "更改已保存."
+
+msgid "Password has been changed"
+msgstr "密码已更改"
+
+msgid "Password has been created."
+msgstr "密码已创建."
+
+msgid "Wrong Username/Email values"
+msgstr "错误的用户名或邮箱"
+
+#, php-format
+msgid "Settings for %s"
+msgstr "设置为 %s"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "用户"
+
+#, php-format
+msgid "Do you really want to delete this %s?"
+msgstr "您确定要删除 %s 吗？"
+
+msgid "This can't be undone."
+msgstr "此操作无法撤销。"
+
+msgid "Delete user"
+msgstr "删除用户"
+
+msgid "User ID"
+msgstr "用户ID"
+
+msgid "Images"
+msgstr "图片"
+
+msgid "Register date"
+msgstr "注册日期"
+
+msgid "You must agree to the terms and privacy policy"
+msgstr "您必须同意我们的服务条款和隐私政策"
+
+#, php-format
+msgid "You must be at least %s years old to use this website."
+msgstr "您必须年满 %s 周岁才能继续访问这个网站."
+
+msgid "Create account"
+msgstr "注册账户"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "%t by %s"
+msgstr "来自 %s 的 %t"
+
+msgid "Albums"
+msgstr "相册"
+
+#, php-format
+msgid "Liked by %s"
+msgstr "%s 的喜欢"
+
+msgid "Liked"
+msgstr "喜欢"
+
+msgid "%t followed by %s"
+msgstr "用户 %s 已关注 %t"
+
+msgid "%t following %s"
+msgstr "%t 关注 %s"
+
+msgid "Followers"
+msgstr "粉丝"
+
+#, php-format
+msgid "Search results for %s"
+msgstr "%s 的搜索结果"
+
+msgid "%n (%u) albums on %w"
+msgstr "%n (%u) 相册在 %w"
+
+msgid "%n (%u) on %w"
+msgstr "%n (%u) 在 %w"
+
+msgid "album"
+msgid_plural "albums"
+msgstr[0] "相册"
+
+msgid "Flooding detected. You can only upload %limit% %content% per %time%"
+msgstr "检测到洪水攻击。 您只能每 %time% 上传 %limit% %content%"
+
+msgid "Unnamed"
+msgstr "未命名"
+
+msgid "Note: This content is private but anyone with the link will be able to see this."
+msgstr "注意: 此内容是私密的，但任何人通过链接将能够看到它。"
+
+msgid "Note: This content is password protected. Remember to pass the content password to share."
+msgstr "注意: 此内容已使用密码保护，请通过密码来分享。"
+
+msgid "Note: This content is private. Change privacy to \"public\" to share."
+msgstr "注意: 此内容是私密的。若要分享，请更改隐私设置为“公开”。"
+
+msgid "Private"
+msgstr "仅注册用户"
+
+msgid "Public"
+msgstr "访客开放"
+
+msgid "Me"
+msgstr "我"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "CSAM content is forbidden"
+msgstr "禁止儿童色情内容"
+
+msgid "After %n %t"
+msgstr "经过 %n %t"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分钟"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "小时"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "天"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "周"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "月"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "年"
+
+msgid "Don't autodelete"
+msgstr "不自动删除"
+
+#, php-format
+msgid "Can't open %s for writing"
+msgstr "无法打开 %s 写入"
+
+msgid "Duplicated upload"
+msgstr "重复上传"
+
+msgid "Private upload"
+msgstr "私密（只有本人可见）"
+
+msgid "view"
+msgid_plural "views"
+msgstr[0] "次浏览"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "喜欢"
+
+msgid "Top"
+msgstr "顶部"
+
+msgid "Most recent"
+msgstr "最新的"
+
+msgid "Oldest"
+msgstr "最旧的"
+
+msgid "Most viewed"
+msgstr "最热门的"
+
+msgid "Most liked"
+msgstr "最喜欢的"
+
+msgid "People"
+msgstr "人"
+
+msgid "adult"
+msgstr "成人"
+
+msgid "teen"
+msgstr "青少年"
+
+#, php-format
+msgid "Content of type %s is forbidden"
+msgstr "禁止上传 %s 内容"
+
+#, php-format
+msgid "Can't create %s destination dir"
+msgstr "无法创建 %s 目标目录"
+
+msgid "Internal"
+msgstr "内部"
+
+#, javascript-format, php-format
+msgid "Storage capacity can't be lower than its current usage (%s)."
+msgstr "存储容量不能少于当前的使用情况（%s）。"
+
+msgid "Unlimited"
+msgstr "无限制"
+
+msgid "used"
+msgstr "已使用"
+
+msgid "Private profile"
+msgstr "私人档案"
+
+msgid "Share"
+msgstr "分享"
+
+#, php-format
+msgid "view on %s"
+msgstr "%s 已查看"
+
+msgid "cookie policy"
+msgstr "cookie 政策"
+
+#, php-format
+msgid "We use our own and third party cookies to improve your browsing experience and our services. If you continue using our website is understood that you accept this %cookie_policy_link."
+msgstr "我们使用我们自己的和第三方的 cookie 来改善您的浏览体验和我们的服务。如果您继续使用我们的网站，即表示您接受此 %cookie_policy_link。"
+
+msgid "I understand"
+msgstr "我明白"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "秒"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+msgid "moments ago"
+msgstr "刚刚"
+
+msgid "There is an update available for your system."
+msgstr "有适用于您的系統更新。"
+
+#, php-format
+msgid "Go to %s to download and install this update."
+msgstr "转到 %s 下载并安装此更新。"
+
+msgid "System database is outdated."
+msgstr "系统数据库已过期。"
+
+msgid "Update"
+msgstr "更新"
+
+#, php-format
+msgid "You need to %s."
+msgstr "你需要 %s。"
+
+msgid "Website is in maintenance mode."
+msgstr "网站正处于维护模式。"
+
+#, php-format
+msgid "To revert this setting go to %s."
+msgstr "要恢复此设置，请转到 %s。"
+
+#, php-format
+msgid "%s settings"
+msgstr "%s 设置"
+
+msgid "You haven't changed the default email settings. Go to %emailSettings% to fix this."
+msgstr "您没有更改默认电子邮件设置。 请转到 %emailSettings% 来解决这个问题。"
+
+msgid "Discovery"
+msgstr "发现"
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Advanced search"
+msgstr "高级搜索"
+
+#, php-format
+msgid "Notices (%s)"
+msgstr "通知 (%s)"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "loading"
+msgstr "正在加载"
+
+msgid "You don't have notifications"
+msgstr "您没有任何通知"
+
+msgid "My Profile"
+msgstr "我的图片"
+
+msgid "Palette"
+msgstr "调色板"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Manager"
+msgstr "管理"
+
+msgid "Sign out"
+msgstr "注销"
+
+msgid "You must enter the album name."
+msgstr "您必须输入相册名称."
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "The content has been approved."
+msgstr "内容已获批准。"
+
+msgid "Select existing album"
+msgstr "选择现有的相册"
+
+msgid "An error occurred. Please try again later."
+msgstr "发生错误。请稍后再试。"
+
+msgid "Please select a valid image file type."
+msgstr "请选择一个有效的图像文件类型。"
+
+#, javascript-format
+msgid "Please select a picture of at most %s size."
+msgstr "请选择最大 %s 的图像。"
+
+msgid "Profile image updated."
+msgstr "个人信息已更新。"
+
+msgid "Profile background image updated."
+msgstr "个人信息背景图片已更新。"
+
+msgid "Profile background image deleted."
+msgstr "个人信息背景图片已删除。"
+
+msgid "Error deleting profile background image."
+msgstr "删除个人信息的背景图片时出错。"
+
+#, javascript-format
+msgid "Chevereto v%s available"
+msgstr "Chevereto 有可用的新版本 v%s"
+
+msgid "There is a new Chevereto version available with the following release notes."
+msgstr "Chevereto 有了新版本，发布说明如下："
+
+#, javascript-format
+msgid "Check %s for a complete changelog since you last upgrade."
+msgstr "查看 %s 了解至上次升级后的完整更新日志。"
+
+msgid "documentation"
+msgstr "文档"
+
+#, javascript-format
+msgid "Check the %s for alternative update methods."
+msgstr "查看 %s 以了解其它更新方法。"
+
+#, javascript-format
+msgid "This website is running latest %s version"
+msgstr "本网站正在运行最新的 %s 版本"
+
+#, javascript-format
+msgid "Chevereto v%s installed"
+msgstr "Chevereto v%s 已安装"
+
+msgid "Usage of Chevereto Software must be in compliance with the software license terms known as \"The Chevereto License\"."
+msgstr "Chevereto 软件的使用必须遵守“The Chevereto License”软件许可条款。"
+
+msgid "License agreement"
+msgstr "许可协议"
+
+msgid "Please review the system requirements before proceeding"
+msgstr "请在继续之前查看系统要求"
+
+#, javascript-format, php-format
+msgid "Get a license at %s to unlock all features and support."
+msgstr "在 %s 获取许可证，即可解锁所有功能和支持。"
+
+msgid "You can enter your license key in the dashboard panel."
+msgstr "您可以在仪表盘面板中输入许可证密钥。"
+
+msgid "Enter license"
+msgstr "输入许可证"
+
+msgid "Create album"
+msgstr "创建相册"
+
+msgid "Approve"
+msgstr "批准"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Toggle flag"
+msgstr "标记或取消标记"
+
+msgid "Like"
+msgstr "喜欢"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Toggle select"
+msgstr "选中/取消选中"
+
+msgid "Zoom"
+msgstr "缩放"
+
+msgid "File too big."
+msgstr "文件过大。"
+
+msgid "Invalid or unsupported file format."
+msgstr "无效或不支持的文件格式。"
+
+msgid "Some files couldn't be added"
+msgstr "有些文件无法添加"
+
+msgid "Some files couldn't be loaded"
+msgstr "某些文件无法加载"
+
+msgid "file"
+msgid_plural "files"
+msgstr[0] "文件"
+
+#, javascript-format
+msgid "%s's Albums"
+msgstr "%s 的相册"
+
+msgid "File edited successfully."
+msgstr "文件编辑成功。"
+
+msgid "private"
+msgstr "私密"
+
+msgid "The content has been edited."
+msgstr "该内容已被编辑。"
+
+msgid "Invalid URL key."
+msgstr "无效的 URL Key。"
+
+msgid "Category URL key already being used."
+msgstr "此分类的 URL key 已被占用。"
+
+msgid "Category successfully deleted."
+msgstr "当前分类删除成功。"
+
+#, javascript-format
+msgid "Category %s added."
+msgstr "类别 %s 已增加。"
+
+msgid "Invalid expiration date."
+msgstr "无效的截止日期。"
+
+#, javascript-format
+msgid "IP %s already banned."
+msgstr "IP %s 已经被禁止访问。"
+
+#, javascript-format
+msgid "IP %s banned."
+msgstr "成功封禁IP %s。"
+
+msgid "IP ban successfully deleted."
+msgstr "IP 已从屏蔽列表中删除。"
+
+msgid "Please fill all the required fields."
+msgstr "请填写所有必填字段。"
+
+msgid "Invalid storage capacity value. Make sure to use a valid format."
+msgstr "无效的存储容量值。请务必使用一个有效的格式。"
+
+msgid "Invalid URL."
+msgstr "无效的 URL。"
+
+msgid "Storage successfully edited."
+msgstr "储存编辑成功。"
+
+#, javascript-format
+msgid "%s added successfully."
+msgstr "%s 添加成功。"
+
+msgid "The content has been deleted."
+msgstr "该图片已经被删除。"
+
+msgid "The content has been moved."
+msgstr "该图片已经被移动。"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Unselect"
+msgstr "取消选择"
+
+#, javascript-format
+msgid "Import ID %s removed"
+msgstr "导入任务 ID %s 已删除"
+
+msgid "All the changes that you have made will be lost if you continue."
+msgstr "如果您继续您所做的所有更改将丢失."
+
+msgid "Save changes"
+msgstr "保存修改"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Changes saved successfully."
+msgstr "成功保存更改."
+
+msgid "Go back to form"
+msgstr "返回表格"
+
+msgid "or"
+msgstr "或"
+
+msgid "continue anyway"
+msgstr "仍要继续"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "Saving"
+msgstr "保存"
+
+msgid "Sending"
+msgstr "发送中"
+
+msgid "Confirm action"
+msgstr "操作确认"
+
+msgid "information"
+msgstr "信息"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Right click"
+msgstr "右键点击"
+
+msgid "We received a request to change the email of your <a href=\"%u\">%n</a> account at %w."
+msgstr "我们收到了在 %w 更改 <a href=\"%u\">%n</a> 帐户电子邮件的要求."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your email</a>."
+msgstr "要完成此过程, 您必须 <a href=\"%s\">激活您的电子邮件</a> ."
+
+#, php-format
+msgid "Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s</a>"
+msgstr "另外, 您可以复制并粘贴网址到浏览器:<a href=\"%s\">%s</a>"
+
+msgid "If you didn't intend this just ignore this message."
+msgstr "如果您不打算注册或不是您注册的, 请忽略此消息."
+
+#, php-format
+msgid "This request was made from IP: %s"
+msgstr "请求注册用户的IP: %s"
+
+msgid "We received a request to register the %n account at %w."
+msgstr "您好, 我们收到了您在 %w 注册 %n 帐户的要求."
+
+#, php-format
+msgid "To complete the process you must <a href=\"%s\">activate your account</a>."
+msgstr "要完成此过程, 您必须<a href=\"%s\">激活您的帐户</a>."
+
+msgid "We received a request to reset the password for your <a href=\"%u\">%n</a> account."
+msgstr "我们收到的请求重置密码为您的 <a href=\"%u\">%n</a> 帐户."
+
+#, php-format
+msgid "To reset your password <a href=\"%s\">follow this link</a>."
+msgstr "要重置您的密码 <a href=\"%s\">请点击此链接</a> ."
+
+msgid "Hi %n, welcome to %w"
+msgstr "您好 %n, 欢迎光临 %w ."
+
+msgid "Now that your account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover."
+msgstr "现在, 您的帐户已准备就绪, 您可以上传您的图片, 创建相册并设置您的内容的私密性, 以及许多很酷的事情, 您会发现和享受."
+
+msgid "By the way, here is you very own awesome profile page: <a href=\"%u\">%n</a>. Go ahead and customize it, its yours!."
+msgstr "By the way, 这里是您自己的个人资料页: <a href=\"%u\">%n</a>. 来吧, 定制您的个人主页!"
+
+msgid "Thank you for joining"
+msgstr "感谢您的加入"
+
+msgid "This email was sent from %w %u"
+msgstr "这封电子邮件是由 %w  %u 发送"
+
+msgid "Drag and drop or paste files here to upload"
+msgstr "将文件拖放或粘贴到此处进行上传"
+
+msgid "Select the files to upload"
+msgstr "选择需要上传的文件"
+
+msgid "You can also %i or %u."
+msgstr "您也可以%i或者%u。"
+
+#, php-format
+msgid "You can also %s."
+msgstr "您也可以 %s."
+
+msgid "browse from your computer"
+msgstr "浏览您的计算机"
+
+msgid "add file URLs"
+msgstr "添加文件 URL"
+
+msgid "You can also %i, %c or %u."
+msgstr "您也可以%i,%c或者%u."
+
+msgid "You can also %i or %c."
+msgstr "您也可以 %i 或 %c。"
+
+msgid "browse from device"
+msgstr "浏览您的设备"
+
+msgid "use camera"
+msgstr "使用照相机"
+
+msgid "max"
+msgstr "最大"
+
+#, php-format
+msgid "Register to get %s"
+msgstr "注册之后可上传大小:%s"
+
+msgid "clicking"
+msgstr "点击"
+
+msgid "Customize upload by %action% on any preview"
+msgstr "在任何预览上 %action% 自定义上传"
+
+msgid "touching"
+msgstr "触摸"
+
+msgid "Uploading %q %o"
+msgstr "上传 %q %o"
+
+msgid "complete"
+msgstr "完成"
+
+msgid "The queue is being uploaded, it should take just a few seconds to complete."
+msgstr "队列上传中. 顷刻间便能完成."
+
+msgid "Upload complete"
+msgstr "上传完毕"
+
+#, php-format
+msgid "Uploaded content added to %s."
+msgstr "图片已经添加到 %s."
+
+msgid "You can %c with the content just uploaded or %m."
+msgstr "您可以将刚刚上传的图片 %c或 %m."
+
+#, php-format
+msgid "You can %c with the content just uploaded."
+msgstr "您可以将刚刚上传的图片 %c."
+
+#, php-format
+msgid "create new %s"
+msgstr "创建新的 %s"
+
+#, php-format
+msgid "move it to an existing %s"
+msgstr "将其移动到现有的 %s"
+
+msgid "You must %s or %l to save this content into your account."
+msgstr "您必须 %s 或 %l 才能将此内容保存到您的帐户中。"
+
+msgid "create an account"
+msgstr "注册账户"
+
+msgid "sign in"
+msgstr "登录"
+
+#, php-format
+msgid "No %s have been uploaded"
+msgstr "没有 %s被上传"
+
+msgid "Some errors have occurred and the system couldn't process your request."
+msgstr "发生了某些错误，系统无法处理您的请求。"
+
+msgid "category"
+msgstr "分类"
+
+#, php-format
+msgid "Select %s"
+msgstr "选择 %s"
+
+msgid "Auto delete"
+msgstr "自动删除"
+
+msgid "Sign up"
+msgstr "注册"
+
+#, php-format
+msgid "%s to be able to customize or disable image auto delete."
+msgstr "%s以自定义或防止图片被自动删除"
+
+msgid "Mark this if the upload is not family safe"
+msgstr "标记这个上传内容为不健康"
+
+msgid "Not family safe upload"
+msgstr "标记为不健康"
+
+msgid "Uploading"
+msgstr "上传"
+
+msgid "cancel remaining"
+msgstr "取消剩下的"
+
+msgid "Note: Some files couldn't be uploaded."
+msgstr "注意：部分文件无法上传。"
+
+msgid "learn more"
+msgstr "了解更多"
+
+msgid "Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report</a> for more information."
+msgstr "检查 <a data-modal=\"simple\" data-target=\"failed-upload-result\">错误报告</a> 更多信息."
+
+msgid "reset"
+msgstr "重置"
+
+msgid "Note"
+msgstr "通知"
+
+msgid "We must approve the uploaded content before being able to share."
+msgstr "我们必须对上传的内容进行严格审核，只有审核通过后的内容才能进行分享。"
+
+msgid "copy"
+msgstr "复制"
+
+msgid "insert"
+msgstr "插入"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "upload"
+msgstr "上传"
+
+#, php-format
+msgid "Edit %s"
+msgstr "编辑 %s"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "optional"
+msgstr "可选的"
+
+msgid "Resize image"
+msgstr "调整图像大小"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Note: Animated GIF images won't be resized."
+msgstr "注意: 动画GIF图像将不会被调整."
+
+msgid "Mark this if the image is not family safe"
+msgstr "标记这个图像为不健康"
+
+msgid "Flag as unsafe"
+msgstr "标记为不安全"
+
+msgid "Description"
+msgstr "描述"
+
+#, php-format
+msgid "Brief description of this %s"
+msgstr "此 %s 的简要说明"
+
+msgid "File URLs"
+msgstr "文件 URL"
+
+msgid "Add file URLs here"
+msgstr "在此处添加文件 URL"
+
+#, php-format
+msgid "Create %s"
+msgstr "创建 %s"
+
+msgid "The uploaded content will be moved to this newly created album."
+msgstr "上传的内容将被移动到新创建的相册。"
+
+msgid "You must %s or %l if you want to edit this album later on."
+msgstr "如果您想稍后编辑此相册，则必须为 %s 或 %l。"
+
+#, php-format
+msgid "Move to %s"
+msgstr "移动到 %s"
+
+msgid "Select an existing album to move the uploaded content."
+msgstr "把上传的内容移动到现有相册。"
+
+msgid "Error report"
+msgstr "错误报告"
+
+msgid "Viewer"
+msgstr "预览"
+
+#, php-format
+msgid "%s link"
+msgstr "%s 链接"
+
+msgid "Direct"
+msgstr "源文件"
+
+msgid "Frame"
+msgstr "框架"
+
+msgid "Thumbnail"
+msgstr "缩略图"
+
+msgid "Medium"
+msgstr "中等图片"
+
+msgid "embed"
+msgstr "嵌入代码"
+
+#, php-format
+msgid "%s full linked"
+msgstr "%s 完整图片（链接）"
+
+#, php-format
+msgid "%s medium linked"
+msgstr "%s 中等图片（链接）"
+
+#, php-format
+msgid "%s thumbnail linked"
+msgstr "%s 缩略图（链接）"
+
+#, php-format
+msgid "%s full"
+msgstr "%s 原图（链接）"
+
+msgid "All these words"
+msgstr "搜索全部关键字内容"
+
+msgid "Type the important words: tri-colour rat terrier"
+msgstr "按此格式码关键字: 风景 人物 摄影"
+
+msgid "This exact word or phrase"
+msgstr "精确搜索关键字（若关键字带空格请加双引号）"
+
+msgid "Put exact words in quotes: \"rat terrier\""
+msgstr "按此格式码关键字: \"风景 人物\""
+
+msgid "None of these words"
+msgstr "排除的关键字（若关键字带空格请加双引号）"
+
+msgid "Put a minus sign just before words you don't want: -rodent -\"Jack Russell\""
+msgstr "在关键字前加减号: -邓丽欣 -\"王 祖男\""
+
+msgid "Storage"
+msgstr "存储"
+
+msgid "IP address"
+msgstr "IP地址"
+
+msgid "Name"
+msgstr "名称"
+
+#, php-format
+msgid "Unnamed %s"
+msgstr "未命名 %s"
+
+msgid "Call to action"
+msgstr "行动号召"
+
+msgid "Enable call to action buttons"
+msgstr "启动行动号召按钮"
+
+#, php-format
+msgid "Call to action buttons will be displayed on the %s page and in content belonging to."
+msgstr "行动号召按钮将显示在 %s 页面以及子页面中。"
+
+msgid "You can use %emoji% or %package% icons."
+msgstr "您可以使用 %emoji% 或 %package% 图标。"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Buy now"
+msgstr "现在购买"
+
+msgid "Icon"
+msgstr "图标"
+
+msgid "Privacy"
+msgstr "隐私"
+
+msgid "Who can view this content"
+msgstr "谁可以看到"
+
+msgid "Private (just me)"
+msgstr "加密（只有我）"
+
+msgid "Private (anyone with the link)"
+msgstr "加密（通过相册链接可见）"
+
+msgid "Private (password protected)"
+msgstr "加密（密码访问, 包括您）"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Set password"
+msgstr "设置密码"
+
+#, php-format
+msgid "%s name"
+msgstr "%s 名字"
+
+msgid "URL key"
+msgstr "链接 key"
+
+#, php-format
+msgid "%s URL key"
+msgstr "%s 链接key"
+
+msgid "Only letters, numbers, and hyphens"
+msgstr "只允许字母, 数字和字符"
+
+#, php-format
+msgid "Untitled %s"
+msgstr "未命名 %s"
+
+msgid "Mark this if the image is not safe for work"
+msgstr "如果图像不安全(NSFW)，请在此标记。"
+
+msgid "Flag not safe"
+msgstr "标记不安全"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Local path (absolute)"
+msgstr "本地路径（绝对）"
+
+msgid "Directory structure"
+msgstr "目录结构"
+
+msgid "Parse top level folders as users (username)"
+msgstr "将顶级文件夹解析为用户（用户名）"
+
+msgid "Parse top level folders as albums"
+msgstr "将顶级文件夹解析为相册"
+
+msgid "Don't parse folders"
+msgstr "不要解析文件夹"
+
+msgid "When parsing top level folders as users, second level folders will be parsed as user albums. Parsing top level folders as albums adds these as guest albums."
+msgstr "将顶级文件夹解析为用户时，第二级文件夹将被解析为用户相册。 将顶级文件夹解析为相册会将这些文件夹添加为访客相册。"
+
+msgid "Threads"
+msgstr "线程"
+
+msgid "Select number of threads"
+msgstr "选择线程数"
+
+#, php-format
+msgid "This determines how intensive and fast will be the import process. Don't use more than %s threads on a shared server."
+msgstr "这决定了导入过程的密集程度和速度。不要在共享服务器上使用超过 %s 的线程。"
+
+msgid "You can use wildcard * characters."
+msgstr "您可以使用通配符 * 符号."
+
+msgid "Expiration date"
+msgstr "截止日期"
+
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "YYYY-MM-DD HH:MM:SS（例如: 2015-02-09 18:00:00）"
+
+msgid "Example"
+msgstr "例如"
+
+msgid "Until which date this IP address will be banned? Leave it empty for no expiration."
+msgstr "禁止IP到此日期? 留空则永久禁止."
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Text message, HTML or a redirect URL"
+msgstr "文本消息, HTML或重定向URL"
+
+msgid "API"
+msgstr "API"
+
+msgid "Storage name"
+msgstr "存储名称"
+
+msgid "This is for the old deprecated B2 API. For new buckets you have to use S3 Compatible API."
+msgstr "这是针对旧的已弃用的 B2 API。对于新存储桶，您必须使用 S3 兼容 API。"
+
+msgid "Region"
+msgstr "区域"
+
+msgid "Storage region"
+msgstr "存储区域"
+
+msgid "Storage bucket"
+msgstr "储存桶"
+
+msgid "Key"
+msgstr "访问密钥 ID"
+
+msgid "Storage key"
+msgstr "储存钥匙"
+
+msgid "Secret"
+msgstr "私有访问密钥"
+
+msgid "Storage secret"
+msgstr "存储秘密"
+
+msgid "Private key"
+msgstr "私钥(Private key)"
+
+msgid "Google Cloud JSON key"
+msgstr "谷歌云 JSON key"
+
+#, php-format
+msgid "You will need a <a %s>service account</a> for this."
+msgstr "您需要一个 <a %s>服务帐户</a> ."
+
+msgid "Service name"
+msgstr "服务名称"
+
+msgid "Identity URL"
+msgstr "身份网址"
+
+msgid "Identity API endpoint"
+msgstr "身份API端点"
+
+msgid "API endpoint for OpenStack identity"
+msgstr "对于OpenStack的身份API端点"
+
+msgid "Container"
+msgstr "容器"
+
+msgid "Storage container"
+msgstr "存储容器"
+
+msgid "Tenant id"
+msgstr "Tenant ID"
+
+msgid "Tenant id (account id)"
+msgstr "Tenant id（用户id）"
+
+msgid "Tenant name"
+msgstr "租户姓名"
+
+msgid "Tenant name (account name)"
+msgstr "Tenant name（用户名）"
+
+msgid "Storage endpoint"
+msgstr "存储端点"
+
+msgid "Server address"
+msgstr "服务器地址"
+
+msgid "Hostname or IP of the storage server"
+msgstr "存储服务器主机名或IP"
+
+msgid "Server path"
+msgstr "服务器路径"
+
+msgid "Absolute path where the files will be stored in the context of the %p login. Use %s for root path."
+msgstr "绝对路径存储在 %p 登录中，使用 %s 将其设置为根路径。"
+
+msgid "Server login"
+msgstr "服务器登录"
+
+msgid "Server password"
+msgstr "服务器密码"
+
+msgid "Local path"
+msgstr "本地路径"
+
+msgid "Local path where the files will be stored"
+msgstr "将存储文件的本地路径"
+
+msgid "Storage capacity"
+msgstr "存储容量"
+
+msgid "Example: 20 GB, 1 TB, etc."
+msgstr "例如: 20 GB, 1 TB, 等."
+
+msgid "This storage will be disabled when it reach this capacity. Leave it blank or zero for no limit."
+msgstr "存储达到该值时将被禁用. 留空则不限制."
+
+msgid "Storage URL"
+msgstr "存储URL"
+
+msgid "The system will map the images of this storage to this URL."
+msgstr "该系统将存储的图像映射到该URL."
+
+msgid "Enabled types"
+msgstr "已启用的文件类型"
+
+msgid "The storage will be used only for selected types."
+msgstr "该存储空间将仅用于您选定的文件类型。"
+
+msgid "view more"
+msgstr "查看更多"
+
+msgid "Load more"
+msgstr "加载更多"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Get embed codes"
+msgstr "获取嵌入代码"
+
+#, php-format
+msgid "Assign %s"
+msgstr "分配 %s"
+
+msgid "Flag as safe"
+msgstr "标记为安全"
+
+msgid "Select all"
+msgstr "选择所有"
+
+msgid "Clear selection"
+msgstr "清除所选的"
+
+#, php-format
+msgid "Create new %s"
+msgstr "新建 %s"
+
+#, php-format
+msgid "sub %s"
+msgstr "子 %s"
+
+msgid "Sign in with another account"
+msgstr "登录您的帐户"
+
+msgid "Sign in with %label%"
+msgstr "使用 %label% 登录"
+
+msgid "There's nothing to show here."
+msgstr "没有要显示的内容"
+
+msgid "Selection will be assigned to %t."
+msgstr "选择的图片将会分到此%t"
+
+msgid "There is no categories."
+msgstr "没有此分类."
+
+msgid "Confirm flag content as safe"
+msgstr "确认标记内容为安全"
+
+msgid "Do you really want to flag this content as safe?"
+msgstr "您真的要标记这个内容为安全的?"
+
+msgid "Confirm flag content as unsafe"
+msgstr "确认标记内容为不安全"
+
+msgid "Do you really want to flag this content as unsafe?"
+msgstr "您真的要标记这个内容为不安全?"
+
+msgid "Confirm approval"
+msgstr "确认批准"
+
+msgid "Do you really want to approve this content?"
+msgstr "你确定要批准此内容?"
+
+msgid "Confirm deletion"
+msgstr "确认删除"
+
+msgid "Do you really want to remove this content?"
+msgstr "你确定要移除此内容？"
+
+msgid "Do you really want to approve all the selected content?"
+msgstr "你确定要批准所有选定的内容吗？"
+
+msgid "Do you really want to remove all the selected content?"
+msgstr "你确定要移除所有选定的内容吗？"
+
+msgid "Guest"
+msgstr "访客"
+
+msgid "Private album"
+msgstr "私人相册"
+
+msgid "Password protected"
+msgstr "密码保护"
+
+msgid "Uploaded by guest"
+msgstr "来自访客"
+
+msgid "Uploaded by private"
+msgstr "由私人上传"
+
+#, php-format
+msgid "by %u"
+msgstr "来自 %u"
+
+msgid "Toggle unsafe flag"
+msgstr "切换不安全标记"
+
+msgid "You either don't have permission to access this page or the link has expired."
+msgstr "您没有权限访问此网页或链接已过期."
+
+msgid "Go to homepage"
+msgstr "转到主页"
+
+msgid "The requested page was not found."
+msgstr "所请求的页面不存在"
+
+msgid "The user has been deleted"
+msgstr "用户已被删除"
+
+msgid "Your account is almost ready"
+msgstr "您的账号已经准备好"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "已向 %s 发送了一封电子邮件，其中包含激活您帐户的说明。激活链接仅在 48 小时内有效。如果您没有收到说明，请尝试检查您的垃圾邮件或垃圾邮件过滤器。"
+
+msgid "Resend activation"
+msgstr "重新激活"
+
+#, php-format
+msgid "You have successfully changed your account email to %s"
+msgstr "您已成功改变了您的帐户的电子邮件 %s"
+
+msgid "Go to my profile"
+msgstr "去我的图片"
+
+msgid "A confirmation link will be sent to this email with details to activate your account."
+msgstr "确认链接将被发送到这个邮箱, 详情请登录邮箱并激活您的帐户."
+
+msgid "Your email address"
+msgstr "您的电子邮件地址"
+
+msgid "An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "一封包含重置密码说明的电子邮件已发送到注册的电子邮件地址。如果您没有收到说明，请尝试检查您的垃圾邮件或垃圾邮件过滤器。"
+
+msgid "A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters."
+msgstr "之前的电子邮件已发送，其中包含重置密码的说明。如果您没有收到说明，请尝试检查您的垃圾邮件或垃圾邮件过滤器。"
+
+msgid "Resend instructions"
+msgstr "重新发送"
+
+#, php-format
+msgid "Enter your username or email address to continue. You may need to check your spam folder or whitelist %s"
+msgstr "输入您的用户名或者电子邮箱地址后提交，您可能需要检查垃圾邮件文件夹或将 %s 添加到白名单"
+
+msgid "Username or Email address"
+msgstr "用户名或电子邮件地址"
+
+msgid "Your password has been changed. You can now try logging in using your new password."
+msgstr "您的密码已被更改. 现在, 您可以尝试使用您的新密码登录."
+
+msgid "Login now"
+msgstr "现在登录"
+
+msgid "Enter your new password"
+msgstr "请输入您的新密码"
+
+#, php-format
+msgid "%d characters min"
+msgstr "最少 %d 个字符"
+
+msgid "Password strength"
+msgstr "密码强度"
+
+msgid "Re-enter your new password"
+msgstr "请再次输入新的密码"
+
+#, php-format
+msgid "An email to %s has been sent with instructions to activate your account. If you don't receive the instructions try checking your junk or spam filters."
+msgstr "已向 %s 发送了一封电子邮件，其中包含激活您帐户的说明。如果您没有收到说明，请尝试检查您的垃圾邮件或垃圾邮件过滤器。"
+
+msgid "Unable to authenticate?"
+msgstr "无法验证？"
+
+msgid "If you lost your authentication device you must contact the system administrator."
+msgstr "如果您丢失了身份验证设备您必须联系系统管理员。"
+
+msgid "Enter the security code from your authenticator app."
+msgstr "从您的身份验证器应用程序输入安全代码。"
+
+msgid "Security code"
+msgstr "安全码"
+
+msgid "Sub album"
+msgstr "子相册"
+
+msgid "Do you really want to delete this %a and all of its %i?"
+msgstr "你确定要删除此 %a 及其所有 %i 吗？"
+
+msgid "Upload to album"
+msgstr "上传到相册"
+
+msgid "You like this"
+msgstr "您喜欢它"
+
+msgid "This content is private"
+msgstr "此内容是私有的"
+
+msgid "Please read and comply with the following conditions before you continue:"
+msgstr "请阅读并遵守以下条件, 然后再继续:"
+
+#, php-format
+msgid "This website contains information, links and images of sexually explicit material. If you are under the age of %s, if such material offends you or if it's illegal to view such material in your community please do not continue.\n\nI am at least %s years of age and I believe that as an adult it is my inalienable right to receive/view sexually explicit material. I desire to receive/view sexually explicit material. \n\nI believe that sexual acts between consenting adults are neither offensive nor obscene. The viewing, reading and downloading of sexually explicit materials does not violate the standards of my community, town, city, state or country.\n\nThe sexually explicit material I am viewing is for my own personal use and I will not expose minors to the material.\n\nI am solely responsible for any false disclosures or legal ramifications of viewing, reading or downloading any material in this site. Furthermore this website nor its affiliates will be held responsible for any legal ramifications arising from fraudulent entry into or use of this website.\n\nThis consent screen constitutes a legal agreement between this website and you and/or any business in which you have any legal or equitable interest. If any portion of this agreement is deemed unenforceable by a court of competent jurisdiction it shall not affect the enforceability of the other portions of the agreement."
+msgstr "本网站所包含的信息, 链接和色情内容的图像. 如果您是 %s 岁以下, 如果这种材料冒犯您, 或者如果在您的地区查看这些材料是违法的, 请不要继续访问.\n\n我已年满 %s 周岁, 我相信, 作为一个成年人, 这是我收到/浏览色情材料不可剥夺的权利. 我希望接收/观看色情材料.\n\n我相信, 同意的成年人之间的性行为既不进攻也不色情. 的露骨色情内容的浏览, 阅读和下载不违反我的地区, 镇, 市, 州或国家标准.\n\n我已观看的色情材料仅是我个人的使用, 我不会传播未成年人的材料.\n\n我为任何虚假信息或浏览, 阅读或在本网站下载任何材料的法律后果承担全部责任. 此外, 该网站及其分支机构将负责从欺诈性进入或使用本网站所产生的任何法律后果.\n\n此同意画面构成了这个网站, 您或您有任何法律或衡平法权益的任何商业之间的法律协议. 如果本协议的任何部分被视为无效由有管辖权的法院不得影响该协议的其他部分的可执行性."
+
+msgid "By clicking in \"I Agree\" you declare that you have read and understood all the conditions mentioned above."
+msgstr "通过点击\"我同意\", 您可声明自己已阅读并理解上述的所有条件."
+
+msgid "I Agree"
+msgstr "我同意"
+
+#, php-format
+msgid "Learn about %s at our %d."
+msgstr "了解关于 %s 在我们的 %d."
+
+msgid "Check the errors to proceed."
+msgstr "请检查错误并继续."
+
+msgid "Queued"
+msgstr "排队"
+
+msgid "Working"
+msgstr "工作"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "Canceled"
+msgstr "取消"
+
+msgid "Completed"
+msgstr "已完成"
+
+#, php-format
+msgid "Top level folders as %s"
+msgstr "顶级文件夹为 %s"
+
+msgid "Process"
+msgstr "处理"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Process log"
+msgstr "进程日志"
+
+msgid "Errors"
+msgstr "错误"
+
+#, php-format
+msgid "Do you really want to remove the import ID %s?"
+msgstr "您真的要要删除导入ID：%s ？"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Resume"
+msgstr "恢复"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Run the following command to import content to Chevereto:"
+msgstr "运行以下命令将内容导入 Chevereto："
+
+#, php-format
+msgid "Read the %s for more information about this feature."
+msgstr "阅读 %s 以了解有关此功能的更多信息。"
+
+msgid "Single profile"
+msgstr "单一配置文件"
+
+#, php-format
+msgid "This setting is always disabled when using %s website mode."
+msgstr "使用 %s 网站模式时始终禁用此设置."
+
+#, php-format
+msgid "%s won't work when the explorer feature is turned off."
+msgstr "当探索功能关闭时,%s 将无法工作,"
+
+msgid "Dashboard > Settings > Website"
+msgstr "仪表盘 > 设置 > 网站"
+
+#, php-format
+msgid "Do you really want to delete %s?"
+msgstr "你确定要删除 %s吗？"
+
+msgid "Shows a consent screen before accessing the website. Useful for adult content websites where minors shouldn't be allowed."
+msgstr "在访问网站之前显示屏幕的一个同意. 对于成人内容的网站,不应该让未成年人浏览."
+
+msgid "Enable consent screen"
+msgstr "启用网站内容警告"
+
+msgid "Consent screen cover image"
+msgstr "内容警告背景图片"
+
+msgid "Show not safe content in listings"
+msgstr "在列表中显示不安全内容(NSFW)"
+
+msgid "Enable this if you want to show not safe content in listings."
+msgstr "如果你想在列表中显示不安全的内容，请启用此选项。"
+
+msgid "Can be overridden by user own settings."
+msgstr "可以被用户自己的设置覆盖。"
+
+msgid "This setting doesn't affect administrators."
+msgstr "此设置不影响管理员。"
+
+msgid "Blur NSFW content in listings"
+msgstr "在列表中模糊显示NSFW内容"
+
+msgid "Enable this if you want to apply a blur effect on the NSFW images in listings."
+msgstr "如果您想对列表中的NSFW图片应用高斯模糊效果，请启用此功能。"
+
+msgid "Show not safe content in random mode"
+msgstr "在随机模式显示标记为不安全内容"
+
+msgid "Show banners in not safe content"
+msgstr "在不安全的内容中显示横幅广告"
+
+msgid "Enable this if you want to show banners in not safe content pages."
+msgstr "如果您想在不安全的内容页面中显示横幅广告，请启用此功能。"
+
+#, php-format
+msgid "Lock %s editing"
+msgstr "锁定 %s 编辑"
+
+msgid "Enable this to prevent users from changing the NSFW flag. When enabled, only admin and managers will have this permission."
+msgstr "启用此功能可防止用户更改NSFW标志。启用后，只有管理员和管理有此权限。"
+
+msgid "Stop words"
+msgstr "屏蔽词"
+
+msgid "One rule per line"
+msgstr "每行一条规则"
+
+msgid "Define words that won't be allowed for content."
+msgstr "定义内容中不允许使用的词汇。"
+
+msgid "Cookie law compliance"
+msgstr "Cookie的法律法规"
+
+msgid "Enable this to display a message that complies with the EU Cookie law requirements. Note: You only need this if your website is hosted in the EU and if you add tracking cookies."
+msgstr "启用它, 显示一条消息, 符合欧盟的Cookie法律的要求. 注意: 您只需要这个, 如果您的网站托管在欧盟, 如果您添加跟踪Cookie."
+
+msgid "email delivery"
+msgstr "电子邮件发送"
+
+msgid "Don't forget to test %t at %s"
+msgstr "请不要忘记在 %s测试 %t"
+
+msgid "From name"
+msgstr "发送名称"
+
+msgid "Sender name for emails sent to users."
+msgstr "接收到邮件显示的发送人名称"
+
+msgid "From email address"
+msgstr "发件人的电子邮箱地址"
+
+msgid "Sender email for emails sent to users."
+msgstr "在收件人处显示的发件人邮箱"
+
+msgid "Incoming email address"
+msgstr "收信电子邮箱地址"
+
+msgid "Recipient for contact form and system alerts."
+msgstr "联系表单和系统警告的收件人"
+
+msgid "Email mode"
+msgstr "发送邮件的方式"
+
+msgid "How to send emails? SMTP recommended."
+msgstr "如何发送邮件? 推荐使用SMTP."
+
+msgid "SMTP server and port"
+msgstr "SMTP服务器与端口"
+
+msgid "SMTP server"
+msgstr "SMTP服务器"
+
+msgid "SMTP username"
+msgstr "SMTP用户名"
+
+msgid "SMTP password"
+msgstr "SMTP密码"
+
+msgid "SMTP security"
+msgstr "SMTP安全"
+
+msgid "Unsecured"
+msgstr "不使用任何安全模式"
+
+msgid "Comments API"
+msgstr "评论 API"
+
+#, php-format
+msgid "Disqus API works with %s."
+msgstr "Disqus API 适用于 %s."
+
+msgid "Disqus shortname"
+msgstr "Disqus 短名称"
+
+#, php-format
+msgid "%s secret key"
+msgstr "%s 密钥"
+
+#, php-format
+msgid "%s public key"
+msgstr "%s 公共密钥"
+
+msgid "Comment code"
+msgstr "评论代码"
+
+msgid "Disqus, Facebook or anything you want. It will be used in image view."
+msgstr "DISQUS, Facebook或其他. 它将在图像视图中使用."
+
+msgid "Analytics code"
+msgstr "Analytics（分析）代码"
+
+msgid "Google Analytics or anything you want. It will be added to the theme footer."
+msgstr "谷歌Analytics（分析）或其他. 它将被添加到主题页脚."
+
+#, php-format
+msgid "%s spam protection"
+msgstr "%s 垃圾邮件保护"
+
+msgid "user generated content"
+msgstr "用户生成内容"
+
+msgid "Enable this to use %l to block spam on %c."
+msgstr "启用 %l 来阻止 %c 中的垃圾邮件。"
+
+#, php-format
+msgid "%s API key"
+msgstr "%s API 密钥"
+
+msgid "user signup"
+msgstr "用户注册"
+
+#, php-format
+msgid "%s site key"
+msgstr "%s 站点密钥"
+
+#, php-format
+msgid "%s threshold"
+msgstr "%s 阈值"
+
+msgid "How many failed attempts are needed to ask for CAPTCHA? Use zero (0) to always show CAPTCHA."
+msgstr "多少次失败尝试后要求验证码？ 使用零 (0) 始终需要验证码。"
+
+#, php-format
+msgid "Force %s on contact page"
+msgstr "在联系页面强制开启 %s"
+
+#, php-format
+msgid "Enable this to always show %s on contact page."
+msgstr "启用此选项可始终在联系人页面上显示 %s 。"
+
+#, php-format
+msgid "Use %s to combat child sexual abuse material (CSAM)."
+msgstr "使用 %s 打击儿童性虐待材料 (CSAM)。"
+
+#, php-format
+msgid "Automatically moderate the content using the %s service."
+msgstr "使用 %s 服务来自动审核上传的图片。"
+
+msgid "Automatic approve"
+msgstr "自动审核"
+
+msgid "Enable this to automatically approve content moderated by this service."
+msgstr "启用此功能可自动审核本服务管理的所有内容。"
+
+msgid "Block content"
+msgstr "屏蔽内容"
+
+msgid "Adult"
+msgstr "成人"
+
+msgid "Teen and adult"
+msgstr "青少年和成人"
+
+msgid "Flag NSFW"
+msgstr "标记 NSFW"
+
+msgid "Twitter account"
+msgstr "Twitter账号"
+
+msgid "Toggle this to enable or disable HTTPS"
+msgstr "切换此启用或禁用HTTPS链接"
+
+msgid "Toggle this to enable or disable this storage"
+msgstr "切换此启用或禁用此存储"
+
+msgid "Quota"
+msgstr "配额"
+
+msgid "Active"
+msgstr "活动"
+
+msgid "Storage method"
+msgstr "存储方法"
+
+msgid "Disk used"
+msgstr "已用大小"
+
+msgid "Local storage is used by default or when no external storage is active."
+msgstr "默认情况下使用本地存储, 或在外部存储没有处于激活状态."
+
+msgid "storage"
+msgstr "存储"
+
+msgid "Enabled file extensions"
+msgstr "已启用的文件扩展名"
+
+msgid "Unsupported in your server"
+msgstr "您的服务器不支持"
+
+msgid "Only checked file extensions will be allowed to be uploaded."
+msgstr "只允许上传已选中的文件扩展名。"
+
+msgid "Enable uploads"
+msgstr "启用上传"
+
+#, php-format
+msgid "Enable this if you want to allow %s uploads."
+msgstr "如果您想允许 %s 上传，请启用此选项。"
+
+msgid "Enable this if you want to allow file upload from URLs."
+msgstr "如果您想允许从 URL 上传文件，请启用此选项。"
+
+msgid "Note that enabling this will expose your server IP."
+msgstr "请注意，启用此功能将暴露您的服务器 IP。"
+
+msgid "This feature is available only for administrators."
+msgstr "此功能仅供管理员使用。"
+
+msgid "Upload user interface"
+msgstr "上传用户界面"
+
+msgid "On-page container"
+msgstr "页面容器"
+
+msgid "route"
+msgstr "路由"
+
+msgid "Guest uploads"
+msgstr "访客（不需注册）上传"
+
+msgid "Enable this if you want to allow non registered users to upload."
+msgstr "启用它则允许未注册的用户上传图片"
+
+msgid "Moderate uploads"
+msgstr "上传审核"
+
+msgid "Enable this to moderate incoming uploads. Target content will require moderation for approval."
+msgstr "启用后，需要对上传内容进行审核。目标内容被通过审核后才会予以展示。"
+
+msgid "Enable embed codes (uploader)"
+msgstr "启用嵌入代码（上传者）"
+
+msgid "Enable this if you want to show embed codes when upload gets completed."
+msgstr "如果您想图片上传完成后显示嵌入代码请启用这个功能."
+
+msgid "Upload threads"
+msgstr "上传线程"
+
+msgid "Number of simultaneous upload threads (parallel uploads)"
+msgstr "最大同时上传的线程数(并行上传)"
+
+msgid "Redirect on single upload"
+msgstr "单张图片上传跳转"
+
+msgid "Enable this if you want to redirect to file viewer on single upload."
+msgstr "如果想在上传单个文件后自动跳转到该文件浏览页面，请启用此选项。"
+
+msgid "Enable duplicate uploads"
+msgstr "启用重复上传"
+
+msgid "Enable this if you want to allow duplicate uploads from the same IP within 24hrs."
+msgstr "如果你希望允许同一IP在24小时内重复上传，请启用此选项。"
+
+msgid "Enable expirable uploads"
+msgstr "启用可过期上传"
+
+msgid "Enable this if you want to allow uploads with an automatic delete option."
+msgstr "如果您想允许上传与自动删除选项启用它."
+
+msgid "Auto delete guest uploads"
+msgstr "自动删除访客图片"
+
+msgid "Enable this if you want to force guest uploads to be auto deleted after certain time."
+msgstr "如果要强制访客上传的图片在某段时间后自动删除，请启用此功能."
+
+msgid "Maximum image size"
+msgstr "最大图片大小"
+
+msgid "Images greater than this size will get automatically downsized. Use zero (0) to don't set a limit."
+msgstr "大于此尺寸的图片将自动缩小尺寸.默认(0)则不设置限制."
+
+msgid "Image Exif data"
+msgstr "图像的Exif数据"
+
+msgid "Keep"
+msgstr "保留"
+
+#, php-format
+msgid "Select the default setting for image <a %s>Exif data</a> on upload."
+msgstr "选择默认的图片 <a %s>Exif数据</a> 上传."
+
+msgid "Image Exif data (user setting)"
+msgstr "图像的Exif数据（用户设定）"
+
+msgid "Enable this if you want to allow each user to configure how image Exif data will be handled."
+msgstr "启用它, 如果您允许每个用户设置是否删除图像的Exif数据."
+
+msgid "Maximum upload file size"
+msgstr "最大上传文件大小（MB）"
+
+msgid "Maximum size allowed by server is %s. This limit is capped by %u and %p (%f values)."
+msgstr "服务器最大允许上传%s.因为参数%u和%p(文件:%f)"
+
+msgid "guests"
+msgstr "游客"
+
+#, php-format
+msgid "Same as \"%s\" but for guests."
+msgstr "跟\"%s\"一样，限制游客上传的最大文件大小."
+
+msgid "File path"
+msgstr "文件路径"
+
+msgid "Relative to Chevereto root"
+msgstr "相对于Chevereto的root"
+
+msgid "Where to store the uploaded files? Relative to Chevereto root."
+msgstr "上传的文件存放在哪里？相对于 Chevereto 根目录。"
+
+msgid "Storage mode"
+msgstr "存储方式"
+
+msgid "Datefolders"
+msgstr "日期文件夹"
+
+#, php-format
+msgid "Datefolders creates %s structure"
+msgstr "日期文件夹创建 %s 结构"
+
+msgid "File naming method"
+msgstr "文件的命名格式"
+
+msgid "Original"
+msgstr "原始的"
+
+msgid "Mix original + random"
+msgstr "原始的 + 随机"
+
+msgid "\"Original\" will try to keep the file source name while \"Random\" will generate a random name. \"ID\" will name the file just like the file ID."
+msgstr "“原始 ”会尽量保留文件的源文件名，而 “随机 ”则会生成一个随机文件名，“ID ”将按照文件 ID 命名文件。"
+
+msgid "Thumb size"
+msgstr "缩略图大小"
+
+msgid "Thumbnails will be fixed to this size."
+msgstr "固定大小的缩略图"
+
+msgid "Medium image fixed dimension"
+msgstr "中等图片尺寸固定"
+
+msgid "Medium sized images will be fixed to this dimension. For example, if you select \"width\" that dimension will be fixed and image height will be automatically calculated."
+msgstr "中等图像将被固定至此分辨率. 例如, 如果您选择\"宽度\", 这方面将是固定的, 图像的高度将自动计算."
+
+msgid "Medium image fixed size"
+msgstr "中等图片大小固定"
+
+msgid "Width or height will be automatically calculated."
+msgstr "宽度或高度将自动计算."
+
+msgid "Block file uploads by IP if the system notice a flood behavior based on the number of uploads per time period."
+msgstr "系统将根据每个时间段内的文件上传数量及时发现泛洪行为，并阻止该 IP 继续上传文件。"
+
+msgid "Notify to email"
+msgstr "以电子邮件通知"
+
+msgid "If enabled the system will send an email on flood incidents."
+msgstr "发现洪水攻击后系统自动发送电子邮件."
+
+msgid "Minute limit"
+msgstr "每分钟的限额"
+
+msgid "Hourly limit"
+msgstr "每小时的限额"
+
+msgid "Daily limit"
+msgstr "每日的限额"
+
+msgid "Weekly limit"
+msgstr "每周的限额"
+
+msgid "Monthly limit"
+msgstr "每月的限额"
+
+msgid "Public API key"
+msgstr "公共 API 密钥"
+
+msgid "This key is for guest usage."
+msgstr "此密钥供访客使用。"
+
+#, php-format
+msgid "Check the %s documentation."
+msgstr "查看 %s 文档"
+
+msgid "Style"
+msgstr "样式"
+
+msgid "Landing page"
+msgstr "仅显示上传按钮"
+
+msgid "Split landing + images"
+msgstr "上传按钮 + 最新图片"
+
+msgid "explore"
+msgstr "探索"
+
+#, php-format
+msgid "Route %s"
+msgstr "路径 %s"
+
+#, php-format
+msgid "Select the homepage style. To customize it further edit app/themes/%s/views/index.php"
+msgstr "选择主页风格. 详细定制主页编辑此 app/themes/%s/views/index.php"
+
+msgid "Cover image"
+msgstr "封面图片"
+
+msgid "Do you really want to delete?"
+msgstr "你确定要删除吗？"
+
+#, php-format
+msgid "Delete %s"
+msgstr "删除 %s"
+
+msgid "Add new cover image"
+msgstr "添加新的封面图片"
+
+#, php-format
+msgid "This will be added inside the homepage %s tag. Leave it blank to use the default contents."
+msgstr "这将被添加在主页 %s 标记. 保持空白以使用默认内容."
+
+msgid "Paragraph"
+msgstr "段落"
+
+msgid "Call to action button color"
+msgstr "“开始上传”按钮的颜色"
+
+msgid "Blue"
+msgstr "蓝"
+
+msgid "Green"
+msgstr "绿"
+
+msgid "Orange"
+msgstr "橙"
+
+msgid "Red"
+msgstr "红"
+
+msgid "Grey"
+msgstr "灰"
+
+msgid "Black"
+msgstr "黑"
+
+msgid "White"
+msgstr "白"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Color of the homepage call to action button."
+msgstr "请选择“开始上传”按钮的颜色."
+
+msgid "Call to action outline style button"
+msgstr "主页“开始上传”按钮的背景透明"
+
+msgid "Enable this to use outline style for the homepage call to action button."
+msgstr "启用它, 则“开始上传”按钮的背景颜色改为透明样式."
+
+msgid "Call to action functionality"
+msgstr "按钮功能"
+
+msgid "Trigger uploader"
+msgstr "触发上传"
+
+msgid "Open URL"
+msgstr "打开网址"
+
+msgid "Call to action URL"
+msgstr "按钮网址"
+
+msgid "Enter an absolute or relative URL"
+msgstr "输入一个绝对或相对URL网址"
+
+msgid "A relative URL like %r will be mapped to %l"
+msgstr "这样一个相对URL网址 %r 将映射到 %l"
+
+msgid "Call to action HTML"
+msgstr "按钮HTML代码"
+
+msgid "This will be added inside the call to action <a> tag. Leave it blank to use the default contents."
+msgstr "这将被添加在按钮 <a> 标记. 保持空白以使用默认内容."
+
+msgid "User IDs"
+msgstr "用户 ID"
+
+msgid "Empty"
+msgstr "空"
+
+#, php-format
+msgid "Your user id is: %s"
+msgstr "您的用户ID是: %s"
+
+msgid "Comma-separated list of target user IDs (integers) to show most recent images on homepage. Leave it empty to display trending images."
+msgstr "指定的用户ID显示在主页最新图片上, 多个用户用逗号分隔. 留空则显示所有全站最新的图片."
+
+msgid "Expires"
+msgstr "到期"
+
+#, php-format
+msgid "Do you really want to remove the ban to the IP %s?"
+msgstr "你确定要取消对IP %s的封禁吗？"
+
+msgid "Banned IP address will be forbidden to use the entire website."
+msgstr "被禁止的IP地址将禁止使用整个网站."
+
+msgid "Default language"
+msgstr "默认语言"
+
+msgid "Default base language to use."
+msgstr "默认基本语言"
+
+msgid "Auto language"
+msgstr "自动选择语言"
+
+msgid "Enable this if you want to automatically detect and set the right language for each user."
+msgstr "启用它, 如果您想自动检测并为每个用户设置正确的语言."
+
+msgid "Language chooser"
+msgstr "语言选择器"
+
+msgid "Enable this if you want to allow language selection."
+msgstr "启用这个如果您想允许用户选择语言."
+
+msgid "Enabled languages"
+msgstr "启用语言"
+
+msgid "Only checked languages will be used in your website."
+msgstr "你的网站将仅使用选中的语言。"
+
+msgid "List items per page"
+msgstr "每页列表项目"
+
+msgid "How many items should be displayed per page listing."
+msgstr "每页显示多少项目"
+
+msgid "List pagination mode"
+msgstr "列表分页模式"
+
+msgid "Endless scrolling"
+msgstr "瀑布流模式"
+
+msgid "Classic pagination"
+msgstr "经典分页模式"
+
+msgid "What pagination method should be used."
+msgstr "应该用什么分页模式."
+
+msgid "Listing viewer"
+msgstr "列表预览"
+
+msgid "Enable this to use the listing viewer when clicking on an image."
+msgstr "启用之后，您在探索页面点击图片之后会有预览界面."
+
+msgid "Image listing size"
+msgstr "图片列表样式"
+
+msgid "Fluid"
+msgstr "自动"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Both methods use a fixed width but fluid method uses automatic heights."
+msgstr "首页图片列表样式. 这两种方法都使用固定宽度, 但“自动”的方法是使用自动图片的高度."
+
+msgid "%t listing requirement"
+msgstr "%t被列出最低所需图片数量"
+
+msgid "Sets the minimum content count needed to show %t in %s."
+msgstr "%s中%t被列出最低所需图片数量"
+
+msgid "Listing columns number"
+msgstr "页面显示列数"
+
+msgid "Here you can set how many columns are used based on each target device."
+msgstr "在这里您可以设置针对不同的设备显示多少列, 以优化各设备的显示体验."
+
+msgid "Phone"
+msgstr "手机"
+
+msgid "Phablet"
+msgstr "大屏手机"
+
+msgid "Tablet"
+msgstr "平板电脑"
+
+msgid "Laptop"
+msgstr "笔记本电脑"
+
+msgid "Desktop"
+msgstr "桌面台式电脑"
+
+msgid "Application"
+msgstr "应用程序"
+
+#, php-format
+msgid "%s id"
+msgstr "%s id"
+
+#, php-format
+msgid "%s secret"
+msgstr "%s secret"
+
+msgid "Vector"
+msgstr "矢量"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Text option uses the website name as logo."
+msgstr "文本选项使用网站名称作为logo。"
+
+msgid "Logo vector"
+msgstr "矢量logo"
+
+msgid "Vector version or your website logo in SVG format."
+msgstr "SVG格式的矢量版本Logo."
+
+msgid "Logo image"
+msgstr "Logo图像"
+
+msgid "Bitmap version or your website logo. PNG format is recommended."
+msgstr "PNG格式的位图版本Logo."
+
+msgid "Logo height"
+msgstr "Logo高度"
+
+msgid "No value"
+msgstr "没有值"
+
+msgid "Use this to set the logo height if needed."
+msgstr "启用此选项, 以设置标志的高度."
+
+msgid "Favicon image"
+msgstr "网站图标"
+
+msgid "Favicon image. Image must have same width and height."
+msgstr "网站图标. 所上传图像必须具有相同的宽度和高度."
+
+msgid "Page title"
+msgstr "页面标题"
+
+msgid "Page status"
+msgstr "页面状态"
+
+msgid "Active page"
+msgstr "活动页面"
+
+#, php-format
+msgid "Inactive page (%s)"
+msgstr "无效页面(%s)"
+
+msgid "Only active pages will be accessible."
+msgstr "只有活动页面可以访问."
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Terms of service"
+msgstr "服务条款"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Extra page"
+msgstr "额外页面"
+
+msgid "Internal page type"
+msgstr "内部页面类型"
+
+msgid "You can have multiple extra pages, but only one of the other special internal types."
+msgstr "您可以有多个额外页面，但只有一个内部页面类型。"
+
+msgid "Page visibility"
+msgstr "页面可见性"
+
+msgid "Visible page"
+msgstr "可见页面"
+
+msgid "Hidden page"
+msgstr "隐藏页面"
+
+msgid "Hidden pages won't be show in system menus, but anyone can access to it with the link."
+msgstr "隐藏页将不被显示在系统的菜单, 但任何人都可以通过链接访问它."
+
+msgid "Only alphanumerics, hyphens and forward slash"
+msgstr "只允许字母数字, 连接符和正斜杠."
+
+#, php-format
+msgid "A %f file relative to %s"
+msgstr "%f 文件相对于 %s"
+
+msgid "Meta keywords"
+msgstr "Meta元数据关键字"
+
+msgid "Meta description"
+msgstr "Meta元数据描述"
+
+msgid "Source code"
+msgstr "源代码"
+
+#, php-format
+msgid "No write permission in %s path you will need to add this file using an external editor."
+msgstr "在 %s 路径没有写入权限, 您将需要使用外部编辑器添加文件."
+
+#, php-format
+msgid "No write permission in %s you will need to edit the contents of this file using an external editor."
+msgstr "在 %s 没有写入权限, 您将需要使用外部编辑器添加内容."
+
+#, php-format
+msgid "Taken from: %s"
+msgstr "摘自: %s"
+
+msgid "Link URL"
+msgstr "链接网址"
+
+msgid "Link target attribute"
+msgstr "链接目标属性"
+
+#, php-format
+msgid "Select %s to open the page or link in a new window."
+msgstr "选择 %s 在新窗口中打开网页或链接."
+
+msgid "Link rel attribute"
+msgstr "链接rel属性"
+
+msgid "Only alphanumerics, hyphens and whitespaces"
+msgstr "只允许字母数字, 连接符和空格."
+
+#, php-format
+msgid "HTML %s attribute"
+msgstr "HTML %s 属性"
+
+msgid "Link icon"
+msgstr "链接图标"
+
+#, php-format
+msgid "Check the <a %s>icon reference</a> for the complete list of supported icons."
+msgstr "检查 <a %s>图标参考</a> 获得支持图标的完整列表."
+
+msgid "Sort order display"
+msgstr "排序顺序显示"
+
+msgid "Page sort order display for menus and listings. Use \"1\" for top priority."
+msgstr "菜单和列表页面排序顺序显示. 使用\"1\"为最优先的."
+
+#, php-format
+msgid "Do you really want to delete the page ID %s?"
+msgstr "你确定要删除页面ID %s吗？"
+
+msgid "Routing allows you to customize default route binds on the fly. Only alphanumeric, hyphen and underscore characters are allowed."
+msgstr "路径允许您自定义默认路径。只允许使用字母数字、连字符和下划线字符。"
+
+#, php-format
+msgid "%s routing"
+msgstr "%s 路由"
+
+#, php-format
+msgid "Routing for %s"
+msgstr "对于路径 %s"
+
+msgid "Root"
+msgstr "根"
+
+msgid "Determine which content to resolve on root route."
+msgstr "决定要在根路由上解析的内容。"
+
+#, php-format
+msgid "SEO %s URLs"
+msgstr "%s URL地址SEO优化"
+
+#, php-format
+msgid "Enable this if you want to use SEO %s URLs."
+msgstr "如果要使用%s地址SEO优化，请启用此选项。"
+
+msgid "Semantics allows you to define the nouns used for content to customize your content driven experience."
+msgstr "语义允许你定义用于内容的名词，以自定义你的的内容驱动体验。"
+
+msgid "Automatic updates check"
+msgstr "自动更新检查"
+
+msgid "When enabled the system will automatically check for new updates."
+msgstr "启用时, 系统将自动检查新更新."
+
+msgid "Display available updates notification"
+msgstr "显示可用的更新通知"
+
+msgid "Enable this to show a notice on top warning you about new available system updates."
+msgstr "启用此则显示一个通知, 提示您关于新的可用系统更新."
+
+msgid "Dump update query"
+msgstr "转储更新查询"
+
+msgid "Enable this if you want to dump the update query to run it manually."
+msgstr "如果你想转储更新命令并手动运行，请启用这个选项。"
+
+msgid "Maintenance"
+msgstr "维护模式"
+
+msgid "When enabled the website will show a maintenance message."
+msgstr "启用后，网站将显示一条维护消息。"
+
+msgid "Crypt salt"
+msgstr "Crypt salt 特殊码"
+
+msgid "This is the salt used to convert numeric ID to alphanumeric. It was generated on install."
+msgstr "此ID为系统的一个特殊码, 相当于V2.x的“__CHV_CRYPT_SALT__”值, 本设置仅在安装或升级时才用到, 一经使用请勿修改."
+
+msgid "Debug errors"
+msgstr "调试错误"
+
+msgid "Enable this if you want to debug errors."
+msgstr "如果想调试错误，请启用此选项。"
+
+msgid "Debug level"
+msgstr "调试级别"
+
+msgid "None"
+msgstr "无"
+
+msgid "Error log"
+msgstr "错误日志"
+
+msgid "Print errors without error log"
+msgstr "没有错误日志列出错误"
+
+msgid "Print and log errors"
+msgstr "列出错误日志"
+
+msgid "To configure the debug level check the %docs%."
+msgstr "要设置调试级别，请查看 %docs%。"
+
+msgid "Enable %service%"
+msgstr "启用 %service%"
+
+msgid "Enable this if you want to send debug messages to %xr%."
+msgstr "如果你想要将调试信息发送到 %xr%，请启用此功能。"
+
+#, php-format
+msgid "%s Host"
+msgstr "%s 主机"
+
+#, php-format
+msgid "%s Port"
+msgstr "%s 端口"
+
+#, php-format
+msgid "%s Key"
+msgstr "%s 密钥"
+
+#, php-format
+msgid "Default %s"
+msgstr "默认 %s"
+
+msgid "Image load max. filesize"
+msgstr "最大文件大小"
+
+msgid "Images greater than this size will show a button to load full resolution image."
+msgstr "图片大小大于该值时将显示一个按钮以加载原图图."
+
+msgid "Enable download button"
+msgstr "启用下载按钮"
+
+msgid "Enable this if you want to show the image download button."
+msgstr "启用此代表在图片页显示原图下载按钮."
+
+msgid "Enable right click on image"
+msgstr "启用右键点击图片"
+
+msgid "Enable this if you want to allow right click on image viewer page."
+msgstr "启用此则允许在图片页使用鼠标右键功能."
+
+msgid "Enable show Exif data"
+msgstr "启用显示Exif数据"
+
+msgid "Enable this if you want to show image Exif data."
+msgstr "如果您想要显示图像的Exif数据, 启用此项."
+
+#, php-format
+msgid "%s first tab"
+msgstr "%s 第一个选项卡"
+
+#, php-format
+msgid "Determine the first tab on %s page."
+msgstr "确定 %s 页上的第一个选项卡。"
+
+msgid "Enable social share"
+msgstr "启用社交网站分享"
+
+msgid "Enable this if you want to show social network buttons to share content."
+msgstr "启用此选项, 以启用社交网站分享功能."
+
+msgid "Enable embed codes (content)"
+msgstr "启用嵌入代码（内容）"
+
+msgid "Everybody"
+msgstr "任何人"
+
+msgid "Users only"
+msgstr "仅限用户"
+
+msgid "Enable this if you want to show embed codes for the content."
+msgstr "启用此选项, 以内容嵌入代码."
+
+msgid "Not safe content checkbox in uploader"
+msgstr "在上传时显示\"标记不安全内容\"复选框"
+
+msgid "Enable this if you want to show a checkbox to indicate not safe content upload."
+msgstr "如果您想在上传页面显示一个复选框来标记\"不安全的内容(NSFW)\"，请启用此功能。"
+
+msgid "Custom CSS code"
+msgstr "自定义CSS代码"
+
+msgid "Put your custom CSS code here. It will be placed as <style> just before the closing </head> tag."
+msgstr "把您的自定义CSS代码在这里. 它会被放在 <style> 标签 </head> 前的位置."
+
+msgid "Custom JS code"
+msgstr "自定义JS代码"
+
+msgid "Put your custom JS code here. It will be placed as <script> just before the closing </head> tag."
+msgstr "把您的自定义JS代码在这里. 它会被放在 <script> 标签 </head> 前的位置."
+
+#, php-format
+msgid "Do not use %s markup here. This is for plain JS code, not for HTML script tags. If you use script tags here you will break your website."
+msgstr "不要在这里使用 %s 标签。 这适用于纯JS代码，不适用于HTML脚本标签。 如果您在此处使用脚本标签，则会破坏您的网站。"
+
+msgid "Decode ID"
+msgstr "解码 ID"
+
+msgid "Encode ID"
+msgstr "编码 ID"
+
+msgid "Send test email"
+msgstr "发送测试邮件"
+
+#, php-format
+msgid "Use this to test how your emails are being delivered. We recommend you to use %s."
+msgstr "使用此来测试您的电子邮件是否已发送. 我们建议您使用 %s."
+
+msgid "Export a user"
+msgstr "导出用户(1个)"
+
+msgid "Export user"
+msgstr "导出"
+
+msgid "This will allow you to download a user's standard personal information in JSON format."
+msgstr "这将让用户信息保存到 .Json 格式的文件中并下载"
+
+msgid "Regenerate external storage stats"
+msgstr "重新生成外部存储统计信息"
+
+msgid "Storage id"
+msgstr "存储 id"
+
+msgid "Regenerate"
+msgstr "重建"
+
+msgid "This will re-calculate the sum of all the image records associated to the target external storage."
+msgstr "这将重新计算与目标外部存储相关联的所有图像记录的总和。"
+
+msgid "Migrate external storage records"
+msgstr "迁移外部存储记录"
+
+msgid "Source storage id"
+msgstr "源存储 id"
+
+msgid "Target storage id"
+msgstr "目标存储 id"
+
+msgid "Migrate"
+msgstr "迁移"
+
+msgid "This only updates the database. You must transfer the actual files to target storage container on your own. URL rewriting is strongly recommended. Use zero (0) for local storage."
+msgstr "这只会更新数据库。 您必须自己将实际文件传输到目标存储容器。 强烈建议进行URL重写。 使用零（0）进行本地存储。"
+
+msgid "Additional settings"
+msgstr "其他设置"
+
+msgid "Plugin route"
+msgstr "上传插件"
+
+#, php-format
+msgid "Enable this to display plugin instructions at %u. A link to these instructions will be added to the %s menu."
+msgstr "启用它以在 %u 显示插件说明。这些说明的链接将添加到 %s 菜单。"
+
+msgid "Use this to set a custom URL for %p. Please note that you need to manually replicate %s in this URL."
+msgstr "使用它来设置%p的自定义URL。请注意，您需要手动复制此URL中的%s。"
+
+msgid "Enable signups"
+msgstr "开放注册"
+
+msgid "Enable this if you want to allow users to signup."
+msgstr "启用它代表您允许用户自行注册账号."
+
+msgid "Enable user content delete"
+msgstr "用户内容删除"
+
+msgid "Enable this if you want to allow users to delete their own content."
+msgstr "如果要允许用户删除自己的内容，请启用此项。"
+
+msgid "Minimum age required"
+msgstr "最低年龄要求"
+
+msgid "Leave it empty to don't require a minimum age to use the website."
+msgstr "留空则表示不设置最低年龄, 对所有年龄都有效."
+
+msgid "Notify on user signup"
+msgstr "用户注册通知"
+
+msgid "Enable this if you want to get an email notification for each new user signup."
+msgstr "启用之后，如果有人注册就会给您发送邮件通知."
+
+msgid "Require email confirmation"
+msgstr "需要电子邮件确认"
+
+msgid "Enable this if users must validate their email address on sign up."
+msgstr "启用此选项, 用户必须验证注册电子邮件地址."
+
+msgid "Require email for social signup"
+msgstr "需要电子邮件社交注册"
+
+msgid "Enable this if users using social networks to register must provide an email address."
+msgstr "启用此选项, 使用社交网络注册的用户必须提供一个电子邮件地址."
+
+msgid "User avatar max. filesize"
+msgstr "最大的用户头像大小"
+
+#, php-format
+msgid "Max. allowed filesize for user avatar image. (Max allowed by server is %s)"
+msgstr "最大允许用户头像的文件大小.（由服务器最大允许 %s）"
+
+msgid "User background max. filesize"
+msgstr "最大的背景图片大小"
+
+#, php-format
+msgid "Max. allowed filesize for user background image. (Max allowed by server is %s)"
+msgstr "最大允许背景图片的文件大小.（由服务器最大允许 %s）"
+
+msgid "Enable this to put a logo or anything you want in image uploads."
+msgstr "启用它, 把您想要一个水印添加到任何上传的图像（仅对启用后的上传有效）."
+
+msgid "Watermark user toggles"
+msgstr "水印用户切换"
+
+msgid "Enable watermark on guest uploads"
+msgstr "启用访客上传水印"
+
+msgid "Enable watermark on user uploads"
+msgstr "启用用户上传水印"
+
+msgid "Enable watermark on admin uploads"
+msgstr "启用管理员上传水印"
+
+msgid "Watermark file toggles"
+msgstr "水印文件切换"
+
+msgid "Enable watermark on GIF image uploads"
+msgstr "启用GIF图片上传水印"
+
+msgid "Animated images won't be watermarked."
+msgstr "动图不会添加水印。"
+
+msgid "Minimum image size needed to apply watermark"
+msgstr "应用水印需要最小图像尺寸"
+
+msgid "Images smaller than this won't be watermarked. Use zero (0) to don't set a minimum image size limit."
+msgstr "小于这个像素比的图像不会被加上水印. 使用零(0),则不设置最低图像大小限制."
+
+msgid "Watermark image"
+msgstr "水印图像"
+
+#, php-format
+msgid "Max size %s."
+msgstr "大小上限 %s"
+
+msgid "Watermark position"
+msgstr "水印位置"
+
+msgid "left top"
+msgstr "左上"
+
+msgid "left center"
+msgstr "左中"
+
+msgid "left bottom"
+msgstr "左下"
+
+msgid "center top"
+msgstr "中上"
+
+msgid "center center"
+msgstr "居中"
+
+msgid "center bottom"
+msgstr "中下"
+
+msgid "right top"
+msgstr "右上"
+
+msgid "right center"
+msgstr "右中"
+
+msgid "right bottom"
+msgstr "右下"
+
+msgid "Relative position of the watermark image. First horizontal align then vertical align."
+msgstr "水印图像的相对位置. 首先水平对齐, 然后垂直对齐."
+
+msgid "Watermark percentage"
+msgstr "水印占图像比例"
+
+msgid "Watermark percentual size relative to the target image area. Values 1 to 100."
+msgstr "水印占对象图像的百分比. 值1到100."
+
+msgid "Watermark margin"
+msgstr "水印填充边距"
+
+msgid "Margin from the border of the image to the watermark image."
+msgstr "水印填充边距大小, 从水印图像边框开始计算."
+
+msgid "Watermark opacity"
+msgstr "水印透明度"
+
+msgid "Opacity of the watermark in the final watermarked image. Values 0 to 100."
+msgstr "水印的不透明度设置, 值由0到100."
+
+msgid "Website name"
+msgstr "网站名称"
+
+msgid "Website doctitle"
+msgstr "网站标题"
+
+msgid "Website description"
+msgstr "网站描述"
+
+msgid "Default time zone"
+msgstr "默认时区"
+
+msgid "Select region"
+msgstr "选择区域"
+
+msgid "Allows to search images, albums and users based on a given search query."
+msgstr "可以按特定的内容查询图片, 相册, 和用户."
+
+msgid "search"
+msgstr "搜索"
+
+#, php-format
+msgid "Enables %s for guests."
+msgstr "为访客启用 %s。"
+
+msgid "Enables to browse public uploaded images. It also enables categories."
+msgstr "启用探索图库功能, 允许查看所有用户上传的图片（不含私隐）,并可以按分类查看."
+
+msgid "Enables to browse images randomly."
+msgstr "启用随机浏览图片."
+
+msgid "random"
+msgstr "随机"
+
+#, php-format
+msgid "Enable this if you want to show a \"%s\" link at the footer."
+msgstr "如果你想在页脚处显示 “%s” 链接，请启用此选项。"
+
+msgid "Likes"
+msgstr "喜欢"
+
+msgid "Allows users to like content and populate \"Most liked\" listings."
+msgstr "允许用户使用喜欢LIKE功能, 并显示用户已喜欢列表."
+
+msgid "Followers allows users to follow each other."
+msgstr "关注者允许用户互相关注."
+
+msgid "Website mode"
+msgstr "网站模式"
+
+msgid "Multi-user"
+msgstr "多用户"
+
+msgid "You can switch the website mode anytime."
+msgstr "您可以随时切换网站模式。"
+
+msgid "%s target %t"
+msgstr "%s 目标 %t"
+
+msgid "Numeric ID of the target %t for %s mode."
+msgstr "%s 模式的目标 %t 的数字ID。"
+
+msgid "Custom route to map /username to /something. Use \"/\" to map to homepage."
+msgstr "定制的链接格式  /username 到 /something. 使用 “/” 映射到主页。"
+
+msgid "Website privacy mode"
+msgstr "网站的隐私模式"
+
+msgid "Private mode will make the website only available for registered users."
+msgstr "启用私密模式后仅对注册用户开放使用."
+
+msgid "Content privacy mode"
+msgstr "隐私模式"
+
+msgid "Force private (self)"
+msgstr "全局隐私（只有用户本人可见）"
+
+msgid "Force private (anyone with the link)"
+msgstr "全局隐私（所有人通过链接可见）"
+
+msgid "Forced privacy modes will override user selected privacy."
+msgstr "全局隐私模式将覆盖用户选择的隐私."
+
+#, php-format
+msgid "Hello and welcome, %s"
+msgstr "您好，欢迎您，%s"
+
+msgid "Whether you're an individual creator or a company looking for a powerful media sharing platform, Chevereto has you covered."
+msgstr "无论您是个人创作者还是正在寻找强大媒体共享平台的公司，Chevereto 都能满足您的需求。"
+
+msgid "share your feedback"
+msgstr "分享您的反馈意见"
+
+#, php-format
+msgid "We're always looking for ways to improve, feel free to %s and suggestions."
+msgstr "我们一直在寻找改进的方法，请随时提出 %s 和建议。"
+
+msgid "We are available for all your support and customization needs."
+msgstr "我们可以满足您的所有支持和定制需求。"
+
+msgid "Thank you for choosing Chevereto."
+msgstr "感谢您选择 Chevereto。"
+
+msgid "Chevereto creator"
+msgstr "Chevereto 作者"
+
+#, php-format
+msgid "Provide Chevereto license key by assigning the environment variable %e or by creating the %f file containing the license key."
+msgstr "通过指定环境变量 %e 或创建包含许可证密钥的 %f 文件来提供 Chevereto 许可证密钥。"
+
+msgid "You can also set the license key in the textarea below."
+msgstr "您也可以在下面的文本框中设置许可证密钥。"
+
+msgid "Chevereto license key"
+msgstr "Chevereto 许可证密钥"
+
+msgid "PASTE LICENSE KEY HERE"
+msgstr "将许可证密钥粘贴在此处"
+
+msgid "If the detected IP doesn't match yours it means that your web server is under a proxy. The connecting IP can be set using the HTTP header defined in the environment variable %e and when not set it fall-back to %v."
+msgstr "如果检测到的 IP 与你实际 IP 不符，这意味着你的 Web 服务器正处于代理下。连接 IP 可以使用环境变量 %e 中定义的 HTTP 标头来设置，如果未设置，则会回退到 %v。"
+
+msgid "Make sure that you address this issue as the system relies on accurate IP detections to provide basic functionalities and to protect against spam, flooding, and brute force attacks."
+msgstr "请确保解决此问题，因为系统依靠准确的IP检测来提供基本功能，并能防止垃圾邮件、洪水攻击和暴力破解攻击。"
+
+msgid "Disk"
+msgstr "磁盘"
+
+#, php-format
+msgid "%s News"
+msgstr "%s 新闻"
+
+#, php-format
+msgid "%s edition"
+msgstr "%s 版本"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Email address"
+msgstr "Email地址"
+
+#, php-format
+msgid "Play %s"
+msgstr "播放 %s"
+
+msgid "Load 360° view"
+msgstr "加载 360° 视图"
+
+#, php-format
+msgid "%s image"
+msgstr "%s 图片"
+
+msgid "Do you really want to approve this image? The image will go public if you approve it."
+msgstr "您真的要删除所有选定的内容吗？这是无法撤消的。"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Cover"
+msgstr "封面"
+
+msgid "This is the album cover"
+msgstr "这是相册的封面"
+
+msgid "Added to %a under %s %t"
+msgstr "在相册 %a 中并%t为 %s"
+
+#, php-format
+msgid "Added to %s"
+msgstr "加入 %s"
+
+#, php-format
+msgid "Uploaded to %s"
+msgstr "上传到 %s"
+
+#, php-format
+msgid "Uploaded %s"
+msgstr "已上传 %s"
+
+#, php-format
+msgid "This content will be removed on %s"
+msgstr "此內容将于 %s 移除"
+
+msgid "No description provided."
+msgstr "未提供说明。"
+
+msgid "Less Exif data"
+msgstr "关闭详细Exif数据"
+
+msgid "More Exif data"
+msgstr "打开详细Exif数据"
+
+#, php-format
+msgid "%s ID"
+msgstr "%s ID"
+
+msgid "Add IP ban"
+msgstr "添加IP"
+
+msgid "Upload and share your media"
+msgstr "上传和分享您的媒体"
+
+msgid "Drag and drop anywhere to start uploading."
+msgstr "拖放到任意位置即可开始上传，"
+
+msgid "Get direct links, Markdown, BBCode and HTML thumbnails."
+msgstr "获取文件直链、Markdown、BBCode 和 HTML 缩略图。"
+
+msgid "Sign up to unlock all the features"
+msgstr "注册即可解锁并体验所有的功能"
+
+msgid "Manage your content, create private albums, customize your profile and more."
+msgstr "管理您的内容, 建立您的个人相册, 自定义您的个人资料, 展示您的个人主页和更多."
+
+msgid "Sign in with your account"
+msgstr "使用您的帐户登录"
+
+msgid "Don't have an account? %signup% now."
+msgstr "没有账户？现在 %signup% 。"
+
+msgid "Logged out"
+msgstr "注销"
+
+#, php-format
+msgid "You have been logged off %s. Hope to see you soon."
+msgstr "您已退出 %s , 希望很快再见到您."
+
+msgid "Website under maintenance"
+msgstr "网站正在维护中"
+
+msgid "We're performing scheduled maintenance tasks in the website. Please come back in a few minutes."
+msgstr "我们正在网站上执行定期维护任务。请过几分钟回来。"
+
+msgid "This content is password protected."
+msgstr "此内容已被密码保护."
+
+msgid "Please enter your password to continue."
+msgstr "请输入您的密码以继续浏览."
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Add media uploading and sharing to your website, blog or forum by installing our upload plugin."
+msgstr "安装我们的上传插件，为您的网站、博客或论坛添加媒体上传和共享功能。"
+
+msgid "It provides file uploading to any website by placing a button that will allow your users to directly upload to our service and it will automatically handle the codes needed for insertion."
+msgstr "它可将文件上传到任何网站，只需放置一个按钮，用户就可以直接将文件上传到我们的服务，它还会自动处理插入所需的代码。"
+
+msgid "All features included like drag and drop, remote upload, image resizing and more."
+msgstr "包括拖放、远程上传、调整图片大小等所有功能。"
+
+msgid "Supported software"
+msgstr "支持的项目"
+
+msgid "supported software"
+msgstr "支持的项目"
+
+#, php-format
+msgid "The plugin works in any website with user-editable content and for %sv, it will place an upload button that will match the target editor toolbar so no extra customization is needed."
+msgstr "该插件适用于具有用户可编辑内容的任何网站，对于%sv，它将放置一个与目标编辑器工具栏匹配的上传按钮，因此不需要额外的自定义。"
+
+msgid "Add it to your website"
+msgstr "将其添加到您的网站"
+
+msgid "options"
+msgstr "选项"
+
+#, php-format
+msgid "Copy and paste the plugin code into your website HTML code (preferably inside the head section). There are plenty %o to make it fit better to your needs."
+msgstr "将插件代码复制并粘贴到您的网站HTML代码中（最好在head内）。 这里有更多%o来使其更好的满足您的需求。"
+
+msgid "Basic options"
+msgstr "基本选项"
+
+msgid "Color palette"
+msgstr "调色板"
+
+msgid "Button color scheme"
+msgstr "按钮配色方案"
+
+msgid "Embed codes that will be auto-inserted in editor box"
+msgstr "嵌入代码将自动插入到编辑框中"
+
+msgid "Sibling selector"
+msgstr "Sibling选择器"
+
+msgid "Sibling element selector where to place the button next to"
+msgstr "Sibling元素选择器的旁边放置按钮"
+
+msgid "Sibling position"
+msgstr "Sibling顺序"
+
+msgid "After"
+msgstr "先"
+
+msgid "Before"
+msgstr "后"
+
+msgid "Position relative to sibling element"
+msgstr "相对于sibling元素的位置"
+
+msgid "Advanced options"
+msgstr "高级选项"
+
+#, php-format
+msgid "The plugin has a large set of additional options that allow full customization. You can use custom HTML, CSS, own color palette, set observers and more. Check the %d and the plugin source to get a better idea of these advanced options."
+msgstr "该插件具有大量附加选项，允许完全自定义。 您可以使用自定义HTML，CSS，自己的调色板，设置监控服务等。 查找%d和插件源以更好地了解这些高级选项。"
+
+msgid "Valid"
+msgstr "有效的"
+
+msgid "Banned"
+msgstr "禁止"
+
+msgid "Awaiting email"
+msgstr "等待设置电子邮件"
+
+msgid "%i to %f characters<br>Letters, numbers and \"_\""
+msgstr "%i 到 %f 个字符<br>字母, 数字 和 \"_\" 符号"
+
+msgid "Auto delete uploads"
+msgstr "自动删除上传内容"
+
+msgid "This setting will apply to all your file uploads by default. You can override this setting on each upload."
+msgstr "此设置默认适用于所有文件上传。您可以在每次上传时覆盖此设置。"
+
+#, php-format
+msgid "Keep image <a %s>Exif data</a> on upload"
+msgstr "在上传时, 保留图像的<a %s>Exif数据</a>"
+
+msgid "Newsletter"
+msgstr "新闻稿"
+
+#, php-format
+msgid "Send me emails with news about %s"
+msgstr "与 %s 的消息的电子邮件发送给我"
+
+msgid "Content settings"
+msgstr "内容设置"
+
+msgid "Show not safe content in listings (from others)"
+msgstr "在列表中显示不安全内容(来自其他人) "
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Timezone"
+msgstr "时区"
+
+#, php-format
+msgid "%s key"
+msgstr "%s key"
+
+#, php-format
+msgid "Store the %s in a secure location as it will be shown just once."
+msgstr "将 %s 保存在安全位置，因为它只显示一次。"
+
+#, php-format
+msgid "Are you sure that you want to revoke the existing %s?"
+msgstr "您确定要撤销现有的 %s 吗？"
+
+msgid "Regen key"
+msgstr "重新生成密钥"
+
+msgid "User has no connections."
+msgstr "用户没有连接."
+
+msgid "Link your account to external login providers to be able to login here."
+msgstr "将您的帐户链接到外部登录提供商以便能够在此处登录。"
+
+#, php-format
+msgid "Do you really want to disconnect %s from this account?"
+msgstr "您真的想从这个帐户断开 %s 吗？"
+
+#, php-format
+msgid "This account is connected to %s"
+msgstr "此帐户连接到 %s"
+
+#, php-format
+msgid "Do you really want to disconnect your %s account?"
+msgstr "您真的要断开您的 %s 帐户?"
+
+#, php-format
+msgid "You will be logged out and you won't be able to login to your account using this %s account."
+msgstr "您将被注销, 而您将无法使用此 %s 的帐户登录到您的帐户."
+
+#, php-format
+msgid "Connected to %s"
+msgstr "连接到 %s"
+
+msgid "Logged in"
+msgstr "登录"
+
+msgid "Connect %label%"
+msgstr "连接 %label%"
+
+msgid "Button"
+msgstr "按钮"
+
+msgid "Current password"
+msgstr "当前的密码"
+
+msgid "Enter your current password"
+msgstr "请输入您当前的密码"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Confirm new password"
+msgstr "请输入新的密码"
+
+msgid "Add a password to be able to login using your username or email."
+msgstr "添加一个密码才能使用您的用户名或电子邮件地址登录."
+
+msgid "This user doesn't have a password. Add one using this form."
+msgstr "这个用户没有输入密码. 新增一个使用这种形式."
+
+msgid "Enter your password"
+msgstr "请输入您的密码"
+
+msgid "Confirm password"
+msgstr "请再次输入新密码确认"
+
+msgid "Re-enter your password"
+msgstr "请再次输入您的密码"
+
+msgid "This service is based on Chevereto hosted edition."
+msgstr "此服务基于 Chevereto 托管版."
+
+msgid "Usage of this service must be in compliance with the Chevereto Software Terms of Service."
+msgstr "使用此服务必须遵守 Chevereto 软件服务条款."
+
+msgid "This instance is hosted in a service layer provided by Chevereto Software, which hereby declare not being responsible for the use of this service neither the damages that this service may cause."
+msgstr "本实例托管在 Chevereto Software 提供的服务层中,在此声明不对使用该服务或因该服务可能造成的损害负责。"
+
+msgid "This service is based on Chevereto self-hosted edition."
+msgstr "此服务基于 Chevereto 自托管版本."
+
+msgid "This instance is hosted in a service layer not provided by Chevereto Software, which hereby declare to do not have any control nor access to the management layer of this instance and it won't be responsible for this service neither the damages that this service may cause."
+msgstr "本实例托管在非Chevereto Software提供的服务层,在此声明对本实例的管理层没有任何控制权和访问权,不对本服务负责,也不对该服务可能造成的损害负责."
+
+msgid "Upload avatar"
+msgstr "上传头像"
+
+msgid "Make my profile and identity totally private"
+msgstr "让我的个人资料和身份仅自己可见"
+
+msgid "Enable this if you want to act like an anonymous user"
+msgstr "如果您想把自己变成像匿名用户请启用它"
+
+msgid "This is your real name, not your username."
+msgstr "这是您的个性昵称. 不是您的用户名."
+
+msgid "Bio"
+msgstr "个人介绍"
+
+msgid "Tell us a little bit about you"
+msgstr "告诉我们一点关于您的信息"
+
+msgid "Two-factor authentication is enabled."
+msgstr "二次身份验证(2FA)已启用。"
+
+msgid "Do you really want to disable two-factor authentication?"
+msgstr "您真的要禁用二次身份验证(2FA)吗？"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Scan the QR code below with an authenticator application and enter the code displayed."
+msgstr "使用验证器应用程序扫描下面的二维码,然后输入显示的代码."
+
+msgid "Login"
+msgstr "登录"
+
+#, php-format
+msgid "Already have an account? %s now."
+msgstr "已经有账户了？现在 %s。"
+
+msgid "resend account activation"
+msgstr "重新激活帐户"
+
+#, php-format
+msgid "If you have already signed up maybe you need to request to %s to activate your account."
+msgstr "如果您已经注册，您可能需要请求 %s 来激活您的帐户。"
+
+#, php-format
+msgid "I'm at least %s years old"
+msgstr "我已年满 %s 周岁"
+
+msgid "Upload profile background"
+msgstr "上传背景图片"
+
+msgid "Change background"
+msgstr "更新背景图片"
+
+msgid "Upload new image"
+msgstr "上传新的图片"
+
+msgid "Are you sure that you want to delete the profile background image?"
+msgstr "你确定要删除个人资料的背景图片吗？"
+
+msgid "Delete background"
+msgstr "删除背景图片"
+
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "粉丝"
+
+msgid "Follow"
+msgstr "关注"
+
+#, php-format
+msgid "Set: %s"
+msgstr "设置： %s"
+
+msgid "Ban"
+msgstr "封禁"
+
+msgid "General questions/comments"
+msgstr "一般问题/意见"
+
+msgid "DMCA complaint"
+msgstr "DMCA（数字千年版权）投诉"
+
+msgid "Invalid message"
+msgstr "无效的消息"
+
+msgid "Invalid subject"
+msgstr "无效的主题"
+
+msgid "Message sent"
+msgstr "发送消息"
+
+msgid "Message sent. We will get in contact soon."
+msgstr "消息已发送. 我们将很快和您取得了联系."
+
+msgid "If you want to send a message fill the form below."
+msgstr "如果您想发送一个消息, 请填写下面表格."
+
+msgid "Your name"
+msgstr "您的名字"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Send"
+msgstr "发送"
+
