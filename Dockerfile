@@ -30,9 +30,13 @@ COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 WORKDIR /var/www/html
 
-# Copy all files (owned by root)
-COPY . /var/www/html
+# Create Chevereto directories and set ownership
+RUN mkdir -p images content app/content \
+    && chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html
 
-# Ensure upload directories are writable by PHP-FPM
-RUN chown -R www-data:www-data images content \
-    && chmod -R 755 images content
+COPY --chown=www-data:www-data . /var/www/html
+
+EXPOSE 80
+
+CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
