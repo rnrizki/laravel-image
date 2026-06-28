@@ -1,9 +1,17 @@
 FROM php:8.2-fpm-alpine
 
+# Runtime dependencies
 RUN apk add --no-cache \
     nginx \
     supervisor \
     curl \
+    imagemagick \
+    libzip
+
+# Build and install PHP extensions
+RUN apk add --no-cache --virtual .build-deps \
+    $PHPIZE_DEPS \
+    libtool \
     freetype-dev \
     libjpeg-turbo-dev \
     libpng-dev \
@@ -16,7 +24,8 @@ RUN apk add --no-cache \
     && docker-php-ext-install -j$(nproc) gd mysqli pdo pdo_mysql exif zip \
     && pecl install imagick \
     && docker-php-ext-enable imagick \
-    && rm -rf /tmp/pear
+    && apk del .build-deps \
+    && rm -rf /tmp/* /var/cache/apk/*
 
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
