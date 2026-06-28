@@ -5,7 +5,15 @@ RUN apk add --no-cache \
     supervisor \
     curl \
     imagemagick \
-    libzip
+    libzip \
+    freetype \
+    libjpeg-turbo \
+    libpng \
+    libwebp \
+    libxpm \
+    imap-dev \
+    krb5-dev \
+    openssl-dev
 
 RUN apk add --no-cache --virtual .build-deps \
     $PHPIZE_DEPS \
@@ -19,9 +27,9 @@ RUN apk add --no-cache --virtual .build-deps \
     imagemagick-dev \
     libzip-dev \
     && docker-php-ext-configure gd --with-freetype --with-jpeg --with-webp --with-xpm \
-    && docker-php-ext-install -j$(nproc) gd mysqli pdo pdo_mysql exif zip \
+    && docker-php-ext-install -j$(nproc) gd imap mysqli pdo pdo_mysql exif zip \
     && pecl install imagick \
-    && docker-php-ext-enable imagick \
+    && docker-php-ext-enable gd imap imagick \
     && apk del .build-deps \
     && rm -rf /tmp/* /var/cache/apk/*
 
