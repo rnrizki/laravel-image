@@ -1,6 +1,5 @@
 FROM php:8.2-fpm-alpine
 
-# Runtime dependencies
 RUN apk add --no-cache \
     nginx \
     supervisor \
@@ -8,7 +7,6 @@ RUN apk add --no-cache \
     imagemagick \
     libzip
 
-# Build and install PHP extensions
 RUN apk add --no-cache --virtual .build-deps \
     $PHPIZE_DEPS \
     libtool \
@@ -31,8 +29,10 @@ COPY nginx.conf /etc/nginx/nginx.conf
 COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 WORKDIR /var/www/html
+
+# Copy all files (owned by root)
 COPY . /var/www/html
 
-EXPOSE 80
-
-CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
+# Ensure upload directories are writable by PHP-FPM
+RUN chown -R www-data:www-data images content \
+    && chmod -R 755 images content
